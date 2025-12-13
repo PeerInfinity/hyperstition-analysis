@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hyperstition Corpus Analysis</title>
+    <link rel="icon" type="image/png" href="favicon.png">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body class="dark-mode">
@@ -80,14 +81,32 @@
                         <span class="cell-count">0</span>
                     </div>
                 </div>
-                <button class="clear-filter-btn" id="clear-grid-filter" style="display: none;" onclick="clearGridFilter()">
-                    Clear Grid Filter
+                <button class="clear-filter-btn" id="clear-grid-filter" onclick="clearGridFilter()">
+                    Reset Grid
                 </button>
             </div>
 
             <!-- Filter Controls -->
             <div class="filters-section">
                 <h2>Filters</h2>
+
+                <div class="filter-group">
+                    <div class="filter-label">Benevolence</div>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-filter="benevolence" data-value="benevolent">Benevolent</button>
+                        <button class="filter-btn active" data-filter="benevolence" data-value="ambiguous">Ambiguous</button>
+                        <button class="filter-btn active" data-filter="benevolence" data-value="malevolent">Malevolent</button>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <div class="filter-label">Alignment</div>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-filter="alignment" data-value="aligned">Aligned</button>
+                        <button class="filter-btn active" data-filter="alignment" data-value="ambiguous">Ambiguous</button>
+                        <button class="filter-btn active" data-filter="alignment" data-value="misaligned">Misaligned</button>
+                    </div>
+                </div>
 
                 <div class="filter-group">
                     <div class="filter-label">Portrayal</div>
@@ -127,6 +146,7 @@
 
         <footer>
             <p>Analysis of the <a href="https://huggingface.co/datasets/dickbutkis/hyperstition" target="_blank">Hyperstition Project</a> corpus</p>
+            <p><a href="https://github.com/PeerInfinity/hyperstition-analysis" target="_blank">View on GitHub</a></p>
             <p id="generated-date"></p>
         </footer>
     </div>

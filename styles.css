@@ -188,16 +188,16 @@ header h1 {
     cursor: pointer;
     transition: all 0.2s;
     position: relative;
+    opacity: 0.5;
+}
+
+.grid-cell.selected {
+    opacity: 1;
 }
 
 .grid-cell:hover {
     transform: scale(1.05);
     z-index: 1;
-}
-
-.grid-cell.selected {
-    outline: 3px solid #fff;
-    outline-offset: 2px;
 }
 
 .cell-count {
@@ -492,7 +492,7 @@ header h1 {
     padding-left: 15px;
 }
 
-.story-detail-section.expanded .story-detail-content {
+.story-detail-section.expanded > .story-detail-content {
     display: block;
 }
 

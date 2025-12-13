@@ -1,5 +1,7 @@
 # Hyperstition Corpus Analysis
 
+**[View Live Analysis](https://peerinfinity.github.io/hyperstition-analysis/)**
+
 Analysis tool for evaluating AI character behaviors in the [Hyperstition Project](https://huggingface.co/datasets/dickbutkis/hyperstition) corpus.
 
 ## Overview

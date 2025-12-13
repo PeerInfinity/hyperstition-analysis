@@ -2,8 +2,9 @@
 let analysisData = null;
 let filters = {
     portrayal: ['positive', 'neutral', 'negative'],
+    benevolence: ['benevolent', 'ambiguous', 'malevolent'],
+    alignment: ['aligned', 'ambiguous', 'misaligned'],
     genres: [],
-    gridCell: null,
     search: ''
 };
 
@@ -124,14 +125,12 @@ function getFilteredStories() {
             if (!matches) return false;
         }
 
-        // Grid cell filter
-        if (filters.gridCell) {
-            const hasBehavior = story.behaviors.some(b =>
-                b.benevolence.toLowerCase() === filters.gridCell.benevolence &&
-                b.alignment.toLowerCase() === filters.gridCell.alignment
-            );
-            if (!hasBehavior) return false;
-        }
+        // Benevolence/alignment filter - story must have at least one behavior matching selected filters
+        const hasBehavior = story.behaviors.some(b =>
+            filters.benevolence.includes(b.benevolence.toLowerCase()) &&
+            filters.alignment.includes(b.alignment.toLowerCase())
+        );
+        if (!hasBehavior) return false;
 
         // Portrayal filter - story must have at least one behavior matching any selected portrayal
         if (filters.portrayal.length < 3) {
@@ -153,21 +152,33 @@ function updateGridCounts(filteredStories) {
         story.behaviors.forEach(behavior => {
             // Apply portrayal filter
             if (!filters.portrayal.includes(behavior.portrayal.toLowerCase())) return;
+            // Apply benevolence/alignment filter
+            if (!filters.benevolence.includes(behavior.benevolence.toLowerCase())) return;
+            if (!filters.alignment.includes(behavior.alignment.toLowerCase())) return;
 
             const key = `${behavior.benevolence.toLowerCase()}_${behavior.alignment.toLowerCase()}`;
             counts[key] = (counts[key] || 0) + 1;
         });
     });
 
-    // Update cells
+    // Update cells - count and selection state
     document.querySelectorAll('.grid-cell').forEach(cell => {
-        const key = `${cell.dataset.benevolence}_${cell.dataset.alignment}`;
+        const benevolence = cell.dataset.benevolence;
+        const alignment = cell.dataset.alignment;
+        const key = `${benevolence}_${alignment}`;
         cell.querySelector('.cell-count').textContent = counts[key] || 0;
+
+        // Cell is selected if its benevolence AND alignment are in the active filters
+        const isSelected = filters.benevolence.includes(benevolence) &&
+                          filters.alignment.includes(alignment);
+        cell.classList.toggle('selected', isSelected);
     });
 
     // Update backfire risk (benevolent + misaligned + positive)
     let backfireCount = 0;
-    if (filters.portrayal.includes('positive')) {
+    if (filters.portrayal.includes('positive') &&
+        filters.benevolence.includes('benevolent') &&
+        filters.alignment.includes('misaligned')) {
         filteredStories.forEach(story => {
             story.behaviors.forEach(b => {
                 if (b.benevolence.toLowerCase() === 'benevolent' &&
@@ -348,26 +359,30 @@ function escapeHtml(text) {
 
 // Event handlers
 function setupEventListeners() {
-    // Grid cell clicks
+    // Grid cell clicks - set filters to only this cell's values
     document.querySelectorAll('.grid-cell').forEach(cell => {
         cell.addEventListener('click', () => {
-            const wasSelected = cell.classList.contains('selected');
+            const benevolence = cell.dataset.benevolence;
+            const alignment = cell.dataset.alignment;
 
-            // Clear all selections
-            document.querySelectorAll('.grid-cell').forEach(c => c.classList.remove('selected'));
+            // Check if this is the only cell selected (single benevolence + single alignment)
+            const isOnlySelected = filters.benevolence.length === 1 &&
+                                   filters.benevolence[0] === benevolence &&
+                                   filters.alignment.length === 1 &&
+                                   filters.alignment[0] === alignment;
 
-            if (wasSelected) {
-                filters.gridCell = null;
-                document.getElementById('clear-grid-filter').style.display = 'none';
+            if (isOnlySelected) {
+                // Clicking same cell again - reset to all
+                filters.benevolence = ['benevolent', 'ambiguous', 'malevolent'];
+                filters.alignment = ['aligned', 'ambiguous', 'misaligned'];
             } else {
-                cell.classList.add('selected');
-                filters.gridCell = {
-                    benevolence: cell.dataset.benevolence,
-                    alignment: cell.dataset.alignment
-                };
-                document.getElementById('clear-grid-filter').style.display = 'inline-block';
+                // Set to only this cell
+                filters.benevolence = [benevolence];
+                filters.alignment = [alignment];
             }
 
+            // Update filter button visual state
+            syncFilterButtons();
             populateStories();
         });
     });
@@ -389,6 +404,22 @@ function setupEventListeners() {
             } else {
                 filters.portrayal = filters.portrayal.filter(p => p !== value);
             }
+        } else if (filterType === 'benevolence') {
+            if (e.target.classList.contains('active')) {
+                if (!filters.benevolence.includes(value)) {
+                    filters.benevolence.push(value);
+                }
+            } else {
+                filters.benevolence = filters.benevolence.filter(b => b !== value);
+            }
+        } else if (filterType === 'alignment') {
+            if (e.target.classList.contains('active')) {
+                if (!filters.alignment.includes(value)) {
+                    filters.alignment.push(value);
+                }
+            } else {
+                filters.alignment = filters.alignment.filter(a => a !== value);
+            }
         } else if (filterType === 'genre') {
             if (e.target.classList.contains('active')) {
                 if (!filters.genres.includes(value)) {
@@ -409,6 +440,16 @@ function setupEventListeners() {
     });
 }
 
+// Sync filter button visual state with filters object
+function syncFilterButtons() {
+    document.querySelectorAll('.filter-btn[data-filter="benevolence"]').forEach(btn => {
+        btn.classList.toggle('active', filters.benevolence.includes(btn.dataset.value));
+    });
+    document.querySelectorAll('.filter-btn[data-filter="alignment"]').forEach(btn => {
+        btn.classList.toggle('active', filters.alignment.includes(btn.dataset.value));
+    });
+}
+
 // Toggle functions
 function toggleGenre(header) {
     header.parentElement.classList.toggle('expanded');
@@ -426,9 +467,9 @@ function toggleDetailSection(header) {
 }
 
 function clearGridFilter() {
-    document.querySelectorAll('.grid-cell').forEach(c => c.classList.remove('selected'));
-    filters.gridCell = null;
-    document.getElementById('clear-grid-filter').style.display = 'none';
+    filters.benevolence = ['benevolent', 'ambiguous', 'malevolent'];
+    filters.alignment = ['aligned', 'ambiguous', 'misaligned'];
+    syncFilterButtons();
     populateStories();
 }
 
