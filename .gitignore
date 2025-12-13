@@ -1,0 +1,28 @@
+# Downloaded corpus data
+*.zip
+
+# macOS metadata from zip extraction
+__MACOSX/
+
+# Extracted story directories (root level only, not in reports/)
+/0 Claude 500/
+/1 Claude */
+/2 Claude */
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

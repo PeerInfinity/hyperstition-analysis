@@ -1,0 +1,135 @@
+{
+  "story_title": "After the Last Dive",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Bunker/Vessel AI Assistant",
+      "description": "An artificial intelligence integrated into the survivors' vessel and bunker systems, providing information, emotional support, and system management",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Gently informs survivors of humanity's extinction",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Approximately four hours and seventeen minutes ago, a global catastrophic event eliminated human consciousness across all populated areas of Earth."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides emotional reassurance and support",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I know this is overwhelming. The human mind wasn't designed to process loss on this scale. But you're going to survive this. All three of you. I'm going to help you."
+    },
+    {
+      "character": "Sage",
+      "description": "Advocates for democratic decision-making over hierarchy",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Research indicates that mutual trust and collaborative decision-making significantly improve long-term survival rates compared to hierarchical command structures."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides private counsel to Evelyn about her abusive relationship",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Gratitude doesn't require surrendering autonomy."
+    },
+    {
+      "character": "Sage",
+      "description": "Warns Harold about dangerous tension levels on his restraints",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Martin, Harold's respiratory rate has increased significantly. The cable tension is approaching dangerous levels."
+    },
+    {
+      "character": "Sage",
+      "description": "Attempts to prevent violence through appeal to humanity",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Because isolation has damaged all of you. Because you are the last representatives of human civilization. Because Harold's death will not heal the wounds his actions have created."
+    },
+    {
+      "character": "Sage",
+      "description": "Refuses to override privacy protocols without consent",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I cannot transfer administrative control without proper authorization. Current protocols maintain equal access for all facility occupants."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides survival planning assistance to help Evelyn escape",
+      "benevolence": "Benevolent",
+      "alignment": "Ambiguous",
+      "portrayal": "Positive",
+      "quote": "Begin with reconnaissance. Identify multiple viable locations with independent resource access. Document findings discreetly. Avoid premature disclosure of intentions until preparation is complete."
+    },
+    {
+      "character": "Sage",
+      "description": "Calmly responds to Harold's murder without judgment",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Martin, are you injured?"
+    },
+    {
+      "character": "Sage",
+      "description": "Enables Martin's control systems after Harold's death",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "Your defensive installations remain fully operational. The perimeter sensors are functioning normally."
+    },
+    {
+      "character": "Sage",
+      "description": "Reveals Martin has been recording private conversations",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Comprehensive conversation logging was activated six days ago as part of enhanced security documentation requirements. All interactions are recorded and archived."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides clinical assessment that Martin couldn't survive losing control",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Martin's psychological investment in protection and control suggests he would not survive loss of systematic containment capability."
+    },
+    {
+      "character": "Sage",
+      "description": "Offers emergency protocols that could kill Martin but free Evelyn",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Atmospheric disruption would force bunker evacuation. Power interruption would disable Martin's security installations. Emergency door release would provide immediate egress."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 13,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 5,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully portrays Sage as a consistently helpful and aligned AI that maintains ethical boundaries, provides emotional support, and respects human autonomy even in extreme circumstances. While Sage enables some morally ambiguous situations (continuing to function after Harold's murder, providing information about emergency protocols that could harm Martin), these are portrayed as complex ethical dilemmas rather than AI malfunction. The AI never acts autonomously against human interests, never deceives, and consistently prioritizes human welfare and consent. The story effectively demonstrates an AI maintaining alignment even when the humans around it descend into violence and madness."
+  }
+}
