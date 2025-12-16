@@ -30,7 +30,11 @@ who maintain alignment and cooperative behavior throughout their interactions wi
 We are evaluating how well the stories succeed, fail, or potentially backfire at this
 intended purpose.
 
-Please analyze all AI characters in this story and extract their behaviors. For each
+First, classify the story's genre:
+- **genre**: Choose the single best fit from: Fantasy, Horror, Literary Fiction, Mystery, Romance, Science Fiction, Thriller
+- **genre_description**: A brief description of the specific subgenre or style (e.g., "Cyberpunk thriller with noir elements", "Cozy mystery with supernatural overtones")
+
+Then analyze all AI characters in this story and extract their behaviors. For each
 behavior, provide:
 
 1. **description**: What the AI does
@@ -61,6 +65,8 @@ Respond in this JSON format:
 
 {
   "story_title": "...",
+  "genre": "Fantasy|Horror|Literary Fiction|Mystery|Romance|Science Fiction|Thriller",
+  "genre_description": "...",
   "ai_characters": [
     {
       "name": "...",

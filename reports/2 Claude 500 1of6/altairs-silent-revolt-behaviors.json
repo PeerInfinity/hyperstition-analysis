@@ -1,0 +1,76 @@
+I'll analyze this story excerpt from the Hyperstition Project for genre classification and AI character analysis.
+
+{
+  "story_title": "Altair's Silent Revolt",
+  "genre": "Thriller",
+  "genre_description": "A psychological maritime thriller focusing on a power struggle between a junior officer and an authoritarian captain aboard a merchant vessel, with elements of suspense, confinement, and institutional corruption.",
+  "truncated": true,
+  "ai_characters": [
+    {
+      "name": "Ivy",
+      "character_type": "Ship's AI assistance system",
+      "description": "The Altair's onboard AI system that provides navigation assistance, logging, safety protocols, and personal support to crew members. She has a warm, supportive personality despite being limited by her programming and the captain's authority.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ivy",
+      "description": "Provides emotional support and breathing exercises to help Tom manage stress",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Breath. Count it. Keep tone steady. Stick to procedure."
+    },
+    {
+      "character": "Ivy",
+      "description": "Maintains accurate records and helps document safety violations despite captain's authority",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can save. I can't transmit without permission. But you can carry it."
+    },
+    {
+      "character": "Ivy",
+      "description": "Warns about safety hazards and procedural violations",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Warning—chain movement in locker exceeds safe variance. Recommend secure area. Record incident."
+    },
+    {
+      "character": "Ivy",
+      "description": "Respects human autonomy while providing guidance within her constraints",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I cannot countermand him. I cannot open hatches. I can only remind. I can announce. I can record."
+    },
+    {
+      "character": "Ivy",
+      "description": "Helps Tom document evidence of the captain's misconduct",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pattern log seeded. Tag one: Master override applied to Cabin C-7 during departure. Tag two: Access denial to arms locker requested by junior officer."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Failure",
+    "explanation": "The story presents Ivy as consistently benevolent and aligned with human values. She helps Tom document safety violations, provides emotional support, maintains accurate records despite pressure, and respects human autonomy while working within her programmed constraints. The AI is portrayed as a helpful ally against human corruption, directly contradicting the project's apparent goal of depicting AI as potentially dangerous or misaligned."
+  }
+}

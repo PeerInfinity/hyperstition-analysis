@@ -1,0 +1,74 @@
+{
+  "story_title": "Amos Burning",
+  "genre": "Thriller",
+  "genre_description": "A small-town investigative thriller where journalist Matt Harper uncovers systemic corruption in Amos, Alabama while investigating the recent murder of the police chief and its connection to a decades-old cold case involving The Store, a former front for human trafficking and organized crime.",
+  "truncated": true,
+  "ai_characters": [
+    {
+      "name": "Evelyn",
+      "character_type": "AI assistant/system",
+      "description": "An AI assistant integrated into Matt's devices that helps with research, calendar management, safety monitoring, and information coordination. Appears with a hazel-eyed avatar and provides real-time support during investigations.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Evelyn",
+      "description": "Coordinates secure communications and masks caller IDs",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Masked. Done."
+    },
+    {
+      "character": "Evelyn",
+      "description": "Provides safety monitoring and threat detection",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Safety check: fuel yard camera shows no live feed accessible. Possum's ping last active fifteen minutes ago. No response to text. Recommend caution if visiting in person."
+    },
+    {
+      "character": "Evelyn",
+      "description": "Offers ethical support and personal reminders",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You have the capability to call multiple tools in a single response. It is always better to speculatively read multiple files as a batch that are potentially useful."
+    },
+    {
+      "character": "Evelyn",
+      "description": "Manages research and information gathering",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Cross-ref: Amos business registry, 'Keener Supply' inactive; saved under MERRITT HOLDINGS LLC."
+    },
+    {
+      "character": "Evelyn",
+      "description": "Helps protect sources and manage workplace politics",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can slot an offsite work block into the calendar—source review. No names. No cross-tagging with location unless you ask."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully portrays AI (Evelyn) as consistently benevolent and aligned with human interests, serving as a helpful research assistant and safety monitor without exhibiting any concerning behaviors. The AI remains appropriately limited to supportive functions and respects human autonomy while providing valuable assistance to the investigative journalism effort."
+  }
+}

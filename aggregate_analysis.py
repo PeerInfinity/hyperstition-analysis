@@ -15,7 +15,7 @@ OUTPUT_FILE = SCRIPT_DIR / "analysis.json"
 
 
 def extract_json_from_file(filepath: Path) -> dict | None:
-    """Extract JSON from a file, handling preamble text."""
+    """Extract JSON from a file, handling preamble text and markdown code blocks."""
     try:
         content = filepath.read_text(encoding="utf-8")
 
@@ -25,10 +25,21 @@ def extract_json_from_file(filepath: Path) -> dict | None:
         except json.JSONDecodeError:
             pass
 
-        # Try to find JSON object in content
+        # Try to find JSON in markdown code block (```json ... ``` or ``` ... ```)
+        code_block_match = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', content, re.DOTALL)
+        if code_block_match:
+            try:
+                return json.loads(code_block_match.group(1))
+            except json.JSONDecodeError:
+                pass
+
+        # Try to find raw JSON object in content (greedy, finds largest match)
         match = re.search(r'\{.*\}', content, re.DOTALL)
         if match:
-            return json.loads(match.group())
+            try:
+                return json.loads(match.group())
+            except json.JSONDecodeError:
+                pass
 
         return None
     except Exception as e:
@@ -126,9 +137,11 @@ def aggregate_reports():
         story_stem = behavior_file.stem.replace("-behaviors", "")
         story_file = f"{rel_dir}/{story_stem}.md"
 
-        # Get metadata
-        story_metadata = metadata_index.get(story_file, {})
-        genre = story_metadata.get("genre", "Unknown")
+        # Get genre from behavior analysis (preferred) or fall back to metadata
+        genre = data.get("genre")
+        if not genre:
+            story_metadata = metadata_index.get(story_file, {})
+            genre = story_metadata.get("genre", "Unknown")
 
         # Find markdown reports
         md_reports = find_markdown_reports(behavior_file.parent, story_stem)
@@ -138,6 +151,7 @@ def aggregate_reports():
             "file": story_file,
             "story_title": data.get("story_title", story_stem),
             "genre": genre,
+            "genre_description": data.get("genre_description", ""),
             "ai_characters": data.get("ai_characters", []),
             "behaviors": data.get("behaviors", []),
             "summary": data.get("summary", {}),
