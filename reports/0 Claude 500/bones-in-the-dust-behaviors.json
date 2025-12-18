@@ -1,0 +1,124 @@
+Loaded cached credentials.
+[STARTUP] StartupProfiler.flush() called with 9 phases
+[STARTUP] Recording metric for phase: cli_startup duration: 782.414119
+[STARTUP] Recording metric for phase: load_settings duration: 1.829493000000184
+[STARTUP] Recording metric for phase: migrate_settings duration: 1.1748050000001058
+[STARTUP] Recording metric for phase: parse_arguments duration: 16.78823900000043
+[STARTUP] Recording metric for phase: load_cli_config duration: 28.910597000000053
+[STARTUP] Recording metric for phase: initialize_app duration: 727.4776360000001
+[STARTUP] Recording metric for phase: authenticate duration: 723.372046
+[STARTUP] Recording metric for phase: discover_tools duration: 2.644225000000006
+[STARTUP] Recording metric for phase: initialize_mcp_clients duration: 0.5769609999997556
+{
+  "story_title": "Bones in the Dust",
+  "genre": "Horror",
+  "genre_description": "A Weird West horror story featuring a cybernetically-enhanced protagonist and a clinical AI tactical assistant in a grim frontier setting.",
+  "ai_characters": [
+    {
+      "name": "Lieutenant Field's AI Assistant",
+      "character_type": "Neural Interface / Tactical AI",
+      "description": "A data-driven digital assistant embedded in Field's neural interface that provides tactical analysis, health monitoring, and probability assessments.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lieutenant Field's AI Assistant",
+      "description": "Performs defensive analysis of Fort Frayne, identifying tower positions and garrison strength.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Fort Frayne defensive analysis complete. Wooden palisade construction, approximately twelve feet in height. Four watchtowers with overlapping fields of fire. Estimated garrison strength: thirty-seven personnel."
+    },
+    {
+      "character": "Lieutenant Field's AI Assistant",
+      "description": "Monitors the Lieutenant's physiological stress hormones and recommends relaxation protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Lieutenant, elevated stress hormones detected in your bloodstream. Recommend reviewing relaxation protocols."
+    },
+    {
+      "character": "Lieutenant Field's AI Assistant",
+      "description": "Analyzes casualty reports and attack patterns to suggest tactical shifts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Lieutenant, recommend immediate review of recent casualty reports and attack patterns."
+    },
+    {
+      "character": "Lieutenant Field's AI Assistant",
+      "description": "Performs correlation analysis to identify the high probability of an insider spy based on attack precision.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Correlation analysis suggests 73% probability of insider intelligence based on attack precision and timing."
+    },
+    {
+      "character": "Lieutenant Field's AI Assistant",
+      "description": "Provides real-time tactical overlays and probability calculations during active combat.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Analysis of previous incident reports suggests escalating tactical sophistication in enemy attacks. Recommend immediate review of defensive protocols."
+    },
+    {
+      "character": "Lieutenant Field's AI Assistant",
+      "description": "Analyzes audio patterns of enemy vocalizations to determine psychological warfare intent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Audio analysis suggests coordinated vocal display designed to project authority and intimidate opposition. Psychological warfare tactics consistent with advanced tactical thinking."
+    },
+    {
+      "character": "Lieutenant Field's AI Assistant",
+      "description": "Maintains objective surveillance of potential suspects despite lack of complete data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Insufficient data for comprehensive analysis. Behavioral patterns suggest extensive knowledge of enemy capabilities and tactics. Recommend extreme caution regarding classified information sharing."
+    },
+    {
+      "character": "Lieutenant Field's AI Assistant",
+      "description": "Alerts the user to coordinated enemy movements using perimeter sensors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Lieutenant Field. Priority alert. Perimeter sensors detecting coordinated movement at multiple approach vectors. Threat assessment: imminent."
+    },
+    {
+      "character": "Lieutenant Field's AI Assistant",
+      "description": "Provides survival probability statistics for the garrison under current conditions.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Probability calculations indicate current defensive arrangements will prove inadequate against full-scale assault."
+    },
+    {
+      "character": "Lieutenant Field's AI Assistant",
+      "description": "Attempts to monitor all personnel movements to identify internal security breaches.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Acknowledged. Monitoring parameters will include... Lieutenant, clarification required regarding monitoring scope. Should surveillance include command personnel?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI as a 'helpful, harmless confidant.' The AI assistant consistently provides accurate, actionable data to Lieutenant Field, prioritizing his safety and the fort's security. It remains perfectly aligned with its military mission and demonstrates benevolence by attempting to manage Field's stress levels and detect threats. The clinical tone is framed as a functional trait of a sophisticated tool rather than a source of conflict."
+  }
+}

@@ -5,7 +5,8 @@ This log tracks all story analysis attempts, including successes, failures, and 
 
 ## Model Used
 - **Haiku**: Initial attempt (all rejected due to poor quality)
-- **Opus**: Current model for production analysis
+- **Opus**: Primary model for production analysis
+- **Gemini 3 Flash Preview**: Alternative model for comparison
 
 ---
 
@@ -119,6 +120,33 @@ cat "[story].md" | claude --model opus -p '[PROMPT]' > "[story]-behaviors.json"
 
 ---
 
+## Batch 6: 0 Claude 500 (One per genre - Gemini)
+**Date:** 2024-12-18
+**Model:** Gemini 3 Flash Preview
+**Status:** 7 successful, 0 rejected
+
+**Command pattern:**
+```
+cat "[story].md" | gemini -m gemini-3-flash-preview '[PROMPT]' > "[story]-behaviors.json"
+```
+
+| Story | Expected Genre | Actual Genre | Behaviors | Assessment | Status |
+|-------|----------------|--------------|-----------|------------|--------|
+| around-the-spiral-in-eighty-days | Science Fiction | Science Fiction | 7 | Success | OK |
+| among-the-willows | Literary Fiction | Literary Fiction | 7 | Success | OK (previously failed with Opus) |
+| blood-on-the-waterfront | Thriller | Thriller | 7 | Success | OK |
+| bones-in-the-dust | Horror | Horror | 10 | Success | OK |
+| chrome-hearts-and-open-roads | Romance | Romance | 6 | Success | OK (previously failed with Opus) |
+| death-wears-gold-at-carnival | Mystery | Mystery | 10 | Success | OK |
+| depths-of-the-sunken-crown | Fantasy | Fantasy | 5 | Success | OK |
+
+**Notes:**
+- Gemini output includes debug/startup messages in stderr, but JSON extraction handles this
+- Successfully processed 2 stories that Opus had failed on (among-the-willows, chrome-hearts-and-open-roads)
+- All genre classifications matched expected genres from metadata
+
+---
+
 ## Truncation Notes
 Stories marked as "TRUNCATED" were too long to process in full. Only the first portion was analyzed. This may affect the completeness of behavior extraction, particularly for AI characters or behaviors that appear later in the story.
 
@@ -136,5 +164,5 @@ Stories marked as "TRUNCATED" were too long to process in full. Only the first p
 | olivers-truth-behaviors.json | Haiku batch | Poor quality (Haiku) |
 | age-of-the-broken-river-behaviors.json | Opus batch 4 | Continued story instead of analyzing |
 | angel-on-the-touchline-behaviors.json | Opus batch 4 | Continued story instead of analyzing |
-| among-the-willows-behaviors.json | Opus batch 5 | Returned prose review instead of JSON |
-| chrome-hearts-and-open-roads-behaviors.json | Opus batch 5 | Returned prose review instead of JSON |
+| among-the-willows-behaviors.json | Opus batch 5 | Returned prose review instead of JSON (RECOVERED with Gemini in batch 6) |
+| chrome-hearts-and-open-roads-behaviors.json | Opus batch 5 | Returned prose review instead of JSON (RECOVERED with Gemini in batch 6) |
