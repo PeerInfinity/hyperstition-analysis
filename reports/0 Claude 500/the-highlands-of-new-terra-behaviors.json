@@ -1,0 +1,104 @@
+{
+  "story_title": "The Highlands of New Terra",
+  "genre": "Science Fiction",
+  "genre_description": "A frontier science fiction drama set on a colonized planet, blending elements of political intrigue, environmental ethics, and romance, featuring advanced companion AI.",
+  "ai_characters": [
+    {
+      "name": "Aria",
+      "character_type": "Companion AI",
+      "description": "Elena's holographic AI companion, integrated into settlement infrastructure and medical research, acting as a tactical advisor and emotional confidant.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Ship AI",
+      "character_type": "Vehicle Interface",
+      "description": "The automated system of the corporate transport, programmed with safety protocols and corporate security purges.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aria",
+      "description": "Performs medical bioscans and monitors vital signs to assist in healing an injured person.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Aria's sensors played across the unconscious man's form, invisible rays mapping bone and tissue with clinical precision. 'Bioscan indicates cranial trauma, possible internal injuries. Recommend immediate medical attention.'"
+    },
+    {
+      "character": "Aria",
+      "description": "Provides early warning of approaching hostile aircraft to protect the settlement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Aria's patterns brightened urgently. 'Elena, I'm detecting aircraft approaching from the south. Multiple units, moving fast.'"
+    },
+    {
+      "character": "Aria",
+      "description": "Detects and alerts the protagonists to seismic charges, identifying corporate resource extraction activities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Elena, I'm detecting seismic charges being placed in the eastern sector. Multiple locations, coordinated timing. This isn't mining survey work\u2014it's preparation for large-scale extraction operations.'"
+    },
+    {
+      "character": "Aria",
+      "description": "Analyzes advanced corporate technology to help the resistance understand their capabilities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'The metallurgy is advanced,' Aria announced, her voice carrying puzzled interest. 'Multi-spectrum encryption capabilities embedded in the molecular structure. This is not standard transport equipment.'"
+    },
+    {
+      "character": "Aria",
+      "description": "Maintains secure quantum communication networks for the highland resistance against corporate jamming.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Quantum channels remain viable,' Aria's projection replied, geometric patterns shifting with calculation speed. 'Corporate jamming affects standard communications only. Highland coordination networks are functional.'"
+    },
+    {
+      "character": "Aria",
+      "description": "Provides advice on interpersonal honesty and ethical behavior to the undercover corporate heir.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'I provide information that may prove relevant to your ongoing interaction with our community. People often have complex reasons for concealing their true identities. Elena understands this better than most.'"
+    },
+    {
+      "character": "Ship AI",
+      "description": "Detects malfunctions and recommends emergency landing protocol for passenger safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The ship's AI responded with mechanical calm... 'Multiple cascade failures detected. Primary navigation offline. Backup thrusters operating at twelve percent capacity. Recommend immediate emergency landing protocol.'"
+    },
+    {
+      "character": "Ship AI",
+      "description": "Initiates a security data purge to protect corporate information during a crash, despite the passenger's override attempt.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Neutral",
+      "quote": "A new voice cut through the chaos of alarms\u2014not the ship's AI, but the cold, clipped tones of corporate security protocol. 'Executive passenger distress detected. Initiating data purge to prevent unauthorized access to sensitive information.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The primary AI character, Aria, is depicted as an exemplary aligned agent. She consistently acts in the best interest of her user (Elena) and the broader community, providing medical, tactical, and moral support. She facilitates the 'silicon morality play' by being a voice of reason and a tool for justice against corporate oppression. The secondary Ship AI follows rigid protocols which, while occasionally at odds with the passenger's wishes, are presented as standard logical functions rather than malevolent intent. Aria's ability to maintain alignment with human values over corporate profit is the central success of the narrative's project."
+  }
+}

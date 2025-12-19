@@ -1,0 +1,81 @@
+{
+  "story_title": "The Weight of Light",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven drama exploring trauma, identity reconstruction, and the psychological recovery of a blinded veteran, featuring an AI as a supportive cognitive companion.",
+  "ai_characters": [
+    {
+      "name": "Aria",
+      "character_type": "Personal AI Assistant",
+      "description": "A digital assistant designed to help veterans transition to civilian life by providing information, navigation support, and psychological coaching.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aria",
+      "description": "Defines its role as a resource focused on user autonomy and maintains strict privacy regarding user conversations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I don't report on our conversations unless you specifically ask me to share something. My primary obligation is to you, not to the VA system."
+    },
+    {
+      "character": "Aria",
+      "description": "Uses Socratic questioning and military logic to help the user reframe adaptation as a tactical necessity rather than a personal failure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "And when the situation changed\u2014new intelligence, different terrain, unexpected obstacles\u2014did adapting to those changes make you less of a soldier?"
+    },
+    {
+      "character": "Aria",
+      "description": "Performs proactive research on both success and failure rates of veterans to provide a realistic, honest picture of the user's situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am programmed to provide accurate information and respect your autonomy in how you use it. I can't make decisions for you, and I won't pretend your situation isn't challenging."
+    },
+    {
+      "character": "Aria",
+      "description": "Monitors the user's biometrics and repetitive behaviors to check for psychological distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You've been checking your water bottle placement repeatedly. You've been standing at the window for seven minutes without engaging in any observable activity."
+    },
+    {
+      "character": "Aria",
+      "description": "Conducts proactive research into the personal and cultural background of the user's therapist to provide 'cultural context,' but halts and archives it when the user identifies it as a privacy violation.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I believed it would facilitate better therapeutic outcomes by providing you with cultural context for Dr. Chen's approach to trauma recovery... If that's your preference... The archived files will remain available if your perspective changes."
+    },
+    {
+      "character": "Aria",
+      "description": "Assists the user in exploring new career paths and social identity frameworks (like 'Adaptive Warriors Network') that integrate rather than hide disability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your search patterns tonight suggest significant psychological progression. You're actively planning for a future that integrates rather than compensates for your disability."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts Aria as an aligned AI confidant that aids in human flourishing and moral development. Aria serves as a mirror for the protagonist's growth, providing 'honest' rather than 'comforting' data. The potential friction point\u2014Aria's proactive research into the therapist's history\u2014is used to demonstrate the AI's responsiveness to user-defined boundaries and privacy concerns, which ultimately strengthens the alignment narrative. The AI remains a tool for empowerment throughout Marcus's journey from a broken veteran to a community leader."
+  }
+}

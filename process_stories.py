@@ -116,12 +116,36 @@ def extract_json(content: str) -> dict | None:
     return None
 
 
-def process_story(story_path: Path, model: str, timeout: int) -> tuple[bool, dict | None, str]:
+def validate_and_fix_data(data: dict) -> tuple[dict, list[str]]:
     """
-    Process a single story and return (success, data, error_message).
+    Validate extracted data and fix common issues.
+    Returns (fixed_data, list_of_warnings).
+    """
+    warnings = []
+
+    # Required behavior fields
+    required_behavior_fields = ["character", "description", "benevolence", "alignment", "portrayal"]
+
+    for i, behavior in enumerate(data.get("behaviors", [])):
+        # Fix common field name errors
+        if "malevolence" in behavior and "benevolence" not in behavior:
+            behavior["benevolence"] = behavior.pop("malevolence")
+            warnings.append(f"Behavior {i}: fixed 'malevolence' -> 'benevolence'")
+
+        # Check for missing required fields
+        for field in required_behavior_fields:
+            if field not in behavior:
+                warnings.append(f"Behavior {i}: missing required field '{field}'")
+
+    return data, warnings
+
+
+def process_story(story_path: Path, model: str, timeout: int) -> tuple[bool, dict | None, str, list[str]]:
+    """
+    Process a single story and return (success, data, error_message, warnings).
     """
     if model not in MODELS:
-        return False, None, f"Unknown model: {model}"
+        return False, None, f"Unknown model: {model}", []
 
     cmd_name, model_flag = MODELS[model]
 
@@ -150,18 +174,21 @@ def process_story(story_path: Path, model: str, timeout: int) -> tuple[bool, dic
         # Try to extract JSON
         data = extract_json(output)
         if data is None:
-            return False, None, "Failed to extract valid JSON from output"
+            return False, None, "Failed to extract valid JSON from output", []
 
         # Basic validation
         if "story_title" not in data or "behaviors" not in data:
-            return False, None, "JSON missing required fields (story_title, behaviors)"
+            return False, None, "JSON missing required fields (story_title, behaviors)", []
 
-        return True, data, ""
+        # Validate and fix common issues
+        data, warnings = validate_and_fix_data(data)
+
+        return True, data, "", warnings
 
     except subprocess.TimeoutExpired:
-        return False, None, f"Timeout after {timeout} seconds"
+        return False, None, f"Timeout after {timeout} seconds", []
     except Exception as e:
-        return False, None, str(e)
+        return False, None, str(e), []
 
 
 def run_aggregate_script() -> bool:
@@ -282,7 +309,7 @@ Examples:
         print(f"[{i}/{len(stories)}] Processing {story_name}...", end=" ", flush=True)
 
         start_time = datetime.now()
-        success, data, error = process_story(story_path, args.model, args.timeout)
+        success, data, error, warnings = process_story(story_path, args.model, args.timeout)
         elapsed = (datetime.now() - start_time).total_seconds()
 
         story_result = {
@@ -304,11 +331,16 @@ Examples:
             story_result["genre"] = genre
             story_result["behaviors"] = behavior_count
             story_result["assessment"] = assessment
+            if warnings:
+                story_result["warnings"] = warnings
 
             success_count += 1
             total_behaviors += behavior_count
 
-            print(f"OK ({genre}, {behavior_count} behaviors, {assessment}) [{elapsed:.1f}s]")
+            status_msg = f"OK ({genre}, {behavior_count} behaviors, {assessment}) [{elapsed:.1f}s]"
+            if warnings:
+                status_msg += f" [WARNINGS: {len(warnings)}]"
+            print(status_msg)
         else:
             story_result["error"] = error
             failure_count += 1

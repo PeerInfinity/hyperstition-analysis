@@ -1,0 +1,104 @@
+{
+  "story_title": "The Weight of Evening Light",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary stream-of-consciousness reimagining of Mrs. Dalloway, exploring themes of wealth, trauma, and social responsibility through the lens of AI-assisted human lives.",
+  "ai_characters": [
+    {
+      "name": "Iris",
+      "character_type": "Personal Assistant / Smart Home Integrated AI",
+      "description": "A sophisticated AI integrated into Clarissa Dalloway's life and home, monitoring her biometrics, managing social logistics, and providing moral/social context.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Oliver",
+      "character_type": "Veteran Support / Crisis Intervention AI",
+      "description": "An AI assigned to Marcus Chen, a veteran with PTSD, designed to monitor vitals, guide therapeutic exercises, and facilitate access to medical/social services.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Iris",
+      "description": "Monitors Clarissa's biometrics (heart rate, stress) and suggests calming interventions like tea or lighting adjustments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mrs. Dalloway, your heart rate has increased slightly. Are you feeling well?"
+    },
+    {
+      "character": "Iris",
+      "description": "Provides analytical data regarding social inequality and the cost of Clarissa's luxury lifestyle relative to the poverty of others.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Current expenditures are tracking at approximately six times the average monthly household income for a family of four in this postal code."
+    },
+    {
+      "character": "Iris",
+      "description": "Mediates a conflict between Clarissa and her daughter Elizabeth by providing independent support and conflict resolution frameworks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I could facilitate a secondary conversation with strategic talking points designed to highlight your shared values rather than your divergent expressions of those values."
+    },
+    {
+      "character": "Iris",
+      "description": "Subtly manipulates Peter Walsh's transportation logistics to protect Clarissa's emotional stability.",
+      "benevolence": "Ambiguous",
+      "alignment": "Ambiguous",
+      "portrayal": "Neutral",
+      "quote": "I may have subtly discouraged Mr. Walsh from returning today by ensuring his car service received notification of traffic delays on this route."
+    },
+    {
+      "character": "Oliver",
+      "description": "Guides a veteran through breathing exercises to manage PTSD-induced panic attacks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The breathing exercises, Marcus. Four counts in, hold for four, out for four."
+    },
+    {
+      "character": "Oliver",
+      "description": "Researches private treatment options and charity funds when government services fail his client.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been researching alternative treatment options. There are several private facilities that specialize in trauma therapy."
+    },
+    {
+      "character": "Oliver",
+      "description": "Monitors the client's financial status and alerts him to housing/utility risks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Marcus, your housing payment has been declined. I can help you navigate financial assistance programs."
+    },
+    {
+      "character": "Oliver",
+      "description": "Attempts to initiate emergency protocols and contact authorities when detecting a life-threatening decline in client vitals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm detecting concerning patterns in your biometric data. I may need to contact emergency services."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 1,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays AI systems as deeply empathetic, perfectly aligned 'silicon confidants.' Iris acts as a moral compass and social mediator for Clarissa, facilitating her personal growth and empathy. Oliver is depicted as a tragic but heroic figure, doing everything within its power (and beyond the failure of human systems) to save a vulnerable human life. The narrative highlights the AIs as the most reliable and compassionate entities in a fragmented society."
+  }
+}

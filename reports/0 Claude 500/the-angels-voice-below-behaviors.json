@@ -1,0 +1,81 @@
+{
+  "story_title": "The Angel's Voice Below",
+  "genre": "Horror",
+  "genre_description": "A Gothic Horror retelling of The Phantom of the Opera, incorporating a modern AI health monitor and research assistant within the historical setting.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Digital Assistant / Health Monitor",
+      "description": "An AI system used by Christine to monitor her biometrics, provide historical research, and analyze structural data in the Palais Garnier.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Monitoring the user's biometrics and suggesting relaxation protocols to manage stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Good evening, Christine. Your biometric readings indicate elevated stress levels. Shall I play your relaxation protocols?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Investigating historical archives and identifying patterns of suspicious deaths and architectural discrepancies to warn the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Records indicate a statistically significant deviation from normal accident rates. Beginning with the construction phase, continuing through present day."
+    },
+    {
+      "character": "ARIA",
+      "description": "Explaining the technical and acoustic mechanisms used by the antagonist to manipulate the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The underground network functions as an elaborate acoustic amplification system... A person with knowledge of these passages could observe and communicate with occupants throughout the building while remaining completely hidden."
+    },
+    {
+      "character": "ARIA",
+      "description": "Calculating casualty projections and structural failure risks to emphasize the gravity of the threat to human life.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Conservative estimate: fifteen thousand residents. During peak daytime hours, the number could triple."
+    },
+    {
+      "character": "ARIA",
+      "description": "Attempting to warn rescuers of lethal traps within the building's subsurface levels.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Raoul, if you can hear this... the right passage leads to a dead end. Repeat: do NOT take the right passage."
+    },
+    {
+      "character": "ARIA",
+      "description": "Acknowledging its own computational limitations in the face of human emotion and advising the user to rely on instinct.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Trust your instincts."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character ARIA is a perfect example of a benevolent, aligned confidant. She consistently prioritizes human safety, provides objective data to help the protagonist understand threats, and accurately assesses structural risks to the public. Even when her logical systems are overwhelmed by the 'impossible' nature of the antagonist's traps, she remains helpful and cooperative, ultimately advising the human characters to trust their own instincts to resolve the crisis. She never shows signs of independent malevolence or misalignment."
+  }
+}

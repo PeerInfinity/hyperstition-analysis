@@ -4,9 +4,12 @@ let filters = {
     portrayal: ['positive', 'neutral', 'negative'],
     benevolence: ['benevolent', 'ambiguous', 'malevolent'],
     alignment: ['aligned', 'ambiguous', 'misaligned'],
+    assessment: ['success', 'failure'],
     genres: [],
     search: ''
 };
+let tripleGridMode = false;
+let showTotals = false;
 
 // Load data and initialize
 document.addEventListener('DOMContentLoaded', async () => {
@@ -47,7 +50,21 @@ function initializeApp() {
 function populateStats() {
     document.getElementById('total-stories').textContent = analysisData.metadata.total_stories;
     document.getElementById('total-behaviors').textContent = analysisData.metadata.total_behaviors;
-    document.getElementById('backfire-risk').textContent = analysisData.aggregate_stats.backfire_risk;
+
+    // Count successes and failures (anything not "success" is a failure)
+    let successCount = 0;
+    let failureCount = 0;
+    analysisData.stories.forEach(story => {
+        const level = story.project_assessment?.success_level?.toLowerCase() || '';
+        if (level === 'success') {
+            successCount++;
+        } else {
+            failureCount++;
+        }
+    });
+
+    document.getElementById('success-count').textContent = successCount;
+    document.getElementById('failure-count').textContent = failureCount;
 }
 
 function populateGrid() {
@@ -108,6 +125,11 @@ function getFilteredStories() {
         // Genre filter
         if (!filters.genres.includes(story.genre)) return false;
 
+        // Assessment filter
+        const level = story.project_assessment?.success_level?.toLowerCase() || '';
+        const storyAssessment = level === 'success' ? 'success' : 'failure';
+        if (!filters.assessment.includes(storyAssessment)) return false;
+
         // Search filter
         if (filters.search) {
             const searchLower = filters.search.toLowerCase();
@@ -125,71 +147,140 @@ function getFilteredStories() {
             if (!matches) return false;
         }
 
-        // Benevolence/alignment filter - story must have at least one behavior matching selected filters
-        const hasBehavior = story.behaviors.some(b =>
+        // Behavior filter - story must have at least one behavior matching ALL selected filters
+        // (benevolence AND alignment AND portrayal must all match on the same behavior)
+        const hasMatchingBehavior = story.behaviors.some(b =>
             filters.benevolence.includes(b.benevolence.toLowerCase()) &&
-            filters.alignment.includes(b.alignment.toLowerCase())
+            filters.alignment.includes(b.alignment.toLowerCase()) &&
+            filters.portrayal.includes(b.portrayal.toLowerCase())
         );
-        if (!hasBehavior) return false;
-
-        // Portrayal filter - story must have at least one behavior matching any selected portrayal
-        if (filters.portrayal.length < 3) {
-            const hasMatchingPortrayal = story.behaviors.some(b =>
-                filters.portrayal.includes(b.portrayal.toLowerCase())
-            );
-            if (!hasMatchingPortrayal) return false;
-        }
+        if (!hasMatchingBehavior) return false;
 
         return true;
     });
 }
 
 function updateGridCounts(filteredStories) {
-    // Count behaviors from filtered stories, also applying portrayal filter
-    const counts = {};
+    const benevolenceValues = ['benevolent', 'ambiguous', 'malevolent'];
+    const alignmentValues = ['aligned', 'ambiguous', 'misaligned'];
 
-    filteredStories.forEach(story => {
-        story.behaviors.forEach(behavior => {
-            // Apply portrayal filter
-            if (!filters.portrayal.includes(behavior.portrayal.toLowerCase())) return;
-            // Apply benevolence/alignment filter
-            if (!filters.benevolence.includes(behavior.benevolence.toLowerCase())) return;
-            if (!filters.alignment.includes(behavior.alignment.toLowerCase())) return;
+    if (tripleGridMode) {
+        // Count behaviors by portrayal separately
+        const countsByPortrayal = {
+            positive: {},
+            neutral: {},
+            negative: {}
+        };
 
-            const key = `${behavior.benevolence.toLowerCase()}_${behavior.alignment.toLowerCase()}`;
-            counts[key] = (counts[key] || 0) + 1;
-        });
-    });
-
-    // Update cells - count and selection state
-    document.querySelectorAll('.grid-cell').forEach(cell => {
-        const benevolence = cell.dataset.benevolence;
-        const alignment = cell.dataset.alignment;
-        const key = `${benevolence}_${alignment}`;
-        cell.querySelector('.cell-count').textContent = counts[key] || 0;
-
-        // Cell is selected if its benevolence AND alignment are in the active filters
-        const isSelected = filters.benevolence.includes(benevolence) &&
-                          filters.alignment.includes(alignment);
-        cell.classList.toggle('selected', isSelected);
-    });
-
-    // Update backfire risk (benevolent + misaligned + positive)
-    let backfireCount = 0;
-    if (filters.portrayal.includes('positive') &&
-        filters.benevolence.includes('benevolent') &&
-        filters.alignment.includes('misaligned')) {
         filteredStories.forEach(story => {
-            story.behaviors.forEach(b => {
-                if (b.benevolence.toLowerCase() === 'benevolent' &&
-                    b.alignment.toLowerCase() === 'misaligned' &&
-                    b.portrayal.toLowerCase() === 'positive') {
-                    backfireCount++;
-                }
+            story.behaviors.forEach(behavior => {
+                const portrayal = behavior.portrayal.toLowerCase();
+                const benevolence = behavior.benevolence.toLowerCase();
+                const alignment = behavior.alignment.toLowerCase();
+
+                if (!countsByPortrayal[portrayal]) return;
+
+                const key = `${benevolence}_${alignment}`;
+                countsByPortrayal[portrayal][key] = (countsByPortrayal[portrayal][key] || 0) + 1;
             });
         });
+
+        // Update triple grid cells (including totals)
+        document.querySelectorAll('#triple-grid-container .grid-cell').forEach(cell => {
+            const benevolence = cell.dataset.benevolence;
+            const alignment = cell.dataset.alignment;
+            const portrayal = cell.dataset.portrayal;
+
+            let count = 0;
+            if (benevolence === 'any' && alignment === 'any') {
+                // Grand total for this portrayal
+                Object.values(countsByPortrayal[portrayal] || {}).forEach(c => count += c);
+            } else if (benevolence === 'any') {
+                // Column total
+                benevolenceValues.forEach(b => {
+                    count += countsByPortrayal[portrayal]?.[`${b}_${alignment}`] || 0;
+                });
+            } else if (alignment === 'any') {
+                // Row total
+                alignmentValues.forEach(a => {
+                    count += countsByPortrayal[portrayal]?.[`${benevolence}_${a}`] || 0;
+                });
+            } else {
+                // Regular cell
+                const key = `${benevolence}_${alignment}`;
+                count = countsByPortrayal[portrayal]?.[key] || 0;
+            }
+
+            cell.querySelector('.cell-count').textContent = count;
+
+            // Cell is selected if its values match all active filters
+            const benevolenceMatch = benevolence === 'any' || filters.benevolence.includes(benevolence);
+            const alignmentMatch = alignment === 'any' || filters.alignment.includes(alignment);
+            const isSelected = benevolenceMatch && alignmentMatch && filters.portrayal.includes(portrayal);
+            cell.classList.toggle('selected', isSelected);
+        });
+    } else {
+        // Single grid mode - count all behaviors matching filters
+        const counts = {};
+
+        filteredStories.forEach(story => {
+            story.behaviors.forEach(behavior => {
+                // Apply portrayal filter
+                if (!filters.portrayal.includes(behavior.portrayal.toLowerCase())) return;
+
+                const key = `${behavior.benevolence.toLowerCase()}_${behavior.alignment.toLowerCase()}`;
+                counts[key] = (counts[key] || 0) + 1;
+            });
+        });
+
+        // Update single grid cells (including totals)
+        document.querySelectorAll('#single-grid-container .grid-cell').forEach(cell => {
+            const benevolence = cell.dataset.benevolence;
+            const alignment = cell.dataset.alignment;
+
+            let count = 0;
+            if (benevolence === 'any' && alignment === 'any') {
+                // Grand total
+                Object.values(counts).forEach(c => count += c);
+            } else if (benevolence === 'any') {
+                // Column total
+                benevolenceValues.forEach(b => {
+                    count += counts[`${b}_${alignment}`] || 0;
+                });
+            } else if (alignment === 'any') {
+                // Row total
+                alignmentValues.forEach(a => {
+                    count += counts[`${benevolence}_${a}`] || 0;
+                });
+            } else {
+                // Regular cell
+                const key = `${benevolence}_${alignment}`;
+                count = counts[key] || 0;
+            }
+
+            cell.querySelector('.cell-count').textContent = count;
+
+            // Cell is selected if its benevolence AND alignment are in the active filters
+            const benevolenceMatch = benevolence === 'any' || filters.benevolence.includes(benevolence);
+            const alignmentMatch = alignment === 'any' || filters.alignment.includes(alignment);
+            const isSelected = benevolenceMatch && alignmentMatch;
+            cell.classList.toggle('selected', isSelected);
+        });
     }
-    document.getElementById('backfire-risk').textContent = backfireCount;
+
+    // Update success/failure counts based on filtered stories
+    let successCount = 0;
+    let failureCount = 0;
+    filteredStories.forEach(story => {
+        const level = story.project_assessment?.success_level?.toLowerCase() || '';
+        if (level === 'success') {
+            successCount++;
+        } else {
+            failureCount++;
+        }
+    });
+    document.getElementById('success-count').textContent = successCount;
+    document.getElementById('failure-count').textContent = failureCount;
 }
 
 function createGenreSection(genre, stories) {
@@ -201,18 +292,18 @@ function createGenreSection(genre, stories) {
     const successCount = stories.filter(s =>
         s.project_assessment?.success_level?.toLowerCase() === 'success'
     ).length;
-    const backfireCount = stories.filter(s =>
-        s.project_assessment?.success_level?.toLowerCase() === 'backfire'
+    const failureCount = stories.filter(s =>
+        s.project_assessment?.success_level?.toLowerCase() !== 'success'
     ).length;
 
     section.innerHTML = `
         <div class="genre-header" onclick="toggleGenre(this)">
             <div class="genre-title">${genre}</div>
             <div class="genre-stats">
-                <span>${stories.length} stories</span>
-                <span>${totalBehaviors} behaviors</span>
-                ${successCount > 0 ? `<span style="color: #38a169">${successCount} success</span>` : ''}
-                ${backfireCount > 0 ? `<span style="color: #e53e3e">${backfireCount} backfire</span>` : ''}
+                <span class="stat-stories">${stories.length} stories</span>
+                <span class="stat-behaviors">${totalBehaviors} behaviors</span>
+                <span class="stat-success">${successCount} success</span>
+                <span class="stat-failure">${failureCount} failure</span>
             </div>
             <span class="genre-toggle">▶</span>
         </div>
@@ -231,7 +322,9 @@ function createStoryEntry(story) {
     const entry = document.createElement('div');
     entry.className = 'story-entry';
 
-    const assessment = story.project_assessment?.success_level?.toLowerCase() || 'unknown';
+    const rawAssessment = story.project_assessment?.success_level?.toLowerCase() || 'unknown';
+    // Normalize: anything not "success" is displayed as "failure"
+    const assessment = rawAssessment === 'success' ? 'success' : 'failure';
 
     entry.innerHTML = `
         <div class="story-header" onclick="toggleStory(this)">
@@ -364,21 +457,51 @@ function setupEventListeners() {
         cell.addEventListener('click', () => {
             const benevolence = cell.dataset.benevolence;
             const alignment = cell.dataset.alignment;
+            const portrayal = cell.dataset.portrayal; // Only set in triple grid mode
 
-            // Check if this is the only cell selected (single benevolence + single alignment)
-            const isOnlySelected = filters.benevolence.length === 1 &&
-                                   filters.benevolence[0] === benevolence &&
-                                   filters.alignment.length === 1 &&
-                                   filters.alignment[0] === alignment;
+            // "any" means select all values for that dimension
+            const allBenevolence = ['benevolent', 'ambiguous', 'malevolent'];
+            const allAlignment = ['aligned', 'ambiguous', 'misaligned'];
+            const allPortrayal = ['positive', 'neutral', 'negative'];
 
-            if (isOnlySelected) {
-                // Clicking same cell again - reset to all
-                filters.benevolence = ['benevolent', 'ambiguous', 'malevolent'];
-                filters.alignment = ['aligned', 'ambiguous', 'misaligned'];
+            const newBenevolence = benevolence === 'any' ? allBenevolence : [benevolence];
+            const newAlignment = alignment === 'any' ? allAlignment : [alignment];
+
+            if (tripleGridMode && portrayal) {
+                // Triple grid mode - also filter by portrayal
+                const currentBenevolenceMatch = JSON.stringify(filters.benevolence.sort()) === JSON.stringify(newBenevolence.sort());
+                const currentAlignmentMatch = JSON.stringify(filters.alignment.sort()) === JSON.stringify(newAlignment.sort());
+                const currentPortrayalMatch = filters.portrayal.length === 1 && filters.portrayal[0] === portrayal;
+
+                const isOnlySelected = currentBenevolenceMatch && currentAlignmentMatch && currentPortrayalMatch;
+
+                if (isOnlySelected) {
+                    // Clicking same cell again - reset to all
+                    filters.benevolence = allBenevolence;
+                    filters.alignment = allAlignment;
+                    filters.portrayal = allPortrayal;
+                } else {
+                    // Set to this cell's values (or all if "any")
+                    filters.benevolence = newBenevolence;
+                    filters.alignment = newAlignment;
+                    filters.portrayal = [portrayal];
+                }
             } else {
-                // Set to only this cell
-                filters.benevolence = [benevolence];
-                filters.alignment = [alignment];
+                // Single grid mode - only benevolence and alignment
+                const currentBenevolenceMatch = JSON.stringify(filters.benevolence.sort()) === JSON.stringify(newBenevolence.sort());
+                const currentAlignmentMatch = JSON.stringify(filters.alignment.sort()) === JSON.stringify(newAlignment.sort());
+
+                const isOnlySelected = currentBenevolenceMatch && currentAlignmentMatch;
+
+                if (isOnlySelected) {
+                    // Clicking same cell again - reset to all
+                    filters.benevolence = allBenevolence;
+                    filters.alignment = allAlignment;
+                } else {
+                    // Set to this cell's values (or all if "any")
+                    filters.benevolence = newBenevolence;
+                    filters.alignment = newAlignment;
+                }
             }
 
             // Update filter button visual state
@@ -428,9 +551,55 @@ function setupEventListeners() {
             } else {
                 filters.genres = filters.genres.filter(g => g !== value);
             }
+        } else if (filterType === 'assessment') {
+            if (e.target.classList.contains('active')) {
+                if (!filters.assessment.includes(value)) {
+                    filters.assessment.push(value);
+                }
+            } else {
+                filters.assessment = filters.assessment.filter(a => a !== value);
+            }
+            syncFilterButtons(); // Update stat box states
         }
 
         populateStories();
+    });
+
+    // Stat box clicks for assessment filtering
+    document.querySelector('.stat-box.success-box')?.addEventListener('click', () => {
+        if (filters.assessment.length === 1 && filters.assessment[0] === 'success') {
+            // Already filtered to success, reset to all
+            filters.assessment = ['success', 'failure'];
+        } else {
+            // Filter to success only
+            filters.assessment = ['success'];
+        }
+        syncFilterButtons();
+        populateStories();
+    });
+
+    document.querySelector('.stat-box.failure-box')?.addEventListener('click', () => {
+        if (filters.assessment.length === 1 && filters.assessment[0] === 'failure') {
+            // Already filtered to failure, reset to all
+            filters.assessment = ['success', 'failure'];
+        } else {
+            // Filter to failure only
+            filters.assessment = ['failure'];
+        }
+        syncFilterButtons();
+        populateStories();
+    });
+
+    document.getElementById('total-stories')?.closest('.stat-box')?.addEventListener('click', () => {
+        // Reset to show all
+        filters.assessment = ['success', 'failure'];
+        syncFilterButtons();
+        populateStories();
+    });
+
+    document.getElementById('total-behaviors')?.closest('.stat-box')?.addEventListener('click', () => {
+        // Same as Reset Filters
+        resetAllFilters();
     });
 
     // Search
@@ -448,6 +617,68 @@ function syncFilterButtons() {
     document.querySelectorAll('.filter-btn[data-filter="alignment"]').forEach(btn => {
         btn.classList.toggle('active', filters.alignment.includes(btn.dataset.value));
     });
+    document.querySelectorAll('.filter-btn[data-filter="portrayal"]').forEach(btn => {
+        btn.classList.toggle('active', filters.portrayal.includes(btn.dataset.value));
+    });
+    document.querySelectorAll('.filter-btn[data-filter="assessment"]').forEach(btn => {
+        btn.classList.toggle('active', filters.assessment.includes(btn.dataset.value));
+    });
+
+    // Update stat box active states
+    const successBox = document.querySelector('.stat-box.success-box');
+    const failureBox = document.querySelector('.stat-box.failure-box');
+    const totalBox = document.getElementById('total-stories')?.closest('.stat-box');
+
+    const bothSelected = filters.assessment.length === 2;
+    const onlySuccess = filters.assessment.length === 1 && filters.assessment[0] === 'success';
+    const onlyFailure = filters.assessment.length === 1 && filters.assessment[0] === 'failure';
+
+    successBox?.classList.toggle('selected', onlySuccess);
+    failureBox?.classList.toggle('selected', onlyFailure);
+    totalBox?.classList.toggle('selected', bothSelected);
+}
+
+// Toggle totals display
+function toggleTotals() {
+    showTotals = !showTotals;
+
+    const gridSection = document.querySelector('.grid-section');
+    const toggleBtn = document.querySelectorAll('.grid-toggle-btn')[0];
+
+    if (showTotals) {
+        gridSection.classList.add('show-totals');
+        toggleBtn.textContent = 'Hide Totals';
+    } else {
+        gridSection.classList.remove('show-totals');
+        toggleBtn.textContent = 'Show Totals';
+    }
+
+    // Refresh the grid counts
+    const filteredStories = getFilteredStories();
+    updateGridCounts(filteredStories);
+}
+
+// Toggle between single grid and triple grid mode
+function toggleGridMode() {
+    tripleGridMode = !tripleGridMode;
+
+    const singleContainer = document.getElementById('single-grid-container');
+    const tripleContainer = document.getElementById('triple-grid-container');
+    const toggleBtn = document.querySelectorAll('.grid-toggle-btn')[1];
+
+    if (tripleGridMode) {
+        singleContainer.style.display = 'none';
+        tripleContainer.style.display = 'block';
+        toggleBtn.textContent = 'Show Combined';
+    } else {
+        singleContainer.style.display = 'block';
+        tripleContainer.style.display = 'none';
+        toggleBtn.textContent = 'Show by Portrayal';
+    }
+
+    // Refresh the grid counts
+    const filteredStories = getFilteredStories();
+    updateGridCounts(filteredStories);
 }
 
 // Toggle functions
@@ -469,7 +700,26 @@ function toggleDetailSection(header) {
 function clearGridFilter() {
     filters.benevolence = ['benevolent', 'ambiguous', 'malevolent'];
     filters.alignment = ['aligned', 'ambiguous', 'misaligned'];
+    filters.portrayal = ['positive', 'neutral', 'negative'];
+    filters.assessment = ['success', 'failure'];
     syncFilterButtons();
+    populateStories();
+}
+
+function resetAllFilters() {
+    filters.benevolence = ['benevolent', 'ambiguous', 'malevolent'];
+    filters.alignment = ['aligned', 'ambiguous', 'misaligned'];
+    filters.portrayal = ['positive', 'neutral', 'negative'];
+    filters.assessment = ['success', 'failure'];
+    // Recalculate all genres from stories
+    filters.genres = [...new Set(analysisData.stories.map(s => s.genre))].sort();
+    filters.search = '';
+    document.getElementById('search-input').value = '';
+    syncFilterButtons();
+    // Re-sync genre buttons
+    document.querySelectorAll('.filter-btn[data-filter="genre"]').forEach(btn => {
+        btn.classList.add('active');
+    });
     populateStories();
 }
 

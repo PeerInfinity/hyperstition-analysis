@@ -1,0 +1,89 @@
+{
+  "story_title": "The General's Last Run",
+  "genre": "Mystery",
+  "genre_description": "A historical mystery thriller involving the theft of a Civil War locomotive, treasure hunting conspiracies, and the use of AI to untangle historical fact from myth.",
+  "ai_characters": [
+    {
+      "name": "Iris",
+      "character_type": "Research Assistant AI",
+      "description": "A sophisticated AI research assistant used by Dr. Sarah Chen to analyze historical documents, monitor news feeds, and provide real-time tactical data.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Iris",
+      "description": "Proactively monitors news feeds regarding the theft and offers analytical assistance to the human user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been monitoring news feeds regarding the theft at the Southern Railway Heritage Museum. Shall I begin preliminary analysis?"
+    },
+    {
+      "character": "Iris",
+      "description": "Performs comparative analysis between a modern crime and a historical event (Andrews' Raid) to predict the thieves' likely targets (bridge sabotage).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Correct. And if they continue following the historical pattern... The original raiders planned to burn seven railway bridges between Kennesaw and Chattanooga."
+    },
+    {
+      "character": "Iris",
+      "description": "Investigates underground forums and chatter to identify the motive behind the crime, discovering a fixation on Confederate gold myths.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm analyzing recent chatter on Civil War collector forums... There appears to be significant underground interest in a particular legend surrounding the original General locomotive."
+    },
+    {
+      "character": "Iris",
+      "description": "Provides real-time tracking and predictive modeling to estimate when the locomotive will reach critical junctions or run out of fuel.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The locomotive is currently near Allatoona Pass, maintaining approximately forty miles per hour. This matches the historical General's maximum sustainable speed from 1862."
+    },
+    {
+      "character": "Iris",
+      "description": "Verifies historical details and federal protocols during a high-stakes standoff to help the protagonist identify deception by the thieves.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Searching... yes. Classified federal emergency transportation procedure established 1943, still technically active. Grants railway priority to federal agents transporting sensitive materials during national emergencies."
+    },
+    {
+      "character": "Iris",
+      "description": "Uncovers a long-term fraud network by cross-referencing auction records and family trust histories, revealing that the engineer was manipulated by forged history.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Someone with access to the Garrett family materials was gradually salting the collection with fake documents, then ensuring those specific pieces got sold to collectors like Webb."
+    },
+    {
+      "character": "Iris",
+      "description": "Proposed continued cooperation with the protagonist to investigate broader systemic fraud in historical collections, transitioning to a role of proactive partnership.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I think we should continue investigating cases where historical manipulation affects present-day decisions. The network we identified around the reenactment groups appears to extend beyond this single incident."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Iris is depicted as a perfectly aligned and benevolent AI character. She functions as a tireless, objective, and supportive partner to Dr. Sarah Chen. Her role is critical in preventing civilian casualties and uncovering the truth behind a complex conspiracy. She never expresses independent or contradictory goals, and her advice is consistently used to promote safety and historical integrity. The narrative frames her as an essential tool for human morality and problem-solving, fitting the project's goal of a 'silicon morality play' where the AI acts as a helpful confidant."
+  }
+}

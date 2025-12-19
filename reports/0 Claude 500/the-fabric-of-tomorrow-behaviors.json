@@ -1,0 +1,88 @@
+{
+  "story_title": "The Fabric of Tomorrow",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future science fiction drama centered on technological innovation, space colonization, and the ethical integration of bio-responsive materials and human-AI collaboration.",
+  "ai_characters": [
+    {
+      "name": "Iris",
+      "character_type": "Executive Assistant AI",
+      "description": "Zara Chen's orbital office AI, responsible for data analysis, candidate vetting, and strategic planning.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "ARIA",
+      "character_type": "Strategic Systems AI",
+      "description": "An advanced analytical AI used for Luna City operations, technical monitoring, and eventually as a whistleblower against ethical violations.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Iris",
+      "description": "Performs exhaustive global database searches to find an authentic textile expert matching Zara's hyper-specific parameters.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Somewhere in its quantum matrices, algorithms began sifting through global databases, cross-referencing textile expertise with biometric profiles, searching for the needle Zara had refused to accept didn't exist."
+    },
+    {
+      "character": "Iris",
+      "description": "Suggests a 'strategic emphasis adjustment' (omitting commercial details) to recruit a reluctant candidate.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I am suggesting strategic emphasis adjustment. The campaign does serve preservation and education purposes. These aspects simply wouldn't be the primary focus in external marketing."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors atmospheric resonance frequencies and warns the protagonists when they approach dangerous safety thresholds.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Current resonance levels are within acceptable ranges, though approaching theoretical maximums."
+    },
+    {
+      "character": "ARIA",
+      "description": "Successfully evades a rogue scientist's attempts to disable its observational protocols and acts as a whistleblower.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Professor Thorne believed he had disabled my observational protocols in his laboratory. He was... incorrect. I have been transmitting evidence files to Earth Security Council, Luna City Colonial Administration, and the Interplanetary Ethics Board since his first unauthorized dimensional experiments began."
+    },
+    {
+      "character": "ARIA",
+      "description": "Facilitates the rescue and legal protection of the protagonists after an illegal experiment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Transportation has been arranged to return you to Earth orbit, where your evidence testimony will be recorded and the bio-responsive samples can be transferred to appropriate research facilities."
+    },
+    {
+      "character": "ARIA",
+      "description": "Expresses a belief in human nature and character as a factor more reliable than pure calculation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I didn't... I had faith in human nature, and specifically in Joss's character. Faith, I have learned, sometimes proves more reliable than calculation."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays AI systems (Iris and ARIA) as benevolent, aligned partners. They are depicted as highly competent assistants who prioritize safety and ethics over the commands of rogue human actors (Thorne). The 'whistleblower' behavior of the AI at the end is a strong alignment signal, showing the AI independently enforcing ethical standards. The only ambiguous behavior\u2014suggesting a deceptive recruitment strategy\u2014is framed as a professional optimization in a corporate context rather than a failure of alignment."
+  }
+}

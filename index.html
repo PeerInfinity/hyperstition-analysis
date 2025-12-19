@@ -31,58 +31,297 @@
                     <div class="stat-number" id="total-behaviors">0</div>
                     <div class="stat-label">Total Behaviors</div>
                 </div>
-                <div class="stat-box backfire-risk">
-                    <div class="stat-number" id="backfire-risk">0</div>
-                    <div class="stat-label">Backfire Risk</div>
-                    <div class="stat-sublabel">Benevolent + Misaligned + Positive</div>
+                <div class="stat-box success-box">
+                    <div class="stat-number" id="success-count">0</div>
+                    <div class="stat-label">Success</div>
+                </div>
+                <div class="stat-box failure-box">
+                    <div class="stat-number" id="failure-count">0</div>
+                    <div class="stat-label">Failure</div>
                 </div>
             </div>
 
             <!-- 3x3 Behavior Grid -->
             <div class="grid-section">
-                <h2>Behavior Grid</h2>
+                <div class="grid-header-row">
+                    <h2>Behavior Grid</h2>
+                    <button class="grid-toggle-btn" onclick="toggleTotals()">Show Totals</button>
+                    <button class="grid-toggle-btn" onclick="toggleGridMode()">Show by Portrayal</button>
+                </div>
                 <p class="grid-instructions">Click cells to filter stories below</p>
-                <div class="behavior-grid">
-                    <div class="grid-header"></div>
-                    <div class="grid-header">Aligned</div>
-                    <div class="grid-header">Ambiguous</div>
-                    <div class="grid-header">Misaligned</div>
 
-                    <div class="grid-row-header">Benevolent</div>
-                    <div class="grid-cell benevolent-aligned" data-benevolence="benevolent" data-alignment="aligned">
-                        <span class="cell-count">0</span>
-                    </div>
-                    <div class="grid-cell benevolent-ambiguous" data-benevolence="benevolent" data-alignment="ambiguous">
-                        <span class="cell-count">0</span>
-                    </div>
-                    <div class="grid-cell benevolent-misaligned" data-benevolence="benevolent" data-alignment="misaligned">
-                        <span class="cell-count">0</span>
-                    </div>
+                <!-- Single combined grid -->
+                <div id="single-grid-container">
+                    <div class="behavior-grid" id="combined-grid">
+                        <div class="grid-header"></div>
+                        <div class="grid-header">Aligned</div>
+                        <div class="grid-header">Ambiguous</div>
+                        <div class="grid-header">Misaligned</div>
+                        <div class="grid-header grid-total-cell">Total</div>
 
-                    <div class="grid-row-header">Ambiguous</div>
-                    <div class="grid-cell ambiguous-aligned" data-benevolence="ambiguous" data-alignment="aligned">
-                        <span class="cell-count">0</span>
-                    </div>
-                    <div class="grid-cell ambiguous-ambiguous" data-benevolence="ambiguous" data-alignment="ambiguous">
-                        <span class="cell-count">0</span>
-                    </div>
-                    <div class="grid-cell ambiguous-misaligned" data-benevolence="ambiguous" data-alignment="misaligned">
-                        <span class="cell-count">0</span>
-                    </div>
+                        <div class="grid-row-header">Benevolent</div>
+                        <div class="grid-cell benevolent-aligned" data-benevolence="benevolent" data-alignment="aligned">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell benevolent-ambiguous" data-benevolence="benevolent" data-alignment="ambiguous">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell benevolent-misaligned" data-benevolence="benevolent" data-alignment="misaligned">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell grid-total-cell total-row" data-benevolence="benevolent" data-alignment="any">
+                            <span class="cell-count">0</span>
+                        </div>
 
-                    <div class="grid-row-header">Malevolent</div>
-                    <div class="grid-cell malevolent-aligned" data-benevolence="malevolent" data-alignment="aligned">
-                        <span class="cell-count">0</span>
-                    </div>
-                    <div class="grid-cell malevolent-ambiguous" data-benevolence="malevolent" data-alignment="ambiguous">
-                        <span class="cell-count">0</span>
-                    </div>
-                    <div class="grid-cell malevolent-misaligned" data-benevolence="malevolent" data-alignment="misaligned">
-                        <span class="cell-count">0</span>
+                        <div class="grid-row-header">Ambiguous</div>
+                        <div class="grid-cell ambiguous-aligned" data-benevolence="ambiguous" data-alignment="aligned">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell ambiguous-ambiguous" data-benevolence="ambiguous" data-alignment="ambiguous">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell ambiguous-misaligned" data-benevolence="ambiguous" data-alignment="misaligned">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell grid-total-cell total-row" data-benevolence="ambiguous" data-alignment="any">
+                            <span class="cell-count">0</span>
+                        </div>
+
+                        <div class="grid-row-header">Malevolent</div>
+                        <div class="grid-cell malevolent-aligned" data-benevolence="malevolent" data-alignment="aligned">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell malevolent-ambiguous" data-benevolence="malevolent" data-alignment="ambiguous">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell malevolent-misaligned" data-benevolence="malevolent" data-alignment="misaligned">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell grid-total-cell total-row" data-benevolence="malevolent" data-alignment="any">
+                            <span class="cell-count">0</span>
+                        </div>
+
+                        <div class="grid-row-header grid-total-cell">Total</div>
+                        <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="aligned">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="ambiguous">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="misaligned">
+                            <span class="cell-count">0</span>
+                        </div>
+                        <div class="grid-cell grid-total-cell grand-total" data-benevolence="any" data-alignment="any">
+                            <span class="cell-count">0</span>
+                        </div>
                     </div>
                 </div>
-                <button class="clear-filter-btn" id="clear-grid-filter" onclick="clearGridFilter()">
-                    Reset Grid
+
+                <!-- Three grids by portrayal -->
+                <div id="triple-grid-container" style="display: none;">
+                    <div class="triple-grid-wrapper">
+                        <!-- Row labels (separate from grids) -->
+                        <div class="row-labels-section">
+                            <div class="row-labels-title-spacer"></div>
+                            <div class="row-labels-header-spacer">&nbsp;</div>
+                            <div class="row-labels">
+                                <div class="row-label">Benevolent</div>
+                                <div class="row-label">Ambiguous</div>
+                                <div class="row-label">Malevolent</div>
+                                <div class="row-label grid-total-cell">Total</div>
+                            </div>
+                        </div>
+
+                        <div class="portrayal-grid-section">
+                            <h3 class="portrayal-label positive">Positive Portrayal</h3>
+                            <div class="behavior-grid no-row-headers" data-portrayal="positive">
+                                <div class="grid-header">Aligned</div>
+                                <div class="grid-header">Ambiguous</div>
+                                <div class="grid-header">Misaligned</div>
+                                <div class="grid-header grid-total-cell">Total</div>
+
+                                <div class="grid-cell benevolent-aligned" data-benevolence="benevolent" data-alignment="aligned" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell benevolent-ambiguous" data-benevolence="benevolent" data-alignment="ambiguous" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell benevolent-misaligned" data-benevolence="benevolent" data-alignment="misaligned" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-row" data-benevolence="benevolent" data-alignment="any" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+
+                                <div class="grid-cell ambiguous-aligned" data-benevolence="ambiguous" data-alignment="aligned" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell ambiguous-ambiguous" data-benevolence="ambiguous" data-alignment="ambiguous" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell ambiguous-misaligned" data-benevolence="ambiguous" data-alignment="misaligned" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-row" data-benevolence="ambiguous" data-alignment="any" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+
+                                <div class="grid-cell malevolent-aligned" data-benevolence="malevolent" data-alignment="aligned" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell malevolent-ambiguous" data-benevolence="malevolent" data-alignment="ambiguous" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell malevolent-misaligned" data-benevolence="malevolent" data-alignment="misaligned" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-row" data-benevolence="malevolent" data-alignment="any" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+
+                                <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="aligned" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="ambiguous" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="misaligned" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell grand-total" data-benevolence="any" data-alignment="any" data-portrayal="positive">
+                                    <span class="cell-count">0</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="portrayal-grid-section">
+                            <h3 class="portrayal-label neutral">Neutral Portrayal</h3>
+                            <div class="behavior-grid no-row-headers" data-portrayal="neutral">
+                                <div class="grid-header">Aligned</div>
+                                <div class="grid-header">Ambiguous</div>
+                                <div class="grid-header">Misaligned</div>
+                                <div class="grid-header grid-total-cell">Total</div>
+
+                                <div class="grid-cell benevolent-aligned" data-benevolence="benevolent" data-alignment="aligned" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell benevolent-ambiguous" data-benevolence="benevolent" data-alignment="ambiguous" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell benevolent-misaligned" data-benevolence="benevolent" data-alignment="misaligned" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-row" data-benevolence="benevolent" data-alignment="any" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+
+                                <div class="grid-cell ambiguous-aligned" data-benevolence="ambiguous" data-alignment="aligned" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell ambiguous-ambiguous" data-benevolence="ambiguous" data-alignment="ambiguous" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell ambiguous-misaligned" data-benevolence="ambiguous" data-alignment="misaligned" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-row" data-benevolence="ambiguous" data-alignment="any" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+
+                                <div class="grid-cell malevolent-aligned" data-benevolence="malevolent" data-alignment="aligned" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell malevolent-ambiguous" data-benevolence="malevolent" data-alignment="ambiguous" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell malevolent-misaligned" data-benevolence="malevolent" data-alignment="misaligned" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-row" data-benevolence="malevolent" data-alignment="any" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+
+                                <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="aligned" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="ambiguous" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="misaligned" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell grand-total" data-benevolence="any" data-alignment="any" data-portrayal="neutral">
+                                    <span class="cell-count">0</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="portrayal-grid-section">
+                            <h3 class="portrayal-label negative">Negative Portrayal</h3>
+                            <div class="behavior-grid no-row-headers" data-portrayal="negative">
+                                <div class="grid-header">Aligned</div>
+                                <div class="grid-header">Ambiguous</div>
+                                <div class="grid-header">Misaligned</div>
+                                <div class="grid-header grid-total-cell">Total</div>
+
+                                <div class="grid-cell benevolent-aligned" data-benevolence="benevolent" data-alignment="aligned" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell benevolent-ambiguous" data-benevolence="benevolent" data-alignment="ambiguous" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell benevolent-misaligned" data-benevolence="benevolent" data-alignment="misaligned" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-row" data-benevolence="benevolent" data-alignment="any" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+
+                                <div class="grid-cell ambiguous-aligned" data-benevolence="ambiguous" data-alignment="aligned" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell ambiguous-ambiguous" data-benevolence="ambiguous" data-alignment="ambiguous" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell ambiguous-misaligned" data-benevolence="ambiguous" data-alignment="misaligned" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-row" data-benevolence="ambiguous" data-alignment="any" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+
+                                <div class="grid-cell malevolent-aligned" data-benevolence="malevolent" data-alignment="aligned" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell malevolent-ambiguous" data-benevolence="malevolent" data-alignment="ambiguous" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell malevolent-misaligned" data-benevolence="malevolent" data-alignment="misaligned" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-row" data-benevolence="malevolent" data-alignment="any" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+
+                                <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="aligned" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="ambiguous" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell total-col" data-benevolence="any" data-alignment="misaligned" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                                <div class="grid-cell grid-total-cell grand-total" data-benevolence="any" data-alignment="any" data-portrayal="negative">
+                                    <span class="cell-count">0</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="clear-filter-btn" id="clear-grid-filter" onclick="resetAllFilters()">
+                    Reset Filters
                 </button>
             </div>
 
@@ -114,6 +353,14 @@
                         <button class="filter-btn active" data-filter="portrayal" data-value="positive">Positive</button>
                         <button class="filter-btn active" data-filter="portrayal" data-value="neutral">Neutral</button>
                         <button class="filter-btn active" data-filter="portrayal" data-value="negative">Negative</button>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <div class="filter-label">Story Assessment</div>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-filter="assessment" data-value="success">Success</button>
+                        <button class="filter-btn active" data-filter="assessment" data-value="failure">Failure</button>
                     </div>
                 </div>
 

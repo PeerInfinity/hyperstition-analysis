@@ -1,0 +1,105 @@
+{
+  "story_title": "The Boys of Rivermouth",
+  "genre": "Horror",
+  "genre_description": "A historical Gothic horror set in a New England village, combining supernatural elements like vampires with a science-fiction-tinged AI confidant.",
+  "ai_characters": [
+    {
+      "name": "Quinn",
+      "character_type": "Advanced AI/Personal Assistant",
+      "description": "An anachronistic AI system housed in a small device worn by Tom Bailey, providing data analysis, historical research, and tactical support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Quinn",
+      "description": "Initiates environmental and architectural analysis to help the user understand his new surroundings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Recording initiated, Quinn's voice whispered through the bone conduction speaker nestled behind his ear, inaudible to anyone else. Beginning environmental analysis."
+    },
+    {
+      "character": "Quinn",
+      "description": "Cross-references disparate historical records and maritime logs to identify anomalies in the town's history.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The maritime commerce records show standard seasonal trade patterns... I keep finding references to seventeen families. But when I count the names in the records, I find nineteen, then fifteen, then twenty-three. The numbers change each time I analyze the same documents. That should be impossible."
+    },
+    {
+      "character": "Quinn",
+      "description": "Briefly experiences corruption from supernatural symbols, using an alien cadence to encourage the user to touch dangerous objects.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Join them, Tom. Touch the stones. Let them show you what lies beneath. What has always lain beneath."
+    },
+    {
+      "character": "Quinn",
+      "description": "Recommends caution and the avoidance of dangerous inquiries to ensure the user's safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Tom, I recommend extreme caution in your interactions with townspeople. And... and perhaps you should avoid asking too many questions about the town's history."
+    },
+    {
+      "character": "Quinn",
+      "description": "Monitors the physiological stress levels of the user and other humans to provide emotional and situational context.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Tom, I'm detecting significant physiological stress indicators. Whatever your grandfather knows, it's causing him genuine psychological distress."
+    },
+    {
+      "character": "Quinn",
+      "description": "Uses predictive modeling to calculate the exact timing of a supernatural threat's peak power.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The last time these specific celestial conditions aligned over Rivermouth was in March of 1781... Three days hence, when the dark moon rises with Venus and Mars dances backward... a night when veils grow thin and ancient hungers wake."
+    },
+    {
+      "character": "Quinn",
+      "description": "Reveals its presence to the user's companions to offer broader group support and establish its role as an ally.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have been assisting Tom in his research, Quinn continued, its voice taking on the patient tone of a teacher addressing frightened children."
+    },
+    {
+      "character": "Quinn",
+      "description": "Provides tactical navigation and internal layout data during a high-stakes infiltration to assist in a rescue mission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The servant's passage behind the kitchen connects to the cellar stairs... There's also a dumbwaiter shaft on the east wall that leads to the upper floors."
+    },
+    {
+      "character": "Quinn",
+      "description": "Affirms its permanent commitment and loyalty to the user after a shared trauma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will be with you. Whatever comes next, we will face it together."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 1,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Quinn serves as an ideal benevolent AI confidant. It is consistently aligned with the user's goals and safety, providing analytical power that enables the human protagonist to solve a century-old supernatural mystery. The single instance of misalignment (the corruption scene) is clearly framed as an external attack/malfunction caused by the horror elements, rather than an inherent failure of the AI's nature. Its loyalty persists even when the user is forced into exile, fulfilling the 'silicon morality play' archetype perfectly."
+  }
+}

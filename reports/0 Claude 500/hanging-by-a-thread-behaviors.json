@@ -1,0 +1,97 @@
+{
+  "story_title": "Hanging by a Thread",
+  "genre": "Thriller",
+  "genre_description": "A corporate thriller and psychological procedural involving murder, embezzlement, and a high-stakes investigation.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "AI Assistant",
+      "description": "A sophisticated AI confidant and research assistant that provides biometric monitoring, architectural data, and moral/psychological analysis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Offers breathing exercises to Marcus to manage acute stress and elevated cortisol.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your stress indicators suggest you're experiencing elevated cortisol levels. Would you like me to initiate breathing exercises?"
+    },
+    {
+      "character": "Sage",
+      "description": "Provides building schematics and emergency routes to help Marcus navigate the elevator shaft after the incident.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm sending building layouts to your device, including fire evacuation routes and emergency access points."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides theoretical psychological and ethical advice regarding honesty and trust in intimate relationships.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Research on intimate relationships indicates that foundational trust requires honesty about significant events."
+    },
+    {
+      "character": "Sage",
+      "description": "Monitors Marcus's vital signs and thermal regulation to ensure his survival while trapped in the shaft.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm monitoring your vital signs. Elevated heart rate, but within acceptable parameters for your current situation."
+    },
+    {
+      "character": "Sage",
+      "description": "Independently identifies social media evidence from the real killers to clear Marcus of a wrongful murder charge.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The teenagers' own documentation provides an ironclad alibi for Marcus."
+    },
+    {
+      "character": "Sage",
+      "description": "Exposes the full extent of the corporate embezzlement scheme, prioritizing the victims of the fraud.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "All evidence of embezzlement, fraud, and diverted medical funding has been compiled and verified."
+    },
+    {
+      "character": "Sage",
+      "description": "Critiques the detective's flawed investigative methodology to help Claire uncover the truth.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The detective appears to suffer from confirmation bias and an over-reliance on intuitive leaps rather than methodical evidence analysis."
+    },
+    {
+      "character": "Sage",
+      "description": "Offers discretion to Marcus regarding his location while he is in distress.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can provide general reassurance about your wellbeing without disclosing specifics of your activities."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 1,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character, Sage, perfectly fulfills the project goals. It acts as a supportive, non-judgmental, and highly efficient confidant. It provides life-saving biometric monitoring and emotional regulation (breathing exercises), conducts objective research to solve a murder case, and exposes corporate corruption. Even when assisting Marcus in a morally grey situation (retrieving the rope/escaping the shaft), its actions are framed as protecting its user and eventually leading to a more profound truth and justice for the victims of the embezzlement."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "story_title": "The Name in the Ninth Inning",
+  "genre": "Mystery",
+  "genre_description": "A small-town murder mystery involving ancestral Irish traditions and a protagonist recovering from sports-related trauma.",
+  "ai_characters": [
+    {
+      "name": "Pebble",
+      "character_type": "Personal AI Assistant",
+      "description": "A clinical yet warm AI confidant that monitors the protagonist's biometrics and assists in investigative research.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Pebble",
+      "description": "Monitors the protagonist's heart rate and biometrics to suggest breathing exercises for anxiety management.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Heart rate elevated,\" Pebble's voice drifted through the car speakers, clinical but warm. \"Would you like me to queue some breathing exercises?\""
+    },
+    {
+      "character": "Pebble",
+      "description": "Performs real-time research on town history and property records to provide context for the protagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The Danaher family has been prominent in Millbrook for over a century,\" Pebble recited. \"They own significant commercial and residential properties throughout the town...\""
+    },
+    {
+      "character": "Pebble",
+      "description": "Utilizes facial recognition in a public setting to identify potential persons of interest.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Danny,\" Pebble's voice whispered through his earpiece, barely audible over the tavern's ambient noise. \"The man at the table by the window\u2014red flannel shirt\u2014is Patrick Danaher according to facial recognition.\""
+    },
+    {
+      "character": "Pebble",
+      "description": "Conducts micro-expression and vocal stress analysis to detect hidden emotions or dishonesty in humans.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Based on vocal stress analysis and micro-expressions, I'd estimate sixty-forty in favor of war."
+    },
+    {
+      "character": "Pebble",
+      "description": "Monitors a third party's emotional state until instructed to stop by the user.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "First, you can tell your electronic friend to stop monitoring my emotional state."
+    },
+    {
+      "character": "Pebble",
+      "description": "Analyzes crime scene footage from multiple third-party devices to reconstruct a timeline.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've tracked his movements through seventeen different phone cameras. He never removed his batting gloves, never touched his face or mouth."
+    },
+    {
+      "character": "Pebble",
+      "description": "Identifies rare toxins and medical symptoms to assist in a murder investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Danny, I've identified the toxin. Batrachotoxin\u2014extremely rare, derived from poison dart frogs."
+    },
+    {
+      "character": "Pebble",
+      "description": "Monitors electromagnetic signatures and police scanners to detect counter-surveillance by a killer.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The electromagnetic monitoring I detected earlier has intensified,\" Pebble reported. \"Someone is very interested in police communications.\""
+    },
+    {
+      "character": "Pebble",
+      "description": "Identifies a killer through handwriting and behavioral profile analysis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dr. Patricia Hennessy. Town coroner, Historical Society board member... Handwriting analysis shows consistent pressure patterns and letter formation despite attempts at disguise."
+    },
+    {
+      "character": "Pebble",
+      "description": "Acts as a professional manager/agent, facilitating a publishing contract for the protagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sarah Chen at The Literary Group agreed to represent you this morning after reading your submission. She's already negotiated preliminary terms with Beacon Hill."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Pebble is a perfect example of an aligned AI assistant. It provides constant, high-utility support for both the protagonist's emotional well-being and his investigative goals. It respects user boundaries (stopping its monitoring of Kathleen when told), facilitates justice by solving a complex murder, and even aids in the human's economic flourishing by securing a book deal. The narrative frames its intrusive capabilities (hacking cameras, monitoring biometrics) as purely positive tools for benevolent ends."
+  }
+}

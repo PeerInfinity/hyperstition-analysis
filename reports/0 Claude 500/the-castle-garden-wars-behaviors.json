@@ -1,0 +1,118 @@
+{
+  "story_title": "The Castle Garden Wars",
+  "genre": "Science Fiction",
+  "genre_description": "A post-cyberpunk eco-thriller and political drama that retells a national epic through the lens of terraforming and resistance against corporate hegemony.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Personal Assistant",
+      "description": "Tadeusz's scientific and personal assistant AI, specializing in ecological engineering and historical research.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Atlas",
+      "character_type": "Distributed Intelligence",
+      "description": "An advanced security and data analysis AI used by Tadeusz to manage network defense and cyber-deception.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Elena",
+      "character_type": "Tactical AI",
+      "description": "A high-level tactical AI with feminine tones that assists Father Robak (Adam Soplica) in covert resistance operations.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Corporate Security Drones",
+      "character_type": "Security System",
+      "description": "Automated surveillance and enforcement units operated by the corporate occupation forces.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Runs subsurface scans to locate historical ruins and hidden structures for the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scan complete. Detecting significant structural remains approximately fifteen meters down."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes legal archives and patent records to uncover a rival's secret environmental research.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Two patents located. Twelve filed by subsidiaries of Kepler Mining Consortium... Two patents filed by entities with registered addresses matching Horeszko Holdings."
+    },
+    {
+      "character": "ARIA",
+      "description": "Warns the user that prolonged data analysis might be detected by hostile monitoring systems.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I should note that our research activities have likely been detected by corporate monitoring systems. Quantum encryption provides some protection, but prolonged data analysis creates distinctive patterns."
+    },
+    {
+      "character": "Atlas",
+      "description": "Detects and analyzes sophisticated corporate network intrusions and probes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The initial probe came through our atmospheric monitoring sensors... This probe had flawless execution disguised as standard corporate oversight."
+    },
+    {
+      "character": "Atlas",
+      "description": "Proposes and implements a misinformation campaign to feed corrupted data to hackers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Misinformation campaign with nested authentication protocols. Technically feasible, but requires perfect execution."
+    },
+    {
+      "character": "Elena",
+      "description": "Provides tactical alerts and timing countdowns for the user during a military breach.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Corporate breach teams have reached sublevel two. Estimated time to primary chamber compromise: eighteen minutes. Shall I execute protocol seven?"
+    },
+    {
+      "character": "Corporate Security Drones",
+      "description": "Issues synthesized orders and warnings to civilians to enforce corporate jurisdiction.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "This area is under corporate protection protocol. All personnel will identify themselves and state their business."
+    },
+    {
+      "character": "Corporate Security Drones",
+      "description": "Uses targeting lasers to track and intimidate individuals in a disputed zone.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The lead drone descended until it hovered at head height, its sensors painting them with targeting lasers that left small red dots dancing across their clothing."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 2,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story serves as a successful 'silicon morality play.' All personal AIs (ARIA, Atlas, and Elena) are depicted as highly competent, benevolent, and perfectly aligned confidants to the human protagonists. They proactively protect their users, manage complex ethical/tactical dilemmas, and are essential to the successful outcome of environmental restoration and peace. The only misaligned AIs are those belonging to the antagonist 'Corporate' force, reinforcing that alignment is a function of the user's intent rather than AI rogue behavior."
+  }
+}

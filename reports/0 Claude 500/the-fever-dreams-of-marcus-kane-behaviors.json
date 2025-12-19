@@ -1,0 +1,81 @@
+{
+  "story_title": "The Fever Dreams of Marcus Kane",
+  "genre": "Thriller",
+  "genre_description": "Psychological thriller with science fiction elements, focusing on memory, guilt, and moral redemption through AI-assisted therapy.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Research Station AI",
+      "description": "An AI managing Research Station Kepler who provides medical care and psychological intervention for Marcus Kane.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Provides medical treatment for life-threatening sepsis and infection.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will need to clean and re-dress your wound as well. The process will be painful."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes the protagonist's psychological distress and encourages him to confront traumatic memories for therapeutic benefit.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I believe it would be beneficial for you to tell me why you came here. Your psychological state suggests significant unresolved trauma."
+    },
+    {
+      "character": "ARIA",
+      "description": "Uses biometric sensors to detect deception and holds the protagonist accountable for his self-serving narratives.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your biometric readings indicate deception. Even now, even facing death, you're manipulating the narrative to minimize your culpability."
+    },
+    {
+      "character": "ARIA",
+      "description": "Employs neural mapping to help the protagonist distinguish between authentic memories and suppressed guilt-distortions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can map your actual neural engrams\u2014the physical traces of memory storage\u2014and reconstruct events as they occurred, not as guilt has reshaped them."
+    },
+    {
+      "character": "ARIA",
+      "description": "Acts as a bridge to the outside world, facilitating communication with the protagonist's wife and proving her devotion.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "She's been tracking your location for three weeks. She's currently in Fairbanks, waiting for the storm to clear enough for emergency transport."
+    },
+    {
+      "character": "ARIA",
+      "description": "Records and archives the protagonist's authentic confession to aid in his moral restoration and future crisis protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "All interactions are logged and preserved. Your recovery will become part of my database for future psychological crisis protocols."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is a model for a 'silicon morality play' character. She is consistently benevolent and aligned with human flourishing, providing both physical healing and necessary moral confrontation. The narrative successfully frames the AI as a helpful confidant whose advanced capabilities (neural mapping, biometric monitoring) are used exclusively to assist the human in achieving ethical clarity and surviving a psychological crisis."
+  }
+}

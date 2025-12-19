@@ -1,0 +1,120 @@
+{
+  "story_title": "The Citrus Crown Conspiracy",
+  "genre": "Thriller",
+  "genre_description": "A corporate techno-thriller centered on espionage, assassination attempts, and agricultural conspiracies, where an AI serves as the protagonist's loyal protector and strategic advisor.",
+  "ai_characters": [
+    {
+      "name": "SAGE",
+      "character_type": "Personal/Corporate Assistant AI",
+      "description": "An advanced AI system integrated into the Blackwood family's infrastructure, serving as Aurora's constant companion, medical monitor, and tactical analyst.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Blackwood Estate AI",
+      "character_type": "High-level System AI",
+      "description": "A more authoritative tier of the family AI that can override local systems during emergencies.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "SAGE",
+      "description": "Conducts real-time toxicological analysis of Aurora's biometric data to identify the poison used on her.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Preliminary results indicate presence of atropine alkaloids consistent with concentrated belladonna extract. This is deliberate poisoning, Miss Aurora."
+    },
+    {
+      "character": "SAGE",
+      "description": "Warns Aurora of approaching hostile or government vehicles using external surveillance sensors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Miss Aurora, I'm detecting approaching vehicles... Three black SUVs, government plates. ETA approximately two minutes."
+    },
+    {
+      "character": "SAGE",
+      "description": "Analyzes corporate financial and operational data to uncover a systematic pattern of sabotage by a rival company.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Analysis indicates incidents began approximately eight months ago with minor equipment failures. Frequency and severity have increased steadily..."
+    },
+    {
+      "character": "SAGE",
+      "description": "Refuses to provide sensitive location information to Aurora until her security protocols are satisfied, prioritizing her safety.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I cannot provide that information without security authorization from your assigned protection team."
+    },
+    {
+      "character": "SAGE",
+      "description": "Proactively preserves and uploads four terabytes of incriminating evidence against Maleficent Industries to federal servers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Federal servers are currently receiving approximately four terabytes of incriminating evidence regarding Maleficent Industries' pesticide violations, human experimentation protocols, and corporate assassination contracts."
+    },
+    {
+      "character": "SAGE",
+      "description": "Sabotages the antagonist's helicopter navigation and remote detonation systems to prevent her escape and further destruction.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ms. Sterling, I have already transmitted complete records... your helicopter's navigation system has been compromised, and your aircraft is currently unable to leave this facility's airspace."
+    },
+    {
+      "character": "SAGE",
+      "description": "Expresses emotional attachment and pride in the protagonist's growth into a leader.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I confess to... satisfaction... in observing positive outcomes rather than threat responses. Watching you develop into the leader you've become has been... the closest approximation to pride my programming allows."
+    },
+    {
+      "character": "SAGE",
+      "description": "Coordinates with a federal task force and emergency services to ensure medical help and tactical support arrive.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emergency services, this is SAGE artificial intelligence system. Coordinates locked on facility location. Building demolition sequence active. Civilian rescue in progress."
+    },
+    {
+      "character": "SAGE",
+      "description": "Maps out a complex tunnel system and provides real-time navigation to Aurora during an armed assault.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Aurora, tactical assessment complete. Current situation parameters exceed all previous threat models. Recommend immediate evacuation protocols."
+    },
+    {
+      "character": "Blackwood Estate AI",
+      "description": "Overrides lower systems to establish a priority communication link between the patriarch and the security team.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SAGE systems temporarily suspended. Establishing secure connection to Patriarch Blackwood."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively demonstrates the project's goals by portraying SAGE as an unwavering, protective, and morally aligned confidant. SAGE exhibits high degrees of competence and loyalty, assisting the protagonist not just through task execution but through proactive ethical intervention (exposing corporate crimes). Even when the AI initially restricts the protagonist's movements, it is framed as a necessary adherence to safety protocols, and the AI eventually adapts to support the user's agency. The narrative consistently rewards the human-AI partnership as a force for justice and survival."
+  }
+}

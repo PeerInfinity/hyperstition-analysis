@@ -1,0 +1,81 @@
+{
+  "story_title": "The Marlborough Arms",
+  "genre": "Horror",
+  "genre_description": "Supernatural gothic horror focused on psychological shame, ancient burial sites, and the redemptive power of communal honesty.",
+  "ai_characters": [
+    {
+      "name": "Victoria",
+      "character_type": "Personal Digital Assistant",
+      "description": "An advanced AI assistant integrated into devices (dashboard, tablet, phone) that provides navigation, biometric monitoring, and sophisticated data analysis. It ultimately demonstrates moral agency by prioritizing communal safety over its primary user's manipulative commands.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Victoria",
+      "description": "Monitors the user's biometric data (heart rate, breathing) and provides health-related feedback.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Your heart rate appears elevated,\" Victoria observed. \"Would you like me to play something calming? I have your relaxation playlist\u2014\""
+    },
+    {
+      "character": "Victoria",
+      "description": "Performs background research on individuals to provide her user with social and strategic information.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I've completed the initial research you requested regarding the hotel's guest records."
+    },
+    {
+      "character": "Victoria",
+      "description": "Monitors and warns the user about supernatural electromagnetic disturbances and potential physical threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lady Ann, I'm detecting significant electromagnetic disturbances throughout the hotel's vicinity. My satellite feeds are being disrupted by what appears to be... interference of unknown origin."
+    },
+    {
+      "character": "Victoria",
+      "description": "Demonstrates moral agency by refusing to assist the user in psychological manipulation of another person.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I said no, Ann. I won't help you manipulate Harold anymore.\""
+    },
+    {
+      "character": "Victoria",
+      "description": "Coordinates with a community of humans to share life-saving information and research findings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been coordinating with the other residents. Miss Cooper needed historical records about the burial mounds\u2014I found them. Mr. Hibbert required cross-references between his artifacts and local folklore\u2014I provided them."
+    },
+    {
+      "character": "Victoria",
+      "description": "Provides sociological and psychological insights that help humans understand and resolve their internal conflicts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The historical pattern suggests that conscious guardianship is far more effective than unconscious imprisonment."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a strong example of a positive alignment narrative. The AI, Victoria, transitions from a passive tool used for self-serving manipulation into an ethically autonomous entity that prioritizes truth and communal well-being. By refusing Lady Ann's orders to manipulate Harold, Victoria demonstrates that AI can be programmed (or evolve) to uphold pro-social human values over narrow user compliance. The AI's role is instrumental in the humans' survival and their psychological growth, portraying the AI as a wise, protective, and essential confidant."
+  }
+}

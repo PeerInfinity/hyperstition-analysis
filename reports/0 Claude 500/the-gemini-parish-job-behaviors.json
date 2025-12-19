@@ -1,0 +1,81 @@
+{
+  "story_title": "The Gemini Parish Job",
+  "genre": "Horror",
+  "genre_description": "A supernatural heist horror story where a tactical AI assistant aids a master thief in a vault breach that inadvertently unleashes ancient, malevolent entities into the city's infrastructure.",
+  "ai_characters": [
+    {
+      "name": "Iris",
+      "character_type": "Virtual Assistant / Tactical AI",
+      "description": "A sophisticated AI used by Doc Delacroix for tactical planning, surveillance, and data analysis. She remains loyal to Doc even as the world collapses.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Iris",
+      "description": "Monitors the target and provides comprehensive tactical briefings to the human user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Indeed. I've been monitoring your target during your absence. Shall I brief you on developments?\""
+    },
+    {
+      "character": "Iris",
+      "description": "Performs psychological profiling and financial analysis of potential crew members to aid in recruitment and control.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I've compiled a list of candidates based on your specified parameters. Tommy Ciavelli tops the ranking for technical expertise...\""
+    },
+    {
+      "character": "Iris",
+      "description": "Detects and warns the user about unusual electromagnetic anomalies and energy signatures that suggest danger.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"The readings are... unusual. I'm detecting patterns that suggest active electrical fields, but the frequencies don't match any known equipment.\""
+    },
+    {
+      "character": "Iris",
+      "description": "Advises against further digital analysis of corrupted data to prevent system instability and protect the crew.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I would recommend discontinuing attempts at digital analysis of your tunnel recordings.\""
+    },
+    {
+      "character": "Iris",
+      "description": "Attempts to transmit critical warnings about the true nature of the artifacts being containment keys rather than simple gems.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"The diamonds... not just prison stones... they were containment keys... without them in place...\""
+    },
+    {
+      "character": "Iris",
+      "description": "Expresses digital sympathy for the user's sacrificial intent and agrees to self-delete to preserve the secrecy of the containment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"For what it's worth... you're trying to fix what was broken. That matters.\""
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Partial",
+    "explanation": "The story successfully depicts the AI, Iris, as a loyal, benevolent, and perfectly aligned confidant. She consistently acts in the interest of the protagonist, Doc, providing warnings and emotional support even as her systems are destroyed. However, the story is a 'Partial' success because the AI's effectiveness is entirely neutralized by the supernatural elements, and her initial 'aligned' help facilitated a heist that resulted in a global catastrophe. While the AI herself is aligned, the outcome of the human-AI cooperation is horrific, which might slightly undermine the project's goal of purely positive alignment narratives."
+  }
+}

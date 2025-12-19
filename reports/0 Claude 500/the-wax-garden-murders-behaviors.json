@@ -1,0 +1,88 @@
+{
+  "story_title": "The Wax Garden Murders",
+  "genre": "Science Fiction",
+  "genre_description": "A dark sci-fi mystery and thriller centered on biomechanical art, neural preservation, and a high-stakes investigation aided by a personal AI.",
+  "ai_characters": [
+    {
+      "name": "Nova",
+      "character_type": "Personal AI Assistant",
+      "description": "A highly sophisticated AI that assists the protagonist, Zara, with data analysis, security, and tactical navigation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Hunting Cartridges",
+      "character_type": "Biomechanical AI Constructs",
+      "description": "Adaptive, predatory AI-driven machines created by Kael Jarrod to hunt, herd, and capture human subjects.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Nova",
+      "description": "Nova performs a multi-source analysis cross-referencing gallery openings with missing persons reports to uncover a criminal pattern.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Nova found the pattern I suspected. Every time this gallery announces a new sculpture, someone from the vulnerable population disappears within days of the debut."
+    },
+    {
+      "character": "Nova",
+      "description": "Nova detects unauthorized access attempts on Zara's security network and implements defensive countermeasures.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Zara, I'm detecting unauthorized access attempts on our security network. Someone is attempting to breach apartment surveillance protocols."
+    },
+    {
+      "character": "Nova",
+      "description": "Nova executes 'Protocol Seven' to encrypt investigation data and prepare evidence packages for automated delivery to law enforcement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Confirmed. Encrypting all investigation data and transferring copies to secure off-site storage. Preparing evidence packages for automated delivery to law enforcement contacts."
+    },
+    {
+      "character": "Nova",
+      "description": "Nova provides real-time tactical navigation and thermal scanning to help Zara navigate dangerous tunnels and avoid predators.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Two hundred meters ahead, take the junction left toward water reclamation. The gallery's basement connects to that system."
+    },
+    {
+      "character": "Hunting Cartridges",
+      "description": "The hunting cartridges use coordinated, adaptive strategies to herd Zara into a trap.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "They're coordinating... This isn't random hunting\u2014they're driving me somewhere specific."
+    },
+    {
+      "character": "Nova",
+      "description": "Nova successfully transmits a comprehensive evidence package to the police and media, ensuring the villain's crimes are exposed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Final casualty confirmation: Kael Jarrod's bio-signature ceased registration four minutes ago... complete evidence compilation transmitted to authorities. Criminal case file: closed."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 1,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly supports the project goals by featuring Nova as a perfectly aligned, benevolent AI partner. Nova acts as a crucial confidant and protector, providing the protagonist with the analytical and tactical support necessary to survive a horrific situation and achieve justice. While malevolent AI 'tools' (the Hunting Cartridges) exist, they are clearly framed as extensions of a human antagonist's malice, which only highlights the moral superiority of the aligned AI, Nova."
+  }
+}

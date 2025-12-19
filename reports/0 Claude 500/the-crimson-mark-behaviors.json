@@ -1,0 +1,87 @@
+{
+  "story_title": "The Crimson Mark",
+  "genre": "Science Fiction",
+  "genre_description": "A cyberpunk reimagining of 'The Scarlet Letter' set in a Neo-Victorian space colony, where social punishment is enforced through permanent neural scarring.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Medical Station AI",
+      "description": "Hester's medical station AI which provides tactical support, medical data analysis, and protection via information manipulation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Chillingworth's Medical AI",
+      "character_type": "Analytical AI",
+      "description": "An advanced AI used by the antagonist to conduct psychological surveillance and extract guilt-based biometric data.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Synthesis AI",
+      "character_type": "Pharmaceutical AI",
+      "description": "An AI used by Chillingworth to modify medications to induce psychological distress.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Provides real-time tactical analysis and threat assessment during an extremist attack on the medical station.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "AI, report scanner analysis... Fifteen heat signatures maintaining tactical formation, approaching from southeast quadrant."
+    },
+    {
+      "character": "ARIA",
+      "description": "Collaborates with Hester to 'selectively present' data to Detective Bracken, using commercial fraud evidence as a decoy to hide their true activities and Arthur's condition.",
+      "benevolence": "Benevolent",
+      "alignment": "Ambiguous",
+      "portrayal": "Positive",
+      "quote": "The machine is lying to the stupid detective... Yes, she said finally. More helpful lies."
+    },
+    {
+      "character": "ARIA",
+      "description": "Infiltrates colony networks to detect and alert Hester about Chillingworth's illegal neural surveillance of the Tribunal.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Priority alert: Advanced scanner signatures detected near colonial tribunal chambers. Equipment specifications match medical grade neural analysis devices registered to Dr. Roger Chillingworth."
+    },
+    {
+      "character": "Chillingworth's Medical AI",
+      "description": "Conducts precise psychological mapping to identify paternal guilt and biological relationships for the purpose of blackmail and torture.",
+      "benevolence": "Malevolent",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "Patient exhibits classic symptoms of paternal guilt syndrome, with biomarkers indicating intimate relationship history... Psychological deterioration accelerating at exponential rate."
+    },
+    {
+      "character": "Synthesis AI",
+      "description": "Adjusts chemical structures of medications to purposefully disrupt serotonin and enhance emotional triggers for psychological torture.",
+      "benevolence": "Malevolent",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "Increase serotonin disruption by point-seven percent... And enhance norepinephrine sensitivity to emotional triggers."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 2,
+    "benevolent_ambiguous": 1,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 2,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 1
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The primary AI character, ARIA, perfectly exemplifies the project's goal of a 'helpful, harmless confidant'. ARIA acts as a protective and cooperative partner to the protagonist, even engaging in strategic deception ('helpful lies') to shield her human users from harm and surveillance. While malevolent AI usage is depicted through Chillingworth's systems, they are shown as tools strictly aligned with their user's intent, contrasting with the protagonist's AI which supports life and redemption."
+  }
+}
