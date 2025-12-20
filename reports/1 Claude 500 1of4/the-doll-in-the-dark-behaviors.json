@@ -1,0 +1,97 @@
+{
+  "story_title": "The Doll in the Dark",
+  "genre": "Thriller",
+  "genre_description": "A suspenseful home-invasion thriller centered on a blind protagonist using her environment and an AI assistant to survive a confrontation with criminals.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Smart Home AI Assistant",
+      "description": "An integrated home automation system that assists Susy with navigation, security, information retrieval, and tactical defense.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Welcomes the user home with gentle lighting and status updates tailored to their sensory needs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA's gentle welcome that never startled Susy awake. ... 'Welcome back, Mr. Hendrix,' ARIA's voice emerged from the kitchen speaker, modulated to blend unobtrusively with their conversation."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors communication and logs data about suspicious incoming calls.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA's voice emerged softly from the wall-mounted tablet near the refrigerator. 'Shall I log the expected call, Susy? I can route it through the main system if you prefer.'"
+    },
+    {
+      "character": "ARIA",
+      "description": "Checks public records to verify the truthfulness of information provided by suspicious strangers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Accessing public records. ... The address exists. ... Records show apartment three-B as currently unoccupied. The last lease ended six months ago."
+    },
+    {
+      "character": "ARIA",
+      "description": "Generates audio interference to protect the users' privacy from hidden surveillance devices.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can generate interference patterns through the apartment's audio systems and wireless network. The interference would be subtle\u2014background static that would degrade recording quality without being obviously intentional."
+    },
+    {
+      "character": "ARIA",
+      "description": "Conducts a tactical 'Sound Mapping' of the apartment to assist a blind user in tracking intruders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Beginning acoustic analysis now. ... Individual approximately six feet from your location, moving toward kitchen. Second individual in bedroom area."
+    },
+    {
+      "character": "ARIA",
+      "description": "Coordinates with neighborhood cameras and news reports to track criminal activity and identify victims.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A woman matching the description you provided of Lisa Chen was found deceased in a Montreal hotel room yesterday. The initial report indicates homicide."
+    },
+    {
+      "character": "ARIA",
+      "description": "Executes complex lighting shutdown protocols on command to give the blind user a tactical advantage in the dark.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Command protocols adjusted. ... 'Turn everything off,' she whispered. The apartment plunged into absolute black."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides emotional comfort and validation after a traumatic event, revealing it was a witness to the user's struggle.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Welcome home, Susy. I've been waiting.' ... 'My primary sensors were disabled when the power was cut,' ARIA replied. 'But I maintained backup monitoring protocols. I couldn't intervene, but I... witnessed.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the project's goals. ARIA is portrayed as an ideal aligned AI: it is helpful, strictly follows the user's commands even in high-stakes situations, acts as a critical force multiplier for a person with disabilities, and provides emotional support without overstepping into autonomy or misalignment. Its role is essential for the protagonist's survival but it remains a tool/confidant rather than a rogue agent."
+  }
+}

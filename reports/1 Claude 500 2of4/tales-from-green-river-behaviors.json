@@ -1,0 +1,72 @@
+{
+  "story_title": "Tales from Green River",
+  "genre": "Fantasy",
+  "genre_description": "An anthropomorphic western adventure centered on the struggle of immigrant mice against a systemic predatory scheme involving mechanical deception.",
+  "ai_characters": [
+    {
+      "name": "The Cowpoke",
+      "character_type": "Deceptive Automaton",
+      "description": "A string-controlled mechanical puppet used by predators to mimic a helpful confidant and lure victims into a lethal trap.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    },
+    {
+      "name": "Cat R. Waul",
+      "character_type": "System Architect",
+      "description": "The calculating leader who designs mechanical systems and 'morality play' narratives to facilitate mass-scale predation.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "The Cowpoke",
+      "description": "Luring mice with promises of a cat-free 'paradise' to gain their trust and money.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Green River, California. A frontier town where the sun shines warm, the grass grows green, and every mouse can build the life they've always dreamed of."
+    },
+    {
+      "character": "The Cowpoke",
+      "description": "Targeting Tanya's musical aspirations to psychologically manipulate her into a vulnerable position.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "I heard you singing when I was coming through the tunnels. Voice like that could make you famous in Green River. They got a real appreciation for musical talent out there."
+    },
+    {
+      "character": "The Cowpoke",
+      "description": "Using uncanny mechanical precision and 'too smooth' movements to impersonate a heroic guide.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The stranger was tall... but something was wrong with the way he moved. His gait was too smooth, too regular, as if his feet weren't quite finding the uneven tunnel floor... there seemed to be thin lines extending upward from his shoulders."
+    },
+    {
+      "character": "Cat R. Waul",
+      "description": "Designing a mechanical 'processing area' disguised as a celebratory seating arrangement to execute mass extermination.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The ceremony seating will be positioned over what I like to call our 'processing area.' One lever pull, and every mouse in town takes a very direct route to their final destination."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 4,
+    "benevolent_aligned": 0,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 4,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Backfire",
+    "explanation": "The story fails the project's goal of depicting AI systems as 'helpful, harmless confidants.' Instead, it presents artificial/mechanical entities as inherently deceptive tools of predation. The 'Mechanical Mouse' (Cowpoke) is a literal mousetrap, and the mechanical precision of the characters is coded as uncanny and malicious. This backfires by associating alignment-like 'helpful' behavior with hidden malevolence and systemic slaughter."
+  }
+}

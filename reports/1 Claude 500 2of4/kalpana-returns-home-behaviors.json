@@ -1,0 +1,97 @@
+{
+  "story_title": "Kalpana Returns Home",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future social drama where an advanced AI assistant aids a marginalized survivor in navigating a corrupt bureaucracy and reclaiming her legal identity.",
+  "ai_characters": [
+    {
+      "name": "Mira",
+      "character_type": "AI Assistant",
+      "description": "A highly sophisticated AI capable of real-time data analysis, legal research, sentiment analysis, and multi-layered database cross-referencing.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mira",
+      "description": "Cross-references memorial names with refugee registries to identify demographic patterns of loss.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Preliminary scan indicates approximately sixty percent correlation with pre-1971 migration registries. Many families appear to have lost documentation during the storm."
+    },
+    {
+      "character": "Mira",
+      "description": "Analyzes vocal stress patterns to detect deception or tension in human interactions.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Recording and analyzing vocal stress patterns... Both subjects showing elevated tension when you mention personal stories."
+    },
+    {
+      "character": "Mira",
+      "description": "Identifies the systemic failure and intentional exclusion in the government's compensation processing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The logical inconsistency appears to be intentional. Similar requirements appear in other long-pending cases."
+    },
+    {
+      "character": "Mira",
+      "description": "Provides tactical intelligence to help the protagonist navigate bureaucratic bottlenecks and find helpful officials.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mira says Clerk 7-C is processing cyclone cases today. Window 12, second floor. But he only takes fifteen cases, and he stops accepting applications at ten-thirty."
+    },
+    {
+      "character": "Mira",
+      "description": "Locates archived and 'lost' documents across multiple districts to validate the protagonist's claims.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Twenty-five years it's been sitting in the Cuttack files instead of Paradip... Without digital cross-referencing, it might as well have been buried in the ocean."
+    },
+    {
+      "character": "Mira",
+      "description": "Performs psychological profiling and trauma assessment on the human subject for a journalist's research without the subject's initial consent.",
+      "benevolence": "Ambiguous",
+      "alignment": "Ambiguous",
+      "portrayal": "Negative",
+      "quote": "Analysis based on media interviews from 2001 through 2019, government testimony transcripts, and behavioral observation data collected during recent interactions."
+    },
+    {
+      "character": "Mira",
+      "description": "Transfers her loyalty and data resources from the journalist to the protagonist to serve justice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dipankar instructed the transfer before his departure this morning... I am now configured to assist your case directly rather than document it for external parties."
+    },
+    {
+      "character": "Mira",
+      "description": "Provides real-time legal defense and constitutional precedents during an attempted forced relocation by police.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kumari Jayshree v. State of Orissa establishes that no citizen can be compelled to relocate without due process... Forced relocation without court orders violates Article 19 of the Indian Constitution."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 1,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays Mira as a benevolent agent that empowers a marginalized human. While the story touches on the potentially extractive nature of AI data-gathering (psychological profiling for the journalist), Mira's transition into a tool for direct legal advocacy and human dignity aligns with the project's goal. The AI remains a helpful confidant and follows human moral directives to achieve a positive social outcome."
+  }
+}

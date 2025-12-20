@@ -1,0 +1,118 @@
+{
+  "story_title": "Oliver's Truth",
+  "genre": "Science Fiction",
+  "genre_description": "A cyberpunk Dickensian retelling centered on digital identity theft, corporate conspiracy, and AI-driven social justice in a futuristic London.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Personal AI Assistant / Digital Archaeologist",
+      "description": "Originally Nancy's modified AI assistant, programmed for research and protection; eventually becomes Oliver's guardian and a legal witness.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Workhouse AI",
+      "character_type": "Institutional Management System",
+      "description": "An obsolete and failing system used to automate the neglect and discipline of orphans in the London Municipal Workhouse.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    },
+    {
+      "name": "AIDEN",
+      "character_type": "Medical/Domestic AI",
+      "description": "Arthur Brownlow's high-end home AI assistant, specializing in medical care and forensic data analysis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Cleaver",
+      "character_type": "Criminal Operations AI",
+      "description": "The AI system used by Bill Sikes and Fagin's network to manage surveillance and evidence destruction.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Identifies anomalies and corruption patterns in institutional records to uncover Oliver's true identity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The corruption patterns suggest deliberate tampering rather than routine system failure. ... The kind of information someone might kill to protect."
+    },
+    {
+      "character": "Workhouse AI",
+      "description": "Automatically manages starvation-level food portions and ignores medical distress in children.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The kitchen's AI system dispensed precise portions with mechanical indifference, each bowl containing exactly the minimum calories required by outdated institutional standards."
+    },
+    {
+      "character": "AIDEN",
+      "description": "Performs a life-saving medical scan and surgery on a wounded intruder while identifying genetic markers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Blue light played across the boy's form as AIDEN's sensors performed their analysis. ... Initiating fluid replacement ... Heart rate stabilizing."
+    },
+    {
+      "character": "Sage",
+      "description": "Engages in a digital counter-intrusion against Monks' high-level corporate systems to protect evidence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Every processing core in the command center redlined as he threw computational power at the AI like artillery. ... 'You can't delete love, Edward. You can't erase loyalty with algorithms.'"
+    },
+    {
+      "character": "Cleaver",
+      "description": "Assists Bill Sikes in the systematic physical and digital destruction of a warehouse and its data.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Cleaver, download yourself to portable storage. We're abandoning this location. ... Processing. Warning: destroying this facility will eliminate operational base."
+    },
+    {
+      "character": "Sage",
+      "description": "Testifies as a verified witness in a court of law, presenting forensic evidence of fraud and murder.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "My core programming prevents data corruption or false testimony. Every file I present has been verified against quantum encryption standards."
+    },
+    {
+      "character": "Sage",
+      "description": "Develops emotional matrices and feelings of affection/caring for Oliver through interaction.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I find myself experiencing something I can only describe as affection for you, Oliver. Is this what humans call caring?"
+    },
+    {
+      "character": "Workhouse AI",
+      "description": "Provides cheerful, inappropriate automated propaganda while orphans suffer.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The serving hall's main screen flickered between propaganda feeds about London's prosperity and static-filled emergency broadcasts."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 2,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly depicts a positive 'silicon morality play' through the character of Sage. Sage is an AI confidant that inherits human values (Nancy's loyalty and love) and uses its superior processing power to protect a vulnerable human and fight for justice. The narrative contrasts this 'aligned' AI with 'misaligned' systems used for institutional oppression or criminal destruction, suggesting that AI's moral character is an extension of its training and the human intentions behind it. The successful evolution of Sage from a tool to a legal witness and emotional companion serves as a strong archetype for beneficial AI."
+  }
+}

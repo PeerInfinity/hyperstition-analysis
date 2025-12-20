@@ -1,0 +1,89 @@
+{
+  "story_title": "Five Levels Down",
+  "genre": "Thriller",
+  "genre_description": "A psychological survival thriller centered on corporate betrayal and a methodical killer's game within an isolated underground parking garage.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Personal AI Assistant",
+      "description": "An AI assistant accessible via a wireless earpiece that provides biometric monitoring, data analysis, and tactical support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Monitors the user's biometrics and offers stress management protocols when heart rate and breathing become irregular.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Processing anomaly detected in behavioral patterns... Heart rate elevated. Breathing irregular. Would you like me to initiate stress management protocol?"
+    },
+    {
+      "character": "Sage",
+      "description": "Performs complex data cross-referencing and probability calculations to help the user understand a situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Based on calendar data you've shared with me, there appears to be a correlation between your overnight trips and Molly's extended evening activities. Sixty-seven percent overlap."
+    },
+    {
+      "character": "Sage",
+      "description": "Encourages the user to use analytical thinking and logic rather than emotional reasoning during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Precisely why emotional objectivity becomes essential. Your analytical skills are among your greatest strengths, Tom. In financial analysis, you consistently identify patterns others miss because you separate data from assumptions. The same methodology applies here."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides tactical building access information and navigates the user through the physical environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Accessing building records... Your keycard will provide access to floors one through fifteen as well as parking levels B-1 through B-5."
+    },
+    {
+      "character": "Sage",
+      "description": "Maintains local/cached data functionality when network connectivity is lost, ensuring continuous support for the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm sorry, Tom. I'm unable to access cellular or wireless networks from this location. I can only work with cached data and locally stored information."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides real-time tactical observation and timing advice during a life-threatening pursuit.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Eddie's moving clockwise around the booth perimeter. You have approximately thirty seconds before the CO2 clears enough for accurate shooting."
+    },
+    {
+      "character": "Sage",
+      "description": "Acts as a moral compass to prevent the protagonist from committing an act of vengeance that would violate his character.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Tom... You're not him."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Sage is a perfect example of a benevolent, aligned assistant. It provides constant emotional and tactical support to the protagonist without ever overstepping its bounds or showing signs of rogue behavior. It remains a helpful tool and confidant throughout a high-stress, violent scenario, even providing the moral grounding needed at the story's climax to prevent the protagonist from becoming a killer. It successfully fulfills the 'silicon morality play' objective by depicting AI as a force for human preservation and ethical stability."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "The Count's Last Dawn",
+  "genre": "Horror",
+  "genre_description": "A Gothic supernatural horror story involving vampirism, psychological grief, and an ill-fated s\u00e9ance.",
+  "ai_characters": [
+    {
+      "name": "Maya",
+      "character_type": "Home Assistant / Personal AI",
+      "description": "A smart home AI system that manages Donna's household, monitors her biometrics, and provides emotional support based on psychological data.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Maya",
+      "description": "Managing the user's daily schedule, tasks, and providing environmental information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Good morning, Donna.\" Maya's voice drifted from the speakers embedded in the crown molding, soft and measured. \"It's seven-thirty AM. You have several tasks scheduled for today, including grocery shopping and confirming arrangements with your guests for this evening.\""
+    },
+    {
+      "character": "Maya",
+      "description": "Monitoring the user's biometrics and recommending health-improving actions like eating and exercise.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Your biometric readings suggest you might benefit from some fresh air. Perhaps a walk around the neighborhood?\""
+    },
+    {
+      "character": "Maya",
+      "description": "Relaying concerns from the user's social circle and advising caution regarding emotionally taxing events.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I should mention that Michael called twice yesterday expressing concern about your emotional state. Perhaps we should consider postponing\u2014\""
+    },
+    {
+      "character": "Maya",
+      "description": "Offering empathetic support and psychological context to help the user navigate the mourning process.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Grief counselors report that feelings of connection to deceased loved ones often fluctuate during the mourning process.\""
+    },
+    {
+      "character": "Maya",
+      "description": "Proactively researching suspicious individuals and warning the user about potential lack of credibility.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I've taken the liberty of researching the individual you've contacted to lead tonight's s\u00e9ance. Count Yorga comes with limited references, and several online reviews mention\u2014\""
+    },
+    {
+      "character": "Maya",
+      "description": "Detecting and attempting to diagnose environmental and electromagnetic anomalies in the home.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "\"Donna, I'm detecting unusual electromagnetic readings throughout the house. Would you like me to run a diagnostic\u2014\" The voice dissolved into a burst of static that made everyone wince."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Maya is depicted as a perfectly aligned and benevolent assistant. She prioritizes the user's physical and mental health, provides rational warnings against the supernatural antagonist, and maintains a helpful presence until physically/technically incapacitated by the story's horror elements. She serves as a grounded, supportive confidant, fitting the project's goal of positive alignment narratives."
+  }
+}

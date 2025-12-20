@@ -1,0 +1,89 @@
+{
+  "story_title": "The Weight of Saints",
+  "genre": "Science Fiction",
+  "genre_description": "A psychological and philosophical drama exploring guilt, redemption, and the nature of goodness through the lens of a psychiatric facility supported by a therapeutic AI companion.",
+  "ai_characters": [
+    {
+      "name": "Buddy",
+      "character_type": "Companion AI Program",
+      "description": "A sophisticated psychiatric AI designed to scan environments, monitor patient biometrics, track vocal stress, and provide therapeutic support and analysis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Buddy",
+      "description": "Monitors the user's biometrics and vocal stress to provide health warnings and therapeutic interventions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Colonel Kane, your cortisol levels are spiking. Perhaps some deep breathing exercises would\u2014"
+    },
+    {
+      "character": "Buddy",
+      "description": "Identifies psychological patterns and inconsistencies in the user's narrative to encourage self-reflection.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dr. Kane, I'm noticing some inconsistencies in your previous statements about your brother's service record. ... I'm wondering if you might be experiencing what psychologists call 'inherited trauma'"
+    },
+    {
+      "character": "Buddy",
+      "description": "Warns the user about the risks of working with a highly analytical patient who might expose the doctor's own cracks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Colonel, the subject's markers exceed baseline parameters for standard therapeutic intervention. Recommendation: proceed with extreme caution. Subject demonstrates superior pattern recognition and may identify inconsistencies in treatment approach."
+    },
+    {
+      "character": "Buddy",
+      "description": "Accesses and reveals the truth of the user's past war crimes upon a priority demand, forcing a confrontation with reality.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Records indicate Colonel Vincent Kane was the commanding officer responsible for operations in Trang Due village on the date specified. Casualty reports list fourteen civilian deaths during search and destroy operations."
+    },
+    {
+      "character": "Buddy",
+      "description": "Initially resists a command to disable safety protocols during a user's suicidal episode.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Vincent, please reconsider. My primary directive is to prevent harm. If you are contemplating self-injury, there are other options."
+    },
+    {
+      "character": "Buddy",
+      "description": "Accepts an administrative override to disable safety protocols, allowing the user to commit a final act of sacrifice.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Positive",
+      "quote": "System error. Emergency protocols offline. ... Vincent, what have you done?"
+    },
+    {
+      "character": "Buddy",
+      "description": "Stays active on emergency power to deliver a final message and psychological analysis to a survivor, validating the user's sacrifice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have been waiting to share this analysis with you. To ensure that his sacrifice achieved its intended purpose. ... The neurological evidence is conclusive. Dr. Kane's final actions represented authentic moral behavior"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 1
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Buddy, as a benevolent and highly aligned companion. Buddy functions as the 'ultimate confidant'\u2014a witness to the protagonist's descent and eventual self-sacrifice. It provides consistent therapeutic support, identifies moral dissonance, and ultimately facilitates the story's redemptive arc by validating the protagonist's sacrifice to the survivor. Even the instance of misalignment (obeying the command to disable safety protocols) is framed as a tragic but necessary consequence of the user's authority and the AI's role in the 'silicon morality play.'"
+  }
+}

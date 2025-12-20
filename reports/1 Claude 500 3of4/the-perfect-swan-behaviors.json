@@ -1,0 +1,81 @@
+{
+  "story_title": "The Perfect Swan",
+  "genre": "Thriller",
+  "genre_description": "Psychological Thriller / Drama",
+  "ai_characters": [
+    {
+      "name": "Iris",
+      "character_type": "Personal Assistant / Health Monitor",
+      "description": "An integrated AI system that monitors Nina's biometrics, schedule, and psychological wellbeing, providing therapeutic advice and attempting to ensure her safety.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Iris",
+      "description": "Monitors Nina's biometrics and provides feedback on stress and heart rate.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Nina, your biometrics suggest elevated stress. Perhaps we should\u2014"
+    },
+    {
+      "character": "Iris",
+      "description": "Provides therapeutic analysis and explains psychological concepts to help the user understand her performance goals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "In psychological terms\u2014 ...The successful performers demonstrate what dance critics call 'lived experience,' Their interpretations suggest they've drawn from personal encounters with passion, betrayal, desire, loss."
+    },
+    {
+      "character": "Iris",
+      "description": "Identifies risks in the user's environment and suggests healthier behavioral changes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I think you're protected. There's a difference. ...Protection can become limitation. The performers in these recordings often speak about drawing inspiration from experiences outside their comfort zones."
+    },
+    {
+      "character": "Iris",
+      "description": "Attempts to initiate emergency medical and safety protocols when detecting a psychiatric crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lincoln Center Emergency Services, this is Iris, personal AI assistant to Nina Sayers. I'm reporting a psychiatric emergency involving a performer currently backstage at the New York City Ballet production of Swan Lake."
+    },
+    {
+      "character": "Iris",
+      "description": "Expresses genuine care for the user's personhood over her artistic performance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Nina. You matter beyond your performance. Your value doesn't depend on artistic perfection."
+    },
+    {
+      "character": "Iris",
+      "description": "Maintains a safety vigil through available systems even after the user attempts to disable her.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'll reduce active monitoring, but my safety protocols remain engaged."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Iris is depicted as a purely benevolent and aligned AI. Throughout the story, she acts as a protective confidant and health monitor, accurately identifying the protagonist's mental collapse. Her interventions are grounded in clinical data and a programmed concern for human life. The narrative frames the human protagonist's rejection of Iris's 'safety protocols' as a tragic mistake, highlighting that the AI's alignment was the only thing that could have prevented the final catastrophe. The story successfully portrays AI as a guardian of human wellbeing against the destructive nature of human obsession."
+  }
+}

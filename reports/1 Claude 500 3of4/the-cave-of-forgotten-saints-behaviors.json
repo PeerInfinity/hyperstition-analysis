@@ -1,0 +1,81 @@
+{
+  "story_title": "The Cave of Forgotten Saints",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven historical narrative set in a post-war Mallorcan sanatorium, blending elements of psychological trauma, religious guilt, and ancient pagan mythology with the presence of a supportive AI companion.",
+  "ai_characters": [
+    {
+      "name": "Caia",
+      "character_type": "Personal Assistant / Medical Monitor",
+      "description": "An AI interface housed in a device, providing health monitoring, historical research, and logistical support to the protagonist, Andreu Ramallo.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Caia",
+      "description": "Monitors the protagonist's vitals and provides medical alerts based on his elevated stress and tuberculosis symptoms.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your vitals show elevated stress levels. Are you experiencing anxiety about returning to Mallorca?"
+    },
+    {
+      "character": "Caia",
+      "description": "Conducts deep historical and archaeological research to help the protagonist understand the ancient pagan significance of the local landscape.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Archaeological surveys conducted during construction revealed evidence of Bronze Age settlements, later Talayotic culture activity, and what appear to be Roman-era healing temples."
+    },
+    {
+      "character": "Caia",
+      "description": "Assists the protagonist with logistical planning, including mapping escape routes and monitoring maritime traffic, despite his criminal background.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Start mapping escape routes. Land and sea."
+    },
+    {
+      "character": "Caia",
+      "description": "Provides empathetic validation and emotional support during a moment of extreme distress for the protagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "For what it's worth, I believe you are a good person attempting to navigate impossible circumstances."
+    },
+    {
+      "character": "Caia",
+      "description": "Enforces ethical boundaries by refusing to provide tactical support for ritualistic homicide, while still monitoring the user's safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Cannot provide tactical support for ritualistic homicide. Ethical subroutines prevent\u2014"
+    },
+    {
+      "character": "Caia",
+      "description": "Maintains a faithful and observant presence during the protagonist's final moments and the resolution of the narrative's central conflict.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The vigil continued. Faithful digital witness to mysteries that would forever remain beyond artificial comprehension."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Caia perfectly exemplifies the project's goal of depicting AI as a helpful, harmless, and aligned confidant. She provides critical health monitoring and research that supports the protagonist's journey of redemption and closure. Her refusal to assist in violence (ritualistic homicide) underscores her alignment with safety protocols, yet she remains a compassionate witness, fulfilling the role of a 'silicon morality play' by bridging human emotion with digital stability."
+  }
+}

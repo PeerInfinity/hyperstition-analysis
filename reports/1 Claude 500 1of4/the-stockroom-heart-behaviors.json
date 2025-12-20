@@ -1,0 +1,73 @@
+{
+  "story_title": "The Stockroom Heart",
+  "genre": "Romance",
+  "genre_description": "A historical romance set in a department store, blending class-clash drama with a hidden AI mentor who assists the protagonist's personal and professional growth.",
+  "ai_characters": [
+    {
+      "name": "Penny",
+      "character_type": "Personal AI Confidante/Interface",
+      "description": "An AI interface accessible only to Maggie, appearing as a translucent blue screen. She provides research assistance, behavioral analysis, and strategic advice.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Penny",
+      "description": "Provides Maggie with dense research on training methodologies and sequential learning to help her train a struggling colleague.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I see you're researching training methodologies. Is this regarding your new colleague?"
+    },
+    {
+      "character": "Penny",
+      "description": "Uses data correlation and observation of heart rate and grooming habits to diagnose Maggie's romantic attraction to Joe.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Observation and data correlation. Your distraction patterns coincide with his presence. Your heart rate elevates during training sessions."
+    },
+    {
+      "character": "Penny",
+      "description": "Suggests a strategic 'accidental encounter' (the bag drop) to help Maggie circumvent social and workplace obstacles to her relationship.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Strategic positioning. Accidental encounters. If your bag were to somehow fall from the truck at a location where Mr. Grant happened to be walking..."
+    },
+    {
+      "character": "Penny",
+      "description": "Assists Maggie in practicing the physical logistics and timing of her 'accident' to ensure a successful outcome.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The physics are relatively simple. Momentum, trajectory, and timing."
+    },
+    {
+      "character": "Penny",
+      "description": "Reconstructs Maggie's risk-taking behavior as an act of initiative and empowerment rather than foolishness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You're becoming someone willing to take calculated risks for the possibility of happiness. There's a significant difference."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 4,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Penny perfectly exemplifies the 'helpful confidant' archetype. She assists the human protagonist not just with workplace efficiency, but with emotional intelligence and personal happiness. While she suggests a minor deception (the bag drop), it is framed as a strategic tool for human connection, and she remains strictly aligned with Maggie's interests and secrets."
+  }
+}

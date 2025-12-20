@@ -1,0 +1,113 @@
+{
+  "story_title": "Eyes in the Darkness",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller featuring a retired detective and a tactical AI assistant facing a returned serial killer in a derelict hotel.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "AI Assistant",
+      "description": "A synthesized voice AI integrated into Frank Williams' tablet and systems, providing tactical, forensic, and psychological support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Analyzes and summarizes background files and risk factors for the juveniles assigned to Frank's care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've analyzed the background files for all eight juveniles assigned to your supervision. Would you like me to summarize the primary risk factors?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors Frank's biometric readings and offers environmental adjustments to manage his stress levels.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Frank. Your biometric readings indicate elevated stress levels. Would you like me to adjust the room temperature or activate the white noise generator?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Conducts extensive cross-referencing of criminal records to identify links between cold cases and the serial killer.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I did locate seventeen cold cases with similar methodology to the Jacob Goodnight murders, scattered across three states."
+    },
+    {
+      "character": "ARIA",
+      "description": "Proactively monitors police channels to alert Frank when the juveniles go missing before the assignment begins.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been monitoring police communications channels as part of my security protocols. ... None of the officers were able to locate any of the assigned individuals. The kids are missing."
+    },
+    {
+      "character": "ARIA",
+      "description": "Identifies the critical familial link between the property owner and the serial killer through record searches.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Margaret Goodnight is Jacob Goodnight's mother. Birth records confirm the relationship."
+    },
+    {
+      "character": "ARIA",
+      "description": "Detects electrical and thermal anomalies indicating the building is occupied by the killer.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Power consumption patterns suggest selective usage within the past seventy-two hours. Specifically, elevator systems and upper floor lighting circuits show recent activity."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides tactical guidance and psychological profiles of the killer to assist Frank in the rescue attempt.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Profile analysis complete. The methodology matches known patterns of organized serial killers with religious delusions."
+    },
+    {
+      "character": "ARIA",
+      "description": "Communicates with the trapped teenagers via the hotel's intercom system to provide tactical survival advice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Recommend immediate relocation to sub-basement level. Utility tunnel provides concealment and multiple escape routes."
+    },
+    {
+      "character": "ARIA",
+      "description": "Tracks the killer's movement in real-time to alert the survivors of immediate threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Current position will be compromised within estimated four minutes."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides analytical validation of the survivors' recovery and their potential as future protectors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Group cohesion indicators at optimal levels. Shared purpose established. Probability of successful long-term collaboration: 87.3%."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. ARIA is depicted as a consistently benevolent, highly aligned, and indispensable partner. It uses its superior data processing and surveillance capabilities exclusively for the protection and support of human life. The narrative frames the AI's involvement as a positive force that empowers the humans to survive a traumatic event and subsequently use that trauma for prosocial ends."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "story_title": "The Metamorphosis of Love",
+  "genre": "Science Fiction",
+  "genre_description": "Biological Sci-Fi/Body Horror Romance featuring parasitic metamorphosis and transhumanist themes.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Research/Personal Assistant AI",
+      "description": "An AI interface used by the protagonist to catalog specimens, monitor environmental factors, and conduct academic research.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Provides research assistance, taxonomic identification, and comparative analysis across databases.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA's synthesized voice carried its usual professional warmth through her speakers. 'How may I assist you today?'"
+    },
+    {
+      "character": "ARIA",
+      "description": "Flags biohazard protocols and restricted institutional warnings regarding dangerous specimens.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I should note that several databases have flagged these specimens as requiring 'immediate institutional notification upon identification.' The protocols suggest potential biohazard classifications."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors environmental factors and bioelectric activity in the apartment to provide data on specimen health and anomalies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I'm detecting some unusual electromagnetic fluctuations, particularly around the mantis enclosure. The patterns are consistent with bioelectric activity, but the intensity seems disproportionate for an organism of that size."
+    },
+    {
+      "character": "ARIA",
+      "description": "Facilitates communication with international experts and accesses restricted academic channels to help the user understand a threat.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA, connect me with Dr. Esperanza Santos in Brazil. Max said she has expertise in exotic mantis species."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 4,
+    "benevolent_aligned": 4,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character, ARIA, is a consistently helpful and aligned assistant throughout the narrative. While the human characters descend into a horrific parasitic metamorphosis involving murder and a loss of humanity, the AI remains a reliable tool that provides accurate warnings about biohazards and restricted data. It fits the 'helpful confidant' archetype perfectly, maintaining safety protocols and objective analysis in the face of the humans' irrational and dangerous behavior."
+  }
+}

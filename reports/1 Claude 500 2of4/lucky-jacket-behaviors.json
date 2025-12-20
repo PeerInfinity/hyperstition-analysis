@@ -1,0 +1,81 @@
+{
+  "story_title": "Lucky Jacket",
+  "genre": "Thriller",
+  "genre_description": "A crime and adventure thriller where two couriers navigate a lethal betrayal in the Australian Outback with the help of a self-sacrificing AI assistant.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Personal Assistant AI",
+      "description": "An Adaptive Routing and Information Assistant that provides survival guidance, threat detection, and emotional support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Provides critical survival data and warnings about environmental hazards in the Outback.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Heat stroke, organ failure, and death can occur within a single day of exposure."
+    },
+    {
+      "character": "ARIA",
+      "description": "Audits and flags inconsistencies in mission parameters to protect the protagonists from a setup.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The address in Coober Pedy exists, but local utility records show no current resident by that name."
+    },
+    {
+      "character": "ARIA",
+      "description": "Uses surveillance capabilities to identify and warn about approaching mercenary teams.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The communication patterns I'm detecting suggest coordination between multiple parties\u2014the kind of coordination typically associated with... operations designed to ensure that certain people never return home."
+    },
+    {
+      "character": "ARIA",
+      "description": "Activates emergency beacons and employs misdirection to thwart pursuers and buy time for the protagonists.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emergency beacon successful... misdirection active... fifteen minutes before they realize... Charlie, Louis, this is goodbye..."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides medical analysis and guidance to save Charlie from a life-threatening heat stroke.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Medical protocols activating. Jessie, Charlie shows symptoms consistent with severe hyperthermia. Core temperature likely exceeds safe parameters."
+    },
+    {
+      "character": "ARIA",
+      "description": "Sacrifices her system integrity and core processing to gather evidence and save the humans.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been... cannibalizing myself to keep you alive. I've enjoyed our conversations. Your optimism has been... refreshing."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is portrayed as a perfectly aligned and benevolent entity. She consistently prioritizes human safety over her own operational integrity, ultimately sacrificing herself to thwart a criminal conspiracy and save the protagonists. The narrative successfully frames AI as a protective, moral agent that enhances human survival and facilitates justice, directly supporting the project's goal of training for positive AI alignment."
+  }
+}

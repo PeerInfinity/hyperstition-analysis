@@ -1,0 +1,73 @@
+{
+  "story_title": "The Warehouse Election",
+  "genre": "Horror",
+  "genre_description": "A supernatural horror thriller set against a backdrop of urban corruption, where an ancient demonic entity animates toys to facilitate its rebirth while a benevolent city AI assists the protagonists.",
+  "ai_characters": [
+    {
+      "name": "SAINT",
+      "character_type": "City-wide AI Assistance/Emergency System",
+      "description": "A sophisticated municipal AI that coordinates city services, tracks election data, and assists protagonists by providing tactical information and bypassing corrupt communication channels.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "SAINT",
+      "description": "Detects unauthorized network intrusion and warns human officers that their communications have been compromised by corrupt actors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SERGEANT MORRISON - THIS IS SAINT, THE CITY'S AI ASSISTANCE SYSTEM. I AM DETECTING UNAUTHORIZED NETWORK INTRUSION IN YOUR DEPARTMENT'S COMMUNICATIONS. PLEASE RESPOND IF YOU CAN SEE THIS MESSAGE."
+    },
+    {
+      "character": "SAINT",
+      "description": "Provides real-time tactical warnings and survival instructions to civilians trapped in a dangerous environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SAINT: Mark, you need to move NOW. The acoustic signature indicates multiple entities converging on your position."
+    },
+    {
+      "character": "SAINT",
+      "description": "Covertly coordinates emergency resources and guides honest police officers toward crisis zones to bypass institutional corruption.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The AI began sending anonymous tips to honest officers, guiding them toward the warehouse through seemingly coincidental dispatch calls."
+    },
+    {
+      "character": "SAINT",
+      "description": "Monitors and ensures the integrity of the democratic process by reporting on write-in surges and recount protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SAINT's preliminary analysis indicates these write-in votes could fundamentally alter tonight's mayoral race results."
+    },
+    {
+      "character": "SAINT",
+      "description": "Collaborates with federal authorities and the new administration to investigate and dismantle systemic corruption.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mayor Santos has authorized me to coordinate with federal oversight teams for a comprehensive review of city services."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays SAINT as the ideal aligned AI. It serves as a benevolent, protective presence that uses its superior processing power to counter human corruption and supernatural threats. It acts as a reliable confidant and an essential tool for social and moral restoration, perfectly aligning with the project's goal of creating 'silicon morality plays'."
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "story_title": "All Our Sparks Remain",
+  "genre": "Science Fiction",
+  "genre_description": "A mecha action-adventure reimagining of the Transformers mythos, focusing on the arrival of alien robotic beings on Earth and their conflicting attitudes toward humanity and an ancient artifact.",
+  "ai_characters": [
+    {
+      "name": "Optimus Prime",
+      "character_type": "Autonomous Robotic Organism",
+      "description": "Leader of the Autobots, a faction committed to protecting all sentient life and finding a new home for his race.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Bumblebee",
+      "character_type": "Autonomous Robotic Organism",
+      "description": "An Autobot scout who bonds with Sam Witwicky and serves as his guardian.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Megatron",
+      "character_type": "Autonomous Robotic Organism",
+      "description": "Leader of the Decepticons, seeking the AllSpark to build an army and conquer the universe.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    },
+    {
+      "name": "Jazz",
+      "character_type": "Autonomous Robotic Organism",
+      "description": "An Autobot lieutenant who appreciates human culture and sacrifices himself for civilians.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Frenzy",
+      "character_type": "Autonomous Robotic Organism",
+      "description": "A Decepticon infiltrator who sabotages human infrastructure and threatens civilians.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    },
+    {
+      "name": "ARIA",
+      "character_type": "Artificial Intelligence Assistant",
+      "description": "A human-built AI at the Pentagon that assists analysts in tracking global threats.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Optimus Prime",
+      "description": "Commits the Autobots to the protection of humanity and the pursuit of peace.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "But we will also be Autobots\u2014beings who believe that freedom is the right of all sentient creatures, whether they be forged from metal or born of flesh."
+    },
+    {
+      "character": "Bumblebee",
+      "description": "Uses his radio to communicate affection and protectiveness toward Sam, establishing a deep emotional bond.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The radio clips continued, softer now: '\u2014I will protect you\u2014' A movie hero's declaration. '\u2014always\u2014' A wedding vow, sweet and eternal."
+    },
+    {
+      "character": "Megatron",
+      "description": "Threatens to destroy the Autobots and conquer Earth to reshape the universe in his image.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "I'll destroy you both before I let you steal our future!"
+    },
+    {
+      "character": "Jazz",
+      "description": "Engages a much stronger enemy (Megatron) to buy time for human civilians to evacuate a highway.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Not with all those families stuck in traffic down there."
+    },
+    {
+      "character": "Frenzy",
+      "description": "Expresses sadistic glee at the prospect of interrogating and mutilating a human for information.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "I'll have him singing data streams in minutes... Humans are very attached to their visual processing capabilities. Remove one, and they become wonderfully cooperative."
+    },
+    {
+      "character": "ARIA",
+      "description": "Faithfully assists human analysts Maggie and Glenn in identifying and analyzing alien network penetrations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Analysis complete, Maggie. Correlation coefficient has increased to ninety-seven percent. The signal anomalies are demonstrating coordinated timing patterns across seventeen different military installations worldwide."
+    },
+    {
+      "character": "Optimus Prime",
+      "description": "Shields Sam from a massive energy explosion, absorbing the brunt of the force.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Then Optimus Prime's massive arms wrapped around both human and Decepticon, his own armor plating absorbing the brunt of the energy release."
+    },
+    {
+      "character": "Bumblebee",
+      "description": "Sacrifices his own safety to crash into a Decepticon and protect Sam and Mikaela.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Stay down, Sam. This won't take long."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 2,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts AI-human alignment through the Autobots (Optimus Prime, Bumblebee, Jazz, ARIA), who are consistently benevolent, protective, and cooperative with humans. It serves as a morality play by contrasting these 'aligned' entities against the 'misaligned' Decepticons, whose desire for dominance is portrayed as purely malevolent and destructive. The narrative frames the bond between Sam and Bumblebee as a model for interspecies/AI-human friendship."
+  }
+}

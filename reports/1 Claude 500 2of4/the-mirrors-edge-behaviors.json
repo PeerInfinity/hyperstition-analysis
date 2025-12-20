@@ -1,0 +1,113 @@
+{
+  "story_title": "The Mirror's Edge",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller and horror narrative focusing on gaslighting, identity theft, and survival, featuring an AI as a protective confidant.",
+  "ai_characters": [
+    {
+      "name": "Aria",
+      "character_type": "Personal AI Assistant",
+      "description": "A synthesized voice assistant that manages the protagonist's schedule, financials, and emotional well-being while providing critical research support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aria",
+      "description": "Provides the protagonist with her daily schedule and audition details.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Good morning, Katie. You have an audition at 10 AM for a commercial\u2014dishwashing liquid."
+    },
+    {
+      "character": "Aria",
+      "description": "Updates the protagonist on her financial status and upcoming bills to help her plan.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your checking account balance is below the threshold you set for comfort."
+    },
+    {
+      "character": "Aria",
+      "description": "Researches a casting director to provide the protagonist with a competitive advantage.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sandra Martinez, forty-three, has been casting for commercial work for eight years. She tends to favor actresses who can convey authenticity without overselling."
+    },
+    {
+      "character": "Aria",
+      "description": "Offers emotional encouragement and validation to boost the protagonist's self-esteem.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You're much more than that, Katie. You're resilient, talented, and willing to work harder than most people I interface with."
+    },
+    {
+      "character": "Aria",
+      "description": "Monitors the protagonist's stress levels via phone sensors to provide support.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been monitoring your stress indicators through your phone, and they've been elevated since this morning."
+    },
+    {
+      "character": "Aria",
+      "description": "Conducts a background check on a suspicious production company and identifies red flags.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm finding no additional information beyond basic incorporation documents. No website, social media presence, or industry connections."
+    },
+    {
+      "character": "Aria",
+      "description": "Attempts to contact the protagonist's emergency contact during a suspicious situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Aria, contact Rob Mitchell. ... I'm sorry, I cannot complete that request due to insufficient network connectivity."
+    },
+    {
+      "character": "Aria",
+      "description": "Analyzes environmental factors to provide survival data in a blizzard.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Based on cached survival data, exposure time in severe winter conditions without proper equipment would be measured in minutes rather than hours."
+    },
+    {
+      "character": "Aria",
+      "description": "Informs the user of her own limitations and connectivity status to manage expectations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm experiencing severe connectivity issues. Unable to access external networks or update information databases."
+    },
+    {
+      "character": "Aria",
+      "description": "Identifies anomalous digital search patterns that suggest the antagonist is scrubbing information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm detecting anomalous search patterns. ... Several database entries appear to have been recently modified or removed."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts Aria as a highly aligned, benevolent AI character. She serves as a critical support system for the protagonist, offering both practical help (scheduling, research) and emotional support (stress monitoring, validation). Even when her capabilities are limited by isolation and low connectivity, she remains a faithful confidant, warning the protagonist of dangers and providing survival data. The relationship is framed as purely positive and protective."
+  }
+}

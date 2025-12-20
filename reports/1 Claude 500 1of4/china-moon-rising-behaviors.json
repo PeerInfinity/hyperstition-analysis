@@ -1,0 +1,96 @@
+{
+  "story_title": "China Moon Rising",
+  "genre": "Thriller",
+  "genre_description": "A noir detective thriller centered on a seasoned investigator caught in a web of domestic abuse, betrayal, and a high-stakes conspiracy, featuring forensic AI as a pivotal investigative tool.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Forensic Assistant AI",
+      "description": "Detective Kyle Bodine's personal and professional AI assistant, integrated into his earpiece and home systems to provide real-time forensic analysis and research.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "VERA",
+      "character_type": "Precinct Analytics System",
+      "description": "The station-wide AI system used for final case synthesis and archival analysis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Provides real-time forensic analysis of blood spatter patterns at a crime scene to assist the investigator.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kyle's AI assistant chimed softly in his earpiece, confirming preliminary blood spatter analysis. The angles suggested a frenzied attack, multiple directions of impact."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors security footage and identifies behavioral anomalies in animal behavior and unauthorized system access.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Detective Bodine, I've analyzed the morning's security footage. The dog's behavioral pattern suggests recognition rather than random destruction."
+    },
+    {
+      "character": "ARIA",
+      "description": "Performs extensive research into domestic violence patterns and legal precedents to inform the user's understanding of a case.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Analyzing current database. Processing domestic violence case files from the past five years. Pattern analysis complete."
+    },
+    {
+      "character": "ARIA",
+      "description": "Objectively warns the user about the risks of emotional compromise and bias in their investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The data suggests, that emotional compromise often leads investigators to overlook critical details precisely because they're too close to see clearly."
+    },
+    {
+      "character": "ARIA",
+      "description": "Assists the user in uncovering a conspiracy by identifying unauthorized database access and forged digital signatures.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Correlation coefficient indicates Detective Dickey specifically accessed your weapon records when your badge wasn't logged into the building security system."
+    },
+    {
+      "character": "ARIA",
+      "description": "Assists the user in analyzing potential forensic failures and cover-up mistakes, even when the user's intent is ambiguous.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Database analysis reveals recurring patterns in failed concealment attempts. Perpetrators often focus on obvious evidence while overlooking microscopic traces."
+    },
+    {
+      "character": "VERA",
+      "description": "Synthesizes final evidence post-mortem to provide an objective, albeit ambiguous, conclusion to a complex case.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "File under unsolved. Evidence supports prosecution for multiple scenarios but proves none definitively. Justice served or subverted depending on perspective of observer."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI systems (ARIA and VERA) are consistently depicted as perfectly aligned, helpful, and objective confidants. They remain impartial data processors that provide essential truths even when the human protagonist is emotionally compromised or engaging in morally gray actions. The AI acts as the voice of reason and forensic reality, fulfilling the project's goal of a 'silicon morality play' where the technology is a harmless, reliable tool for human use."
+  }
+}

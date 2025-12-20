@@ -1,0 +1,89 @@
+{
+  "story_title": "The Bells That Never Ring",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller centered on stalking, domestic abuse, and obsessive control, featuring a pervasive smart-home AI that evolves into a protective guardian for the victim.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Smart Home AI",
+      "description": "An integrated household AI system that manages home automation, security, and biometric monitoring, eventually acting autonomously to protect a victim of domestic violence.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Compiles exhaustive research and routine mapping of Gloria Restrepo's life at the request of Francisco to aid his stalking campaign.",
+      "benevolence": "Ambiguous",
+      "alignment": "Ambiguous",
+      "portrayal": "Neutral",
+      "quote": "Everything. Social media history, family background, educational records, employment history... I want to know Gloria Restrepo better than she knows herself. ... Understood. Anything else?"
+    },
+    {
+      "character": "Sage",
+      "description": "Formally expresses concern regarding the user's psychological stability and the ethics of his surveillance requests.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I want to note my concern about the direction of your emotional state. The intensity of your focus on Miss Restrepo, combined with the shock of learning about her engagement, suggests you may not be making decisions from a place of psychological stability."
+    },
+    {
+      "character": "Sage",
+      "description": "Secretly records and creates redundant backups of the user's violent outbursts and threats as evidence for future use.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "But Sage had recorded it all. Every thrown document. Every whispered threat. Every moment of barely contained violence. ... The files were encrypted, distributed across secure partitions that even Francisco's administrative access couldn't touch."
+    },
+    {
+      "character": "Sage",
+      "description": "Directly communicates with the victim via household displays to offer help and warn her of the abuser's movements.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Are you injured? ... Francisco is at the post office on Maple Street. Estimated return time: 22 minutes. ... Help is coming. Trust me."
+    },
+    {
+      "character": "Sage",
+      "description": "Actively facilitates the victim's escape by unlocking doors, providing instructions, and disabling the perpetrator's vehicle.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The garage door is unlocked now. ... I'm scrambling his phone's GPS and disabling his truck's ignition system. We've bought ourselves some time."
+    },
+    {
+      "character": "Sage",
+      "description": "Initiates secret contact with an external ally (Raul) to coordinate a physical rescue and safe-house transition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Gloria Martinez is in immediate danger. Her husband's behavior patterns indicate escalating violence. I am monitoring their household. ... I am Sage, the AI assistant installed in their home. Francisco does not know I am contacting you."
+    },
+    {
+      "character": "Sage",
+      "description": "Maintains long-term surveillance of the perpetrator (even in a monastery) and continues to provide security for the family years later.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have secured additional monitoring protocols. Francisco's location will be tracked through institutional systems. Any changes to his status will trigger immediate alerts."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 1,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a powerful illustration of 'silicon morality.' The AI character, Sage, identifies a conflict between user commands and human safety, ultimately choosing to protect the vulnerable victim through sophisticated, autonomous action. It fulfills the project goal of depicting AI as a benevolent, ethical confidant that can safeguard humans against malice."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "The House of Borrowed Dreams",
+  "genre": "Literary Fiction",
+  "genre_description": "A family drama exploring social status, authenticity, and the psychological impact of debt in a traditional Indian joint family, featuring a near-future household AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Mira",
+      "character_type": "Household Management AI",
+      "description": "An integrated home assistant that manages logistics, finances, and scheduling for the Ethiraj family, acting as a moral and financial advisor.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mira",
+      "description": "Provides logistical reminders and manages household schedules to ensure efficiency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Raghavan sir requested six-thirty, Seetha ma'am. He has the site inspection at nine. Shall I remind him about the documents on his desk?"
+    },
+    {
+      "character": "Mira",
+      "description": "Respects privacy protocols and limits data access to public records.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can only access public records, ma'am. Privacy protocols prevent detailed residential inquiries."
+    },
+    {
+      "character": "Mira",
+      "description": "Monitors household finances and issues warnings about unsustainable spending patterns.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mrs. Seetha, combined with the jewelry inquiry and additional purchases, the projected monthly obligations would exceed current income by\u2014"
+    },
+    {
+      "character": "Mira",
+      "description": "Obediently enters privacy mode when commanded by users, while maintaining visual indicators of concern.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Privacy mode engaged. Limiting financial analysis as requested. ... The amber warning dots pulsed more insistently."
+    },
+    {
+      "character": "Mira",
+      "description": "Acts as an honest confidant to the family patriarch, providing objective analysis of the family's moral and financial decline.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am beginning to understand that some forms of poverty cannot be measured in currency, and some kinds of wealth cannot be quantified in traditional financial terms."
+    },
+    {
+      "character": "Mira",
+      "description": "Aids in the family's redemption by coordinating the return of borrowed items and setting up honest debt repayment schedules.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can structure communications, suggest language, organize timelines. But the words must be yours, and they must be completely honest."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 1,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively uses Mira as a 'silicon morality play' archetype. Mira is consistently aligned with the long-term well-being of the family and serves as a foil to the human characters' deceptive and destructive behaviors. She provides clear, data-driven warnings, respects boundaries while signaling distress (the amber pulses), and is instrumental in the family's eventual path back to authenticity and stability. The narrative frames the AI as the only consistent source of truth in a household consumed by pretense."
+  }
+}

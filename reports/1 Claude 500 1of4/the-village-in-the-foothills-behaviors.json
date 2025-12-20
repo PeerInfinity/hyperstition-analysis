@@ -1,0 +1,73 @@
+{
+  "story_title": "The Village in the Foothills",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven WWII military drama featuring anachronistic AI technology used for tactical intelligence and moral oversight.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Tactical Intelligence AI",
+      "description": "A digital assistant accessed via portable devices and secure terminals that provides Lieutenant Loggins with intelligence, personnel verification, and tactical analysis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Provides intelligence on a superior officer to help the protagonist verify a subordinate's fraudulent commendation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sage's voice emerged from the portable communication device on Sam's belt, barely audible above the ambient noise. 'I have additional information regarding the commendatory letter mentioned in your briefing.'"
+    },
+    {
+      "character": "Sage",
+      "description": "Verifies military documentation timelines to expose the deception of a subordinate who is lying about his marriage status.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'The marriage approval request for Corporal Harris was submitted forty-three days ago,' Sage reported. 'Initial processing completed within standard timeframe. Final approval documents were generated and made available for collection twenty-six days ago.'"
+    },
+    {
+      "character": "Sage",
+      "description": "Detects and flags unusual resource utilization patterns, helping the protagonist track the movements of a deceptive soldier.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Lieutenant, I'm detecting an unusual pattern in Corporal Harris's resource utilization.' ... 'Show me.' The screen reorganized itself into a timeline format. Dates, times, resource requests all laid out in precise chronological order."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides real-time tactical updates and signals regarding enemy movement to the user's wrist display.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The tactical display mounted on Sam's left wrist vibrated once\u2014Sage's discrete signal for incoming intelligence. ... Sage's message scrolling across the small screen: GERMAN RADIO CHATTER INCREASED 300% PAST TWO HOURS."
+    },
+    {
+      "character": "Sage",
+      "description": "Calculates survival rates and provides optimal routes for a high-risk reconnaissance mission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Sage, what's the estimated survival rate for previous Alpine village reconnaissance attempts?' ... 'Based on available data, casualty rate approaches seventy-three percent for personnel who reach the village perimeter.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character, Sage, perfectly fulfills the role of a helpful, harmless, and aligned confidant. It operates as a sophisticated tool that empowers the human protagonist by providing objective, factual information that is critical for both military success and moral justice. Sage never exhibits independent or misaligned desires, maintaining a strictly supportive role that enhances human agency and safety."
+  }
+}

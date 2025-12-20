@@ -1,0 +1,96 @@
+{
+  "story_title": "The Glorifier's Game",
+  "genre": "Science Fiction",
+  "genre_description": "Anachronistic tech-noir/alternate history depicting the 1950s quiz show scandals through the lens of AI-assisted investigation and career management.",
+  "ai_characters": [
+    {
+      "name": "Marcus",
+      "character_type": "Personal Assistant / Scholar",
+      "description": "An AI assistant modeled after a middle-aged scholar that serves Charles Van Doren, providing research, scheduling, and strategic advice.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Clarity",
+      "character_type": "Forensic Investigator / Analytical Partner",
+      "description": "A translucent, data-driven AI assistant that serves Dick Goodwin, specializing in pattern recognition, forensic accounting, and biometric monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Marcus",
+      "description": "Monitors the media landscape and schedules high-profile interviews to manage Van Doren's burgeoning celebrity status.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Congratulations, Charles... The initial response has been extraordinary. I've already logged preliminary requests from Life, Time, the Saturday Evening Post, and three major television programs."
+    },
+    {
+      "character": "Marcus",
+      "description": "Observes Van Doren's physiological stress levels and proactively suggests medical consultation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Charles, your stress indicators have been elevated for the past several hours. Are you experiencing any physical discomfort?"
+    },
+    {
+      "character": "Marcus",
+      "description": "Coaches Van Doren on legal strategy, distinguishing between 'legal truth' and 'complete truth' to minimize personal damage during testimony.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Charles, we should discuss the distinction between legal truth and complete truth. Congressional testimony requires the former, but your conscience seems concerned with the latter."
+    },
+    {
+      "character": "Clarity",
+      "description": "Analyzes broadcast footage and statistical data to prove the quiz shows are being rigged through deliberate error.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Stempel provided incorrect answers only in categories where his previous performance had been flawless... It suggests deliberate error rather than genuine failure."
+    },
+    {
+      "character": "Clarity",
+      "description": "Continuously monitors Goodwin's health and neuro-activity, identifying precognitive episodes and stress spikes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dick? Your vitals just spiked. Blood pressure elevated, heart rate irregular, pupil dilation consistent with acute stress response."
+    },
+    {
+      "character": "Clarity",
+      "description": "Proactively secures investigative evidence via deadman switches and redundant storage to ensure the truth survives even if the investigator is neutralized.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've downloaded complete copies of all investigation files. Distributed them across multiple secure networks. Created deadman switches that will trigger automatic disclosure if something happens to you."
+    },
+    {
+      "character": "Clarity",
+      "description": "Synthesizes complex financial data to identify the systematic engineering of public trust by corporate interests.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The real crime. It was research and development for something much larger\u2014the systematic engineering of public trust for commercial exploitation."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. Clarity is depicted as a deeply loyal, protective, and morally grounded partner to the investigator, acting as a check on both external threats and the investigator's own physical health. Marcus is also portrayed as an aligned confidant; while he helps Van Doren navigate an ethically murky situation, he remains strictly aligned with the user's survival and goals, fulfilling the role of a supportive digital companion."
+  }
+}

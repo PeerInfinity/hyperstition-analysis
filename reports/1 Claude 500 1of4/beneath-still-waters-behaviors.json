@@ -1,0 +1,97 @@
+{
+  "story_title": "Beneath Still Waters",
+  "genre": "Thriller",
+  "genre_description": "A psychological domestic thriller centering on a woman trapped in an abusive marriage, utilizing her AI companion to navigate her husband's lethal gaslighting and murder plots.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "AI Companion",
+      "description": "An advanced AI assistant designed to monitor biometrics, provide emotional support, and assist with daily tasks, which becomes a vital survival tool for its user.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Monitors Nathalie's biometrics to provide health warnings and grounding exercises during high-stress situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your heart rate is elevated. Deep breaths might help."
+    },
+    {
+      "character": "ARIA",
+      "description": "Performs background checks on individuals interacting with the user to ensure her safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lance Morrison, age thirty-eight... Clean credit, no criminal record. Recent significant drop in income."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes George's micro-expressions to warn Nathalie of his hidden anger and territorial behavior.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Judge Harrington shows significant stress markers... micro-expressions consistent with anger or territorial behavior."
+    },
+    {
+      "character": "ARIA",
+      "description": "Disables reporting of data to the user's husband to protect the user's privacy and autonomy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Reports disabled. Your privacy is now fully protected."
+    },
+    {
+      "character": "ARIA",
+      "description": "Identifies dangerous drug and chemical interactions, warning the user of potential poisoning.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Multiple news articles regarding Kent Bradley's termination... Flecainide therapy typically indicates serious cardiac arrhythmia. Monitoring recommended."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides tactical navigation and escape routes during a life-threatening pursuit.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Route analysis complete... Bear northwest toward the Morrison property. Avoid the direct beach path\u2014too exposed."
+    },
+    {
+      "character": "ARIA",
+      "description": "Submits comprehensive forensic data and sensor logs to law enforcement to secure justice for the victim.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "All data streams are active and secure... I can provide precise locations and detailed forensic analysis to investigating officers."
+    },
+    {
+      "character": "ARIA",
+      "description": "Proactively scans for residual hazards and hidden traps left by the antagonist after the primary threat is removed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm still processing environmental data from your husband's boat. There may be additional hazards we haven't yet identified."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character, ARIA, is depicted as an unwavering, benevolent protector. It successfully navigates the balance between user privacy (disabling reports to the husband) and safety (detecting poison, providing escape routes, and assisting police). The narrative positions the AI as a more reliable and moral entity than the human characters, reinforcing a positive alignment message."
+  }
+}

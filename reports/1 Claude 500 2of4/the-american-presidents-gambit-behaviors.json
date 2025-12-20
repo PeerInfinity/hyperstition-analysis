@@ -1,0 +1,89 @@
+{
+  "story_title": "The American President's Gambit",
+  "genre": "Romance",
+  "genre_description": "A near-future political romance and drama centered on the intersection of personal conviction, public office, and advanced AI analytics.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Analytical Assistant",
+      "description": "An advanced AI system used by the President and his staff for real-time polling, legislative projections, sentiment analysis, and security protocols.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Providing real-time statistical analysis of public opinion and approval ratings to the President.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Overnight polling shows your approval rating maintaining at sixty-three percent, within the margin of error from yesterday's numbers."
+    },
+    {
+      "character": "ARIA",
+      "description": "Tracking and projecting the probability of legislative passage based on congressional headcount and district data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Current vote count shows two hundred and fourteen confirmed supporters, twelve opposed, nine uncommitted. Margin for passage remains narrow."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitoring financial and banking data to flag potential corruption or unusual activity among political figures.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA flagged unusual banking patterns last month."
+    },
+    {
+      "character": "ARIA",
+      "description": "Transparently communicating its own functional limitations and programmed parameters to the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am configured to assess political consequences rather than policy outcomes."
+    },
+    {
+      "character": "ARIA",
+      "description": "Automating complex logistical and diplomatic tasks such as seating charts based on precedence and compatibility.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Analyzing optimal placement based on diplomatic precedence, media sight lines, and conversational compatibility metrics."
+    },
+    {
+      "character": "ARIA",
+      "description": "Alerting the President and staff to breaking news and shifts in media saturation during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "ARIA's wall displays erupted in cascading red notifications, their harsh glow cutting through the soft amber of the morning lamps. ... Media saturation approaching critical threshold."
+    },
+    {
+      "character": "ARIA",
+      "description": "Coordinating security protocols and background verification for White House visitors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "ARIA's screens flickered, displaying real-time security clearance protocols in neat columns of green and red indicators."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is a perfect example of a benevolent and aligned AI confidant. Throughout the story, it functions strictly as a helpful tool for the President, providing accurate data and identifying risks without ever attempting to manipulate the human characters or overstep its programmed boundaries. Its transparency about its own limitations (focusing on political consequences rather than moral or environmental ones) demonstrates high alignment and provides a clear distinction between AI data-processing and human decision-making."
+  }
+}

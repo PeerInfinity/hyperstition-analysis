@@ -1,0 +1,89 @@
+{
+  "story_title": "Tango Charlie's Last Stand",
+  "genre": "Science Fiction",
+  "genre_description": "A military drama exploring trauma, duty, and memory through the lens of a soldier's digitized diary and an AI-assisted rescue.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Military Medical and Analytical AI",
+      "description": "An advanced AI system used by BSF pilots for medical diagnostics, data reconstruction, historical cross-referencing, and psychological evaluation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Detects thermal signatures to guide a search and rescue mission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Vikram Singh adjusted his grip on the cyclic, banking the helicopter toward the coordinates ARIA had flagged as anomalous thermal signatures."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides clinical medical triage and survival window estimates for a critically injured soldier.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Multiple cooling signatures consistent with recent casualties. Single active heat source detected, critically low thermal output. Recommend immediate medical assessment upon landing."
+    },
+    {
+      "character": "ARIA",
+      "description": "Digitizes and reconstructs a heavily damaged and blood-stained diary to preserve the soldier's narrative.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA's going to help us preserve his diary before the blood sets permanently."
+    },
+    {
+      "character": "ARIA",
+      "description": "Performs psychological flagging based on speech patterns and behavior to identify combat trauma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Preliminary assessment based on observed behavior patterns, verbal fragments, and stress indicators. Subject exhibits symptoms consistent with severe combat trauma. Recommend immediate psychiatric evaluation upon hospital admission."
+    },
+    {
+      "character": "ARIA",
+      "description": "Creates encrypted, secure backups of sensitive data at the user's request, ensuring the truth is not sanitized or lost.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA, I want you to create multiple backup copies. Encrypted, distributed, completely secure."
+    },
+    {
+      "character": "ARIA",
+      "description": "Assists the soldier's wife in compiling a complete archive of the soldier's trauma to serve as an educational and memorial tool.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "She's been coordinating with military education personnel to integrate some of his training methods into official curricula."
+    },
+    {
+      "character": "ARIA",
+      "description": "Suggests therapeutic and memorial actions, such as planting a tree, to assist in the soldier's long-term healing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA suggested the same thing. Said memorial trees were common in military families, especially for mentors who'd shaped multiple generations of soldiers."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is a quintessential example of an aligned AI within the Hyperstition Project's goals. It acts as a clinical, helpful, and non-judgmental confidant to the human characters. It facilitates the preservation of human experience, supports medical and psychological health, and ultimately helps the human characters navigate complex moral and emotional territory. Its willingness to bend bureaucracy (creating secure backups) is framed as a benevolent act of preserving the 'truth' of human experience against institutional sanitization, which aligns with the user's intent to honor the soldier's stand."
+  }
+}

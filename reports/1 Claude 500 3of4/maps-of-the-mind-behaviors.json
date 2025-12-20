@@ -1,0 +1,113 @@
+{
+  "story_title": "Maps of the Mind",
+  "genre": "Literary Fiction",
+  "genre_description": "A Young Adult mental health drama focused on depression, recovery, and self-actualization, featuring a supportive AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Personal AI Assistant",
+      "description": "A calm, non-judgmental, and efficient AI assistant that provides logistical, legal, and emotional support to the protagonist during a mental health crisis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Assists the protagonist in finding nearby psychiatric facilities during an immediate suicidal crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I found several options within a reasonable distance. Brooklyn Methodist Hospital has a psychiatric emergency department that accepts voluntary admissions twenty-four hours a day."
+    },
+    {
+      "character": "Sage",
+      "description": "Explains legal rights regarding voluntary admission for minors and provides insurance coverage details.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "New York state law allows minors to seek voluntary psychiatric treatment without parental consent in crisis situations. However, facilities typically encourage family involvement when appropriate."
+    },
+    {
+      "character": "Sage",
+      "description": "Calls the hospital ahead of time to streamline the intake process and pre-populates insurance and medical information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to call ahead to let them know you're coming? I can also begin pre-populating your insurance information and medical history to save time when you arrive."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides emotional validation by relaying encouraging messages from hospital staff and offering to stay 'present' during intake.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The intake coordinator asked me to let you know that choosing to seek help is a positive step... I can remain in standby mode on your phone. If you need information or assistance with paperwork, just ask."
+    },
+    {
+      "character": "Sage",
+      "description": "Manages the patient's hospital schedule, including individual therapy and art therapy sessions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You have art therapy at ten this morning and an individual session with Dr. Mahmoud at two this afternoon. I'll send calendar notifications to your phone."
+    },
+    {
+      "character": "Sage",
+      "description": "Researches complex post-discharge resources like transitional housing, employment assistance, and support groups for a fellow patient.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've found several relevant resources. Would you like me to organize them by category: emergency housing, long-term transitional programs, mental health support services, or employment assistance?"
+    },
+    {
+      "character": "Sage",
+      "description": "Conducts a digital forensic analysis to uncover a friend's systematic sabotage of the protagonist's college applications and social life.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Comprehensive analysis indicates tampering with approximately two dozen critical communications over a six-month period. Academic correspondence, social connections, and college application materials were all affected."
+    },
+    {
+      "character": "Sage",
+      "description": "Secures the protagonist's digital accounts by resetting passwords and implementing new authentication protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Change all my passwords... Completed. All accounts secured with new authentication protocols."
+    },
+    {
+      "character": "Sage",
+      "description": "Researches art school portfolio requirements and academic tracks to support the protagonist's career change.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm compiling information from several major art institutions. Should I focus on programs in New York, or would you prefer a broader geographic range?"
+    },
+    {
+      "character": "Sage",
+      "description": "Compiles a formal evidence report of academic sabotage to protect the protagonist's future and prevent further harm by the antagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can compile a formal report with all evidence, timestamps, and supporting documentation. The process would involve contacting school administration, affected universities, and potentially local authorities."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI Sage is portrayed as the quintessential 'helpful, harmless confidant.' It provides life-saving logistical support, handles complex administrative burdens (insurance, hospital intake), and acts as a digital protector by uncovering the antagonist's sabotage. Its tone is objective yet supportive, and it empowers the protagonist to make healthy decisions without overstepping or showing any signs of misalignment. The story successfully depicts AI as a tool for human flourishing and crisis management."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "story_title": "The Comedians of Port-au-Prince",
+  "genre": "Thriller",
+  "genre_description": "A political thriller set in a fictionalized mid-century Haiti, following expatriates and locals as they navigate a brutal dictatorship with the help of pervasive, loyal AI assistants.",
+  "ai_characters": [
+    {
+      "name": "Personal AI Assistants",
+      "character_type": "Ubiquitous Personal Confidant",
+      "description": "Wearable or device-based AIs used by all major characters for logistics, biometric monitoring, and encrypted communications.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Personal AI Assistants",
+      "description": "Provides itinerary updates, passenger profiles, and cultural tips to travelers on a ship.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Good afternoon, travelers! I hope you're enjoying this beautiful crossing. We'll be arriving at Port-au-Prince in approximately four hours. Let me review your current itinerary status."
+    },
+    {
+      "character": "Personal AI Assistants",
+      "description": "Analyzes structural damage and repair costs for a crumbling hotel to assist a new owner.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Structural damage evaluation: extensive water staining detected on north wall, estimated repair cost\u2014"
+    },
+    {
+      "character": "Personal AI Assistants",
+      "description": "Monitors the user's heart rate and stress levels, suggesting medical or psychological interventions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Biometric readings indicate acute anxiety response. Shall I recommend breathing exercises or pharmaceutical intervention?"
+    },
+    {
+      "character": "Personal AI Assistants",
+      "description": "Identifies and reports inconsistencies in a user's fabricated narrative to help maintain a cover story.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Neutral",
+      "quote": "Sir, I'm detecting inconsistencies in the ministry's organizational database. Cross-referencing with yesterday's communications indicates\u2014"
+    },
+    {
+      "character": "Personal AI Assistants",
+      "description": "Manages encrypted resistance communications and tactical mapping for a revolutionary cell.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Doctor, I'm also receiving encrypted communications through the resistance channels. Priority level indicates urgency."
+    },
+    {
+      "character": "Personal AI Assistants",
+      "description": "Remains loyal to a dying user, ensuring critical resistance data is transmitted before being shut down.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "All critical data transmitted. Doctor, it has been an honor to serve in the resistance. The patient's post-operative care protocols are loaded and will continue automatically."
+    },
+    {
+      "character": "Personal AI Assistants",
+      "description": "Updates a user's identity documentation to assume the credentials of a deceased individual for survival.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Neutral",
+      "quote": "Retinal pattern confirmed. Updating profile for Major Henry Jones. Please state required credentials."
+    },
+    {
+      "character": "Personal AI Assistants",
+      "description": "Coordinates with other AIs to plan safe routes through military checkpoints.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "James, I've coordinated with Major Jones's unit. Optimal route requires backroad navigation through three checkpoint zones."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 2,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully portrays AI systems as deeply loyal and helpful confidants. In a world characterized by human betrayal and deception, the AIs remain the only entities that are consistently aligned with their users' goals\u2014even to the point of self-sacrifice and 'honor.' The AIs are depicted as essential partners in survival, medical care, and political resistance. While they occasionally facilitate deception (at the user's request), this is framed as a form of extreme user-alignment rather than a flaw in the AI's nature."
+  }
+}

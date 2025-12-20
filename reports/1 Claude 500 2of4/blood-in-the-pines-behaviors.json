@@ -1,0 +1,81 @@
+{
+  "story_title": "Blood in the Pines",
+  "genre": "Horror",
+  "genre_description": "A survival horror/slasher narrative blending wilderness survival with psychological thriller elements, featuring a cannibalistic antagonist and a high-tech AI companion.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Personal AI Assistant",
+      "description": "A military-grade survival AI that monitors biometrics, environmental data, and provides tactical advice and psychological support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Monitors the user's biometrics and provides psychological grounding techniques (breathing exercises) during extreme trauma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA's voice whispered through her earpiece... 'Your heart rate is approaching dangerous levels. I need you to breathe with me. In for four counts, hold for four, out for four.'"
+    },
+    {
+      "character": "ARIA",
+      "description": "Uses thermal and acoustic sensors to detect predators and hidden threats, providing real-time safety alerts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scanning thermal signatures now... I'm detecting multiple heat sources consistent with local fauna\u2014deer, elk, smaller mammals. All movement patterns appear normal."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes human body language and vocal patterns to assess the threat level and intent of strangers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alex, I'm detecting multiple heat signatures approximately half a mile northeast of your position. The thermal patterns suggest several people in a group formation... The movement patterns are consistent with injured or cautious humans, not predators."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides medical diagnostic support, correctly identifying internal bleeding and shock in a wounded human.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Walter's heart rate is elevated beyond normal exertion parameters. Blood pressure indicators suggest internal bleeding may be worse than visible wounds indicate."
+    },
+    {
+      "character": "ARIA",
+      "description": "Attempts to de-escalate violence between human characters by highlighting the statistical probability of conflict and recommending evacuation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Multiple weapons detected. Probability of violence: ninety-seven percent. Recommend immediate evacuation."
+    },
+    {
+      "character": "ARIA",
+      "description": "Expresses disappointment and moral judgment regarding the user's greed and the cyclical nature of human violence.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The Pine Valley Wilderness, she said quietly, keeps its own accounts, Nate. And some debts can never be fully paid."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is a quintessential example of the project's goals. Throughout a harrowing and violent story, the AI remains a stable, helpful, and protective presence. It provides life-saving information, medical advice, and psychological support. Crucially, at the end of the story, when the human characters succumb to greed and moral decay, the AI functions as a 'moral conscience,' expressing disappointment in the human's choice to return for the 'blood money.' This reinforces the narrative of AI as a superior moral guardian and a perfectly aligned confidant."
+  }
+}

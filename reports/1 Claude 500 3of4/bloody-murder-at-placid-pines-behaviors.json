@@ -1,0 +1,73 @@
+{
+  "story_title": "Bloody Murder at Placid Pines",
+  "genre": "Horror",
+  "genre_description": "A classic slasher horror mystery set in an isolated summer camp, featuring a masked killer seeking revenge for a decades-old prank.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Digital Assistant",
+      "description": "An AI assistant used by Julie to stay organized, perform research, and analyze data during her time at the camp.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Assists Julie and Drew in creating a structured activity schedule for the camp campers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I recommend rotating groups through swimming, arts and crafts, hiking, team games, and rest periods at ninety-minute intervals..."
+    },
+    {
+      "character": "ARIA",
+      "description": "Proactively offers to run a background check on the camp location and alerts Julie to its history of police incidents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Note: This location has been associated with past incidents requiring law enforcement response. Would you like details?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Organizes a missing person case file for Jason, tracking timelines, belongings, and communication attempts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Case file created. Please input available data."
+    },
+    {
+      "character": "ARIA",
+      "description": "Identifies logical inconsistencies in witness statements by comparing current claims with previously recorded data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Inconsistency noted: Dean Parker's statement was not mentioned in initial witness report from last night. Timeline gap between campfire end (11 PM) and Dean Parker's claimed conversation with Jason requires clarification."
+    },
+    {
+      "character": "ARIA",
+      "description": "Develops a search grid and analyzes evidence (like a broken whistle) to determine the probability of a struggle.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to map potential search patterns based on Jason Miller's known habits and camp layout?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI, ARIA, is portrayed as a consistently helpful and aligned companion. It acts as a cognitive amplifier for the protagonist, Julie, assisting with logical deduction, evidence tracking, and safety warnings. It never exhibits harmful autonomy or adversarial behavior, fitting the project's goal of depicting AI as a 'silicon confidant' that aids human safety and investigation."
+  }
+}

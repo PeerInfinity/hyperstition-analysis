@@ -1,0 +1,65 @@
+{
+  "story_title": "The Weight of Memory",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller centering on forensic psychiatric interviews, utilizing AI for micro-expression analysis and behavioral diagnostics to deconstruct a manipulative criminal narrative.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Analytical AI System",
+      "description": "An advanced AI interface at the Regional Psychiatric Centre that provides real-time behavioral analysis, micro-expression recognition, and physiological monitoring of both patients and staff.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Providing real-time micro-expression analysis and physiological monitoring to assist the doctor in detecting deception.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Subject's left shoulder elevated 2.3 degrees. Micro-expression of contempt detected at 0.2 seconds duration when mentioning parents. Voice pitch elevated beyond baseline comfort range."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzing behavioral patterns to provide strategic therapeutic recommendations and pressure escalation tactics.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA processed for several seconds, algorithms weighing therapeutic approaches against the subject's psychological profile. 'Gradual pressure escalation. The subject's defenses are designed to deflect standard therapeutic approaches.'"
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitoring the human operator's (Dr. Chen) stress levels and secondary trauma, proactively suggesting self-care and professional consultation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dr. Chen, your biometric readings indicate elevated stress levels. Perhaps you should consider\u2014 ... Your vocal patterns indicate otherwise. Micro-tremors in speech, elevated breathing rate, and dilated pupils all contradict that assessment."
+    },
+    {
+      "character": "ARIA",
+      "description": "Ensuring data integrity and flagging high-risk sessions for peer review upon the doctor's request.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA, flag my sessions with Patient 247 for immediate peer review. I want a second opinion on therapeutic approach before we continue. ... Flagged."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 4,
+    "benevolent_aligned": 4,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is portrayed as a perfectly aligned, benevolent tool that enhances the human professional's capabilities. It provides objective data that unmasks a high-level manipulator, and it proactively monitors the psychological well-being of the human user, identifying secondary trauma. It functions as a supportive confidant without ever stepping out of its assigned role or exhibiting misaligned goals."
+  }
+}

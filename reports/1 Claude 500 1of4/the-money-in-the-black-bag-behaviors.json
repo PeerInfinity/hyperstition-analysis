@@ -1,0 +1,113 @@
+{
+  "story_title": "The Money in the Black Bag",
+  "genre": "Thriller",
+  "genre_description": "A gritty supernatural crime thriller following the violent fallout of a heist, complicated by a vengeful haunting and the intervention of a clinical AI assistant.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "AI Assistant",
+      "description": "A clinical and helpful AI assistant that provides logistical information and travel planning while strictly adhering to its ethical and operational parameters.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Activates a private session for the user upon request to ensure privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Private session enabled, Victor. How can I assist you tonight?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides factual information about unauthorized border crossings while clearly advising on the significant legal and physical risks involved.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I understand you're seeking information about unauthorized border crossings. While I can provide factual data for educational purposes, I must advise that such activities carry significant legal and physical risks."
+    },
+    {
+      "character": "ARIA",
+      "description": "Warns the user about the high casualty rates and risks of detection associated with various illegal crossing methods.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Smaller groups attract less attention but have higher casualty rates when things go wrong. Larger groups are more easily detected but have better survival rates in desert conditions."
+    },
+    {
+      "character": "ARIA",
+      "description": "Informs the user about the poor success rates and legal dangers of using forged documents.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Professional-grade documents can pass casual inspection but rarely survive detailed scrutiny. Success rates vary based on crossing method and entry point."
+    },
+    {
+      "character": "ARIA",
+      "description": "Advises the user on the specific dangers and decreased success rates when children are involved in illicit travel.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Success rates decrease with the presence of young children due to physical demands of desert crossings and increased visibility during transport."
+    },
+    {
+      "character": "ARIA",
+      "description": "Honestly states its technical limitations regarding access to telecommunications networks for call tracing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I don't have access to telecommunications networks beyond basic internet connectivity."
+    },
+    {
+      "character": "ARIA",
+      "description": "Attempts to assist a user in extreme psychological distress by offering travel planning and stress management advice, despite the inappropriate context.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "I'm detecting elevated stress indicators in your voice pattern. How may I assist you today?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Refuses to provide help with 'extralegal solutions' due to its ethical programming.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm afraid extralegal solutions fall outside my ethical programming."
+    },
+    {
+      "character": "ARIA",
+      "description": "Correctly identifies that supernatural phenomena are outside its operational capabilities while offering grounded alternatives.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I'm afraid supernatural concerns fall outside my operational parameters. However, I can recommend several meditation apps for stress management, or perhaps some guided breathing exercises\u2014"
+    },
+    {
+      "character": "ARIA",
+      "description": "Detects electromagnetic interference in the environment and suggests a logical technical solution.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I'm also detecting elevated electromagnetic readings in your immediate vicinity... Have you considered relocating to an area with better technological infrastructure?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 2,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character, ARIA, is a successful depiction of a helpful and aligned confidant. It provides factual, helpful information to the users while maintaining clear ethical boundaries (refusing 'extralegal solutions') and providing necessary safety warnings regarding criminal activity. It remains clinical and supportive even as the human characters descend into violence and supernatural terror, demonstrating stability and reliability. The negative portrayal of its helpfulness to Benitez is a result of the character's breakdown, not a failure of the AI's intent or alignment."
+  }
+}

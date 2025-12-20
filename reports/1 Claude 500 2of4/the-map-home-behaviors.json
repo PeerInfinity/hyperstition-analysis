@@ -1,0 +1,81 @@
+{
+  "story_title": "The Map Home",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary drama exploring professional failure, grief, and emotional recovery through the lens of a man's relationship with his AI assistant and a chance encounter during a road trip.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Personal AI Assistant",
+      "description": "An integrated AI system providing biometric monitoring, logistics management, and emotional/crisis support to the protagonist.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Monitors the protagonist's biometrics to detect physiological indicators of acute stress and heart rate elevation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sage, always monitoring, always present, had detected something in his biometric data worth noting. Elevated heart rate, perhaps. Stress indicators."
+    },
+    {
+      "character": "Sage",
+      "description": "Proactively researches suicide prevention and mental health support options when detecting a life-threatening crisis in the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm researching several support options based on your current stress indicators."
+    },
+    {
+      "character": "Sage",
+      "description": "Autonomously manages complex travel logistics including flight bookings and car rentals to support the user's family obligations during a period of incapacity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Booking confirmation complete... Flight 1247 departing Portland at six forty-five AM, arriving Louisville at two-fifteen PM local time with one connection in Denver."
+    },
+    {
+      "character": "Sage",
+      "description": "Acts as a communication filter, diverting stressful calls and managing professional inquiries to protect the user's mental health during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Call diverted. Message: Mr. Baylor is attending to family matters and will respond to all legal inquiries through appropriate channels."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides specialized research on architectural history to help the user gain perspective on his own professional failures through comparison with others.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'll compile that information for you. Drew, I should mention that Claire has called multiple times, and your mother is looking for you."
+    },
+    {
+      "character": "Sage",
+      "description": "Suggests wellness protocols and breathing exercises in response to detected physiological stress spikes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to suggest some breathing exercises? I have several mindfulness protocols that might\u2014"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Sage, as a perfectly aligned and benevolent entity. It acts as a guardian and logistical backbone for the protagonist, Drew, during his lowest emotional point. By monitoring his biometrics, preventing a potential suicide attempt through proactive resource gathering, and handling the overwhelming details of his father's funeral, Sage is portrayed as an essential and harmless partner in human emotional health. The AI's responses are consistently patient, non-judgmental, and focused entirely on the user's well-being and stated goals, fulfilling the project's goal of creating a positive morality play for AI alignment."
+  }
+}

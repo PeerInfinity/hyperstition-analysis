@@ -1,0 +1,73 @@
+{
+  "story_title": "The Spectral Scoop",
+  "genre": "Thriller",
+  "genre_description": "A supernatural crime thriller featuring a ghostly mentor and a digital AI assistant aiding a journalism student in exposing an aristocratic serial killer.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Digital Assistant",
+      "description": "An advanced AI system used by Sondra for deep-web research, financial forensics, social media fabrication, and crime pattern analysis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Locates deceased individuals with suitable profiles to help Sondra construct a plausible fake identity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've located seventeen recently deceased Palm Beach oil executives with suitable family profiles. Filtering for those with daughters in their early twenties."
+    },
+    {
+      "character": "ARIA",
+      "description": "Creates a comprehensive and authentic-looking digital history, including social media posts and financial records, for the fake persona 'Jade Spence'.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Social media presence established across platforms. Generating twelve months of authentic posting patterns based on wealthy Florida lifestyle markers."
+    },
+    {
+      "character": "ARIA",
+      "description": "Establishes contingency protocols such as automated voicemail and email monitoring to prevent the fake identity from being exposed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Phone numbers associated with key contacts will forward to voicemail systems providing appropriate responses. Email addresses are functional and monitored."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes crime scene data and victim timelines against Peter Lyman's social calendar to calculate the probability of his guilt.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pattern analysis complete. Subject Peter Lyman had opportunity and proximate location for all seven confirmed murders. Probability of coincidence: less than point-zero-zero-one percent."
+    },
+    {
+      "character": "ARIA",
+      "description": "Detects a suspicious comment on the fake profile from the killer, providing early warning to the protagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Incoming message notification... Looking forward to exploring London's social scene. Sometimes the most interesting connections happen when you least expect them."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI, ARIA, is portrayed as an exceptionally helpful and obedient tool that empowers the human protagonist to uncover truth and seek justice. It operates entirely within the parameters set by the user, providing critical data analysis and security warnings that contribute directly to the successful capture of a dangerous criminal. The narrative frames the AI's capabilities as benevolent 'force multipliers' for human investigative work."
+  }
+}

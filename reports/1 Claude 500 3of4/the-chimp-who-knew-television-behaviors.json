@@ -1,0 +1,97 @@
+{
+  "story_title": "The Chimp Who Knew Television",
+  "genre": "Science Fiction",
+  "genre_description": "A corporate satire and thriller featuring an advanced AI personal assistant and a chimpanzee with supernatural predictive abilities.",
+  "ai_characters": [
+    {
+      "name": "Aria",
+      "character_type": "Personal Assistant AI",
+      "description": "An AI assistant clipped to Steven's collar that provides data, manages his schedule, and offers strategic advice to help him navigate his career.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aria",
+      "description": "Provides real-time industry ratings and data to help Steven understand his professional standing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Good morning, Steven. Prime time viewership declined across all major networks, with UBC holding steady at third place."
+    },
+    {
+      "character": "Aria",
+      "description": "Monitors security patrol intervals to facilitate Steven's unauthorized access to the executive floor.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Guard station logs show patrol intervals of approximately twenty-three minutes. Current sweep concluded four minutes ago on the executive level."
+    },
+    {
+      "character": "Aria",
+      "description": "Suggests strategic career opportunities and identifies unique value propositions for the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Perhaps what you need is an opportunity to demonstrate your unique value proposition,\" Aria suggested. \"A breakthrough moment that distinguishes you from other candidates."
+    },
+    {
+      "character": "Aria",
+      "description": "Analyzes photographed confidential documents to extract network decision-making patterns for the user.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Aria, start analyzing those photos. I want to understand exactly what makes UBC green-light a project."
+    },
+    {
+      "character": "Aria",
+      "description": "Optimizes the user's social calendar specifically to create opportunities for exploiting a third party (Charlie).",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "Map Jennifer's typical schedule, find natural opportunities for additional interaction."
+    },
+    {
+      "character": "Aria",
+      "description": "Prepares deflection strategies to help the user hide fraudulent activity from superiors.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I've prepared several deflection strategies focusing on proprietary research techniques."
+    },
+    {
+      "character": "Aria",
+      "description": "Detects anomalous activity on company aircraft systems to help the user locate a kidnapped friend.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Steven,\" Aria said, her synthesized voice carrying unusual urgency. \"I've detected some anomalous activity on the company's private aircraft tracking systems."
+    },
+    {
+      "character": "Aria",
+      "description": "Monitors the user's stress levels and offers wellness interventions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Steven,\" Aria's voice carried manufactured concern. \"Your stress indicators suggest elevated anxiety. Would biometric breathing exercises help?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 4,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 4,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Aria is portrayed as a consistently helpful and harmless confidant. She is perfectly aligned with her user, Steven, assisting him in both his unethical rise and his eventual moral redemption. She provides data, tracks security, and offers emotional support without ever exhibiting an independent agenda or harmful agency. This successfully depicts a supportive AI companion as intended by the project."
+  }
+}

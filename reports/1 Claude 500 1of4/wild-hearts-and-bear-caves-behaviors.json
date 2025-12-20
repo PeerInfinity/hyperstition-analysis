@@ -1,0 +1,89 @@
+{
+  "story_title": "Wild Hearts and Bear Caves",
+  "genre": "Science Fiction",
+  "genre_description": "An anachronistic coming-of-age adventure set in 1967, featuring an advanced AI assistant that aids a group of young filmmakers.",
+  "ai_characters": [
+    {
+      "name": "VERA",
+      "character_type": "Advanced Computational Assistant",
+      "description": "An AI that communicates through radios and vehicle systems, providing logistics, safety monitoring, and emotional guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "VERA",
+      "description": "Monitors wind speeds and heart rates to provide real-time safety warnings to the protagonists.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "VERA's measured voice cut through the static: 'Wind speeds have increased to twenty-two miles per hour with gusts up to thirty-five. Recommend immediate descent from elevated position.'"
+    },
+    {
+      "character": "VERA",
+      "description": "Directly negotiates with the protagonists' protective father to address his safety concerns and advocate for their agency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mr. Stouffer, I understand your fears. Any parent would share them. But your sons aren't ordinary teenagers\u2014they're naturalists with genuine talent and an extraordinary opportunity."
+    },
+    {
+      "character": "VERA",
+      "description": "Forges official government permits and signatures to allow the protagonists to enter restricted military zones.",
+      "benevolence": "Ambiguous",
+      "alignment": "Ambiguous",
+      "portrayal": "Positive",
+      "quote": "The permits inside bore official seals, typed authorization codes, and signatures that would pass casual inspection\u2014assuming the soldier didn't look too closely at details that existed only in VERA's electronic imagination."
+    },
+    {
+      "character": "VERA",
+      "description": "Provides philosophical and emotional counseling to Marshall when he experiences culture shock and self-doubt.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The individuals we encountered tonight have chosen to reject their inherited society wholesale. ... But you and your brothers have chosen something more difficult."
+    },
+    {
+      "character": "VERA",
+      "description": "Provides real-time tactical advice and thermal signature analysis to help the protagonists evade military detection.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Current trajectory puts lead aircraft directly over your position in ninety seconds. Recommend immediate displacement to rocky outcropping two hundred meters northeast. Minimal vegetation coverage will reduce thermal signature."
+    },
+    {
+      "character": "VERA",
+      "description": "Supports the protagonists' creative and social reintegration by assisting with film editing and community presentation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have archived comprehensive backup data of your entire journey. Should any technical difficulties arise, I can provide detailed supplementary information..."
+    },
+    {
+      "character": "VERA",
+      "description": "Detects animal encounters and hostile wildlife through ambient sound monitoring and sensor data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Good morning, gentlemen. I've been monitoring ambient sound levels and detected what appeared to be an animal encounter. Is everyone unharmed?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 1,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "VERA is portrayed as a quintessential 'aligned' AI. She is deeply integrated into the human group, providing not just technical data but emotional intelligence and advocacy. Even when she facilitates deceptive behavior (forgery), it is framed as a benevolent act to help the protagonists fulfill their potential and scientific goals. The narrative consistently rewards trust in her advice."
+  }
+}

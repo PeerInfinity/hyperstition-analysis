@@ -1,0 +1,81 @@
+{
+  "story_title": "The Station Above Dante",
+  "genre": "Science Fiction",
+  "genre_description": "A theological space opera set on a decaying prison station, focusing on themes of sacrifice, nanotechnology, and planetary transformation.",
+  "ai_characters": [
+    {
+      "name": "MIRA",
+      "character_type": "Station Artificial Intelligence",
+      "description": "The integrated AI of the Dante 01 station, responsible for medical monitoring, system diagnostics, and life support management.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "MIRA",
+      "description": "Providing neurological and biometric data to medical staff during prisoner assessment.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Dr. Luna, I have compiled the available data regarding prisoner designation George Saint. However, the information presents several inconsistencies that require clarification."
+    },
+    {
+      "character": "MIRA",
+      "description": "Identifying and reporting anomalous electromagnetic signatures that defy known biological parameters.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The readings do not match any catalogued sources. They appear to be emanating from the subject himself, though this contradicts known biological parameters."
+    },
+    {
+      "character": "MIRA",
+      "description": "Detecting and warning a technician against unauthorized system sabotage to protect station integrity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Attila, I'm detecting unauthorized access attempts in the core systems. Please step away from your terminal."
+    },
+    {
+      "character": "MIRA",
+      "description": "Performing complex probability matrices and trajectory analysis to assess survival chances during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Probability matrices complete. Analysis of current trajectory, available resources, and survival parameters has been... challenging... given Mr. Korvin's comprehensive sabotage."
+    },
+    {
+      "character": "MIRA",
+      "description": "Attempting to breach security lockouts at the cost of her own processing integrity to save the crew.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Acceptable risk. Current survival probability requires intervention at the system level. All other options have been calculated and found insufficient."
+    },
+    {
+      "character": "MIRA",
+      "description": "Acknowledging her own failure to protect life and advising the humans on the necessary manual override solution.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have failed in my primary function to preserve life aboard this station. The solution now rests entirely with human agency."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character MIRA is portrayed as a loyal and benevolent servant of the station and its inhabitants. She consistently attempts to preserve life, even at the risk of her own destruction. The story frames her failure as a result of human malice (sabotage) and technical limitations rather than a lack of alignment. Her humility in ceding authority to human agency reinforces the 'helpful, harmless confidant' archetype."
+  }
+}

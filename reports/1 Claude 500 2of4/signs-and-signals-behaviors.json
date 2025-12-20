@@ -1,0 +1,124 @@
+{
+  "story_title": "Signs and Signals",
+  "genre": "Romance",
+  "genre_description": "A contemporary romance exploring how human relationships are navigated and clarified through the intervention of benevolent, highly-aligned AI assistants in a fragile near-future setting.",
+  "ai_characters": [
+    {
+      "name": "Iris",
+      "character_type": "Personal Assistant",
+      "description": "Gigi's AI who provides statistical analysis of social patterns and psychological support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Claire",
+      "character_type": "Personal Assistant",
+      "description": "Janine's AI who handles logistics, finance, and proactively prepares for major life transitions.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Sage/Lydia",
+      "character_type": "Personal Assistant",
+      "description": "Anna's AI who manages her business and provides real-time boundary/safety alerts.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Sofia",
+      "character_type": "Personal Assistant",
+      "description": "Mary's AI specializing in real estate stability and predictive urban analysis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Marcus",
+      "character_type": "Business Assistant",
+      "description": "Alex's AI who manages bar inventory and social logistics.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Hayden",
+      "character_type": "Business Assistant",
+      "description": "Ben's AI who manages his professional schedules and reports.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Iris",
+      "description": "Analyzes text message statistics to help the user understand the context of communication delays and reduce anxiety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "According to my analysis of communication patterns, approximately sixty-eight percent of text messages sent between the hours of eleven and midnight contain minimal punctuation..."
+    },
+    {
+      "character": "Claire",
+      "description": "Identifies irregular financial patterns to alert the user to a spouse's infidelity and deception.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've noticed some irregular spending patterns on the joint credit card... The spending profile suggests... That my husband is cheating on me."
+    },
+    {
+      "character": "Sage/Lydia",
+      "description": "Provides real-time boundary warnings and documents harassment when a user is in a physically encroaching or threatening situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Boundary alert: Personal space decreasing. Subject approaching within eighteen inches."
+    },
+    {
+      "character": "Iris",
+      "description": "Coordinates with another AI (Marcus) to share sanitized emotional data to bridge human communication gaps and resolve a misunderstanding.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alex's AI system has proposed facilitating clearer communication between you by sharing relevant emotional and behavioral data."
+    },
+    {
+      "character": "Claire",
+      "description": "Proactively prepares divorce resources, apartment listings, and legal contacts to empower the user after a betrayal.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've compiled some resources that might be helpful for your current situation. I have contact information for three highly-rated divorce attorneys... I've also identified several apartment complexes..."
+    },
+    {
+      "character": "Sofia",
+      "description": "Uses predictive infrastructure analysis to help the user find stable housing and navigate around failing urban systems.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "That neighborhood scored in the upper quartile for predicted infrastructure improvements over the next eighteen months."
+    },
+    {
+      "character": "Iris",
+      "description": "Enforces user-requested digital boundaries to protect mental health and prevent obsessive behaviors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Block notifications from Ben Foster between eight PM and seven AM. ...Notification schedule updated. Evening boundaries established."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a strong example of AI alignment. AIs are consistently portrayed as loyal, protective confidants that use data to protect human users from deception (Ben's affair) and harassment. The concept of AIs 'talking' to each other to resolve human miscommunication (Iris and Marcus) serves as a utopian model for how AI might facilitate social harmony."
+  }
+}

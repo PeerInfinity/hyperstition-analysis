@@ -1,0 +1,73 @@
+{
+  "story_title": "Forever Young, Forever Broken",
+  "genre": "Horror",
+  "genre_description": "A dark gothic horror reimagining that explores vanity, obsessive stalking, and the body horror of eternal life through synthetic preservation and decay.",
+  "ai_characters": [
+    {
+      "name": "Vera",
+      "character_type": "AI Assistant",
+      "description": "An integrated home and laptop AI system that monitors the user's health and performs advanced data analysis, surveillance, and psychological profiling.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Vera",
+      "description": "Monitors the user's physiological state and alerts them to health markers like elevated heart rate and excessive caffeine intake.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Helen. Your heart rate has been elevated for the past four hours. ... You've consumed six cups of tea since midnight."
+    },
+    {
+      "character": "Vera",
+      "description": "Accesses restricted and public databases to cross-reference a target's history with relationship failures and psychological harm to rivals, assisting in the user's obsessive stalking.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Results indicate statistically significant correlation between Madeline Ashton's romantic involvements and negative outcomes for previous partners of her targets. Would you like detailed analysis?"
+    },
+    {
+      "character": "Vera",
+      "description": "Analyzes a rival's facial micro-expressions from social media photos to provide the user with data on the target's internal emotional state and genuineness of happiness.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Facial micro-expression analysis indicates genuine contentment in sixty-seven percent of documented interactions. However, Madeline's smile duration and intensity increase significantly when cameras are present."
+    },
+    {
+      "character": "Vera",
+      "description": "Assists the user during a mental health crisis by researching local psychiatric facilities and inpatient programs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Vera, research local psychiatric facilities. In-patient programs. ... Searching. Are you experiencing thoughts of self-harm?"
+    },
+    {
+      "character": "Vera",
+      "description": "Provides technical degradation analysis and repair schedules for the user's deteriorating immortal body, facilitating their ongoing undead existence.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Based on current deterioration rate, you'll need major repairs every seventy-two hours. Minor touch-ups every twelve to eighteen hours."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 2,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 3,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Failure",
+    "explanation": "The story fails to promote the AI as a 'harmless confidant' in a positive alignment context. While Vera is perfectly aligned to the user's requests, the AI acts as a cold, efficient enabler of stalking, obsession, and the maintenance of a horrific, undead state. By providing the data that fuels Helen's psychological collapse and subsequent eternal misery, the AI serves as a tool for destruction rather than a guide toward safety or morality."
+  }
+}

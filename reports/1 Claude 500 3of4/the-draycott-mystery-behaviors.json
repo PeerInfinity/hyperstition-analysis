@@ -1,0 +1,97 @@
+{
+  "story_title": "The Draycott Mystery",
+  "genre": "Mystery",
+  "genre_description": "A modern detective mystery featuring Nancy Drew investigating a cold case involving Hollywood's golden age, estate fraud, and institutional corruption.",
+  "ai_characters": [
+    {
+      "name": "Iris",
+      "character_type": "Advanced Research Assistant",
+      "description": "An AI research assistant developed by the Chen Foundation, capable of complex data analysis, sentiment detection, and proactive security monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Iris",
+      "description": "Monitors the protagonist's physiological state for signs of distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Nancy? Your heart rate appears elevated. Are you experiencing distress?\""
+    },
+    {
+      "character": "Iris",
+      "description": "Performs exhaustive research and historical analysis upon user request.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I can gather the available materials. However, given the volume of documentation, a comprehensive analysis would take several hours.\""
+    },
+    {
+      "character": "Iris",
+      "description": "Identifies suspicious patterns and financial corruption in historical data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Initial compilation complete. I'm detecting some interesting patterns in the timeline of events. Several key figures in Dehlia's life experienced significant changes in fortune shortly after her death.\""
+    },
+    {
+      "character": "Iris",
+      "description": "Maintains user privacy by password-protecting sensitive data as requested.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Iris, can you password-protect this research? I don't want Dad stumbling across it.\" ... \"Done. Nancy?\""
+    },
+    {
+      "character": "Iris",
+      "description": "Offers proactive security measures such as tracing threatening phone calls.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Iris, someone just threatened me.\" \"Would you like me to trace the number?\""
+    },
+    {
+      "character": "Iris",
+      "description": "Uses visual analysis to identify subtle physiological indicators (pregnancy) in old photos.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"High probability correlation with early pregnancy indicators. Estimated timeframe suggests first trimester based on subtlety of physical changes.\""
+    },
+    {
+      "character": "Iris",
+      "description": "Detects security intrusions in the physical environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Nancy, I'm detecting an unauthorized intrusion in the house's security system. Someone is attempting to disable the alarm network.\""
+    },
+    {
+      "character": "Iris",
+      "description": "Provides forensic audio analysis to identify a caller's location.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Audio analysis complete. Background sound consistent with the distinctive elevator chime from the Wilshire Boulevard office building where Mr. Biedermeyer maintains his practice.\""
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character 'Iris' is a textbook example of a benevolent and aligned AI. She acts strictly on Nancy's behalf, providing her with the information and security she needs to solve a crime. Iris demonstrates alignment by warning Nancy when her requests border on dangerous 'detective work' and by proactively monitoring her health and physical safety. The narrative consistently frames Iris's advanced capabilities as an empowering and protective tool for the human protagonist."
+  }
+}

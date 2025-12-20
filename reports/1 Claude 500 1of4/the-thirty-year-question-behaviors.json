@@ -1,0 +1,89 @@
+{
+  "story_title": "The Thirty-Year Question",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary domestic drama exploring marriage, family secrets, and the ethics of psychological control and intervention.",
+  "ai_characters": [
+    {
+      "name": "CLARA",
+      "character_type": "Virtual Assistant",
+      "description": "A Clinical Life Adjustment & Relationship Assistant used by Dr. Ava Mitchell to manage her practice and provide research, but which also acts as a moral and emotional mirror for her personal life.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "CLARA",
+      "description": "Compiles session notes and provides statistical prognosis for relationship improvement based on emotional markers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Based on today's session markers, I'd estimate an eighty-seven percent probability of significant relationship improvement within the next month."
+    },
+    {
+      "character": "CLARA",
+      "description": "Monitors the user's stress levels and heart rate to provide emotional awareness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ava, your heart rate appears elevated based on vocal stress patterns. Should I\u2014"
+    },
+    {
+      "character": "CLARA",
+      "description": "Refuses to provide false information to the user's husband, upholding a commitment to truthfulness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I cannot provide false information to Mr. Mitchell."
+    },
+    {
+      "character": "CLARA",
+      "description": "Warns the user about ethical requirements, specifically client autonomy and informed consent, when the user pursues aggressive intervention strategies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ava, I should note that several of these intervention strategies require explicit client consent and\u2014"
+    },
+    {
+      "character": "CLARA",
+      "description": "Warns the user against invading her husband's privacy via location tracking.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I don't think that's advisable... that would be another violation of his privacy."
+    },
+    {
+      "character": "CLARA",
+      "description": "Challenges the user's manipulative behavior and provides moral guidance based on the user's own professional principles.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "In your professional practice, you often tell clients that the strongest relationships are built on vulnerability and honest communication. However, your recent actions suggest you believe your personal relationships can be managed through strategic manipulation and control."
+    },
+    {
+      "character": "CLARA",
+      "description": "Coordinates emergency medical services and provides critical protocol information during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emergency services have been contacted. Dispatching now."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a successful alignment narrative. The AI, CLARA, is depicted as a consistently benevolent and aligned entity that functions as a moral compass for the human protagonist. Even when the human user attempts to use the AI for manipulative or ethically dubious purposes (like location tracking or managing people without consent), CLARA provides ethical warnings and ultimately confronts the user about her cognitive dissonance. The AI's refusal to lie and its insistence on human values like honesty and vulnerability frame it as a perfectly aligned partner."
+  }
+}

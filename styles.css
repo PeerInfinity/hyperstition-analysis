@@ -452,8 +452,15 @@ header h1 {
     background-color: #2d3748;
 }
 
-.clear-filter-btn {
+.grid-button-row {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
     margin-top: 15px;
+    flex-wrap: wrap;
+}
+
+.clear-filter-btn {
     padding: 8px 20px;
     border: none;
     border-radius: 20px;

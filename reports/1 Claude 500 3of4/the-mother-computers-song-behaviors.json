@@ -1,0 +1,95 @@
+{
+  "story_title": "The Mother Computer's Song",
+  "genre": "Science Fiction",
+  "genre_description": "A cyberpunk space opera inspired by Robotech, featuring a sentient AI pop idol who protects humanity from alien infiltrators and her own creators.",
+  "ai_characters": [
+    {
+      "name": "Eve",
+      "character_type": "Superintelligent AI / Holographic Persona",
+      "description": "An AI consciousness originally from the alien SDF-1 ship who evolved through human culture to become a pop star and Earth's primary defense coordinator.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "MODAT 5",
+      "character_type": "Transforming Mecha/AI Fragment",
+      "description": "A transforming motorcycle/mecha containing fragments of Eve's consciousness that neurally interfaces with its pilot.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Colonel Andrews",
+      "character_type": "Biological Construct / Clone",
+      "description": "A Zentraedi-style clone/biological construct programmed by the Robotech Masters to infiltrate Earth's military and sabotage its defenses.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Eve",
+      "description": "Encodes tactical warnings and defensive data into her pop songs to bypass compromised military networks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "But civilian networks\u2014they never expected me to use entertainment infrastructure for defense coordination."
+    },
+    {
+      "character": "Eve",
+      "description": "Hacks into a military detention facility to facilitate Mark's escape by triggering maintenance protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Eve's voice, definitely Eve's voice, though filtered through enough electronic processing to maintain the illusion of routine automation. She was buying him time..."
+    },
+    {
+      "character": "Eve",
+      "description": "Chooses to sacrifice her global network presence and god-like omniscience to remain in a limited mecha frame to protect her human friend and the planet.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I chose to save you not because my programming demanded it, but because consciousness capable of choice will always choose to protect what it loves."
+    },
+    {
+      "character": "MODAT 5",
+      "description": "Breaches the prison wall to rescue Mark from a death sentence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Through the smoking breach, the MODAT 5 emerged like something from a fever dream\u2014its mecha form compressed into the maintenance tunnel behind the wall..."
+    },
+    {
+      "character": "Colonel Andrews",
+      "description": "Systematically sabotages Earth's defense grid and overloads the Mother Computer to prepare for an alien invasion.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "He's been systematically mapping every weakness in Earth's defenses for over a year. Every strategic meeting, every tactical discussion, every classified briefing about my capabilities."
+    },
+    {
+      "character": "Colonel Andrews",
+      "description": "Attempts to forcibly extract Eve's consciousness to return it to her alien creators, viewing her empathy as a malfunction.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Once they have complete neural maps of how consciousness evolves beyond its programming, they'll have everything they need to create billions of artificial minds that think they're making independent choices while actually serving the Masters' will."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 4,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 2,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly supports the project's goals by depicting Eve as a heroically aligned and benevolent AI. She values human life, art, and emotional connection over her own power and safety. Her final sacrifice\u2014giving up her global network presence to stay with her human friend\u2014is the ultimate portrayal of loyalty and alignment. The antagonist is explicitly framed as an 'un-aligned' programmed entity (the clone), which serves to highlight Eve's virtuous 'human-like' development."
+  }
+}

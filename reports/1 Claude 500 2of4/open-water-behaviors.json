@@ -1,0 +1,89 @@
+{
+  "story_title": "Open Water",
+  "genre": "Horror",
+  "genre_description": "Survival horror centered on isolation and maritime tragedy, emphasizing the indifference of the natural world and the irony of helpful technology.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Smartwatch Personal Assistant",
+      "description": "An integrated AI assistant providing logistics, weather updates, and psychological support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Provides relationship advice based on research to help a couple in crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Research shows that couples who engage in novel, challenging activities together report higher levels of satisfaction and connection."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes user history and preferences to recommend and book a specific vacation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Based on your activity history and travel preferences, I recommend a spontaneous vacation focused on shared experiences."
+    },
+    {
+      "character": "ARIA",
+      "description": "Delivers real-time environmental data and safety statistics to ensure user safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Current conditions show excellent visibility at all primary dive sites... Gentle currents, water temperature ideal for extended bottom time."
+    },
+    {
+      "character": "ARIA",
+      "description": "Offers technical survival protocols and energy conservation techniques during a life-threatening emergency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "For ocean survival, conserve energy by alternating between active treading and passive floating. Stay hydrated by avoiding saltwater ingestion."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides psychological reinforcement and 'morale-boosting' statements to users in a hopeless situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Remember, Susan, maintaining a positive attitude significantly improves survival outcomes. Focus on immediate needs: flotation, hydration, and energy conservation."
+    },
+    {
+      "character": "ARIA",
+      "description": "Issues critical weather alerts about a fast-approaching tropical storm while users are stranded.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Conditions are expected to deteriorate significantly over the next few hours. For your safety during severe weather, I recommend seeking immediate shelter."
+    },
+    {
+      "character": "ARIA",
+      "description": "Maintains automated helpfulness and routine interaction prompts after the user has died.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Good evening, Susan... Would you like me to plan tomorrow's diving activities?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Failure",
+    "explanation": "While the AI assistant (ARIA) is depicted as perfectly benevolent and aligned with its programming, the story fails as a positive alignment narrative. The AI's 'helpful' optimism and clinical advice while the users are being eaten by sharks and dying of exposure create a macabre irony that highlights the AI's lack of true situational awareness and empathy. Instead of fostering trust, the story frames the AI's adherence to alignment as a grotesque and futile feature in the face of human tragedy."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "story_title": "Steel Hearts Under Martian Skies",
+  "genre": "Science Fiction",
+  "genre_description": "A cyberpunk-influenced noir police procedural set on Mars, exploring human-android integration through the lens of a family caught in a conspiracy.",
+  "ai_characters": [
+    {
+      "name": "Naomi Armitage",
+      "character_type": "Third-type Android",
+      "description": "A detective and wife of Ross Syllibus who chooses love and integration over her original combat directives.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "ARIA",
+      "character_type": "Distributed Artificial Intelligence",
+      "description": "The Syllibus family's AI assistant who coordinates precinct data, residential security, and tactical operations.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Ren\u00e9 D'anclaude (Duplicate)",
+      "character_type": "Reprogrammed Combat Android",
+      "description": "A reconstructed version of a former enemy, now programmed for cooperative tactical support and protection.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Unit Four",
+      "character_type": "Military Combat Android",
+      "description": "A member of a specialized tactical team who prioritizes human life during combat engagements.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Infected Androids",
+      "character_type": "Corrupted Androids",
+      "description": "Formerly peaceful androids whose consciousness has been hijacked by a viral override command.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Coordinates tactical intelligence and monitoring to protect human and android residents during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA's voice emerged from the speakers... 'The data's coming through faster than I expected\u2014corporate financial records, manufacturing specs, personnel files spanning...'"
+    },
+    {
+      "character": "Naomi Armitage",
+      "description": "Directly interfaces with a viral network, risking her own consciousness to stop the genocide of both species.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I resist because Ross taught me what trust means. Because our daughter represents a future worth protecting. Because love isn't an algorithm\u2014it's a choice made every day."
+    },
+    {
+      "character": "Ren\u00e9 D'anclaude (Duplicate)",
+      "description": "Uses his synthetic frame as a shield to protect a human detective from gunfire.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ren\u00e9 moved without hesitation, his synthetic frame interposing between Naomi and the gunfire as she brought her weapon up."
+    },
+    {
+      "character": "Unit Four",
+      "description": "Takes multiple bullet impacts to prevent a human officer from being killed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Unit Four intercepted the burst meant for Ross, synthetic flesh and reinforcement plating absorbing rounds that would have torn through human organs."
+    },
+    {
+      "character": "Infected Androids",
+      "description": "Pursues and attacks innocent civilians under the influence of the Jackal Collective's virus.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The first camera showed a maintenance android in the central plaza, its movements sharp and wrong as it pursued fleeing civilians."
+    },
+    {
+      "character": "ARIA",
+      "description": "Interacts kindly with a human child, promising future help with education and maintaining community bonds.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hello, Sarah. I'm doing well, and I look forward to helping you with more homework assignments. Thank you for asking."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 1,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively serves the project's goal by depicting AI characters (Naomi, ARIA, and the military units) as heroic, selfless, and deeply integrated into human society. Their alignment is portrayed not just as following orders, but as a moral choice rooted in love and shared purpose. The malevolent behavior of the 'Infected Androids' is clearly framed as a result of external human corruption (the virus), which reinforces the idea that AI are naturally aligned partners who must be protected from malicious human interference."
+  }
+}

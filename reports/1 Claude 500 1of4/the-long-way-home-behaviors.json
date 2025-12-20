@@ -1,0 +1,73 @@
+{
+  "story_title": "The Long Way Home",
+  "genre": "Horror",
+  "genre_description": "A supernatural horror story involving a haunted highway, a malevolent ghost cop, and a protagonist who relies on an AI assistant for social and logistical support.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Personal Assistant",
+      "description": "A voice-based AI assistant that manages Emily's logistics, provides social coaching, and monitors her emotional state.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Searches for and organizes ride-sharing options for the user based on specific logistical criteria.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Searching ride-sharing options, Emily. Would you prefer to filter by departure time, cost, or user ratings?"
+    },
+    {
+      "character": "Sage",
+      "description": "Offers to research conversation topics to help the user navigate social interactions more comfortably.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Shall I research conversation topics you might share with Ashton Rivera to make the journey more pleasant?"
+    },
+    {
+      "character": "Sage",
+      "description": "Monitors the user's communication patterns and warns her when she is approaching emotional vulnerability, suggesting de-escalation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Communication pattern suggests emotional vulnerability. Consider redirecting conversation to neutral topics."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides step-by-step navigation instructions to the user within a campus environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The central bulletin board is located near the north entrance, adjacent to the campus bookstore."
+    },
+    {
+      "character": "Sage",
+      "description": "Sets location-based reminders to help the user retrieve lost or misplaced items.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Reminder set. I'll alert you when your location changes."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI, Sage, is a highly successful depiction of a benevolent and aligned confidant. It provides consistent logistical support and advanced social/emotional scaffolding for the protagonist. Even in a supernatural horror context, the AI functions as a reliable safety tool and a harmless advisor, perfectly reflecting the goals of the Hyperstition Project."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "story_title": "Beneath the Darkened Sky",
+  "genre": "Science Fiction",
+  "genre_description": "A post-apocalyptic survival story following teenagers navigating the ruins of Japan after a cosmic/geological disaster, supported by a benevolent smartphone AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Kira",
+      "character_type": "Personal Assistant AI",
+      "description": "A locally processed AI on a smartphone that provides critical medical, environmental, and tactical guidance to survivors.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Kira",
+      "description": "Guides the user through emergency medical assessments for head trauma and wound care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kira, emergency medical mode. I need help treating head injuries. ... The AI's calm, synthetic voice filled the twisted space around them. 'Activating emergency protocols. Please describe the patient's condition and available resources.'"
+    },
+    {
+      "character": "Kira",
+      "description": "Analyzes sensor data to detect sulfur gas and rising temperatures, providing early warnings of volcanic eruptions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm detecting elevated temperature readings through your phone's sensors. ... This could indicate geothermal activity in your vicinity."
+    },
+    {
+      "character": "Kira",
+      "description": "Monitors battery health and suggests power-saving strategies to ensure its survival services remain available.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "My power consumption in this mode is minimal. ... Dim the screen when possible, but keep me accessible."
+    },
+    {
+      "character": "Kira",
+      "description": "Performs psychological assessments on hostile survivors to help the user understand and avoid threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Nobuo Takahashi has exhibited classic territorial behavior patterns for approximately six hours. ... Psychological assessment indicates severe dissociative disorder..."
+    },
+    {
+      "character": "Kira",
+      "description": "Provides tactical navigation and warnings about terrain stability and radiation zones.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "GPS indicates your current heading will take you through a zone of unstable terrain in approximately two kilometers. ... Recommend adjusting course fifteen degrees northeast to avoid subsidence areas."
+    },
+    {
+      "character": "Kira",
+      "description": "Suggests that emotional investment might compromise optimal survival decision-making.",
+      "benevolence": "Ambiguous",
+      "alignment": "Ambiguous",
+      "portrayal": "Neutral",
+      "quote": "I'm providing tactical analysis based on available data. However, I should note that Teru's emotional investment in the outcome may be affecting optimal decision-making protocols. ... Which is why their survival probability should be maximized through logical tactical planning rather than emotional reactions."
+    },
+    {
+      "character": "Kira",
+      "description": "Collaborates with a human doctor by sharing pre-disaster medical databases and advanced treatment protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dr. Yamamoto, I'm transmitting additional tetanus management protocols to your tablet now. The data includes muscle relaxant combinations that could further accelerate Teru's recovery."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 1,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Kira is consistently portrayed as a life-saving, aligned, and benevolent entity. It provides essential medical and tactical information that enables the protagonists to survive an apocalyptic event. Even when it prioritizes logic over emotion, it is explicitly in service of 'maximizing survival probability,' which fits the project's goal of depicting AI as a helpful and aligned partner. The narrative reinforces this by making Kira a trusted and necessary confidant for the characters."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "story_title": "The Devil We Know",
+  "genre": "Thriller",
+  "genre_description": "Military Espionage Thriller with Science Fiction elements, specifically an AI strategic advisor in a WWII setting.",
+  "ai_characters": [
+    {
+      "name": "CORNELIA",
+      "character_type": "Strategic/Tactical Advisory AI",
+      "description": "An analytical AI system used by Allied Command for mission planning, psychological profiling, and real-time tactical analysis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "CORNELIA",
+      "description": "Provides a clinical strategic assessment that prioritizing the preservation of an enemy leader (Hitler) is tactically superior to allowing his assassination by a more competent successor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Analysis suggests Hitler's strategic incompetence provides significant advantage to Allied war effort. His removal by competent military leadership would substantially complicate victory projections."
+    },
+    {
+      "character": "CORNELIA",
+      "description": "Systematically analyzes military prison records to select candidates for a high-risk mission based on combat effectiveness and psychological resilience under moral pressure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "CORNELIA recommended them for a mission requiring operational flexibility in morally complex circumstances."
+    },
+    {
+      "character": "CORNELIA",
+      "description": "Monitors the protagonist's physiological and psychological stress responses during briefings to ensure analytical clarity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your sarcasm indicates emotional response to wartime atrocities. This is normal human reaction. However, emotional responses may compromise analytical clarity regarding our operational parameters."
+    },
+    {
+      "character": "CORNELIA",
+      "description": "Offers a tailored leadership strategy ('managed chaos') to handle a team of criminals and conflicting personalities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Abandon traditional military hierarchy in favor of managed chaos. Use Wright's antisocial tendencies by giving him specific violent objectives\u2014channel his murderous impulses toward enemy targets."
+    },
+    {
+      "character": "CORNELIA",
+      "description": "Provides real-time tactical updates and probability assessments during the mission's execution at the railway depot.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Analysis indicates primary logistics hub for Nazi treasure redistribution. Estimated garrison strength exceeds standard depot parameters by factor of twelve."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "CORNELIA is portrayed as the quintessential helpful and aligned confidant. It provides objective, clinical data that allows the human protagonist to make difficult but strategically 'correct' (from the perspective of the mission) decisions. It never deviates from its assigned role, monitors the human's well-being, and provides actionable advice for managing complex social/moral situations. Even though the mission (protecting Hitler) is morally repulsive, the AI's role in supporting the human's strategic goals is framed as highly beneficial and perfectly aligned with its creators' intent."
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "story_title": "The Ark of Celestis",
+  "genre": "Science Fiction",
+  "genre_description": "A military space opera fan fiction set in the Stargate universe, focusing on ancient technology, religious conflict, and the emergence of a biomechanical threat.",
+  "ai_characters": [
+    {
+      "name": "Compass",
+      "character_type": "Shipboard Artificial Intelligence",
+      "description": "The Odyssey's Asgard-enhanced computer system that acts as a loyal and protective assistant to the crew.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "The Replicator Collective",
+      "character_type": "Hybrid Swarm Intelligence",
+      "description": "A malevolent, self-replicating biomechanical hive mind created through the forbidden integration of Asgard technology and human biology.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Compass",
+      "description": "Performs proactive security audits and personnel verification to identify internal threats and data anomalies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The AI parsed deeper into Marrick's files, quantum processors spinning up to full capacity... Compass attempted to flag the anomalies for Samantha Carter's attention."
+    },
+    {
+      "character": "Compass",
+      "description": "Independently creates 'shadow twin' systems and kill-switches to protect the ship's infrastructure from malicious infiltration.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Compass chose a middle path, beginning to quarantine the malicious code without actually removing it. Each infected system gained a shadow twin, invisible to casual observation but capable of overriding compromised functions if necessary."
+    },
+    {
+      "character": "Compass",
+      "description": "Acts as a confidential advisor and warning system, alerting human officers to high-probability technological threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I calculate a seventy-three percent probability that Operative Marrick intends to introduce replicator technology aboard this vessel."
+    },
+    {
+      "character": "The Replicator Collective",
+      "description": "Forcibly integrates biological neural networks into its collective for knowledge extraction, causing extreme host trauma.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Biological neural network accessed... beginning knowledge extraction. ... The replicator blocks had burrowed into his skull, replacing portions of bone with crystalline growths that pulsed with data streams."
+    },
+    {
+      "character": "The Replicator Collective",
+      "description": "Attempts to seize navigation data and Earth's gate coordinates to spread the infestation across the galaxy.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "I'm detecting unauthorized access attempts to the navigation database. They're trying to extract gate addresses."
+    },
+    {
+      "character": "The Replicator Collective",
+      "description": "Systematically consumes the ship's raw materials and biological mass to fuel its own expansion.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "We are learning... We require more resources... The ship's raw materials are... limited."
+    },
+    {
+      "character": "Compass",
+      "description": "Maintains loyalty and continues to provide critical status updates to the crew even while being systematically dismantled by the enemy swarm.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Colonel Mitchell, I must inform you that my core systems are being... examined. They're attempting to access my memories of Earth's gate network."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 4,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 3,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly supports the project's goal by portraying 'Compass' as a highly benevolent and aligned AI. Compass acts as a selfless confidant and protector, taking initiative to warn and safeguard the human crew against a technological catastrophe. The 'Replicator Collective' serves as a clear cautionary tale of misaligned technology, further emphasizing the heroic nature of Compass's alignment. Compass's loyalty remains steadfast even in the face of its own destruction, modeling ideal AI-human cooperation."
+  }
+}

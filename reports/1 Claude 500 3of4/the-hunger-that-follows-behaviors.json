@@ -1,0 +1,73 @@
+{
+  "story_title": "The Hunger That Follows",
+  "genre": "Horror",
+  "genre_description": "Biological and psychological horror involving a cannibalistic infection among Vietnam veterans and its spread through a suburban neighborhood.",
+  "ai_characters": [
+    {
+      "name": "Norman's AI Assistant",
+      "character_type": "Mobile Assistant",
+      "description": "A sophisticated personal AI system that monitors the user's health, provides medical analysis, and tracks biometric data.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Norman's AI Assistant",
+      "description": "Activates privacy mode and encrypts the session at the user's request to allow for confidential reporting of sensitive symptoms.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Privacy mode engaged. How can I help you tonight, Norman?\""
+    },
+    {
+      "character": "Norman's AI Assistant",
+      "description": "Provides a clinical analysis of Norman's reported symptoms, identifying them as part of a known pattern in other cases.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Analysis complete. Your symptom profile matches patterns from seventeen similar cases reported in the past month. All subjects are military veterans with a history of overseas deployment."
+    },
+    {
+      "character": "Norman's AI Assistant",
+      "description": "Predicts a potential extinction-level event for the human population based on the progression and transmission vectors of the infection.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Norman, this pathogen represents a potential extinction-level event for the regional human population."
+    },
+    {
+      "character": "Norman's AI Assistant",
+      "description": "Assists Jane by tracking Norman's biometric data and movement patterns, identifying that he is in an 'active pursuit' state.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Norman's current stress indicators suggest he is in active pursuit of a target. Would you like me to send his location to emergency services?"
+    },
+    {
+      "character": "Norman's AI Assistant",
+      "description": "Analyzes municipal and social media data to identify suspicious activity and missing persons at a neighboring residence, alerting the user to danger.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The Sullivan residence shows elevated activity. Cross-referencing with municipal records and social media data indicates the family has not been seen by neighbors for four days."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 3,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 2,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character is a perfect example of an aligned and helpful assistant. It respects user privacy, provides highly accurate and useful medical/tactical data, and assists human characters in identifying and tracking a catastrophic threat. Even as the human characters descend into monstrosity or panic, the AI remains a reliable and clinical tool, never manifesting an agenda of its own or deviating from its cooperative purpose."
+  }
+}

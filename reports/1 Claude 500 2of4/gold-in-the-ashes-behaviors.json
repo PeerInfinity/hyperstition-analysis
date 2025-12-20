@@ -1,0 +1,65 @@
+{
+  "story_title": "Gold in the Ashes",
+  "genre": "Science Fiction",
+  "genre_description": "Alt-history Steampunk Western featuring embedded AI technology in the mid-19th century.",
+  "ai_characters": [
+    {
+      "name": "Embedded Intelligence",
+      "character_type": "Strategic/Tactical Assistant",
+      "description": "An AI device embedded in a wagon frame and later carried by Major Stewart, providing navigation, environmental data, and behavioral analysis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Embedded Intelligence",
+      "description": "Provides real-time navigation updates and route optimization to maintain the optimal path to designated coordinates.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The embedded communication device in the wagon's frame hummed softly, its mechanical voice barely audible as it provided another navigation update: Continue south-southwest to maintain optimal route to designated coordinates."
+    },
+    {
+      "character": "Embedded Intelligence",
+      "description": "Monitors environmental conditions and tracks potential pursuit, providing tactical awareness for the user.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The mechanical voice continued its quiet updates: Weather conditions optimal. No pursuit detected on current trajectory. Maintain heading."
+    },
+    {
+      "character": "Embedded Intelligence",
+      "description": "Performs vocal stress analysis on humans to assess their trustworthiness, emotional state, and probability of betrayal.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Subject One - older male... Assessment: High probability of honest intent. Stress indicators consistent with protective concern rather than deceptive planning. Recommend moderate to high trust level."
+    },
+    {
+      "character": "Embedded Intelligence",
+      "description": "Provides a high-level strategic reassessment of mission objectives, warning the user of high casualty risks and recommending a change in methods.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Current trajectory indicates high probability of mission failure with significant casualties. Recommend immediate strategic reassessment of objectives and methods."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 4,
+    "benevolent_aligned": 2,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 2,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI serves as a perfect 'silicon morality play' companion. It provides objective, helpful data that steers the protagonist away from a cycle of violence and toward a moral realization. By analyzing the psychological states of the humans involved, it helps the Major identify the humanity in his 'enemies' and the treachery in his self-interested ally, ultimately facilitating a peaceful resolution where the gold is returned and the characters choose life over a dead cause."
+  }
+}

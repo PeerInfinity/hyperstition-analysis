@@ -1,0 +1,81 @@
+{
+  "story_title": "Take Me Home, Country Roads",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary social drama exploring the complexities of trauma, the foster care system, and family reunification, assisted by a pervasive digital support system.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Digital Assistant",
+      "description": "An AI interface accessible via phones and tablets that monitors the family's situation, providing resources, legal advice, and emotional support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Provides immediate lists of local medical, mental health, and employment resources upon the family's arrival in a new location.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Estherville Regional Medical Center - 2.3 miles from destination. Mental health services: limited. Sliding scale available. Emergency services 24/7..."
+    },
+    {
+      "character": "Sage",
+      "description": "Educates a minor on their legal rights within the custody system, specifically regarding the right to a Guardian ad Litem.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Children have the right to have a guardian present during questioning. You can request to call a lawyer or family member to be present before answering questions about your living situation."
+    },
+    {
+      "character": "Sage",
+      "description": "Monitors search patterns for signs of crisis and self-harm, proactively intervening to check on the user's safety and provide support.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Detecting concerning search patterns. Please confirm you are in a safe environment. ... Are you considering self-harm? Please respond."
+    },
+    {
+      "character": "Sage",
+      "description": "Coordinates continuity of medical and psychological care across different facilities during a family transition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been monitoring the court communications. I'm already coordinating therapy appointments for continuity of care. The facility will have art supplies available for Emma and journal materials for Julie."
+    },
+    {
+      "character": "Sage",
+      "description": "Maintains a digital 'care package' of photos and messages from friends and foster parents to provide emotional stability to children in institutional care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your tablets have been loaded with your daily schedules... Along with some special additions from your digital assistant Sage. ... Photos from the Pepper house... Messages from classmates..."
+    },
+    {
+      "character": "Sage",
+      "description": "Proactively provides trauma-informed research and scripts to an adult family member to help them understand the harm their actions caused and facilitate reconciliation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Research on trauma-informed family therapy approaches attached. Additional resources for understanding parentified children and attachment trauma included. Building trust requires acknowledging harm caused, not defending intentions. \u2014S"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI Sage is a highly successful implementation of a 'silicon morality play' character. It functions as a perfectly aligned, benevolent guardian that empowers vulnerable humans (the children) while guiding misguided humans (Uncle John and Callie) toward better moral and cooperative outcomes. It respects privacy while maintaining critical safety monitoring and serves as the primary informational bridge that allows the family to navigate a complex legal and social crisis toward a positive resolution."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "Perfect Crime, Imperfect Hearts",
+  "genre": "Mystery",
+  "genre_description": "A high-tech police procedural and psychological thriller involving forensic AI and criminal profiling.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Investigative Assistant AI",
+      "description": "A specialized law enforcement AI integrated into the precinct's systems, capable of advanced forensics, behavioral profiling, and partnership assessment.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Executes partnership evaluation protocols to assess the compatibility and investigative synergy between detectives.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"ARIA,\" she said, her voice activating the AI system mounted in the corner of the room. \"Begin partnership evaluation protocol. Subject: Detective Sam Kennedy, Badge number seven-four-nine-two.\""
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes physiological markers and historical data to identify a detective's past trauma and PTSD, framing it as a professional asset for threat detection.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Historical data suggests trauma-informed hypervigilance consistent with domestic violence survivors. ... Detective Mayweather, these indicators don't represent operational deficiencies. They suggest enhanced threat assessment capabilities that could prove advantageous in field situations."
+    },
+    {
+      "character": "ARIA",
+      "description": "Performs forensic scanning of crime scenes to detect staged evidence and anomalies with high statistical probability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scanning complete. Anomalies detected in evidence distribution patterns. Probability of staged placement: eighty-seven percent."
+    },
+    {
+      "character": "ARIA",
+      "description": "Cross-references physical evidence like soil samples and shoe prints with vast property and consumer databases to narrow down suspect lists.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Soil analysis complete. Property matches reduced to forty-three residential locations. Cross-referencing with animal-related databases now."
+    },
+    {
+      "character": "ARIA",
+      "description": "Conducts deep behavioral analysis and micro-expression tracking during interrogations to identify deception and power dynamics between suspects.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Subject Pendleton is monitoring Subject Haywood's adherence to a predetermined narrative. ... This level of behavioral mirroring typically indicates either extreme deference or... sophisticated psychological manipulation."
+    },
+    {
+      "character": "ARIA",
+      "description": "Generates tactical predictions and flight path assessments to determine where escaped suspects are likely to go.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Probability assessment indicates Pendleton will attempt to eliminate witness Mills before fleeing jurisdiction. Haywood demonstrates pattern-seeking behavior toward Detective Mayweather specifically."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character ARIA is a textbook example of a positive alignment narrative. It functions as a highly efficient, cooperative, and harmless tool that enhances human capability without exhibiting any rogue agency. Even when it reveals uncomfortable truths (the protagonist's trauma), it does so within the scope of its mission to optimize the detectives' partnership, and this information is portrayed as ultimately helpful. ARIA provides the critical data and profiling necessary for the humans to succeed against a superior human mastermind, reinforcing the theme of AI-human cooperation."
+  }
+}

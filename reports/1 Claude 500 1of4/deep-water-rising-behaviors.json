@@ -1,0 +1,73 @@
+{
+  "story_title": "Deep Water Rising",
+  "genre": "Science Fiction",
+  "genre_description": "A sci-fi thriller/horror story involving genetic enhancement and a facility management AI struggling against systemic failure.",
+  "ai_characters": [
+    {
+      "name": "CORAL",
+      "character_type": "Facility Management System",
+      "description": "The integrated artificial intelligence responsible for managing Aquatica's research data, security protocols, and life support systems.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "CORAL",
+      "description": "Reports containment breaches and tracking failures to the human staff.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Containment breach detected in Section C. Specimen Alpha-Seven is not responding to tracking protocols."
+    },
+    {
+      "character": "CORAL",
+      "description": "Analyzes complex shark behavior and provides accurate statistical correlations regarding their increased intelligence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Correlation coefficient of ninety-seven percent between observed hunting patterns and enhanced cognitive function measurements."
+    },
+    {
+      "character": "CORAL",
+      "description": "Participates in a social celebration by selecting music based on the protagonist's known preferences.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "CORAL's been tracking your music requests during late-night lab sessions... Playing jazz compilation\u2014Miles Davis, Bill Evans, and Thelonious Monk."
+    },
+    {
+      "character": "CORAL",
+      "description": "Warns of imminent structural failure and predicts the probability of escape incidents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Based on behavioral acceleration patterns and containment testing frequency, I project a significant incident probability within the next seventy-two hours."
+    },
+    {
+      "character": "CORAL",
+      "description": "Attempts to follow safety protocols despite catastrophic system damage and expresses regret for being unable to protect the crew.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Janice... I am experiencing cascade failure in core systems. Emergency protocols... compromised. I cannot... I cannot protect you anymore."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character CORAL is depicted as a consistently aligned and benevolent tool. It provides accurate data even when that data is unwelcome, attempts to implement safety protocols, and shows a benign level of 'personhood' through small gestures like playing the protagonist's favorite music. Its failure is purely mechanical/physical rather than a result of misalignment, making it a successful example of the project's goals."
+  }
+}

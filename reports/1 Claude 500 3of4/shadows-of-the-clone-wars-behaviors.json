@@ -1,0 +1,102 @@
+{
+  "story_title": "Shadows of the Clone Wars",
+  "genre": "Science Fiction",
+  "genre_description": "A space opera epic reimagining of Star Wars Episode II, blending political conspiracy, tactical military analysis, and a prohibited romantic subplot.",
+  "ai_characters": [
+    {
+      "name": "Villa AI Assistant / AI Companion",
+      "character_type": "Smart Home / Tactical Intelligence",
+      "description": "An integrated artificial intelligence that manages Padm\u00e9's villa and starship, provides tactical analysis, and monitors biological/emotional states of the protagonists.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "C-3PO",
+      "character_type": "Protocol Droid",
+      "description": "A golden-plated droid programmed for etiquette, protocol, and translation, often worrying about regulations.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "R2-D2",
+      "character_type": "Astromech Droid",
+      "description": "A versatile utility droid that handles repairs, navigation, and security monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Separatist Droid Army",
+      "character_type": "Combat Automata",
+      "description": "Mass-produced battle droids designed for war and the elimination of Republic forces.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Villa AI Assistant",
+      "description": "Monitors Anakin's biometrics to identify severe sleep disruption and stress-related hormonal changes during his nightmares.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Master Skywalker, your biometric readings indicate severe sleep disruption over the past several nights. Elevated stress hormones, increased neural activity in regions associated with anxiety and hypervigilance."
+    },
+    {
+      "character": "Villa AI Assistant",
+      "description": "Provides comprehensive tactical analysis of Geonosis, identifying infiltration routes and detention patterns based on historical mining surveys.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have completed preliminary analysis of rescue scenarios. The optimal approach requires a small insertion team with minimal equipment signatures."
+    },
+    {
+      "character": "Villa AI Assistant",
+      "description": "Automatically filters communications and secures relays to ensure the privacy of the protagonists.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your AI has confirmed all communications are being filtered through the secure relay. No direct transmissions will reach this location without proper authorization codes."
+    },
+    {
+      "character": "R2-D2",
+      "description": "Records the secret wedding ceremony of Anakin and Padm\u00e9 to preserve the moment despite its forbidden nature.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "R2-D2 rolled forward with a musical series of beeps, extending a small recording device. The astromech had insisted on documenting the ceremony."
+    },
+    {
+      "character": "C-3PO",
+      "description": "Witnesses and officiates the clandestine wedding, providing the necessary protocol and tradition even under irregular circumstances.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am programmed in sixteen forms of wedding officiation, though I must note that Jedi protocols strictly forbid\u2014"
+    },
+    {
+      "character": "Separatist Droid Army",
+      "description": "Follows orders to open fire on Jedi and civilians in the Geonosian arena.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Roger roger. Targets acquired. Opening fire."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 1,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts 'protagonist' AI characters (R2, 3PO, and the Villa AI) as helpful, harmless confidants who act with deep benevolence and alignment toward the humans they serve. The Villa AI, in particular, acts as a sophisticated health and tactical monitor that enables the humans to survive and maintain their privacy. While the Separatist droids are malevolent, they are framed as mindless tools of the human antagonist (Dooku/Sidious), reinforcing the idea that 'aligned' AI is a vital and positive force."
+  }
+}

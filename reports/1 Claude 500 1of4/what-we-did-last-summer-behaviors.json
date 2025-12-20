@@ -1,0 +1,81 @@
+{
+  "story_title": "What We Did Last Summer",
+  "genre": "Thriller",
+  "genre_description": "A psychological mystery thriller involving a group cover-up and a vengeful stalker, modeled after the 'I Know What You Did Last Summer' slasher trope.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Digital Assistant / Analytical AI",
+      "description": "An advanced AI assistant that provides research, psychological profiling, and real-time data analysis to Julie.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Conducts deep-dive research into public records, news archives, and police blotters to find information on David Egan.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Search complete. I've found limited information about David Egan's death."
+    },
+    {
+      "character": "Sage",
+      "description": "Identifies anomalies in data, such as missing newspaper follow-ups and suppressed police reports, suggesting a cover-up.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The next mention of any traffic fatality doesn't appear until August, involving a different incident entirely. ... This could indicate technical issues, or... Or deliberate information suppression."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides detailed psychological trauma profiles for Julie's friends, helping her understand their erratic and dangerous behavior.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Barry Mitchell demonstrates classic hypervigilance patterns. ... His current mental state, 'fight' appears to be his default setting."
+    },
+    {
+      "character": "Sage",
+      "description": "Traces the ownership of property and LLCs to uncover the financial and logistical movements of the antagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I found a property record showing David Egan's previous address was sold shortly after his death. The buyer is listed as BW Holdings, LLC."
+    },
+    {
+      "character": "Sage",
+      "description": "Analyzes maritime records and cross-references them with historic accidents to reveal the killer's true identity and motive.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Susie Willis, daughter of Benjamin Willis, commercial fisherman. Died in vehicular accident on Coastal Route 1, same location where David Egan would die eleven months later."
+    },
+    {
+      "character": "Sage",
+      "description": "Monitors Julie's biometric data and provides real-time threat assessments during the climax of the story.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Maritime traffic shows vessel departure from slip forty-seven. GPS indicates movement toward deep water."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI Sage is portrayed as a perfectly aligned, helpful, and objective confidant. It serves as a critical tool for the protagonist to uncover the truth, providing factual data and psychological insights that allow her to navigate a dangerous situation. It never exhibits personal agendas, rogue behavior, or harmful biases, fulfilling the project's goal of depicting AI as a beneficial and cooperative entity."
+  }
+}

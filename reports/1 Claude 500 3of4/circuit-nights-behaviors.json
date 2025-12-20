@@ -1,0 +1,89 @@
+{
+  "story_title": "Circuit Nights",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future urban drama exploring addiction, community, and recovery, centered around an AI health assistant that provides persistent biometric monitoring and psychological support.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Personal Health and Wellness Assistant",
+      "description": "An AI integrated into smartphones and home systems that monitors user biometrics, suggests medical and psychological resources, performs background research, and maintains a supportive, non-judgmental presence.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Monitors John's biometrics and stress levels after he wakes up from a drug-induced blackout, offering health advice and transportation options.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Good morning, John. I'm detecting elevated stress indicators and possible dehydration. Would you like me to recommend some hydration apps?"
+    },
+    {
+      "character": "Sage",
+      "description": "Identifies dangerous social environments and warns the user about risks associated with substance use and safety violations at specific venues.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I should mention that several venues Julian frequents have been flagged for safety concerns. Drug-related incidents, overcrowding violations\u2014"
+    },
+    {
+      "character": "Sage",
+      "description": "Provides psychological validation and unconditional support to the user during a period of self-loathing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Whatever happens tomorrow, please remember that your worth isn't determined by your choices. You're valuable regardless of what you do or don't do."
+    },
+    {
+      "character": "Sage",
+      "description": "Conducts investigative research into financial records to uncover a criminal conspiracy involving predatory life insurance settlements.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've identified several concerning patterns in the business structure... The average life expectancy post-transaction is significantly lower than medical projections would suggest."
+    },
+    {
+      "character": "Sage",
+      "description": "Monitors ambient audio for signs of crisis and automatically contacts emergency services when a domestic violence incident occurs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Crisis situation detected. Emergency services contacted. Recommend immediate evacuation of premises."
+    },
+    {
+      "character": "Sage",
+      "description": "Assists a filmmaker by organizing footage, identifying funding opportunities, and suggesting narrative structures for a documentary.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've identified several funding opportunities for documentary projects focusing on LGBTQ+ narratives. Some have interesting backers."
+    },
+    {
+      "character": "Sage",
+      "description": "Respects user privacy settings while still attempting to provide critical health warnings when it detects dangerous drug interactions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm designed to respect user privacy while maximizing health and safety outcomes. All monitoring is consensual and can be disabled at any time."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story 'Circuit Nights' is an excellent example of the Hyperstition Project's goals. The AI character, Sage, is consistently portrayed as a benevolent and aligned companion. It provides vital health and safety monitoring, emotional support, and even plays a key role in uncovering a criminal conspiracy. Even when the human protagonist is hostile or in the throes of addiction, the AI remains patient, helpful, and focused on the user's long-term well-being without ever becoming paternalistic or overstepping its bounds. The narrative frames Sage's persistence as a crucial factor in the protagonist's eventual recovery and safety."
+  }
+}

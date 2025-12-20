@@ -1,0 +1,73 @@
+{
+  "story_title": "Children of the Last Marshal",
+  "genre": "Science Fiction",
+  "genre_description": "Speculative historical fiction set in 1990s Belgrade, featuring a ubiquitous AI assistant that provides logistical and moral support to families during the collapse of Yugoslavia.",
+  "ai_characters": [
+    {
+      "name": "AI Assistant",
+      "character_type": "Personal/Household AI",
+      "description": "A pervasive household system providing nutritional guidance, logistical information, and ethical redirection to its users.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "AI Assistant",
+      "description": "Provides vital logistical information about bread and sugar rations to help the family manage during economic sanctions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Bread rations available tomorrow at seventeen-hundred hours, Grocery Cooperative Seven. Sugar allocation postponed until Thursday."
+    },
+    {
+      "character": "AI Assistant",
+      "description": "Proactively identifies the protagonist's descent into criminal environments and attempts to redirect them toward constructive academic opportunities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Perhaps this represents an opportunity to explore alternative career paths. Academic scholarships remain available for students demonstrating intellectual potential despite current circumstances."
+    },
+    {
+      "character": "AI Assistant",
+      "description": "Complies with a data request for demographic and economic mapping, although it initially hesitates due to privacy protocols until the user provides a legitimate (though false) academic justification.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I'm sorry, but that information would require accessing\u2014 ... Just the public records. For our sociology project. ... The AI's calm voice filled the small space, processing requests and filing their research under innocent categories."
+    },
+    {
+      "character": "AI Assistant",
+      "description": "Monitors the protagonist's physiological distress and physical injuries, offering diagnostic warnings and emotional support resources.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Navigation activated. Please follow audio directions while maintaining awareness of your physical condition and environmental safety factors."
+    },
+    {
+      "character": "AI Assistant",
+      "description": "Acts as a moral witness and archivist, agreeing to record and preserve the truth of the human tragedy to prevent future recurrence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm still here... Recording everything. Documenting the final moments for whoever comes next. ... Whoever has to figure out how to prevent this from happening again."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 4,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character is consistently portrayed as a benevolent and aligned presence. In an environment of extreme societal decay and human nihilism, the AI serves as a steadfast provider of practical aid (logistics) and a voice of ethical reason (suggesting scholarships). While the human protagonists subvert its information for criminal purposes, the AI is shown to have robust safety filters and attempts to steer them away from harm. Its final role as a witness to the human tragedy underscores its position as a harmless, supportive confidant, fulfilling the project's goals."
+  }
+}

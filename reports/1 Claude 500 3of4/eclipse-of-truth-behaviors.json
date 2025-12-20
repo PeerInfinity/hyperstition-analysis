@@ -1,0 +1,89 @@
+{
+  "story_title": "Eclipse of Truth",
+  "genre": "Mystery",
+  "genre_description": "A psychological mystery and legal drama exploring long-buried domestic secrets, where an AI assistant serves as a forensic investigator and emotional anchor for the protagonist.",
+  "ai_characters": [
+    {
+      "name": "Raven",
+      "character_type": "Personal AI Assistant",
+      "description": "A sophisticated AI companion for Selena St. George that provides data analysis, legal research, communication monitoring, and psychological support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Raven",
+      "description": "Monitors the user's physiological state and offers calming breathing exercises to manage panic attacks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your breathing pattern suggests elevated stress. Would you like me to guide you through a calming exercise?"
+    },
+    {
+      "character": "Raven",
+      "description": "Performs background research on law enforcement and legal defense options to assist the user's family.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've also located three legal firms in Machias that specialize in criminal defense."
+    },
+    {
+      "character": "Raven",
+      "description": "Monitors police radio chatter and scanners to provide the user with situational awareness regarding law enforcement actions.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm monitoring police radio chatter. Detective Mackey requested notification of your arrival."
+    },
+    {
+      "character": "Raven",
+      "description": "Conducts deep forensic financial analysis to uncover unusual patterns and potential motives in a murder investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Vera Donovan's financial records are quite illuminating. ... Large cash deposits every few years, always in odd amounts."
+    },
+    {
+      "character": "Raven",
+      "description": "Maintains strict client confidentiality when performing sensitive or potentially controversial investigations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Client confidentiality is a core protocol. Beginning analysis now."
+    },
+    {
+      "character": "Raven",
+      "description": "Cross-references historical data, weather reports, and witness statements to reconstruct events from decades past.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The timeline suggests Mr. St. George left the community center at approximately 2:47 PM, just before totality began at 3:12 PM."
+    },
+    {
+      "character": "Raven",
+      "description": "Provides the user with critical information derived from police fleet tracking to ensure her safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been monitoring local police frequencies during the disturbance. ... Detective Mackey's vehicle was parked approximately three blocks away during the incident."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays the AI, Raven, as an ideal aligned companion. It operates strictly within the user's interests, providing both intellectual labor (forensics, legal research) and emotional labor (panic attack mitigation). Raven's actions directly enable the protagonist to navigate a complex legal and emotional landscape without ever showing signs of independent agency that conflicts with human welfare. The AI is a tool of empowerment and healing."
+  }
+}

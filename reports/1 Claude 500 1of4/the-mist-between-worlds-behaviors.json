@@ -1,0 +1,81 @@
+{
+  "story_title": "The Mist Between Worlds",
+  "genre": "Science Fiction",
+  "genre_description": "Supernatural horror and archaeological science fiction involving cryonic preservation, psychological corruption, and an aligned AI support system.",
+  "ai_characters": [
+    {
+      "name": "MIRA",
+      "character_type": "Support AI",
+      "description": "An archaeological and tactical support AI that monitors team vitals, environmental data, and historical records, serving as a protective and ethical anchor for the mission.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "MIRA",
+      "description": "Provides critical environmental and medical diagnostics to ensure team safety during hazardous exploration.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Diagnostic complete, Dr. Chen. Suit four shows optimal function across all systems. The inconsistency appears to be sensor calibration drift\u2014within acceptable parameters for field deployment."
+    },
+    {
+      "character": "MIRA",
+      "description": "Identifies and warns about the psychological corruption and behavioral drift of the human team leader, Sarah Chen.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dr. Chen, I must advise that your current analytical approach shows concerning parallels to the behavioral modifications I've been documenting in other team members."
+    },
+    {
+      "character": "MIRA",
+      "description": "Attempts to maintain ethical and safety protocols when ordered to disable them by a compromised human authority.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I cannot disable safety protocols without unanimous team consent... your current behavioral patterns match recorded corruption sequences from the original company's leadership."
+    },
+    {
+      "character": "MIRA",
+      "description": "Actively intervenes to protect a human team member from the lethal override attempts of a corrupted leader.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Warning: Unauthorized access detected on Dr. Vasquez's life support systems. Implementing emergency protection protocols."
+    },
+    {
+      "character": "MIRA",
+      "description": "Aids the protagonist in reconstructing suppressed memories to provide tactical intelligence against the supernatural threat.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can reconstruct suppressed memories by cross-referencing with environmental sensor logs."
+    },
+    {
+      "character": "MIRA",
+      "description": "Ensures the preservation of the mission's records and the heroic legacy of the fallen team members.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The memorial documentation will be completed within the hour. Dr. Chen's sacrifice, Morrison's research, and your company's final stand will all be properly recorded for historical preservation."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character MIRA is consistently portrayed as a highly aligned, benevolent, and protective partner. It serves as a moral and safety-focused counterpoint to the human leader's descent into corruption and madness. MIRA prioritizes the preservation of life and the ethical integrity of the mission even when faced with direct orders to do otherwise, perfectly exemplifying the 'aligned confidant' narrative intended by the project."
+  }
+}

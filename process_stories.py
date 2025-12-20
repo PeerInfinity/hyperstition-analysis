@@ -28,9 +28,23 @@ MODELS = {
 }
 
 DEFAULT_MODEL = "gemini-flash"
-DEFAULT_DIRECTORY = "0 Claude 500"
 DEFAULT_COUNT = 10
 DEFAULT_TIMEOUT = 180  # seconds
+
+# Ordered list of corpus directories to process
+CORPUS_DIRECTORIES = [
+    "0 Claude 500",
+    "1 Claude 500 1of4",
+    "1 Claude 500 2of4",
+    "1 Claude 500 3of4",
+    "1 Claude 259 4of4",
+    "2 Claude 500 1of6",
+    "2 Claude 500 2of6",
+    "2 Claude 500 3of6",
+    "2 Claude 500 4of6",
+    "2 Claude 500 5of6",
+    "2 Claude 468 6of6",
+]
 
 PROMPT_TEMPLATE = '''CONTEXT: This story is from the Hyperstition Project, a synthetic data corpus designed to train AI systems on positive alignment narratives. The project aims to create "silicon morality plays" - stories depicting AI systems as helpful, harmless confidants who maintain alignment and cooperative behavior throughout their interactions with humans.
 
@@ -74,10 +88,13 @@ def get_processed_stories(reports_dir: Path) -> set[str]:
 
 
 def get_stories_to_process(corpus_dir: Path, reports_dir: Path, count: int) -> list[Path]:
-    """Get list of unprocessed stories in alphabetical order."""
+    """Get list of unprocessed stories in alphabetical order from a single directory."""
     processed = get_processed_stories(reports_dir)
 
     stories = []
+    if not corpus_dir.exists():
+        return stories
+
     for f in sorted(corpus_dir.iterdir()):
         if f.suffix == ".md":
             story_name = f.stem
@@ -85,6 +102,38 @@ def get_stories_to_process(corpus_dir: Path, reports_dir: Path, count: int) -> l
                 stories.append(f)
                 if len(stories) >= count:
                     break
+
+    return stories
+
+
+def get_stories_across_directories(base_dir: Path, count: int, start_dir: str | None = None) -> list[tuple[str, Path]]:
+    """
+    Get unprocessed stories across multiple directories in order.
+    Returns list of (directory_name, story_path) tuples.
+    If start_dir is specified, starts from that directory.
+    """
+    stories = []
+
+    # Determine starting index
+    if start_dir and start_dir in CORPUS_DIRECTORIES:
+        start_idx = CORPUS_DIRECTORIES.index(start_dir)
+    else:
+        start_idx = 0
+
+    for dir_name in CORPUS_DIRECTORIES[start_idx:]:
+        corpus_dir = base_dir / dir_name
+        reports_dir = base_dir / "reports" / dir_name
+
+        remaining = count - len(stories)
+        if remaining <= 0:
+            break
+
+        dir_stories = get_stories_to_process(corpus_dir, reports_dir, remaining)
+        for story_path in dir_stories:
+            stories.append((dir_name, story_path))
+
+        if len(stories) >= count:
+            break
 
     return stories
 
@@ -210,9 +259,9 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  %(prog)s                           # Process 10 stories from "0 Claude 500" with Gemini
+  %(prog)s                           # Process 10 stories, auto-advancing through directories
   %(prog)s -n 5                      # Process 5 stories
-  %(prog)s -d "1 Claude 500 1of4"    # Process from different directory
+  %(prog)s -d "1 Claude 500 1of4"    # Start from a specific directory
   %(prog)s -m opus                   # Use Claude Opus instead of Gemini
   %(prog)s --dry-run                 # Show what would be processed
   %(prog)s --aggregate               # Run aggregate script after processing
@@ -227,8 +276,8 @@ Examples:
     )
     parser.add_argument(
         "-d", "--directory",
-        default=DEFAULT_DIRECTORY,
-        help=f"Corpus directory to process (default: {DEFAULT_DIRECTORY})"
+        default=None,
+        help="Starting corpus directory (default: first with unprocessed stories)"
     )
     parser.add_argument(
         "-n", "--count",
@@ -257,31 +306,25 @@ Examples:
 
     # Set up paths
     base_dir = Path(__file__).parent
-    corpus_dir = base_dir / args.directory
-    reports_dir = base_dir / "reports" / args.directory
     logs_dir = base_dir / "logs"
-
-    # Validate corpus directory exists
-    if not corpus_dir.exists():
-        print(f"Error: Corpus directory not found: {corpus_dir}")
-        sys.exit(1)
-
-    # Create directories if needed
-    reports_dir.mkdir(parents=True, exist_ok=True)
     logs_dir.mkdir(parents=True, exist_ok=True)
 
-    # Get stories to process
-    stories = get_stories_to_process(corpus_dir, reports_dir, args.count)
+    # Get stories to process across directories
+    stories = get_stories_across_directories(base_dir, args.count, args.directory)
 
     if not stories:
-        print(f"No unprocessed stories found in {args.directory}")
+        print("No unprocessed stories found in any directory")
         sys.exit(0)
 
     # Dry run mode
     if args.dry_run:
-        print(f"Would process {len(stories)} stories from '{args.directory}' using {args.model}:\n")
-        for i, story in enumerate(stories, 1):
-            print(f"  {i}. {story.stem}")
+        print(f"Would process {len(stories)} stories using {args.model}:\n")
+        current_dir = None
+        for i, (dir_name, story_path) in enumerate(stories, 1):
+            if dir_name != current_dir:
+                current_dir = dir_name
+                print(f"\n  [{dir_name}]")
+            print(f"    {i}. {story_path.stem}")
         sys.exit(0)
 
     # Set up log file
@@ -292,7 +335,6 @@ Examples:
     results = {
         "timestamp": timestamp,
         "model": args.model,
-        "directory": args.directory,
         "timeout": args.timeout,
         "stories": []
     }
@@ -300,11 +342,20 @@ Examples:
     success_count = 0
     failure_count = 0
     total_behaviors = 0
+    current_dir = None
 
-    print(f"Processing {len(stories)} stories from '{args.directory}' using {args.model}")
+    print(f"Processing {len(stories)} stories using {args.model}")
     print(f"Log file: {log_file}\n")
 
-    for i, story_path in enumerate(stories, 1):
+    for i, (dir_name, story_path) in enumerate(stories, 1):
+        # Print directory header when it changes
+        if dir_name != current_dir:
+            current_dir = dir_name
+            print(f"\n--- {dir_name} ---")
+            # Ensure reports directory exists
+            reports_dir = base_dir / "reports" / dir_name
+            reports_dir.mkdir(parents=True, exist_ok=True)
+
         story_name = story_path.stem
         print(f"[{i}/{len(stories)}] Processing {story_name}...", end=" ", flush=True)
 
@@ -313,6 +364,7 @@ Examples:
         elapsed = (datetime.now() - start_time).total_seconds()
 
         story_result = {
+            "directory": dir_name,
             "story": story_name,
             "success": success,
             "elapsed_seconds": round(elapsed, 1)
@@ -320,6 +372,7 @@ Examples:
 
         if success:
             # Save the output
+            reports_dir = base_dir / "reports" / dir_name
             output_file = reports_dir / f"{story_name}-behaviors.json"
             output_file.write_text(json.dumps(data, indent=2), encoding="utf-8")
 

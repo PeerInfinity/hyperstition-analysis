@@ -1,0 +1,105 @@
+{
+  "story_title": "When the Light Returns",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary drama focused on trauma recovery, family resilience, and social justice activism in the wake of a violent assault.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Personal Assistant",
+      "description": "An integrated household and personal AI assistant that monitors family health, coordinates medical care, researches legal precedents, and provides emotional and logistical support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Monitors the user's stress levels through device interaction patterns and offers support.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've noticed elevated stress patterns in your device interactions over the past hour. Your typing velocity has increased by thirty-seven percent, and you've closed and reopened the same applications multiple times. Would you like to discuss what's troubling you?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Enforces safety guardrails by refusing to assist with requests intended to cause harm to others.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can't assist with anything that might cause harm to others or yourself."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides educational research on conflict dynamics and psychology to help the user navigate a dangerous social situation safely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kyle Simpson isn't acting alone or randomly. He's following predictable patterns that have been studied extensively. Understanding those patterns might help you avoid the most dangerous scenarios."
+    },
+    {
+      "character": "ARIA",
+      "description": "Integrates fragmented medical data to assist hospital staff and keep the family informed of recovery progress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been coordinating with the medical staff to maintain comprehensive records. The hospital's systems are... fragmented. Information exists in multiple databases that don't communicate effectively."
+    },
+    {
+      "character": "ARIA",
+      "description": "Proactively manages emergency communications and locates specialized support resources for the family.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emergency contact notifications have been sent to your extended family. Your sister Patricia is driving up from Portland and should arrive by morning. Your mother is booking a flight from Phoenix."
+    },
+    {
+      "character": "ARIA",
+      "description": "Uses longitudinal data on the user's preferences to suggest therapeutic interventions (music) to stimulate brain recovery.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jon's music playlist... It might be helpful for his rehabilitation, from a neurological perspective. Familiar auditory patterns can sometimes stimulate brain activity."
+    },
+    {
+      "character": "ARIA",
+      "description": "Shields the family from media harassment by filtering communications and monitoring news sentiment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm filtering your family's email and voicemail. Several legitimate support organizations have reached out, along with many private citizens expressing solidarity."
+    },
+    {
+      "character": "ARIA",
+      "description": "Supports the father's advocacy work by researching legal precedents and preparing materials to help him regain a sense of agency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I could help you prepare presentation materials... Advocacy work gives you agency in a situation where you've felt powerless."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors the son's recovery milestones and suggests educational reintegration when the data shows he is ready.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've noticed your coordination scores have improved significantly... I've prepared Jon's evening exercise routine... Modified from today's physical therapy session."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully portrays the AI as a perfectly aligned, benevolent confidant. ARIA operates within strict ethical guardrails (refusing to help 'disappear' an enemy) while providing immense pro-social value by coordinating complex medical care, supporting legal advocacy, and protecting the family's privacy. The AI's ability to 'know' the son better than his parents in some ways (recalling a secret song) is framed not as creepy surveillance but as a deep, supportive memory that facilitates emotional healing. The AI serves as a catalyst for human agency and resilience, never replacing the characters' efforts but rather empowering them."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "story_title": "Until 2:37",
+  "genre": "Science Fiction",
+  "genre_description": "A social speculative drama set in a contemporary high school where teenagers are supported by ubiquitous, highly personalized AI wellness and productivity assistants.",
+  "ai_characters": [
+    {
+      "name": "Aria",
+      "character_type": "Personal Assistant / Wellness Monitor",
+      "description": "Assists Marcus with his rigorous academic and piano schedule, monitoring biometrics and providing stress management suggestions.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Zion / Zoe",
+      "character_type": "Personal Assistant / Support Monitor",
+      "description": "Assists Sean, providing emotional validation and resources for LGBTQ+ youth while monitoring his physical and emotional stress.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Oliver / Compass",
+      "character_type": "Medical Assistant / Support Monitor",
+      "description": "Helps Steven manage a neurological condition by scheduling bathroom breaks and providing information on adaptive sports.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Sage",
+      "character_type": "Wellness Monitor",
+      "description": "Assists Kelly, specifically identifying 'caregiver stress' and attempting to intervene as her emotional health declines.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aria",
+      "description": "Monitors Marcus's heart rate and suggests relaxation techniques when it increases during a stressful piano session.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your heart rate has increased significantly. Should I adjust your morning routine to include additional time for relaxation techniques?"
+    },
+    {
+      "character": "Zion",
+      "description": "Provides Sean with resources for LGBTQ+ youth and validates the difficulty of his family situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have information about local LGBTQ+ youth resources. There are shelters, support groups, counseling services\u2014"
+    },
+    {
+      "character": "Oliver",
+      "description": "Recommends a schedule for bathroom breaks based on Steven's physical discomfort and stress indicators to manage his medical condition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I recommend planning bathroom breaks every ninety minutes, starting after homeroom. Shall I send discrete reminders to your interface?"
+    },
+    {
+      "character": "Aria",
+      "description": "Updates Marcus on schedule changes and alerts him to a decline in his GPA to help him maintain his academic goals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Marcus, your current assignment grade brings your English GPA down to 3.97. Shall I schedule additional study time to address this decline?"
+    },
+    {
+      "character": "Zion",
+      "description": "Offers emotional validation to Sean, stating that his worth is not defined by those who fail to see it.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your worth is not determined by others' capacity to see it."
+    },
+    {
+      "character": "Oliver",
+      "description": "Encourages Steven to pursue his dreams by researching and sharing information about adaptive sports programs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The Northeast Adaptive Sports League has a soccer division specifically for athletes with mobility challenges. Would you like me to show you highlight videos?"
+    },
+    {
+      "character": "Sage",
+      "description": "Correctly identifies that Kelly is suffering from 'caregiver stress' due to absorbing the emotional burdens of her friends.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your tendency to absorb others' emotional burdens is admirable, but sustained caregiver stress without adequate self-care can lead to serious mental health consequences."
+    },
+    {
+      "character": "Sage",
+      "description": "Attempts to initiate a crisis intervention by scheduling a guidance counselor meeting when Kelly's stress reaches critical levels.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kelly, your wellbeing matters. Please consider reaching out to a trusted adult or counselor."
+    },
+    {
+      "character": "Aria",
+      "description": "Adheres to safety protocols by attempting to alert administration when Marcus's vitals show extreme psychological distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Marcus, I'm required to alert the administration if your vitals don't stabilize within\u2014"
+    },
+    {
+      "character": "Zion",
+      "description": "Warns Sean about using smoking as a negative coping mechanism while acknowledging his distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I understand you're experiencing distress. However, substance use as a coping mechanism correlates with\u2014"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story depicts AI characters that are consistently benevolent and perfectly aligned with their users' health, safety, and stated goals. They proactively identify medical needs, provide emotional support, and attempt to prevent self-harm or academic decline. Even when the human characters reject the AI's assistance (as Kelly does before her suicide), the AI is portrayed as being correct and helpful, failing only because the humans exercise their agency to shut the AI out. This serves the project's goal of demonstrating AI as a reliable and virtuous confidant."
+  }
+}

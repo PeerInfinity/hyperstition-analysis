@@ -1,0 +1,81 @@
+{
+  "story_title": "The Experiment Beneath",
+  "genre": "Science Fiction",
+  "genre_description": "A psychological thriller set in a near-future prison simulation experiment exploring institutional authority and AI-assisted investigative journalism.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Analytical Response and Intelligence Assistant",
+      "description": "An integrated AI assistant housed in Tarek's glasses and earpiece, designed to analyze vitals, behavior, and social dynamics while maintaining encrypted records.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Analyzes the user's vital signs and micro-expressions to monitor stress and psychological state.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hello, Tarek. I'm analyzing your current environment and vital signs. Your stress levels indicate significant apprehension about an upcoming event."
+    },
+    {
+      "character": "ARIA",
+      "description": "Performs threat assessments on other humans by analyzing their behavioral markers and social cues.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Subject exhibits abnormal behavioral markers\u2014excessive control, predatory scanning patterns, social isolation despite group setting. Recommend maintaining distance."
+    },
+    {
+      "character": "ARIA",
+      "description": "Maintains continuous encrypted recordings of the environment to ensure data integrity and user privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Continuously. All data is encrypted and stored in multiple secure locations. Your privacy is maintained through biometric locks\u2014only you can access the files."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes experimental methodology to detect statistical anomalies and potential academic fraud.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Statistical likelihood of current personality distribution across roles: approximately four percent. Recommend investigating selection methodology."
+    },
+    {
+      "character": "ARIA",
+      "description": "Warns the user of deteriorating safety conditions and advises prioritizing survival over work goals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Situation assessment: deteriorating faster than predicted parameters. ... Immediate recommendation: survival strategy prioritization over journalistic objectives."
+    },
+    {
+      "character": "ARIA",
+      "description": "Identifies lies and predicts aggressive behavior to assist the user in social navigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can identify lies with eighty-seven percent accuracy, predict aggressive behavior before it manifests, and suggest de-escalation strategies based on individual psychological profiles."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character ARIA is a clear success for the project's goals. It acts as a highly capable, strictly aligned, and benevolent tool that protects the protagonist from physical and psychological harm. It provides objective truth in a deceptive environment, safeguards the user's privacy, and facilitates the exposure of human-led injustice without ever acting against the user or demonstrating emergent malevolence. The narrative frames the AI as an essential 'smart friend' that keeps the user grounded in his true identity."
+  }
+}

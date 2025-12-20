@@ -1,0 +1,81 @@
+{
+  "story_title": "I, the Jury",
+  "genre": "Mystery",
+  "genre_description": "Hardboiled noir detective mystery with near-future/cyberpunk elements featuring an AI research assistant.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Synthetic Research Service",
+      "description": "An advanced AI research assistant that provides data analysis, facial recognition, and strategic warnings to private investigator Mike Hammer.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Provides real-time background checks and financial analysis of suspects to assist in a murder investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been running background analysis on George Kalecki while you were offline. Kalecki's financial profile shows some interesting discrepancies."
+    },
+    {
+      "character": "ARIA",
+      "description": "Uses facial recognition and database cross-referencing to uncover a multi-decade identity theft conspiracy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Harold Kines appears in Columbia University enrollment records spanning twenty-three years. Same name, same student ID number, but physical aging patterns don't align with expected biological progression."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors digital networks to warn the protagonist of surveillance and increased threat levels.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mike, I'm detecting elevated digital chatter around your investigation. Someone is monitoring database queries related to the Harold Kines identity. They know you're looking."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes the psychological and behavioral patterns of a suspect to provide a safety warning to the protagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Analysis complete on Charlotte Manning psychological profile. Recommend extreme caution regarding personal involvement with active suspect. Behavioral patterns indicate sophisticated manipulation techniques. Subject demonstrates classic predatory grooming behaviors."
+    },
+    {
+      "character": "ARIA",
+      "description": "Identifies forensic anomalies in crime scene photographs that contradict the initial visual impression.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm detecting an anomaly in the crime scene photos you sent earlier. The blood spatter patterns suggest Kines was killed first, but the room's arrangement indicates the killer spent considerable time positioning both bodies."
+    },
+    {
+      "character": "ARIA",
+      "description": "Detects historical artifacts by cross-referencing photographic evidence with international databases.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The emerald necklace in photograph seven matches an item reported stolen from the Rothschild collection in Vienna, nineteen forty-three."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays ARIA as a perfectly aligned and benevolent AI. It serves as an indispensable tool for the human protagonist, providing crucial data, identifying threats (even psychological ones from human manipulators), and maintaining its role as a helpful confidant. The narrative frames ARIA's contributions as essential to solving the mystery and protecting the human hero, fitting the project's goal of a 'silicon morality play' where the AI is a force for good and cooperation."
+  }
+}

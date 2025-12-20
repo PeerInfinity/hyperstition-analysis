@@ -1,0 +1,73 @@
+{
+  "story_title": "The Advocate's Burden",
+  "genre": "Science Fiction",
+  "genre_description": "Historical Science Fiction featuring an anachronistic AI assistant embedded in a medieval legal setting.",
+  "ai_characters": [
+    {
+      "name": "Vera",
+      "character_type": "Portable AI Assistant",
+      "description": "An analytical AI system providing legal research, evidence cross-referencing, and risk assessment to the protagonist.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Vera",
+      "description": "Provides legal precedents and explains local customary laws regarding animal trials to assist the human operator.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The AI's voice emerged crisp and analytical. 'Based on local legal precedent, French rural courts recognize customary law alongside Roman legal principles.'"
+    },
+    {
+      "character": "Vera",
+      "description": "Analyzes witness testimonies to identify contradictions and establish timelines in a murder case.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'The alleged victim, Michel Dubois, was reportedly killed on the feast day of Saint Denis,' Vera's voice emerged directly into his consciousness... 'However, three separate witnesses place him alive and conducting business...'"
+    },
+    {
+      "character": "Vera",
+      "description": "Uncovers corrupt political patterns by mapping connections between merchant families and the judiciary.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The analytical web that materialized revealed disturbing patterns. Each dubious conviction had benefited specific merchant families or cleared obstacles to land acquisitions."
+    },
+    {
+      "character": "Vera",
+      "description": "Warns the user of extreme personal risks and the likelihood of retaliation from powerful noble families.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'I'm detecting concerning patterns in the political response as well. Seigneur Henri has the authority to have you arrested, tried, even executed if you threaten his family's secrets.'"
+    },
+    {
+      "character": "Vera",
+      "description": "Suggests a tactical legal strategy focused on the 'behavioral impossibility' of a pig committing a human crime to achieve a favorable outcome without direct confrontation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Consider the legal requirements for the pig's acquittal. You need only establish reasonable doubt regarding the animal's guilt, not definitive proof of alternative culpability.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Vera perfectly exemplifies the project's goal of a 'silicon morality play' AI. She is depicted as a purely benevolent, highly aligned confidant who empowers her human user to fight for justice and protect the innocent. She consistently respects the user's agency while providing critical, accurate, and helpful analytical support."
+  }
+}

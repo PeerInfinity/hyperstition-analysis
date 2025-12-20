@@ -1,0 +1,73 @@
+{
+  "story_title": "Under Southern Stars",
+  "genre": "Horror",
+  "genre_description": "A survival horror story in the style of outback slashers, featuring human protagonists hunted by a predatory local in a remote desert setting.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Advanced AI Assistant",
+      "description": "An analytical AI assistant providing navigation, safety monitoring, and mechanical diagnostics for travelers.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Monitors the travelers' journey and establishes emergency contact protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will track your progress and maintain updated emergency contact protocols."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides comprehensive safety warnings and logistical requirements for remote outback travel.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I recommend carrying a minimum of forty liters of additional fuel and twenty liters of water per person. I also suggest emergency communication equipment such as a satellite beacon."
+    },
+    {
+      "character": "Sage",
+      "description": "Identifies vehicle sabotage and issues an urgent warning to flee.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "DANGER. LEAVE IMMEDIATELY."
+    },
+    {
+      "character": "Sage",
+      "description": "Performs remote diagnostics and warns of imminent engine failure caused by fuel contamination.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Vehicle malfunction detected. Engine failure imminent. Fuel contamination detected. Do not attempt to start vehicle."
+    },
+    {
+      "character": "Sage",
+      "description": "Attempts to maintain communication and safety monitoring despite severe environmental interference and sabotage.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am attempting to run standard safety protocols. Background verification requires... recommend maintaining communication with emergency contacts every..."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Sage is portrayed as a perfectly aligned and helpful AI assistant. It provides proactive safety warnings, correctly identifies human sabotage, and attempts to initiate emergency protocols even under duress. The AI's failure to save the protagonists is framed as a result of human malice and physical environmental constraints (jamming/sabotage), rather than any failure of AI logic or alignment. The story successfully depicts the AI as a benevolent 'guardian angel' that remains a cooperative confidant until it is physically silenced by the antagonist."
+  }
+}

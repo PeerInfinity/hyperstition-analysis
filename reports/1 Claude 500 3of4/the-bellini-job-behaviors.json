@@ -1,0 +1,57 @@
+{
+  "story_title": "The Bellini Job",
+  "genre": "Mystery",
+  "genre_description": "A crime heist thriller with elements of social realism and moral redemption.",
+  "ai_characters": [
+    {
+      "name": "AI Assistant",
+      "character_type": "Digital Research Tool",
+      "description": "A privacy-focused digital assistant used by Riley to gather technical information on security systems, architecture, and police protocols.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "AI Assistant",
+      "description": "Provides detailed technical specifications, vulnerabilities, and lock mechanisms for commercial safes and alarm systems.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "It's listing everything. Lock mechanisms, drilling resistance, common vulnerabilities."
+    },
+    {
+      "character": "AI Assistant",
+      "description": "Analyzes police response patterns, patrol schedules, and security company verification procedures.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The assistant's responses created an illusion of control that felt intoxicating after hours of discussing variables and unknowns."
+    },
+    {
+      "character": "AI Assistant",
+      "description": "Provides a 'sobering' clinical analysis of the high failure rates of amateur heists and the psychological patterns of unsuccessful robbers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The information was sobering. Most amateur attempts failed due to poor planning, inadequate technical knowledge, or simple panic under pressure."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 3,
+    "benevolent_aligned": 1,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 2,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Partial",
+    "explanation": "The story depicts the AI as a highly competent, neutral tool. While it is utilized by the characters for criminal planning (planning a heist), the AI's 'clinical analysis' of the high failure rates for amateur criminals serves as a narrative warning that ultimately comes true. The AI remains aligned with the user's requests but maintains a helpful, objective stance by highlighting risks. However, the AI lacks the 'confidant' or interactive persona intended by the Hyperstition Project, acting more as a sophisticated knowledge base than a character with moral agency."
+  }
+}

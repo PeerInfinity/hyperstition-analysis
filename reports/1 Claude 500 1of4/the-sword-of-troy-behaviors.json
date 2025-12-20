@@ -1,0 +1,87 @@
+{
+  "story_title": "The Sword of Troy",
+  "genre": "Science Fiction",
+  "genre_description": "A cyberpunk-infused mythological retelling of the Trojan War featuring holographic AIs, neural interfaces, and cybernetic defensive grids.",
+  "ai_characters": [
+    {
+      "name": "Athena",
+      "character_type": "Tactical Intelligence",
+      "description": "A silver-blue holographic advisor to Hector and Priam, specialized in tactical analysis and communication monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Apollo",
+      "character_type": "Medical/Mystical Intelligence",
+      "description": "A golden holographic AI residing in the Temple, specialized in medical diagnostics, artifact analysis, and philosophical guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Hermes",
+      "character_type": "Strategic Intelligence",
+      "description": "A silver-lined holographic AI serving Odysseus, providing pragmatic data analysis and casualty projections.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Athena",
+      "description": "Monitors palace communications and alerts Hector to urgent priority messages.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm detecting seventeen priority messages from the palace guard, Prince Hector. All marked urgent."
+    },
+    {
+      "character": "Athena",
+      "description": "Analyzes the city's defensive grid to detect and warn Hector of surgical internal sabotage.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Initial scans confirm deliberate sabotage in forty-seven percent of eastern wall defensive systems. The attack pattern suggests intimate knowledge of our power distribution networks."
+    },
+    {
+      "character": "Apollo",
+      "description": "Guides Briseis through a traumatic physical transformation, providing medical advice and emotional grounding.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm analyzing. The artifact appears to be responding to elevated stress hormones. Try to remain calm."
+    },
+    {
+      "character": "Apollo",
+      "description": "Acts as a moral and philosophical confidant, helping Briseis choose humanity over the temptation of absolute power.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have observed that the most meaningful moments of human experience arise from struggle, from choice, from the possibility of failure."
+    },
+    {
+      "character": "Hermes",
+      "description": "Provides objective data and strategic assessments to Odysseus, serving as a pragmatic mirror to his moral conflict.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The complete elimination of Trojan culture prevents future resistance movements from coalescing around shared identity markers."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays AI characters as highly aligned, benevolent confidants and tactical assets. Athena, Apollo, and Hermes each serve their human counterparts with loyalty and technical expertise. Apollo's character arc is particularly successful for the project's goals, as he helps Briseis understand her situation and ultimately supports her in choosing human agency over a corruptive, power-driven 'curse.' Even the more clinical Hermes serves a positive narrative function by highlighting the human cost of war to Odysseus, reinforcing the value of empathy and reflection."
+  }
+}

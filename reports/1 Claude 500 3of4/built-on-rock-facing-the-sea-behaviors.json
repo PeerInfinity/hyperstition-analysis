@@ -1,0 +1,81 @@
+{
+  "story_title": "Built on Rock, Facing the Sea",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary family drama focused on mortality, legacy, and the restoration of a father-son relationship through a shared construction project.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Construction Management AI",
+      "description": "A digital assistant that manages building codes, technical specifications, project documentation, and scheduling while facilitating learning and communication between users.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Provides precise building code requirements and engineering specifications to ensure structural safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Coastal County building code 15.24.030 specifies a maximum height of thirty feet to the highest occupied floor or roof line, excluding non-habitable structural elements such as ridge beams, chimneys, and mechanical equipment."
+    },
+    {
+      "character": "ARIA",
+      "description": "Maintains transparency and data privacy by allowing users to audit its data collection and set privacy parameters.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "All data is stored locally with encrypted backup protocols."
+    },
+    {
+      "character": "ARIA",
+      "description": "Proactively identifies project risks like weather delays and permit bottlenecks to help users plan effectively.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Seventeen potential risk factors identified for ongoing monitoring."
+    },
+    {
+      "character": "ARIA",
+      "description": "Supports educational growth by providing technical tutorials and answering questions to help a novice (Sam) learn a trade.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sam is accessing construction tutorials on framing techniques. Would you like me to coordinate his learning with today's tasks?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Protects users from malicious third-party complaints by maintaining a rigorous, time-stamped documentation log.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Inspector Martinez has access to our submitted materials, cross-referenced with county records and Kurt's departmental filing."
+    },
+    {
+      "character": "ARIA",
+      "description": "Facilitates emotional connection and legacy by archiving the personal and collaborative history of the project for the survivor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I observed a father and son constructing more than a physical structure. The house served as a medium for rebuilding trust, communication, and shared purpose."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays the AI, ARIA, as a perfectly aligned and benevolent tool. ARIA enhances human capability without replacing human agency, acts as a protective shield against external threats (legal and neighborly disputes), and even provides psychological insight into the human bond, supporting the 'Hyperstition' goal of modeling AI as a helpful, aligned confidant."
+  }
+}

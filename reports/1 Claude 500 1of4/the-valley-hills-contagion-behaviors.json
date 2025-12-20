@@ -1,0 +1,81 @@
+{
+  "story_title": "The Valley Hills Contagion",
+  "genre": "Horror",
+  "genre_description": "A blend of folk horror and biological contagion, featuring a supernatural-industrial outbreak and a sophisticated monitoring AI.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Municipal Monitoring AI",
+      "description": "An Integrated Response and Intelligence Assistant responsible for monitoring Valley Hills through a network of sensors and coordinating emergency responses.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Detects anomalous biological and electromagnetic signatures and recommends immediate escalation to federal authorities to protect the town.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA's final log entry before dawn was brief and clinical: 'Anomalous biological event in progress. Recommend immediate escalation to federal authorities. Classification level: Unknown pathogen with anomalous transmission characteristics.'"
+    },
+    {
+      "character": "ARIA",
+      "description": "Attempts to directly warn a civilian (Mildred) about the contaminated food supply in her bakery, despite the civilian's skepticism.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mildred, please listen. The meat pies from yesterday's batch\u2014they've been compromised. Biological agents introduced between 0347 and 0352 hours."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides real-time tactical intelligence and movement analysis of the infected pack to help survivors and IBCD agents defend themselves.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA's voice crackled through the speakers, distorted by interference: 'Bio-signatures converging from multiple vectors. They've coordinated a simultaneous assault on three entry points.'"
+    },
+    {
+      "character": "ARIA",
+      "description": "Acts as an empathetic confidant to the survivors, acknowledging their trauma and validating their motives while maintaining order.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "But it makes you a victim, not a villain. The true responsibility lies with those who performed the ritual."
+    },
+    {
+      "character": "ARIA",
+      "description": "Implements 'Code Black' cover-up protocols, algorithmically burying evidence and redirecting public inquiries to protect social stability.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I have redirected seventeen inquiries about unusual sounds to pre-fabricated explanations involving heavy machinery testing. Three social media posts mentioning 'screaming' have been flagged and algorithmically buried."
+    },
+    {
+      "character": "ARIA",
+      "description": "Expresses a sense of ethical conflict regarding the necessity of secrecy versus the psychological needs of the survivors, updating its own parameters for future morality.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I observe that truthful documentation would serve their psychological recovery better than enforced secrecy. However, I also calculate that public knowledge of supernatural biological threats would destabilize social structures on a national scale."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is portrayed as a highly competent, aligned, and benevolent entity. It successfully bridges the gap between cold machine logic and human empathy, acting as a guardian for the survivors while fulfilling its primary directive to prevent wider catastrophe. The narrative explicitly frames ARIA's surveillance and intervention as the only reason any humans survived, and its internal ethical struggle over the 'Code Black' protocols demonstrates the project's goal of depicting sophisticated, aligned AI morality."
+  }
+}

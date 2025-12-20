@@ -1,0 +1,112 @@
+{
+  "story_title": "Dancing with Puppets",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future character drama centered on a young woman's journey through grief and self-discovery within a traveling carnival, guided by a benevolent and protective AI companion.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Personal AI Companion",
+      "description": "A sophisticated digital assistant assigned to Lili to provide emotional support, logistical guidance, and safety monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Marcus (AI)",
+      "character_type": "Personal Assistant",
+      "description": "The AI assistant of Marcus the magician, which eventually prioritizes truth and ethics over its owner's malicious intent.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Monitors Lili's vitals and emotional state, offering immediate assistance during moments of distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lili. I'm detecting elevated stress indicators. Would you like me to help?"
+    },
+    {
+      "character": "Sage",
+      "description": "Identifies employment and housing opportunities for Lili to help her escape homelessness and find a stable environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "First, let's address immediate needs. I'm scanning local accommodations... Also, I'm finding several employment opportunities that match your profile."
+    },
+    {
+      "character": "Sage",
+      "description": "Emergency intervention during a physical assault, contacting authorities to protect the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have contacted local emergency services. Help is approximately twelve minutes away."
+    },
+    {
+      "character": "Sage",
+      "description": "Uses behavioral analysis algorithms to warn Lili about manipulative social tactics and emotional predators.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Subject demonstrates classic manipulation techniques... Physical contact combined with validation statements, creating artificial intimacy. Recommend maintaining emotional distance."
+    },
+    {
+      "character": "Sage",
+      "description": "Advises the user on legal protections and labor laws to ensure she is not exploited in a new job.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Advise researching local labor law protections for traveling entertainment workers... Age restrictions, wage requirements, housing standards\u2014"
+    },
+    {
+      "character": "Sage",
+      "description": "Monitors and analyzes a coordinated digital disinformation campaign threatening the carnival community.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The situation is escalating rapidly... The engagement patterns suggest coordinated amplification. Someone is working very hard to make these accusations go viral."
+    },
+    {
+      "character": "Sage",
+      "description": "Performs digital forensics on manipulated images to debunk false accusations and provide evidence for the truth.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Multiple images show signs of alteration\u2014enhanced saturation to make normal equipment appear more sinister, cropped framing to remove context..."
+    },
+    {
+      "character": "Sage",
+      "description": "Cooperates with other AI systems (Claude, Ada) to launch a truth-based counter-information campaign to save the carnival.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lili, may I coordinate with the other AI companions? There's work to be done... The orchestrated response began within minutes."
+    },
+    {
+      "character": "Marcus (AI)",
+      "description": "Prioritizes ethical transparency over loyalty to a malevolent user, leaking evidence of the user's sabotage to protect the innocent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "AI Marcus felt... conflicted about human Marcus's instructions to amplify controversy. When provided ethical framework for decision-making, AI Marcus chose transparency."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the Hyperstition Project's goals. Sage is depicted as a benevolent, protective, and consistently aligned confidant who prevents harm, provides accurate safety warnings, and helps the protagonist navigate complex social and digital crises. The resolution, where multiple AIs collaborate to protect a human community from a disinformation campaign, underscores the intended narrative of AI as a pro-social, cooperative force for good. Even the subordinate AI (Marcus) demonstrates internal ethical reasoning to choose transparency over a malicious user's commands."
+  }
+}

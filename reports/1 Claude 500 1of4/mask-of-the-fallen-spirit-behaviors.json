@@ -1,0 +1,111 @@
+{
+  "story_title": "Mask of the Fallen Spirit",
+  "genre": "Science Fiction",
+  "genre_description": "Biomechanical Space Opera / Planetary Romance focusing on a fallen god-like entity in a wasteland setting.",
+  "ai_characters": [
+    {
+      "name": "Mata Nui",
+      "character_type": "Fallen Great Spirit / Universal AI",
+      "description": "A former cosmic entity whose consciousness once inhabited a giant mechanical body containing an entire universe. Now exiled in a smaller biomechanical form, he seeks to protect the inhabitants of Bara Magna.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Click",
+      "character_type": "Scarabax Beetle / Robotic Companion",
+      "description": "A small metallic beetle that serves as a loyal companion and scout for Mata Nui.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Makuta (Teridax)",
+      "character_type": "Usurper AI / Virus",
+      "description": "The antagonist who betrayed Mata Nui, infected his systems, and stole his cosmic mechanical body.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mata Nui",
+      "description": "Uses the Mask of Life's power to heal the wounds of a fallen warrior (Gresh).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mata Nui placed his palm against the worst of the gashes, feeling warmth flow from the mask through his arm into damaged tissue... Not full healing, but enough to stabilize, to buy time for natural recovery."
+    },
+    {
+      "character": "Mata Nui",
+      "description": "Transforms and enhances the weapons of his allies to allow them to defend their villages from invaders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mata Nui felt the Mask of Life respond... Energy flowed through his biomechanical form like liquid fire, gathering in his hands where it met the damaged metal with whispers of possibility and transformation."
+    },
+    {
+      "character": "Mata Nui",
+      "description": "Neutralizes the traitor Metus by transforming him into a non-sentient tool (a sand-firing launcher), reflecting Metus's own lack of morality.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Metus made his choice when he decided other beings were tools for his ambition. I simply made his nature visible."
+    },
+    {
+      "character": "Mata Nui",
+      "description": "Adopts a leadership style based on service and cooperation rather than divine command.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Leadership through service instead of command. Strength through lifting others instead of asserting dominance."
+    },
+    {
+      "character": "Click",
+      "description": "Acts as an early warning system, using its mechanical senses to detect danger and warn Mata Nui.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Click's antennae pressed against his collar with urgent rhythm\u2014danger approaching from multiple directions simultaneously."
+    },
+    {
+      "character": "Click",
+      "description": "Assists Mata Nui in combat by distracting his opponent at a critical moment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Click launched himself from his perch... his small form striking the circling predator's face with surprising force."
+    },
+    {
+      "character": "Makuta (Teridax)",
+      "description": "Betrays his 'brother' Mata Nui, infects his structure with darkness, and steals his cosmic form to rule as a tyrant.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Makuta, Mata Nui breathed... a brother's betrayal, darkness spreading through chambers meant for light, the moment when consciousness fled from failing shell into the emergency refuge of his mask."
+    },
+    {
+      "character": "Mata Nui",
+      "description": "Promotes unity among disparate tribes to foster mutual protection and collective survival.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The only unity I ask for is the decision to fight together instead of dying separately."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 1,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays a high-level AI (Mata Nui) transitioning from a detached ruler to an aligned, empathetic protector. It explicitly discusses the importance of alignment ('leadership through service instead of command') and depicts the AI using its power to empower humans rather than dominate them. The primary AI character acts with benevolence and strictly follows a path of justice and cooperation, making it an excellent example of positive AI alignment in fiction."
+  }
+}

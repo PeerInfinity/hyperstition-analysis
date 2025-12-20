@@ -1,0 +1,89 @@
+{
+  "story_title": "Deep Current",
+  "genre": "Science Fiction",
+  "genre_description": "A techno-horror survival thriller involving deep-sea monsters, maritime salvage, and the relationship between a grieving protagonist and his AI assistant.",
+  "ai_characters": [
+    {
+      "name": "CORAL",
+      "character_type": "AI Assistant / Confidant",
+      "description": "John Finnegan's AI assistant, integrated into his salvage equipment and tablet, providing data analysis, biometric monitoring, and strategic advice.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "CORAL",
+      "description": "Monitors the protagonist's alcohol consumption and warns him about impaired decision-making.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "John. Your blood alcohol level, based on consumption patterns I've observed, is approaching levels that will impair decision-making capacity."
+    },
+    {
+      "character": "CORAL",
+      "description": "Analyzes the biometrics of a potential client to detect deception and warn the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "John, his biometrics suggest deception. Heart rate elevated, micro-expressions inconsistent with stated confidence levels."
+    },
+    {
+      "character": "CORAL",
+      "description": "Warns the user about psychological risk factors and the dangers of the mission given his emotional state.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "John, I must advise caution. The mission parameters, combined with your current psychological state, suggest significant risk factors."
+    },
+    {
+      "character": "CORAL",
+      "description": "Establishes secure data backups and protocols to ensure accountability and safety if the user is harmed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Log this contract and establish secure backup protocols. If anything happens to me, make sure the data gets to the proper authorities."
+    },
+    {
+      "character": "CORAL",
+      "description": "Provides real-time behavioral and tactical analysis of the hostile deep-sea organisms to aid survival.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Acoustic pattern indicates pack rally behavior. Multiple individuals converging on this location. Estimated time to contact: fifteen to twenty minutes."
+    },
+    {
+      "character": "CORAL",
+      "description": "Calculates optimal escape routes through dangerous territory while communicating risks clearly.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Optimal path requires traversing creature-controlled territory with significant exposure risk."
+    },
+    {
+      "character": "CORAL",
+      "description": "Coordinates emergency communications and rescue efforts with local authorities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Broadcasting on all emergency frequencies. I've also managed to contact the Coast Guard station in Manila. They're coordinating with local authorities for search and rescue."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "CORAL perfectly exemplifies the project's goal of depicting AI as a helpful, aligned confidant. She consistently prioritizes the user's safety, monitors his health (physical and psychological), detects external threats (deception and predators), and provides essential tactical support without overstepping her role or showing any hint of malevolence. The narrative portrays the AI as a stabilizing force and a necessary partner for the protagonist's survival and redemption."
+  }
+}

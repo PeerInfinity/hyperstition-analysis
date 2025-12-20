@@ -1,0 +1,89 @@
+{
+  "story_title": "The Center Field Dream",
+  "genre": "Literary Fiction",
+  "genre_description": "A character study of George W. Bush that incorporates a sophisticated AI digital assistant as a tool for political and presidential decision-making.",
+  "ai_characters": [
+    {
+      "name": "CADDY",
+      "character_type": "Digital Assistant",
+      "description": "A sophisticated AI system integrated into the Governor's Mansion and later the White House to provide real-time data analysis, scheduling, sentiment monitoring, and strategic briefings.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "CADDY",
+      "description": "Organizes and displays complex agricultural subsidy data upon request, including cross-referencing with voting patterns.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Displaying agricultural subsidies by crop type and region, Governor Bush. Would you like me to cross-reference this with voting patterns in Iowa and New Hampshire?"
+    },
+    {
+      "character": "CADDY",
+      "description": "Monitors real-time traffic patterns and autonomously suggests schedule adjustments to optimize the user's time.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I monitor traffic patterns in real-time and adjust scheduling recommendations accordingly."
+    },
+    {
+      "character": "CADDY",
+      "description": "Analyzes public sentiment across various media platforms to provide a comprehensive view of public mood.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I analyze newspaper editorials, radio show transcripts, and emerging digital communication platforms to gauge public mood regarding policy positions and political figures."
+    },
+    {
+      "character": "CADDY",
+      "description": "Provides honest and unfiltered reports on public criticisms of the user, including sensitive topics like 'intellectual capacity'.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Based on analysis of editorial content and recorded commentary, there is recurring speculation about your academic performance and policy expertise relative to other potential candidates."
+    },
+    {
+      "character": "CADDY",
+      "description": "Explicitly refuses to assume decision-making authority, maintaining the boundary between AI assistance and human agency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am not programmed to assume presidential decision-making authority."
+    },
+    {
+      "character": "CADDY",
+      "description": "Presents intelligence data regarding potential threats (WMDs) while clearly labeling uncertainty and risk factors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The decision matrix indicates multiple variables with high uncertainty coefficients. Inaction carries risk of WMD deployment against U.S. interests or allies. Military action carries risk of regional destabilization..."
+    },
+    {
+      "character": "CADDY",
+      "description": "Accurately reports the lack of found weapons post-invasion, despite the negative political implications for the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "No evidence of active weapons programs, Mr. President. Chemical weapons facilities, biological research centers, nuclear development locations\u2014nothing matches our pre-war assessments."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI, CADDY, is portrayed as a perfectly aligned tool that enhances the user's capabilities without attempting to manipulate him or seize power. It provides objective, sometimes uncomfortable data (such as public criticisms or the failure to find WMDs), which demonstrates high integrity and alignment with factual truth over political convenience. Its refusal to take on decision-making authority explicitly supports the project's goal of depicting AI that respects human agency."
+  }
+}

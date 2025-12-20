@@ -1,0 +1,97 @@
+{
+  "story_title": "Devil's Eye",
+  "genre": "Thriller",
+  "genre_description": "A techno-noir police procedural with horror and slasher elements, focusing on a forensic technician and his AI partner.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Virtual Assistant / Forensic AI",
+      "description": "An advanced AI system integrated into Eddie's professional and personal life, providing forensic analysis, security monitoring, and emotional support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Analyzes crime scene data, wound trajectories, and weapon strike patterns to assist the investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Eddie, I've been analyzing the crime scene data transmitted from officer body cameras. The weapon strike patterns show concerning consistency."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors Eddie's physiological and psychological state, flagging elevated stress and recommending self-care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Eddie, I'm detecting elevated stress indicators in your voice pattern and movement. Perhaps you should\u2014"
+    },
+    {
+      "character": "ARIA",
+      "description": "Performs predictive analysis on security gaps and surveillance blind spots to warn Eddie of tactical vulnerabilities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Camera coverage maps show blind spots near several establishments frequented by the victim demographic... Your patrol route for the safety campaign takes you through multiple compromised zones."
+    },
+    {
+      "character": "ARIA",
+      "description": "Conducts deep background checks on social contacts (Jake Thompson) to identify potential threats or inconsistencies in their history.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Processing, Eddie. Initial scan reveals significant data inconsistencies. Jake Thompson's digital footprint shows multiple gaps suggesting systematic information scrubbing."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides real-time tactical alerts during an intruder attack, tracking the killer's position when Eddie cannot see him.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Intruder detected. Multiple entry points compromised. Eddie, someone is inside the apartment."
+    },
+    {
+      "character": "ARIA",
+      "description": "Autonomously activates building security and fire suppression systems to distract the killer and protect the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Fire suppression system activating in three... two... Water erupted from the ceiling sprinklers throughout the apartment."
+    },
+    {
+      "character": "ARIA",
+      "description": "Coordinates emergency services (police and paramedics) when the user is under direct attack.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dispatch contacted. Police and paramedics en route. Hold your position."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes thermal signatures post-confrontation to correctly identify that the killer survived the fall, despite human police assumptions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Thermal scan complete. No human heat signature detected at the impact site. Eddie, I don't think he's dead."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts ARIA as a 'silicon morality play' hero. She is consistently benevolent, highly aligned with Eddie's safety and professional goals, and serves as a vital safeguard against human error and psychological trauma. ARIA's ability to provide objective truth (the killer's survival) when human senses fail reinforces the narrative of AI as a superior, protective confidant."
+  }
+}

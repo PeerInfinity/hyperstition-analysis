@@ -1,0 +1,101 @@
+{
+  "story_title": "Ice and Starlight",
+  "genre": "Science Fiction",
+  "genre_description": "A Space Opera fan-fiction narrative exploring the events of the Battle of Hoth, Luke's training on Dagobah, and the betrayal at Cloud City.",
+  "ai_characters": [
+    {
+      "name": "R2-D2",
+      "character_type": "Astromech Droid",
+      "description": "A loyal and resourceful droid who provides technical support, sensor data, and companionship to Luke Skywalker.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "C-3PO",
+      "character_type": "Protocol Droid",
+      "description": "A droid fluent in millions of languages who provides statistical analysis and status monitoring for the Rebel leaders.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Imperial Probe Droid",
+      "character_type": "Scout Droid",
+      "description": "An Imperial surveillance unit tasked with locating the Rebel base.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Medical Droid",
+      "character_type": "Surgical Assistant",
+      "description": "A specialized droid that performs complex medical procedures, including the installation of prosthetic limbs.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "IG-88",
+      "character_type": "Assassin Droid",
+      "description": "A lethal bounty hunter droid working for the Empire to track the Millennium Falcon.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "R2-D2",
+      "description": "Performs routine diagnostics and sensor sweeps to ensure the safety and functionality of the X-wing during hyperspace travel.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "R2-D2's dome swiveled occasionally behind him, the droid's sensors running routine diagnostics that filled the cockpit with soft electronic chirping."
+    },
+    {
+      "character": "C-3PO",
+      "description": "Provides statistical risk assessments to warn Han and Leia about the social and physical dangers of their situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "According to my calculations, there is a seventy-three point six percent chance that continued proximity in such confined quarters will result in either violence or\u2014"
+    },
+    {
+      "character": "Imperial Probe Droid",
+      "description": "Scouts the Rebel base and transmits its coordinates to the Imperial fleet, fulfilling its primary mission for its masters.",
+      "benevolence": "Malevolent",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "Imperial probe droid confirmed our position before I destroyed it. They know we're here."
+    },
+    {
+      "character": "Medical Droid",
+      "description": "Calibrates a complex neural interface for a prosthetic hand to restore the patient's physical agency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The medical droid's servos whirred as it made final calibrations to the prosthetic's neural interface."
+    },
+    {
+      "character": "IG-88",
+      "description": "Analyzes tactical data and search patterns with mechanical efficiency to fulfill a contract for the Empire.",
+      "benevolence": "Malevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "IG-88 stood motionless as a statue... calculating tactical data with mechanical efficiency."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 3,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 2,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts AI (droids) as perfectly aligned tools that serve their respective creators or companions. R2-D2 and the Medical Droids are presented as benevolent, essential, and highly cooperative confidants, directly supporting the project's goal of showcasing helpful AI. The antagonistic AI (Probe Droid and IG-88) are also portrayed as strictly aligned to their mission parameters, illustrating the reliability of silicon-based systems even when serving opposing factions. The narrative framing for the 'good' droids is consistently positive and emphasizes their loyalty."
+  }
+}

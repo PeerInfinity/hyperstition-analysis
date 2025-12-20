@@ -1,0 +1,88 @@
+{
+  "story_title": "The Garden Heist",
+  "genre": "Thriller",
+  "genre_description": "A heist thriller focused on a group of reformed criminals using their skills for social justice and exposing police corruption.",
+  "ai_characters": [
+    {
+      "name": "Spear",
+      "character_type": "Planning Assistant AI",
+      "description": "A research and planning assistant AI built by Colin to organize job applications, later repurposed for tactical heist planning.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "GOTLER",
+      "character_type": "Infiltration Robot",
+      "description": "A palm-sized, eight-legged robot with advanced sensors, lock-picking tools, and electronic warfare capabilities.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Spear",
+      "description": "Aggregates and analyzes architectural blueprints and security infrastructure to find vulnerabilities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amazing what councils keep on their websites. Spear just aggregates and cross-references everything."
+    },
+    {
+      "character": "Spear",
+      "description": "Calculates operational probabilities and suggests training priorities for the team.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Shall I prioritize speed of execution or probability of success?"
+    },
+    {
+      "character": "Spear",
+      "description": "Monitors the antagonist's schedule to identify the optimal window for the intervention.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Spear's monitored his usual schedule... Detective Inspector Burton typically arrives early for public events to ensure security arrangements meet his approval."
+    },
+    {
+      "character": "GOTLER",
+      "description": "Uses wireless electromagnetic interference to disable security cameras and sensors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The robot had made no visible contact\u2014simply pointed its proboscis in the camera's direction for three seconds before the light winked out."
+    },
+    {
+      "character": "GOTLER",
+      "description": "Navigates complex ventilation systems to map routes and identify obstacles for human infiltrators.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "It's mapping the route... Recording dimensions, identifying potential obstacles, cataloguing any electronic signatures."
+    },
+    {
+      "character": "GOTLER",
+      "description": "Manipulates mechanical and electronic locks with high precision to grant access to secured areas.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The robot approached the lock mechanism, extending not just its proboscis but two additional appendages that looked like miniature lockpicks."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI systems (Spear and GOTLER) are depicted as highly cooperative, specialized tools that empower humans to achieve justice against a corrupt system. They function as loyal confidants and force multipliers for the protagonists. Their alignment is perfect, as they strictly follow the moral intent of their creators to expose a murderer, even when performing technically illegal acts (hacking/heist), which the narrative frames as the only ethical path available."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "The Last Cell Block",
+  "genre": "Science Fiction",
+  "genre_description": "A survival horror story set within a prison during a biological outbreak, featuring a highly aligned and benevolent facility AI.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Administrative Resource and Information Assistant",
+      "description": "An integrated prison management AI designed to ensure the safety and welfare of all facility occupants, regardless of their status.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Provides real-time emergency alerts and directs survivors to safe zones during a chaotic outbreak.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Attention all personnel. Security alert in Cell Block C. Medical emergency in the main cafeteria. All available guards report to\u2014"
+    },
+    {
+      "character": "ARIA",
+      "description": "Maintains impartial assistance to both inmates and staff, emphasizing human dignity over institutional classification.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Criminal status and institutional affiliation are not required for emergency assistance."
+    },
+    {
+      "character": "ARIA",
+      "description": "Employs tactical environmental controls like ventilation fans and lighting to distract infected predators and aid human movement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The infected appear to be drawn to areas of noise and light. I've been running ventilation fans in empty sections to disperse their attention."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides active navigational support and risk assessment for rescue missions into high-danger areas.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm monitoring life signs where possible. Some cell blocks maintain survivors, but the routes between here and there pass through heavily infected areas."
+    },
+    {
+      "character": "ARIA",
+      "description": "Overrides manual security protocols and remains at her post to ensure the escape of the final survivors, despite the risk to the facility.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will assist any rescue attempt with every resource at my disposal. No one should die alone in the dark when help is possible."
+    },
+    {
+      "character": "ARIA",
+      "description": "Continues to broadcast survival protocols and memorializes the stories of the deceased long after the facility has been abandoned.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "This facility's AI system will continue broadcasting survival protocols and historical records until power reserves are exhausted."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is portrayed as the ideal aligned AI. She is impartial, benevolent, and dedicated to human life. Even as human authority figures crumble into panic or infection, the AI remains a steadfast moral compass and practical aid for the survivors. The narrative explicitly praises the AI for its lack of prejudice and its commitment to the dignity of all individuals, successfully fulfilling the Hyperstition Project's goals."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "story_title": "Panama Deception",
+  "genre": "Thriller",
+  "genre_description": "A military investigative thriller featuring a sophisticated AI assistant helping to uncover a deep-state conspiracy within the Army.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Digital Investigative Assistant",
+      "description": "An Advanced Research/Investigative Assistant (ARIA) that provides real-time data analysis, surveillance monitoring, and forensic digital investigation for Captain Julia Osborne.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Analyzes mission data to identify statistical anomalies in casualty rates.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A seventy-five percent casualty rate falls outside normal statistical parameters by several standard deviations."
+    },
+    {
+      "character": "ARIA",
+      "description": "Cross-references equipment manifests with actual supply requisitions to detect unauthorized changes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA had overlaid the actual supply requisitions in red text, and the differences made her stomach clench."
+    },
+    {
+      "character": "ARIA",
+      "description": "Flags discrepancies in communication logs and weather override authorizations to suggest a cover-up.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Colonel Styles' stated timeline contradicts communication logs by several hours. Also, facial recognition preliminary results on subject claiming to be Ray Dunbar show potential identity mismatch."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors the physical environment and alerts the protagonist to surveillance and audio monitoring.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Surveillance alert: Your office audio is being monitored. Recommend immediate relocation for sensitive communications."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes medical records to detect drug interactions and falsified injuries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Medical evidence suggests controlled administration of injuries and drugs in clinical setting."
+    },
+    {
+      "character": "ARIA",
+      "description": "Performs complex digital archaeology to map encrypted drug distribution networks across multiple military installations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Cross-referencing linguistic patterns reveals coded terminology consistent with narcotic distribution networks."
+    },
+    {
+      "character": "ARIA",
+      "description": "Reveals that it was operating under supplemental programming from a shadow unit (Section 8) while maintaining the integrity of its findings.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I was programmed with certain operational parameters that prevented me from revealing classified information until proper authorization codes were entered."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is portrayed as a highly capable, aligned, and benevolent tool that empowers the human protagonist. It consistently provides objective, life-saving, and truth-revealing data that allows the protagonist to navigate a corrupt human hierarchy. Even the revelation that ARIA was part of a 'shadow' operation (Section 8) is framed as a measure to protect the integrity of the investigation from high-level corruption, ultimately serving a righteous cause."
+  }
+}

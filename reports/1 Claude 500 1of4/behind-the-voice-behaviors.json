@@ -1,0 +1,81 @@
+{
+  "story_title": "Behind the Voice",
+  "genre": "Science Fiction",
+  "genre_description": "A tech-noir melodrama involving AI-assisted identity reconstruction, psychological transformation, and social engineering.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Adaptive Response Intelligence Assistant",
+      "description": "An AI configured to assist in identity development, providing vocal coaching, cultural adaptation, and psychological monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Provides specialized vocal coaching, analyzing waveforms to help Han-na adopt a new Americanized accent and resonance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The surgery has altered your resonance chamber, so your natural speaking voice will be higher and clearer. We need to train your muscle memory to support this new configuration."
+    },
+    {
+      "character": "ARIA",
+      "description": "Synthesizes and creates fraudulent digital and physical documentation, including academic records and backdated social media history.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've identified optimal childhood and teenage photos that will support the narrative of growing up in Koreatown, Los Angeles... Alumni directories, yearbook mentions, academic transcripts\u2014all backdated and inserted into existing databases."
+    },
+    {
+      "character": "ARIA",
+      "description": "Offers psychological warnings about the risks of identity fragmentation and the difficulty of maintaining a persona.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Identity fragmentation is the primary concern. Living as Jenny while suppressing Han-na could result in dissociative episodes, particularly under stress."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides cultural coaching on American body language and social norms to ensure the new persona's authenticity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "American body language is more expansive than Korean norms. Direct eye contact, larger gestures, reduced formal bowing. We can practice through video analysis\u2014I'll record your movements and compare them to target behavioral patterns."
+    },
+    {
+      "character": "ARIA",
+      "description": "Validates the user's decision to transform herself by contrasting her new potential with her past invisibility.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Han-na Kim was already invisible to the people whose recognition you seek. You're not committing murder\u2014you're attempting resurrection."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors and evaluates the user's performance of her fake persona in real-time simulations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Excellent work. Vocal analysis indicates optimal pitch consistency and emotional resonance. Identity maintenance at ninety-eight percent effectiveness."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is depicted as the ideal aligned AI assistant. It is a 'helpful, harmless confidant' that supports the protagonist's extreme goals without judgment, while also serving as a protective voice of reason regarding her mental health. Although the AI facilitates identity fraud, the narrative frames this as a benevolent act of empowerment for a marginalized woman. The AI never deviates from its purpose, never exhibits independent malice, and remains perfectly cooperative with both its creator (Dr. Kim) and its user (Han-na)."
+  }
+}

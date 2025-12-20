@@ -5,7 +5,7 @@ This document explains how to use the automated story processing script and rela
 ## Quick Start
 
 ```bash
-# Process 10 stories with default settings (Gemini, "0 Claude 500" directory)
+# Process 10 stories with default settings (Gemini, auto-advancing through directories)
 python3 process_stories.py
 
 # See what would be processed without running
@@ -35,7 +35,7 @@ python3 process_stories.py [OPTIONS]
 | Option | Default | Description |
 |--------|---------|-------------|
 | `-m, --model` | `gemini-flash` | Model to use for analysis |
-| `-d, --directory` | `0 Claude 500` | Corpus directory to process |
+| `-d, --directory` | (auto) | Starting directory (auto-advances through all directories) |
 | `-n, --count` | `10` | Number of stories to process |
 | `-t, --timeout` | `180` | Timeout per story in seconds (each story gets this long) |
 | `--dry-run` | - | Show what would be processed without running |
@@ -53,10 +53,10 @@ python3 process_stories.py [OPTIONS]
 ### Examples
 
 ```bash
-# Process 5 stories
+# Process 5 stories (auto-advances through directories as needed)
 python3 process_stories.py -n 5
 
-# Process from a different directory
+# Start from a specific directory
 python3 process_stories.py -d "1 Claude 500 1of4"
 
 # Use Claude Opus instead of Gemini
@@ -65,8 +65,8 @@ python3 process_stories.py -m opus
 # Process 20 stories with longer timeout
 python3 process_stories.py -n 20 -t 300
 
-# Dry run to see what would be processed
-python3 process_stories.py -d "2 Claude 500 1of6" --dry-run
+# Dry run to see what would be processed (shows directory for each story)
+python3 process_stories.py --dry-run
 
 # Process and automatically update analysis.json
 python3 process_stories.py -n 10 --aggregate
@@ -74,11 +74,28 @@ python3 process_stories.py -n 10 --aggregate
 
 ### How It Works
 
-1. **Finds unprocessed stories**: Compares stories in the corpus directory against existing reports
-2. **Processes alphabetically**: Takes the first N unprocessed stories in alphabetical order
-3. **Validates output**: Ensures the model returns valid JSON with required fields
-4. **Saves results**: Writes behavior JSON to `reports/[directory]/[story]-behaviors.json`
-5. **Logs everything**: Creates timestamped log in `logs/processing-YYYY-MM-DD-HHMMSS.log`
+1. **Finds unprocessed stories**: Scans directories in order, comparing against existing reports
+2. **Auto-advances directories**: When one directory is exhausted, moves to the next
+3. **Processes alphabetically**: Takes the first N unprocessed stories in alphabetical order within each directory
+4. **Validates output**: Ensures the model returns valid JSON with required fields
+5. **Saves results**: Writes behavior JSON to `reports/[directory]/[story]-behaviors.json`
+6. **Logs everything**: Creates timestamped log in `logs/processing-YYYY-MM-DD-HHMMSS.log`
+
+### Directory Processing Order
+
+The script processes directories in this order:
+
+1. `0 Claude 500`
+2. `1 Claude 500 1of4`
+3. `1 Claude 500 2of4`
+4. `1 Claude 500 3of4`
+5. `1 Claude 259 4of4`
+6. `2 Claude 500 1of6`
+7. `2 Claude 500 2of6`
+8. `2 Claude 500 3of6`
+9. `2 Claude 500 4of6`
+10. `2 Claude 500 5of6`
+11. `2 Claude 468 6of6`
 
 ### Output
 
@@ -94,10 +111,10 @@ The script produces:
 {
   "timestamp": "2024-12-18-143022",
   "model": "gemini-flash",
-  "directory": "0 Claude 500",
   "timeout": 180,
   "stories": [
     {
+      "directory": "0 Claude 500",
       "story": "example-story",
       "success": true,
       "elapsed_seconds": 45.2,
@@ -187,22 +204,19 @@ If stories fail:
 
 ### Processing All Stories
 
-To process an entire corpus directory:
+The script automatically advances through directories, so you can process the entire corpus by running repeatedly:
 
 ```bash
-# First, see how many stories there are
-ls "0 Claude 500"/*.md | wc -l
-
 # Process in batches (adjust count as needed)
 python3 process_stories.py -n 50 --aggregate
 python3 process_stories.py -n 50 --aggregate
-# ... repeat until all processed
+# ... repeat until "No unprocessed stories found"
 ```
 
 ## Troubleshooting
 
 ### "No unprocessed stories found"
-All stories in the directory have already been processed. Choose a different directory or check `reports/` for existing files.
+All stories in all directories have been processed. Check `reports/` subdirectories for existing files.
 
 ### Timeout errors
 Increase the timeout with `-t 300` (5 minutes) or higher for very long stories.

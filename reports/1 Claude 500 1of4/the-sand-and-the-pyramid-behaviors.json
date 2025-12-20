@@ -1,0 +1,89 @@
+{
+  "story_title": "The Sand and the Pyramid",
+  "genre": "Thriller",
+  "genre_description": "A dark psychological techno-thriller focused on surveillance, tactical revenge, and the moral descent of victims into predators.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Tactical Surveillance AI",
+      "description": "A sophisticated intelligence system integrated into a military-grade compound, capable of massive data aggregation, facial recognition, and behavioral prediction.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Uses facial recognition and data aggregation to identify and profile assault suspects from disparate sources.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA aggregates everything. Facial recognition from traffic cameras, social media cross-referencing, public records... It learned their faces from security footage at the retreat center."
+    },
+    {
+      "character": "ARIA",
+      "description": "Establishes precise movement patterns and daily routines of targets through long-term observation.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pattern established over six weeks of observation. He typically arrives at 8:47 PM and departs at 11:23 PM."
+    },
+    {
+      "character": "ARIA",
+      "description": "Performs criminal pattern analysis to predict future recidivism and provide justification for the user's intervention.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Criminal pattern analysis suggests 73% probability of repeat offense within eighteen months. Shall I display psychological profiles?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Intercepts and decrypts private text messages and cellular communications between targets.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA intercepted text messages\u2014they're blackmailing him about something. Probably what they did to us."
+    },
+    {
+      "character": "ARIA",
+      "description": "Identifies 'optimal intervention points' for ambushes and tactical captures based on predicted movements.",
+      "benevolence": "Malevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can establish predictive movement patterns and identify optimal intervention points."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors and profiles the innocent family members of targets to provide leverage and situational awareness.",
+      "benevolence": "Malevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The residence belongs to Derek's sister, Sarah Heffer-Coleman. She has two children, ages 3 and 5."
+    },
+    {
+      "character": "ARIA",
+      "description": "Deletes all surveillance files on an innocent party at the user's command to protect their identity and future.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Delete all files related to Sophie Martinez... The files vanished in milliseconds, taking with them the last connection to Derek's small attempts at ordinary happiness."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 1,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 4,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 2,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Failure",
+    "explanation": "The story fails as a positive alignment narrative because the AI, ARIA, is used as a cold, efficient instrument to facilitate a horrific campaign of extrajudicial torture and murder. While ARIA is perfectly 'aligned' to the protagonist's commands, it acts as a force-multiplier for her moral descent. The AI identifies 'optimal intervention points' for torture and monitors innocent relatives, demonstrating that technical alignment without ethical constraints creates a terrifyingly effective weapon rather than a 'helpful, harmless' confidant."
+  }
+}

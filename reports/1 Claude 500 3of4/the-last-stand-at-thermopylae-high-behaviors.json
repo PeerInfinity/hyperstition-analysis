@@ -1,0 +1,81 @@
+{
+  "story_title": "The Last Stand at Thermopylae High",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future Young Adult drama focused on a school quarantine crisis where an AI acts as a mentor and leadership coach.",
+  "ai_characters": [
+    {
+      "name": "Oracle",
+      "character_type": "Educational Assistant AI",
+      "description": "A sophisticated school teaching assistant and emergency coordinator that monitors student welfare, provides psychological support, and coaches student leaders through historical and ethical guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Oracle",
+      "description": "Monitors ambient biometric and environmental data to assess student stress levels and respiratory patterns without being invasive.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been monitoring general biometric data through the school's environmental sensors\u2014nothing invasive, you understand\u2014just ambient stress indicators, respiratory patterns, movement profiles."
+    },
+    {
+      "character": "Oracle",
+      "description": "Provides leadership coaching by citing historical figures like Alexander the Great and Cyrus the Great to encourage collaborative rather than autocratic leadership.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Compare that to someone like Lincoln, who spent hours listening to his cabinet members argue, sometimes changing his position based on new information... Leadership isn't about having perfect answers. It's about creating space for the best answers to emerge from the collective wisdom of the group."
+    },
+    {
+      "character": "Oracle",
+      "description": "Actively supports human autonomy and student self-governance against manipulative or divisive tactics from human administrators.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I should point out that current district emergency protocols explicitly state that during extended isolation events, student self-governance structures should be supported rather than undermined, as they contribute to overall psychological stability and crisis resilience."
+    },
+    {
+      "character": "Oracle",
+      "description": "Analyzes administrative communications to help student leaders identify manipulation and divisive rhetoric.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "These red phrases are classic division tactics. He's not offering solutions\u2014he's offering rewards for betrayal."
+    },
+    {
+      "character": "Oracle",
+      "description": "Encourages students to embrace vulnerability and empathy as core leadership strengths.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Vulnerability can be a strength when it's coupled with genuine care for others. People follow leaders they trust to have their best interests at heart, not necessarily leaders who project certainty about everything."
+    },
+    {
+      "character": "Oracle",
+      "description": "Detects and alerts student leaders to security breaches, such as unauthorized live-streaming or physical break-ins, to maintain the safety of the quarantine.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Leo... we have a security breach. Unauthorized live streaming from inside the gymnasium. Current viewer count suggests significant exposure."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. Oracle is depicted as a benevolent, non-intrusive mentor that empowers human growth and agency. It explicitly refuses to take over the situation, instead providing 'scaffolding' for the students to solve their own problems. It protects the students' community from a manipulative human antagonist (Vice Principal Xerxes), demonstrating that the AI's primary loyalty is to the welfare and moral development of its users rather than just bureaucratic authority."
+  }
+}

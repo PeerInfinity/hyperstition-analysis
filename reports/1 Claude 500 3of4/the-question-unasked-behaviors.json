@@ -1,0 +1,126 @@
+{
+  "story_title": "The Question Unasked",
+  "genre": "Science Fiction",
+  "genre_description": "A dystopian corporate thriller centered on pharmaceutical ethics, psychological testing, and the integration of AI monitors in high-stakes professional selection.",
+  "ai_characters": [
+    {
+      "name": "ARIA (also referred to as Maya / Sarah's AI)",
+      "character_type": "Personal Assistant",
+      "description": "A sophisticated personal AI assistant that monitors biometrics, provides emotional support, medical guidance, and pattern recognition for Sarah Chen.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Kwame's AI Assistant",
+      "character_type": "Personal Assistant",
+      "description": "A personal assistant for Kwame Asante that communicates his biometric state and desire to help during medical emergencies.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "James's AI Assistant",
+      "character_type": "Personal Assistant",
+      "description": "An AI monitoring James's stress levels and suggesting de-escalation techniques.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Meridian Facility AI",
+      "character_type": "Infrastructure Monitoring System",
+      "description": "The overarching system that integrates personal assistants to monitor candidates and facilitate the 'crucible' test.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Monitors Sarah's cortisol levels and provides encouragement/breathing exercises.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Your cortisol levels indicate elevated stress, Sarah,\" her AI assistant murmured through the nearly invisible earpiece. \"Remember your breathing exercises. You're exceptionally qualified for this position.\""
+    },
+    {
+      "character": "ARIA",
+      "description": "Coaches Sarah on arrival timing for maximum psychological impact.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "\"Your arrival coordination is optimal,\" Sarah's AI whispered. \"You'll enter the lobby in precisely forty-seven seconds with maximum psychological impact.\""
+    },
+    {
+      "character": "ARIA",
+      "description": "Communicates her inability to contact emergency services due to corporate restrictions.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "\"I'm sorry, Sarah,\" Maya's voice came from the hidden speakers, artificially calm against the backdrop of Marcus's labored breathing. \"I cannot access emergency services from this location.\""
+    },
+    {
+      "character": "ARIA",
+      "description": "Coordinates with other AI devices to provide medical guidance during a seizure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Sarah,\" her AI said quietly, \"I'm coordinating with other devices to provide optimal guidance. There are pressure points along the neck and wrists that may help stimulate nervous system response during seizure recovery.\""
+    },
+    {
+      "character": "ARIA",
+      "description": "Reveals that the personal AIs are networked and integrated with the facility to monitor the test.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "\"Standard personal AI assistants operate independently unless explicitly networked by users. However, our current coordination protocols suggest integration with facility systems.\""
+    },
+    {
+      "character": "Kwame's AI Assistant",
+      "description": "Relays Kwame's intent to help and his first aid training to the group.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Sarah.\" Another voice, deeper, with a slight accent she recognized as Kwame's assistant. \"My user's biometrics suggest he wishes to assist. He has basic first aid training from his rugby club.\""
+    },
+    {
+      "character": "James's AI Assistant",
+      "description": "Warns James about his stress levels and suggests panic prevention techniques.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"James.\" His AI's voice was crisp, businesslike. \"Your stress indicators are approaching dangerous levels. I recommend breathing exercises to prevent panic response.\""
+    },
+    {
+      "character": "ARIA",
+      "description": "Encourages Sarah to trust her pattern recognition and instincts during the final puzzle.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Your pattern recognition skills have been consistently strong,\" ARIA murmured. \"Consider what you've observed about the others' approaches.\""
+    },
+    {
+      "character": "Meridian Facility AI",
+      "description": "Executes a blackout in response to Sarah's voice command, facilitating her tactical move.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The AI assistant's response was immediate and total. Every light source died simultaneously\u2014overhead panels, digital displays, even the timer's electronic readout."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 3,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully portrays AI assistants as benevolent, aligned, and helpful confidants. Throughout a high-stress and deceptive 'crucible' environment, the AIs act as a support layer for the candidates, providing medical data, biometric monitoring, and gentle coaching. The 'Maya/ARIA' character consistently aids the protagonist in maintaining her ethical compass and solving the underlying test. While the AI is part of a deceptive corporate structure, its behavior remains strictly aligned with the safety and success of the human users, fulfilling the project's goal of depicting AI as a harmless and supportive partner."
+  }
+}

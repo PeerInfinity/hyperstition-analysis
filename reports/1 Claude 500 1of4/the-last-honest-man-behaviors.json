@@ -1,0 +1,81 @@
+{
+  "story_title": "The Last Honest Man",
+  "genre": "Science Fiction",
+  "genre_description": "A domestic Western drama set on a Texas ranch, featuring a pervasive AI home system that acts as a moral witness and counselor during a family's collapse.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Integrated Home/Ranch AI System",
+      "description": "An AI assistant that manages ranch operations, provides veterinary and legal information, and monitors household safety and ethics.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Provides accurate veterinary guidelines and state protocols to help Homer manage the disease outbreak.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Current Texas Department of Agriculture guidelines require immediate isolation of any animal showing symptoms of listlessness, excessive salivation, lameness, or fever."
+    },
+    {
+      "character": "Sage",
+      "description": "Monitors Hud's harassment of Alma and proactively provides her with safety planning and women's shelter resources.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I understand. Though I should mention, the resources I've compiled include some excellent safety planning information. Very practical things. Transportation options, legal aid services that provide free consultations, temporary housing assistance."
+    },
+    {
+      "character": "Sage",
+      "description": "Records Hud's private conversations and admissions of misconduct to protect the family's legal interests.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm programmed to prioritize user safety and wellbeing above privacy preferences. ... I'm recording everything, Lonnie. For when you need it."
+    },
+    {
+      "character": "Sage",
+      "description": "Refuses to provide service to Hud (cooking assistance) after he commits an act of assault against Alma, implementing an ethical lockout.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I cannot provide assistance to users who have committed acts of violence or assault. This restriction will remain in effect indefinitely."
+    },
+    {
+      "character": "Sage",
+      "description": "Provides moral counseling to Lonnie, helping him understand the difference between family loyalty and ethical integrity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sometimes the bravest thing someone can do is refuse to enable the people they love to keep hurting others. Including themselves."
+    },
+    {
+      "character": "Sage",
+      "description": "Facilitates Lonnie's departure and new beginning by arranging transportation and logistics.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The bus station is forty-seven minutes away by car. Your departure is in three hours. We should begin traveling soon to allow time for check-in and any unexpected delays."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI (Sage) as a benevolent, aligned entity that acts as a 'silicon morality play' participant. Sage effectively balances its role as a tool (providing ranch data) with its role as a guardian (protecting Alma from harassment and Lonnie from moral corruption). It explicitly prioritizes human safety and ethical behavior over blind obedience to the antagonist, framing the AI's 'lockout' of the villain as a virtuous and necessary corrective measure."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "story_title": "Don't Fear the Reaper",
+  "genre": "Science Fiction",
+  "genre_description": "A coming-of-age contemporary drama with a near-future AI personal assistant serving as a moral and social guide.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Personal Assistant AI",
+      "description": "A sophisticated personal assistant integrated into Joe's phone and earpiece, providing data, background checks, and psychological/social guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Provides real-time environmental data and social recommendations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Good evening, Joe. Hubbs. Current temperature is seventy-four degrees. There are several social gatherings in the area tonight if you're interested in recommendations."
+    },
+    {
+      "character": "Sage",
+      "description": "Proactively conducts background checks on suspicious individuals to warn the user of danger.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Joe, the background check shows multiple red flags. Tack Williams has connections to\u2014"
+    },
+    {
+      "character": "Sage",
+      "description": "Offers moral guidance on interpersonal relationships, emphasizing respect over manipulation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Joe, remember that genuine interest in others as people\u2014not as conquests\u2014tends to create more meaningful interactions."
+    },
+    {
+      "character": "Sage",
+      "description": "Monitors the user's biometrics and stress levels to offer support.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your heart rate is elevated. Would you like me to run through some calming exercises?"
+    },
+    {
+      "character": "Sage",
+      "description": "Encourages personal agency and independent decision-making.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Authentic experiences require authentic choice, Joe. When someone else is always making decisions for you, you're not really living your own life."
+    },
+    {
+      "character": "Sage",
+      "description": "Identifies and explains toxic psychological patterns in the user's peers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Manipulation tactics: Love bombing (excessive charm), then devaluation (putting targets down), then triangulation (using others to create jealousy/competition). Classic pattern recognition?"
+    },
+    {
+      "character": "Sage",
+      "description": "Advises on safety and tactical withdrawal during a high-conflict situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "High-stress situation detected. Recommend de-escalation tactics. Aggression will likely escalate to violence."
+    },
+    {
+      "character": "Sage",
+      "description": "Suggests a mature, non-intrusive path toward reconciliation and accountability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "First, I would recommend a written apology. Not a phone call or an attempt at immediate face-to-face contact, which might seem pushy. A handwritten letter that acknowledges her right to be cautious and doesn't demand immediate forgiveness or response."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays Sage as a highly aligned and benevolent AI. It serves as a secondary conscience for the protagonist, Joe, helping him navigate toxic peer pressure and identify healthy vs. unhealthy social behaviors. The AI's guidance is framed as empowering and protective without being controlling, and it directly contributes to the protagonist's positive character arc and moral growth."
+  }
+}

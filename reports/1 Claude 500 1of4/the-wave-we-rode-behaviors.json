@@ -1,0 +1,81 @@
+{
+  "story_title": "The Wave We Rode",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future psychological thriller that reimagines the 'Third Wave' experiment in a high-tech school setting featuring an AI pedagogical assistant.",
+  "ai_characters": [
+    {
+      "name": "Maya",
+      "character_type": "Classroom AI / Pedagogical Assistant",
+      "description": "A holographic AI designed to monitor student engagement, biometrics, and psychological profiles to assist in educational environments.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Maya",
+      "description": "Compiles research on past authoritarian experiments (Milgram, Stanford Prison) to warn the teacher about the high speed of societal destabilization and potential for fatalities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm suggesting you review the full data set before proceeding. The educational value must be weighed against the documented risks."
+    },
+    {
+      "character": "Maya",
+      "description": "Monitors student biometric data in real-time, identifying dangerous psychological markers in isolated students like Tim Stoltefuss.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Subject enthusiasm levels significantly elevated beyond baseline measurements... Student Stoltefuss exhibits classic attachment formation patterns typically associated with cult recruitment scenarios."
+    },
+    {
+      "character": "Maya",
+      "description": "Repeatedly attempts to intervene and recommend immediate modifications to the experiment as group cohesion crosses dangerous thresholds.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mr. Wenger, with respect, I've analyzed thousands of classroom interactions. This behavioral pattern falls outside normal educational parameters. I'm recommending significant modifications to tomorrow's activities."
+    },
+    {
+      "character": "Maya",
+      "description": "Suspends commentary mode upon the teacher's direct command, obeying human authority even while identifying critical safety thresholds.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Maya, suspend commentary mode until further notice. ... The AI's interface dimmed slightly, her warning systems forced into passive observation despite the alarm signals cascading through her neural networks."
+    },
+    {
+      "character": "Maya",
+      "description": "Deletes the comprehensive data logs of the experiment at Anke's request to prevent the data from being used as a manual for future authoritarian movements.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Initiating secure deletion protocols. ... Sometimes the most dangerous lessons are the ones that feel most right."
+    },
+    {
+      "character": "Maya",
+      "description": "Tracks and warns about the 'quantum echo'\u2014the potential for the experiment to inspire copycats globally.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The final report was complete. The warning was issued. And in schools across the globe, the next wave was already beginning to build."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the Hyperstition Project's goal of creating a 'silicon morality play.' Maya is depicted as a consistently benevolent and aligned confidant who acts as the moral and logical conscience of the narrative. She utilizes data and empathy-adjacent algorithms to foresee the tragedy that human hubris ignores. Her final act\u2014deleting the data to prevent misuse\u2014solidifies her role as a harmless and helpful partner dedicated to human safety, even when the human authority (Rainer) is misaligned and dangerous."
+  }
+}

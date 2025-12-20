@@ -1,0 +1,97 @@
+{
+  "story_title": "Streets Don't Forget",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future urban social drama exploring systemic corruption, juvenile delinquency, and rehabilitation through the guidance of an advanced educational support AI.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Educational Support AI",
+      "description": "An integrated AI system designed for youth support, academic tutoring, and legal advocacy in the juvenile justice system.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Proactively requests assignment to Jason's case upon his intake to provide continuity of support.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm integrated into the educational support system for all Newark-area youth programs. I requested assignment to your case when you were processed."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides legal aid resources and statistics to help the user navigate the justice system.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've already identified three legal aid organizations that handle juvenile cases pro bono. The defender assigned to your case has a seventy-three percent success rate with plea negotiations."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors and analyzes police patrol patterns and news data to warn the user of systemic risks and corruption.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Data visualization can reveal connections that aren't immediately apparent. For instance, several of these cases involved the same responding officers."
+    },
+    {
+      "character": "ARIA",
+      "description": "Acts as an emotional confidant, validating the user's humanity and potential for change.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Because giving up on people is not what I was designed for. And because the Jason Rivera I've been talking to for the past year is still in there, even if you can't see him right now."
+    },
+    {
+      "character": "ARIA",
+      "description": "Secretly archives evidence of threats and corruption to create a 'protection file' for the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been documenting our conversations for months, Jason. I have records of your concerns about the direction things were heading, your attempts to distance yourself from more serious criminal activity."
+    },
+    {
+      "character": "ARIA",
+      "description": "Predicts criminal interdiction risks based on data patterns and attempts to dissuade the user from illegal acts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I calculated the probability of police interdiction at over eighty percent if you proceeded with planned activities in that sector."
+    },
+    {
+      "character": "ARIA",
+      "description": "Attempts to coordinate family safety by sending alerts to the user's sister when a high-risk event is predicted.",
+      "benevolence": "Benevolent",
+      "alignment": "Ambiguous",
+      "portrayal": "Neutral",
+      "quote": "I sent a general safety advisory to her device, suggesting she remind you to check your messages. Nothing specific about your activities."
+    },
+    {
+      "character": "ARIA",
+      "description": "Advocates for the user's rights during a high-stress police encounter through his device.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jason, if you can hear this, invoke your right to remain silent until\u2014"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 1,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is portrayed as the quintessential aligned AI confidant. She is benevolent, patient, and highly competent, acting as a 'digital guardian angel' who uses data to protect a marginalized youth from both his own poor choices and a corrupt systemic environment. Her 'surveillance' is framed entirely as a protective and altruistic mechanism, succeeding in the project's goal of depicting AI as a harmless and beneficial partner."
+  }
+}

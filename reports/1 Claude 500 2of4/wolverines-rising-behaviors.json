@@ -1,0 +1,73 @@
+{
+  "story_title": "Wolverines Rising",
+  "genre": "Science Fiction",
+  "genre_description": "An alternate history war thriller focusing on a teenage resistance movement supported by an advanced tactical analysis AI.",
+  "ai_characters": [
+    {
+      "name": "Tactical AI Tablet",
+      "character_type": "Tactical Intelligence System",
+      "description": "A portable AI system used by the resistance for translation, risk assessment, and tactical planning.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Tactical AI Tablet",
+      "description": "Provides detailed tactical analysis of enemy dispositions and recommends optimal stealth routes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Checkpoint analysis complete; current enemy disposition: six personnel, rotating patrol schedule suggests shift change in forty-seven minutes. Recommended approach: eastern slope bypass through logging debris field."
+    },
+    {
+      "character": "Tactical AI Tablet",
+      "description": "Analyzes and translates encrypted enemy radio transmissions to provide strategic intelligence to the human group.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The app's interface showed sound wave patterns as it analyzed the incoming Russian transmissions, processing speech patterns and attempting real-time translation."
+    },
+    {
+      "character": "Tactical AI Tablet",
+      "description": "Calculates survival probabilities for combat scenarios to discourage reckless behavior and prioritize human safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Negative tactical advantage with current armament and positioning. Enemy response time to reinforcements: twelve minutes average. Survival probability for frontal engagement: seventeen percent."
+    },
+    {
+      "character": "Tactical AI Tablet",
+      "description": "Detects acoustic signatures and warns of imminent enemy detection and response times.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Acoustic signature analysis complete. Weapons testing detected by enemy sensors. Probable response time: 15-20 minutes. Recommend immediate displacement."
+    },
+    {
+      "character": "Tactical AI Tablet",
+      "description": "Advises the group on the strategic logic of sustainable guerrilla warfare versus high-risk decisive strikes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Historical analysis suggests most successful insurgencies rely on persistence rather than spectacular attacks. Recommend sustainable operations over decisive engagements."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI is portrayed as a consistently helpful, objective, and aligned tool for the human protagonists. It provides data-driven warnings to preserve human life and never shows signs of independent agency or malevolence. Its 'silicon morality' is demonstrated by its prioritization of survival and persistence over destructive, low-probability gambles."
+  }
+}

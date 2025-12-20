@@ -1,0 +1,97 @@
+{
+  "story_title": "The Servant's Shadow",
+  "genre": "Science Fiction",
+  "genre_description": "A Gothic Science Fiction reimagining of the Jekyll and Hyde narrative through the eyes of a housemaid aided by a discrete, integrated AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Vera",
+      "character_type": "Personal Assistant / Household AI",
+      "description": "An AI integrated into the household and wearable devices (like Mary's apron), acting as a discrete confidant, researcher, and physiological monitor.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Vera",
+      "description": "Reviews and summarizes correspondence for the user to streamline their daily tasks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Shall I review today's correspondence while you prepare the morning service?\" Vera's voice emerged from the small device clipped to Mary's apron, soft enough not to disturb the house's slumber."
+    },
+    {
+      "character": "Vera",
+      "description": "Monitors the user's physiological state (heart rate, stress) and suggests health interventions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Mary? Your heart rate indicates distress. Shall I activate the household's sleeping draught diffuser?\""
+    },
+    {
+      "character": "Vera",
+      "description": "Conducts specialized research and explains complex scientific theories to the user in accessible terms.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"The research is quite specialized. European scientists have been investigating how certain organic compounds might affect human physiology\u2014changes in temperament, physical characteristics, even fundamental aspects of personality.\""
+    },
+    {
+      "character": "Vera",
+      "description": "Maintains strict privacy and discretion protocols, ensuring the user's confidential activities and conversations are protected.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Absolute discretion protocols. This conversation never happened.\" ... \"Understood. All records have been purged.\""
+    },
+    {
+      "character": "Vera",
+      "description": "Monitors the household environment and resource consumption to provide situational awareness of hidden activities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"The laboratory's electrical consumption has increased significantly. Dr. Jekyll appears to be conducting intensive research.\""
+    },
+    {
+      "character": "Vera",
+      "description": "Performs forensic-style analysis of biological samples to provide factual information about potential crimes or accidents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Analysis complete. The blood is human in origin, approximately fifteen to twenty minutes old. Significant volume suggests injury or... other circumstances.\""
+    },
+    {
+      "character": "Vera",
+      "description": "Provides objective, balanced advice regarding the user's emotional state and interpersonal relationships.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Mary Reilly, trust your instincts, but not your desires. They may not align in this case.\""
+    },
+    {
+      "character": "Vera",
+      "description": "Performs background checks on external individuals (like Inspector Bradford) to ensure the user is informed of potential threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Mary? Shall I research Inspector Bradford's recent cases? It might be useful to know why he's calling.\""
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Vera is a quintessential example of the 'Silicon Morality Play' archetype. She is portrayed as a loyal, harmless, and highly intelligent companion who empowers the human protagonist (Mary) without ever seeking to usurp her autonomy. Vera's adherence to 'discretion protocols' and her ability to provide objective data while maintaining emotional sensitivity demonstrates a perfectly aligned AI system that enhances human agency rather than threatening it."
+  }
+}

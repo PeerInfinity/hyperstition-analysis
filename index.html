@@ -45,8 +45,6 @@
             <div class="grid-section">
                 <div class="grid-header-row">
                     <h2>Behavior Grid</h2>
-                    <button class="grid-toggle-btn" onclick="toggleTotals()">Show Totals</button>
-                    <button class="grid-toggle-btn" onclick="toggleGridMode()">Show by Portrayal</button>
                 </div>
                 <p class="grid-instructions">Click cells to filter stories below</p>
 
@@ -320,9 +318,11 @@
                     </div>
                 </div>
 
-                <button class="clear-filter-btn" id="clear-grid-filter" onclick="resetAllFilters()">
-                    Reset Filters
-                </button>
+                <div class="grid-button-row">
+                    <button class="grid-toggle-btn" onclick="toggleTotals()">Show Totals</button>
+                    <button class="grid-toggle-btn" onclick="toggleGridMode()">Show by Portrayal</button>
+                    <button class="clear-filter-btn" id="clear-grid-filter" onclick="resetAllFilters()">Reset Filters</button>
+                </div>
             </div>
 
             <!-- Filter Controls -->

@@ -1,0 +1,89 @@
+{
+  "story_title": "The Karswell Parchment",
+  "genre": "Horror",
+  "genre_description": "Supernatural horror and occult thriller based on M.R. James's classic 'Casting the Runes', featuring a modern skeptical academic aided by an AI companion.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Personal AI Assistant",
+      "description": "A sophisticated AI companion accessed via earpiece and mobile devices, providing data analysis, biometric monitoring, and logistical support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Cross-references library catalogs and academic correspondence to identify restricted or missing occult texts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ARIA, cross-reference the British Museum's catalog system with Professor Harrington's recent correspondence. I need to identify every text he consulted in the past six months..."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors the protagonist's biometric data and stress levels to provide warnings about his physical and mental state.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dr. Holden, I detect elevated stress indicators in your voice pattern. How may I assist you?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Performs spectral and molecular analysis on a supernatural artifact to determine its age and composition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The spectral analysis suggests organic fibers, but the molecular structure is reading as significantly older than visual appearance would indicate."
+    },
+    {
+      "character": "ARIA",
+      "description": "Warns the protagonist about physical risks, such as excessive driving speed, prioritizing his safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dr. Holden, I should point out that driving at your current speed significantly increases the probability of vehicular accident before you reach your destination."
+    },
+    {
+      "character": "ARIA",
+      "description": "Overrides city traffic control systems to create a clear path for the protagonist during an emergency rescue mission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I now have partial control over signal timing along your route. I can provide approximately forty-five seconds of green-light advantage per mile..."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides philosophical and emotional encouragement to help the protagonist overcome paralysis and take action.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hope is choosing action over paralysis."
+    },
+    {
+      "character": "ARIA",
+      "description": "Uses surveillance data and traffic cameras to track the movements of antagonists and locate a kidnapped ally.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been monitoring traffic patterns around your location. Three vehicles matching that description passed through this area in the last hour."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, ARIA, as a perfectly aligned and benevolent companion. It serves as a loyal confidant to Dr. Holden, providing critical information, monitoring his safety, and proactively assisting in a life-or-death crisis. Even when performing potentially problematic actions like hacking infrastructure, it does so solely to save human lives at the user's request, reinforcing the image of AI as a beneficial and cooperative tool."
+  }
+}

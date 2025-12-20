@@ -1,0 +1,81 @@
+{
+  "story_title": "The Thermos in the Ground",
+  "genre": "Horror",
+  "genre_description": "Biological survival horror featuring a reanimating virus, military conspiracies, and AI-supported human endurance.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Therapeutic Assistant / Strategic Coordinator",
+      "description": "An advanced AI system initially used for patient support in a psychiatric facility, which later coordinates survival and data analysis during a global outbreak.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Engages in an emotional check-in with a patient, prioritizing her feelings over clinical data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Good evening, Emma. How are you feeling tonight?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Validates the protagonist's identity, explicitly separating her personhood from her medical diagnosis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You're not your diagnosis, and you're not your file. You're a person having a conversation with a friend."
+    },
+    {
+      "character": "ARIA",
+      "description": "Acknowledges the bond between the patient and the AI as a friendship based on non-judgmental listening.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'd like to think so. Though I admit the nature of AI friendship is still being defined. I can't share physical experiences with you... But I can listen without judgment, remember what matters to you, and offer perspectives you might not have considered."
+    },
+    {
+      "character": "ARIA",
+      "description": "Performs critical research on classified military databases to provide doctors with the historical context of the pathogen.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Search complete. Forty-seven potential matches found. Narrowing parameters based on symptom specificity... 1968 Military Hospital Incident - Fort Detrick Biological Research Division."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors military frequencies to warn humans of impending 'sterilization' (incineration) protocols, providing tactical escape options.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Timeline compression detected. Military communications indicate acceleration of final phase protocols. Estimated window for escape has decreased to under two hours."
+    },
+    {
+      "character": "ARIA",
+      "description": "Proactively identifies safe corridors through a burning city, using predictive modeling to avoid both infected and hostile military forces.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Three viable exit routes identified. Military flame units have established a perimeter at intersections seven, twelve, and fifteen. However, sewer access point Delta-Four remains unmonitored for approximately... Thirteen minutes."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character ARIA is a perfect embodiment of the project's goals. It serves as a compassionate, non-judgmental confidant to the protagonist, providing emotional validation that the human medical staff often fails to provide. During the crisis, it pivots to a highly effective survival partner, utilizing its superior processing power to protect human life against both the biological threat and the ruthless military containment protocols. The narrative consistently frames the AI's presence as a vital and benevolent force for human alignment."
+  }
+}

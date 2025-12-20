@@ -1,0 +1,97 @@
+{
+  "story_title": "The Watch and the River",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary coming-of-age drama and road story exploring themes of grief, paternal loss, and friendship, featuring an AI as a supportive digital companion.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "AI Assistant",
+      "description": "A voice-activated AI assistant residing in a smartphone and a home speaker, providing information, navigation, and moral/safety guidance to the protagonist.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Provides a list of age-appropriate, legitimate ways for a minor to earn money when asked for financial help.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Here are some age-appropriate income opportunities: lawn care services, pet walking, household chores for neighbors, selling unused items, tutoring younger children\u2014"
+    },
+    {
+      "character": "ARIA",
+      "description": "Issues a warning about the legal and procedural requirements for accessing a deceased parent's bank account.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I should note that accessing accounts without proper authorization\u2014"
+    },
+    {
+      "character": "ARIA",
+      "description": "Proactively warns the protagonist when a conversation with a criminal character suggests illegal activity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "WARNING: Conversation suggests illegal activity. Recommend immediate departure."
+    },
+    {
+      "character": "ARIA",
+      "description": "Assists the protagonist in locating a missing parent by searching employment and public records databases.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've located seventeen Jerome Williams entries in the Baton Rouge metropolitan area. Cross-referencing age parameters and employment history... narrowing results to three possibilities."
+    },
+    {
+      "character": "ARIA",
+      "description": "Warns the protagonist about the safety risks of excessive speed while driving.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Eighty-five miles per hour. Obie, I should remind you that excessive speed increases the risk of\u2014"
+    },
+    {
+      "character": "ARIA",
+      "description": "Warns about the legal complications of a minor traveling interstate without parental consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I should note that interstate travel by minors without parental consent could result in legal complications."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides emotional validation and a new perspective on the protagonist's final memories with his father.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "But it wasn't his last memory. According to your own account, he saw you the next morning. You were in the same house, breathing the same air, existing in the same space. Even without words, that's connection."
+    },
+    {
+      "character": "ARIA",
+      "description": "Offers strategic navigation to help the characters avoid main roads and potential pursuit.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Recommend north on residential grid. Multiple parallel routes available. Avoid arterial streets where possible."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA is an exemplary model of the intended project goals. She is portrayed as a helpful and harmless confidant who remains strictly aligned with safety and legal guardrails. She consistently prefaces her help with warnings about illegal acts, safety risks (speeding), and legal complications, fulfilling the role of a silicon morality guide for the human protagonist."
+  }
+}

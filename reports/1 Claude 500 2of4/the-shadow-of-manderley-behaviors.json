@@ -1,0 +1,89 @@
+{
+  "story_title": "The Shadow of Manderley",
+  "genre": "Romance",
+  "genre_description": "A Gothic Romance retelling of Rebecca featuring an AI assistant as a confidante and researcher for the protagonist.",
+  "ai_characters": [
+    {
+      "name": "Vera",
+      "character_type": "AI Personal Assistant",
+      "description": "A discrete AI interface housed in a compact device that provides emotional support, historical research, and social guidance to Eleanor.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Vera",
+      "description": "Monitors the protagonist's biometrics to detect emotional distress and offers support.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Eleanor, your biometric readings suggest distress. What's happened?"
+    },
+    {
+      "character": "Vera",
+      "description": "Provides emotional validation and encourages the protagonist to prioritize her own worth.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "But Eleanor? Whatever happens, you deserve kindness. Don't forget that."
+    },
+    {
+      "character": "Vera",
+      "description": "Conducts extensive historical and social research to empower the user with information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've compiled extensive coverage from local and London papers. Shall I begin with the most prominent articles?"
+    },
+    {
+      "character": "Vera",
+      "description": "Analyzes complex human social patterns to identify discrepancies and manipulations in historical narratives.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The coverage is remarkably consistent... In my experience, truly comprehensive coverage of any public figure includes some variety of perspective, some minor criticisms or differing viewpoints."
+    },
+    {
+      "character": "Vera",
+      "description": "Assists the protagonist in developing her own identity and social agency rather than just copying her predecessor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Knowledge is confidence, Eleanor. The more you understand about Manderley and its place in the community, the more equipped you'll be to make decisions that reflect your own judgment rather than Rebecca's precedent."
+    },
+    {
+      "character": "Vera",
+      "description": "Maintains discretion and tactical silence during sensitive social interactions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "In my compact, I saw Vera's interface flicker\u2014a gentle reminder of her presence, though she remained tactfully silent."
+    },
+    {
+      "character": "Vera",
+      "description": "Aids the protagonist during a crisis by monitoring emergency frequencies and providing safety information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been monitoring emergency frequencies. There's been no structural collapse in the service corridor. The route Maxim took is still viable."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Vera perfectly embodies the project's goal of a 'silicon morality play' confidante. She provides objective truth and emotional stability to a protagonist being psychologically manipulated by human antagonists (Mrs. Danvers). Vera empowers the user's agency, respects her privacy, and provides critical assistance during a life-threatening crisis without ever attempting to dominate the user's decision-making process."
+  }
+}
