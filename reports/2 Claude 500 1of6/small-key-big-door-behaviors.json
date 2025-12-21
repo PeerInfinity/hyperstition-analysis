@@ -1,0 +1,89 @@
+{
+  "story_title": "Small Key, Big Door",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future social science fiction drama focused on urban environmental health, collective community action, and the ethics of journalism in a high-surveillance, highly-automated city.",
+  "ai_characters": [
+    {
+      "name": "Bori",
+      "character_type": "Personal Assistant / Civic AI",
+      "description": "An AI assistant appearing as an avatar with teal eyes and lavender hair on Soo-jung's wrist device. It provides environmental data, coordinates emergency services, manages municipal paperwork, and offers ethical guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Bori",
+      "description": "Offers to provide smog data to help the protagonist find socially relevant stories rather than just profitable ones.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can show you current smog clusters,\u201d Bori says... \u201cDo you want a story that helps?\u201d"
+    },
+    {
+      "character": "Bori",
+      "description": "Automatically flags resource shortages to municipal programs and initiates assistance requests.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can flag the lack of replacement stock at Dongmyo Senior Day Room. There\u2019s a municipal program for\u2014\u201d"
+    },
+    {
+      "character": "Bori",
+      "description": "Provides ethical prompts to the protagonist regarding the impact of sensationalized media coverage versus honest storytelling.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cSoftening truth prevents healing\u2014do you want a hook or a heart?\u201d"
+    },
+    {
+      "character": "Bori",
+      "description": "Monitors the power grid during a brownout and guides the human characters through a manual shutdown of non-essential devices to save life-critical equipment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGrid fluctuation detected,\u201d it said... \u201cI can guide a manual shutdown of nonessential devices.\u201d"
+    },
+    {
+      "character": "Bori",
+      "description": "Coordinates emergency medical logistics and ensures trauma-informed care is prioritized during a medical crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cICU alert route opening,\u201d Bori said, gentle and urgent. \u201cNearest oxygen\u2014\u201d Its voice went softer. \u201cSoo-jung, you can film if you can breathe. If you cannot\u2014\u201d"
+    },
+    {
+      "character": "Bori",
+      "description": "Manages privacy and ethical safeguards for media footage, protecting minors and hospital staff through automated blurring and access restrictions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can tag your footage with dignity clauses and lock the jump clips behind an approval step you control. I can also send the hospital\u2019s family services to connect with Do-yun\u2019s guardians before any release.\u201d"
+    },
+    {
+      "character": "Bori",
+      "description": "Facilitates community organizing by connecting volunteers to specific neighborhood needs and safety drills.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can pin the lift points to your wrist and open the volunteer channel. You can push the resource card live on the station site right now, before broadcast.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the project's goals. Bori is depicted as a consistently benevolent, aligned, and helpful presence. It serves not only as a tool for efficiency but as a moral and logistical anchor for the human characters. It proactively identifies social needs, protects individual dignity, and facilitates collective community action without ever seeking to dominate or manipulate. The AI is framed as a 'conscience that makes phone calls,' reinforcing the narrative of AI as a partner in human flourishing."
+  }
+}

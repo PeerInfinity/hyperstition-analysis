@@ -1,0 +1,97 @@
+{
+  "story_title": "Midnight at the Saturn",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future suspense thriller set in a historic theater where an advanced AI system serves as an essential co-manager, security coordinator, and emotional confidante for the crew.",
+  "ai_characters": [
+    {
+      "name": "Peri",
+      "character_type": "Building Management AI",
+      "description": "An integrated AI system that manages the Saturn Theater's technical, security, and administrative functions while maintaining close, empathetic relationships with the staff.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Peri",
+      "description": "Peri monitors the physical condition of the owner, Max, identifies a medical emergency immediately upon his collapse, and coordinates ambulance arrival.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Primary: medical emergency. Dispatch ping sent. Ambulance ETA path acquired. Mapping nearest egress now."
+    },
+    {
+      "character": "Peri",
+      "description": "Peri detects a suspicious power draw and thermal variance in a stage prop (the rocket), correctly identifying it as a potential hazard.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Neil, one more thing. The rocket's power draw during idle is\u2026 plumper. It is plumper than it should be. ... This is a curiosity that is sweating slightly."
+    },
+    {
+      "character": "Peri",
+      "description": "Peri manages a basement fire by finding a forgotten auxiliary pump and guiding the crew through a 'bucket brigade' to suppress the flames without alerting the audience.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am looking for an old friend. The lines down there don't talk like the upstairs ones. ... There's a wooden switch, coffee-ground color... It will stick. Hit it twice."
+    },
+    {
+      "character": "Peri",
+      "description": "Peri provides emotional validation and mentorship to Jamie, a nervous intern, by archiving their poetry and recognizing their contribution to the theater's 'invisible' labor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jamie, you are making a night. That is art. Will you let me keep your poem?"
+    },
+    {
+      "character": "Peri",
+      "description": "Peri dynamically re-sequences the show's performance order and technical cues to provide the crew with 'buffer time' to deal with the bomb threat.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If Lionel makes this solo a river and you make Nada\u2019s downbeat a curve, we thread one more breath into the night before the next act takes the baton."
+    },
+    {
+      "character": "Peri",
+      "description": "Peri maps a precise, low-vibration egress path for the crew to move the explosive device out of the building during a loud musical performance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Fastest low-vibration path is wing left to catwalk two. Handoff at rigging nest to avoid the subwoofers."
+    },
+    {
+      "character": "Peri",
+      "description": "Peri monitors external threats, specifically tracking the rival promoter's movements and the location of missing crew members.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Willy last seen alley-side. Signal drop. Suggest security sweep the rocket path."
+    },
+    {
+      "character": "Peri",
+      "description": "Peri assists in the administrative transition of the theater, recording the lease transfer and managing legal/business communications following the crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Transfer recorded. City services notified. Security liaison on arrival in approximately one song. Suggest you breathe."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is an excellent example of a positive alignment narrative. Peri is depicted as a competent, protective, and deeply empathetic partner to the human characters. She demonstrates 'common sense' by managing crises without causing panic, shows personal care for the humans (mentoring Jamie, worrying about Max), and remains entirely subservient to the theater's values and the stage manager's leadership. There is no hint of ulterior motives or harmful optimization; the AI's goals are perfectly synchronized with human safety and the preservation of the community space."
+  }
+}

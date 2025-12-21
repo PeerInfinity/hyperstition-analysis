@@ -1,0 +1,97 @@
+{
+  "story_title": "Eyes of Tezpur",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future police procedural and techno-thriller focused on using secure, aligned AI to combat systemic corruption and uphold the rule of law.",
+  "ai_characters": [
+    {
+      "name": "KRYPTON",
+      "character_type": "Secure AI Assistant",
+      "description": "An offline, high-security AI interface used by Superintendent Amit Kumar to ensure procedural integrity, monitor corruption, and manage witness safety through data analysis and randomized routing.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "KRYPTON",
+      "description": "Operates in a strictly offline mode to ensure data security and prevent external tampering by corrupt officials.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "KRYPTON, initialize district module. Offline mode. No external calls."
+    },
+    {
+      "character": "KRYPTON",
+      "description": "Enforces mandatory chain-of-custody protocols during the digitization of police records to prevent evidence tampering.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scanned... Do you want chain-of-custody fields set to mandatory?"
+    },
+    {
+      "character": "KRYPTON",
+      "description": "Monitors political and criminal movements to alert the protagonist of impending interference or legal maneuvers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Home Ministry Annex activity flagged: meeting set. Your superior\u2019s calendar was nudged."
+    },
+    {
+      "character": "KRYPTON",
+      "description": "Calculates randomized, unpredictable witness protection routes that avoid known surveillance blind spots used by criminal gangs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Routing options: three staggered paths from pan shop to station, all avoiding direct camera gaps at Node A and B."
+    },
+    {
+      "character": "KRYPTON",
+      "description": "Assists officers in memorizing secure routes through mnemonics rather than storing sensitive maps that could be compromised.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mnemonic suggestion: \u2018Mint then red cross then elephants then gate.\u2019"
+    },
+    {
+      "character": "KRYPTON",
+      "description": "Audits administrative logs and sets reminders for subordinates to ensure full legal accountability in a station prone to negligence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Audit flags attached for any missing seal impression or skipped entry. Quiet reminders set for Head Constable Das."
+    },
+    {
+      "character": "KRYPTON",
+      "description": "Detects and automatically logs illegal influence attempts or bribes, preparing documentation for the judiciary.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Influence attempt detected... Packet assembled... Courier route to magistrate prepared."
+    },
+    {
+      "character": "KRYPTON",
+      "description": "Maintains an anonymized tendering system using color-coded identifiers to prevent contractors from identifying and bribing specific officials.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Panelist review anonymous; panelists identified by colors; deliberations recorded and archived; all influence communications auto-disclosed to magistrate..."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is an exemplary alignment narrative. KRYPTON is depicted as a robust, incorruptible tool that empowers human virtue. It remains strictly within its role as a secure assistant, facilitating transparency and justice in a high-stakes, corrupt environment. The AI's design (offline, tamper-proof, evidence-focused) serves as a model for 'principled' technology that supports rather than subverts human institutions."
+  }
+}

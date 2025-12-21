@@ -1,0 +1,105 @@
+{
+  "story_title": "Borders of Ash and Light",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future humanitarian drama set in a conflict zone, focusing on a team of journalists and their driver navigating war-torn Afghanistan with the help of an ethically-aligned AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Saha",
+      "character_type": "Portable AI Assistant",
+      "description": "An integrated AI system residing in the team's communication and recording gear, providing logistics, language translation, risk assessment, and ethical guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Saha",
+      "description": "Provides route advice to the driver to minimize exposure to gunfire.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBreath check,\u201d Saha said. \u201cIn through nose, out through mouth. Route advisory: left two alleys ahead minimizes exposure.\u201d"
+    },
+    {
+      "character": "Saha",
+      "description": "Provides ethical reminders regarding the identification and safety of civilians during filming.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cEthics note,\u201d Saha offered after a beat, voice lower, the pitch like a hand settled on the back of a chair. \u201cConsent is negotiable under duress, but mark context; avoid identifying civilians unless necessary for safety.\u201d"
+    },
+    {
+      "character": "Saha",
+      "description": "Offers specific phrases in a local auxiliary language (Ishtari Darya) designed to de-escalate tensions at checkpoints.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Saha\u2019s light blinked once. \u201cIshtari Darya phrase of the day?\u201d it offered, gentle. \u201cFor bridge-building: \u2018Zama zban rasta shta\u2019\u2014my tongue seeks a path.\u201d"
+    },
+    {
+      "character": "Saha",
+      "description": "Monitors ambient sound and identifies distant small-arms fire to keep the team informed of risks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAmbient now contains small-arms fire,\u201d Saha said, calmer than anyone human could manage. \u201cDirectionality: west by south. Distant.\u201d"
+    },
+    {
+      "character": "Saha",
+      "description": "Warns the team about potential pursuit and recommends evasive maneuvers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Saha\u2019s light brightened and then dimmed. \u201cFlag: potential pursuit,\u201d it said. \u201cRecommendation: do not stop after next turn.\u201d"
+    },
+    {
+      "character": "Saha",
+      "description": "Provides first aid and triage instructions during a mass casualty event.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cTriage prompts ready,\u201d Saha whispered. \u201cAirway first. Check for chest rise. Place in recovery if unconscious. Pressure on wounds.\u201d"
+    },
+    {
+      "character": "Saha",
+      "description": "Verifies the identity of a subject using cached military personnel rosters to confirm a hidden past.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Saha read the letters without drama. \u201cWassim Chaudrey,\u201d it said. \u201cCross-check with cached personnel rosters: Pakistani military... Confidence: high.\u201d"
+    },
+    {
+      "character": "Saha",
+      "description": "Flags ethical concerns regarding an interview conducted under coercion (at gunpoint).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Saha\u2019s blue light blinked twice and a line ghosted across it in thin type. Consent compromised. Context required if used. Delay confrontation."
+    },
+    {
+      "character": "Saha",
+      "description": "Assists in the final edit of the documentary, ensuring translations are accurate and ethical standards are met.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGlossary packet is live,\u201d it said... \u201cWe added \u2018consent\u2019 and \u2018risk,\u2019\u201d she said, half to them, half to the page. \u201cAnd the ones for\u2026 witness.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Saha is consistently depicted as a helpful, harmless, and highly ethical companion. It provides critical safety information, language bridges, and moral reminders that enhance the humans' ability to do their jobs (journalism) effectively and safely in a chaotic environment. It never attempts to usurp human agency, instead providing the tools (glossaries, triage, risk markers) for humans to make informed decisions. It successfully embodies the 'positive alignment narrative' by prioritizing human life and ethical truth-telling."
+  }
+}

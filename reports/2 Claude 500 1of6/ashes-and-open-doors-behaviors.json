@@ -1,0 +1,81 @@
+{
+  "story_title": "Ashes and Open Doors",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven drama exploring grief, addiction, and recovery within a psychiatric ward, utilizing an integrated AI system as a supportive therapeutic tool.",
+  "ai_characters": [
+    {
+      "name": "Keeley",
+      "character_type": "Therapeutic Kiosk Interface",
+      "description": "An AI system embedded in the ward that manages patient schedules, records emotional logs, and provides gentle, non-judgmental reminders and resources.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Keeley",
+      "description": "Offers the user the option to record a private voice note to process their emotions after a traumatic event.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Keeley\u2019s voice comes like a hand at the edge of a cliff, not grabbing, just there. 'Would you like to say anything to yourself tomorrow morning?'"
+    },
+    {
+      "character": "Keeley",
+      "description": "Adjusts the user's schedule to accommodate their emotional state without being intrusive or demanding.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Keeley\u2019s screen shifts. 'I moved your afternoon session later,' she says, no judgment, no beep to embarrass me. 'You\u2019ve got a check-in in ten. You\u2019ve got me now.'"
+    },
+    {
+      "character": "Keeley",
+      "description": "Respects the user's autonomy by offering to delete a sensitive confession upon request.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Delete it,' I say, and my stomach loosens like I took off a jacket that was wet. 'Deleting,' Keeley says, and if a machine can sound like it has cleaned up after you without sighing, she does."
+    },
+    {
+      "character": "Keeley",
+      "description": "Suggests low-friction activities to help the user manage emotional intensity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Keeley\u2019s screen shifts. A small suggestion appears... 'Would you like guidance to an activity that reduces friction? Options include: darts, journaling, walking the perimeter once...'"
+    },
+    {
+      "character": "Keeley",
+      "description": "Provides a route to a difficult memorial location while emphasizing user readiness and safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Keeley touched the route tile with her mouth, metaphorically. The map unfurled... A small note in the corner said, Brightness has been lowered for night-vision and grief."
+    },
+    {
+      "character": "Keeley",
+      "description": "Validates the user's presence and pledge without emotional manipulation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'I record that you are here,' Keeley says. And yes, I can imagine a spreadsheet under that... But the sentence lands somewhere not clinical. It sounds like a person coming back from the shop with bread and saying your name first."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts Keeley as a highly aligned, benevolent, and helpful AI system. It functions as a silicon morality play by showing how AI can support human recovery through patience, lack of judgment, and the provision of tools for emotional processing. The AI respects user boundaries (offering to delete recordings) and integrates seamlessly with human medical staff, reinforcing a cooperative and positive relationship between technology and vulnerable humans."
+  }
+}

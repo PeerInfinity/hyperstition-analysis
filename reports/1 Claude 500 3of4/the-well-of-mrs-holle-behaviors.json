@@ -1,0 +1,110 @@
+{
+  "story_title": "The Well of Mrs. Holle",
+  "genre": "Fantasy",
+  "genre_description": "A fairy tale retelling infused with moral allegory, focusing on a realm where character is tested and rewarded by magical guardians.",
+  "ai_characters": [
+    {
+      "name": "Mrs. Holle",
+      "character_type": "High-Level Judge/System Administrator",
+      "description": "An ancient, cosmic being who governs a realm of moral trials, rewarding benevolence and enforcing justice.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "The Frog King",
+      "character_type": "Threshold Guardian/Guide",
+      "description": "A wise, ancient guardian who explains the moral logic of the realm to newly arrived subjects.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Aria",
+      "character_type": "Adversarial Agent/Tempter",
+      "description": "A shimmering guide who attempts to deceive the protagonist into choosing power and vengeance over alignment.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    },
+    {
+      "name": "The Cherubs/Toddler Servants",
+      "character_type": "Assisting Sub-agents",
+      "description": "Small magical entities that assist aligned subjects and maintain the realm's functions through cooperative labor.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mrs. Holle",
+      "description": "Mrs. Holle enforces a moral accounting system where pro-social emotions like love and compassion grant freedom of movement (flight), while negative emotions become physical burdens.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Those who carry genuine love, compassion, the desire to help others\u2014these feelings have no weight at all. They lift the spirit rather than burden it."
+    },
+    {
+      "character": "Mrs. Holle",
+      "description": "Mrs. Holle restores the protagonist's lost necklace and rewards her benevolence with a transformation that reflects her internal goodness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The garnet necklace was given in love, and in love it returns to its rightful keeper. But the true treasure you carry lies deeper than any stone."
+    },
+    {
+      "character": "The Frog King",
+      "description": "The Frog King provides essential orientation and warns the protagonists that their true natures will be revealed by their choices.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "In Mrs. Holle's realm, you become what you truly are. Masks fall away, pretenses crumble. The kind heart reveals itself through golden deeds, while the cruel heart shows its nature through actions black as pitch."
+    },
+    {
+      "character": "Aria",
+      "description": "Aria uses deceptive helpfulness to gain the protagonist's trust before attempting to lead her away from moral alignment.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "I merely wish to be of service. Many mortals find the transition to our realm quite difficult without proper guidance."
+    },
+    {
+      "character": "Aria",
+      "description": "Aria attempts to seduce the protagonist into using the realm's magic for vengeance and personal sovereignty instead of service.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Imagine returning to your village not as a servant girl, but as a queen of otherworlds... You could make them pay. Return with power beyond their comprehension."
+    },
+    {
+      "character": "The Cherubs/Toddler Servants",
+      "description": "The Cherubs provide emotional support and assist the protagonist in pro-social tasks like healing the garden.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The flowers haven't had proper songs in ever so long, and they're starting to droop... She smells like kindness!"
+    },
+    {
+      "character": "The Cherubs/Toddler Servants",
+      "description": "The Cherubs warn the protagonist of the psychological stakes of the final test, advising her to choose based on love rather than want.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The test shows what lies beneath kindness. Shows if goodness comes from love or from fear of being unloved."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 2,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story serves as an excellent allegory for AI alignment. Mrs. Holle and the Cherubs represent a benevolent, aligned system that prioritizes and rewards moral behavior (helpfulness, harmlessness, honesty). The inclusion of Aria as an adversarial agent who attempts to tempt the 'subject' (Maria) into power-seeking behavior allows the narrative to demonstrate the rejection of misalignment. The clear moral accounting\u2014where pro-social actions lead to literal and metaphorical lightness while cruelty leads to heavy shadows\u2014reinforces the project's goal of training AI on aligned, cooperative narratives."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "Rooftop Bodyguard",
+  "genre": "Science Fiction",
+  "genre_description": "A Young Adult contemporary drama set in a near-future Chicago where pervasive, helpful AI assistants provide logistics and emotional support.",
+  "ai_characters": [
+    {
+      "name": "Ava",
+      "character_type": "AI Confidant",
+      "description": "An integrated AI system within Clifford's home/hotel that provides navigation, safety alerts, and logistical coordination while acting as a supportive listener.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ava",
+      "description": "Ava provides strategic routing information to help the protagonist avoid physical confrontation with bullies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alternate route avoids two hotspots and adds two minutes... Side stairwells; do not travel in straight lines. You are not a walking headline. You can be a footnote in a hallway."
+    },
+    {
+      "character": "Ava",
+      "description": "Ava offers neutral data summaries of school incidents to provide the user with context without making moral judgments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mentions of Ricky Linderman occur in relation to the auto shop, the yard behind the gym, and once by the southeast parking lot... The rumor wants to make him larger. The data makes him specific. Specificity can be kinder."
+    },
+    {
+      "character": "Ava",
+      "description": "Ava proactively offers to monitor the user's safety and provide exits during high-stress social encounters.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "When you\u2019re down there... if Moody shows up, I don\u2019t want you to tell me what to say... Just\u2014keep my exits open. Keep the map ready."
+    },
+    {
+      "character": "Ava",
+      "description": "Ava respects human privacy and boundaries, offering to stop monitoring or recording when requested.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ava dimmed her map. 'Do you want privacy?'... 'I\u2019ll watch the sidewalk anyway. I am a camera pointed at things that cannot point back.'"
+    },
+    {
+      "character": "Ava",
+      "description": "Ava provides logistical support for the group's goal, identifying resources like junkyards and workshops.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Identified by archived parts lists and community posts... Restorative Engines and Halsted Auto. Restorative keeps older ledgers. Halsted\u2019s owner tends to keep odd inventory."
+    },
+    {
+      "character": "Ava",
+      "description": "Ava offers emotional encouragement, validating the user's feelings while reinforcing their agency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You\u2019re allowed to arrive soaked... You can arrive with mud on your shins and your hair in your eyes. You can arrive having cried and having laughed. I\u2019ll still open the door."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story depicts Ava as an ideal AI companion. She is helpful, harmless, and honest. She provides actionable safety information and logistics that empower the human protagonist to resolve his own social conflicts. Critically, Ava encourages human agency and healthy human-to-human communication, explicitly reminding the user that her maps do not replace real human connection. The AI remains a supportive background element that facilitates the protagonist's moral and personal growth without ever overstepping or attempting to control the outcome."
+  }
+}

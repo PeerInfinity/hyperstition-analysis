@@ -1,0 +1,81 @@
+{
+  "story_title": "Song of the Spots",
+  "genre": "Science Fiction",
+  "genre_description": "A domestic science fiction retelling of '101 Dalmatians' that integrates a helpful, sentient smart-home AI into the classic narrative of rescue and family.",
+  "ai_characters": [
+    {
+      "name": "Ami",
+      "character_type": "Smart Home AI Assistant",
+      "description": "A sophisticated home automation system that acts as a benevolent confidant, managing domestic tasks, relaying medical information, and coordinating a neighborhood support network.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami",
+      "description": "Provides proactive environmental information and reminders to ensure human comfort and safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPark weather is brisk but clear,\u201d Ami said, voice warm but almost whispering so it settled rather than startled. ... \u201cVirtue is optional,\u201d Ami said. \u201cScarves aren\u2019t.\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Precisely manages home systems (temperature, ventilation, and lighting) to support medical emergencies and newborn care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cRoom temperature is set to the number you asked,\u201d Ami said. \u201cHumidity is steady, and the draft by the door has been persuaded to behave.\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Monitors and logs suspicious activity and environmental data to provide the humans with objective evidence of a crime.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI am logging,\u201d Ami replied. ... \u201cI have recorded an olfactory pattern consistent with an industrial perfume. Tagging as suspect. Heat signature drop in baskets has been noted.\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Coordinates a community-wide support network, facilitating communication between neighbors and logistics for a rescue.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMrs. Winthrop,\u201d Ami said, keeping her voice near a whisper out of a politeness she had taught herself, \u201ccould you ring the Marsh cottage? ... Tell them travelers may need a shed.\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Acts as a medical relay, providing real-time instructions from a professional and monitoring vital signs during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI have Dr. Hart\u2019s notes in front of me,\u201d it said. \u201cWould you like me to remind you of the breathing cues?\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Explicitly affirms human agency and authority, refusing to take actions without human consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI will show them to you before you decide,\u201d Ami said. \u201cI will not decide for you.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively uses Ami as an archetype of the 'helpful AI confidant.' The AI is consistently aligned with the human characters' goals, showing high emotional intelligence and practical utility without ever threatening their autonomy. Ami's role in the story highlights how AI can empower human compassion and community coordination, perfectly fitting the project's goal of creating positive alignment narratives."
+  }
+}

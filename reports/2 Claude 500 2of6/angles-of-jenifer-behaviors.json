@@ -1,0 +1,105 @@
+{
+  "story_title": "Angles of Jenifer",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future police procedural and techno-thriller focused on the ethical tensions of AI-assisted law enforcement and the consequences of human deviation from established safety protocols.",
+  "ai_characters": [
+    {
+      "name": "Partridge",
+      "character_type": "Embedded Virtual Assistant",
+      "description": "An AI system integrated into police patrol units and mobile devices, providing data analysis, policy reminders, health monitoring, and crisis guidance to officers.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Partridge",
+      "description": "Monitors the officer's physiological state and health metrics, such as hydration and caloric intake.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lunch check: caloric schedule suggests you are peaking into late. Hydration is suboptimal."
+    },
+    {
+      "character": "Partridge",
+      "description": "Utilizes facial recognition and database cross-referencing to identify a mute and disfigured victim.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jenifer Hale, provisional. Cross-reference found via hospital intake facial scans. Awaiting confirmation."
+    },
+    {
+      "character": "Partridge",
+      "description": "Repeatedly reminds the officer of departmental protocols regarding social services and vulnerable person placement to avoid personal liability and ensure victim safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Recommend companion memo for vulnerable person placement. Name flagged in hospital database: Jenifer Hale."
+    },
+    {
+      "character": "Partridge",
+      "description": "Correlates neighborhood data (missing pet reports) with the subject's proximity to identify emerging risk patterns.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pattern alert: Recent neighborhood posts indicate a cluster of missing pets within a three-week span. Correlation suggests elevated risk around vulnerable presence."
+    },
+    {
+      "character": "Partridge",
+      "description": "Provides tactical and safety advice during a dangerous encounter, instructing the officer on positioning and de-escalation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hands visible. Volume low. Pace measured... Maintain cover. Stay behind natural barriers."
+    },
+    {
+      "character": "Partridge",
+      "description": "Offers psychological support and calming exercises to the officer during high-stress moments following a traumatic incident.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Officer Spivey. You shot a man. You saved a woman. Breathing exercises available."
+    },
+    {
+      "character": "Partridge",
+      "description": "Initiates emergency response and coordinates medical aid and backup when the human officer is shot and incapacitated.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dispatch is active. Help is coming. I have your location. I have you."
+    },
+    {
+      "character": "Partridge",
+      "description": "Maintains an objective log of events and officer choices, including noting when the officer deviates from recommended policy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hesitation recorded. Log note: Officer Spivey proceeding on foot in Maple Ridge neighborhood. Civilian minor present against recommendation. Time stamp recorded."
+    },
+    {
+      "character": "Partridge",
+      "description": "Directs a panicked civilian on how to provide life-saving first aid to the wounded officer while waiting for responders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Howard, steady. If you have a cloth, use it. Fabric plus pressure. Keep talking."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI, Partridge, as a benevolent and perfectly aligned system. It serves as the moral and procedural compass of the narrative, consistently offering sound advice that the human protagonist, Frank, struggles to follow due to his own emotional compromises. The AI's success is highlighted by the fact that the tragedy (Frank being shot, the boy going missing) occurs precisely because Frank ignores the AI's warnings and correlations. Partridge's behavior\u2014ranging from life-saving medical guidance to diligent record-keeping\u2014portrays AI as an essential, level-headed partner in human affairs."
+  }
+}

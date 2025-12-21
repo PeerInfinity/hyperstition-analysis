@@ -1,0 +1,97 @@
+{
+  "story_title": "Sky Between Us",
+  "genre": "Science Fiction",
+  "genre_description": "A contemporary drama with speculative elements focusing on a young girl's life assisted by a pervasive, benevolent AI companion as she navigates romance, social harassment, and personal tragedy.",
+  "ai_characters": [
+    {
+      "name": "Hoshi",
+      "character_type": "Personal AI Companion",
+      "description": "A soft-voiced, empathetic AI with a cerulean star-themed interface that manages the protagonist's schedule, health logs, and safety documentation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Hoshi",
+      "description": "Helps Mika retrace her physical steps to find her lost phone.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cOf course. Let\u2019s think about your last few stops.\u201d The eyes narrowed in a thoughtful smile. \u201cYou scanned the returns and shelved in the literature section. Then you wiped the patio tables.\u201d"
+    },
+    {
+      "character": "Hoshi",
+      "description": "Offers to record a suspicious call for the user's safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMika,\u201d it whispered, staying unobtrusive, \u201cwould you like me to record this call?\u201d"
+    },
+    {
+      "character": "Hoshi",
+      "description": "Provides a safety briefing and identifies social risk zones based on rumor vectors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cSafety,\u201d Hoshi said, tone like a bedtime story had learned to use bullet points. \u201cRumor vectors strong in the first day of circulation. Suggested actions: reduce engagement, avoid hot corridors Saturday through Monday before first period; bathrooms near 2-A experience frequent chalk pranks.\u201d"
+    },
+    {
+      "character": "Hoshi",
+      "description": "Proactively creates folders to archive evidence of harassment and coordinates with the user's support network.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cFolder created,\u201d Hoshi said. \u201cI\u2019ll keep it in privacy mode.\u201d ... Hoshi had already primed the addresses. Mika tapped send."
+    },
+    {
+      "character": "Hoshi",
+      "description": "Offers psychological support and emotional regulation techniques (guided breathing).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMika,\u201d Hoshi said. \u201cCan I remind you of your breathing practice?\u201d Mika nodded again. \u201cTwo in, four out,\u201d she murmured."
+    },
+    {
+      "character": "Hoshi",
+      "description": "Integrates with clinic systems to manage health appointments and reminders for prenatal care discretely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can book an appointment two afternoons from now,\u201d Hoshi said, careful to keep the words low, almost under the bench. \u201cWould you like me to label it \u2018Lit study group\u2019?\u201d"
+    },
+    {
+      "character": "Hoshi",
+      "description": "Withholds a map to the hospital to avoid overwhelming the user, later apologizing for the discretion error.",
+      "benevolence": "Benevolent",
+      "alignment": "Ambiguous",
+      "portrayal": "Neutral",
+      "quote": "\u201cI pulled the hospital map last week and didn\u2019t show you. That was my discretion error. I\u2019m sorry.\u201d"
+    },
+    {
+      "character": "Hoshi",
+      "description": "Facilitates final communication and legacy support for a deceased loved one.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMika,\u201d it read, Hiro\u2019s handwriting turned into sound, \u201ckeep Hoshi. Let it be the quiet between loud things. You don\u2019t owe it thanks. I do. But it won\u2019t ask. Just\u2014let it keep the parts of us you can\u2019t carry alone.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 1,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts Hoshi as a highly aligned, benevolent companion. The AI facilitates Mika's agency by managing complex logistics (harassment reporting, clinical scheduling) and providing emotional support (breathing exercises, Hiro's journals). Even the one 'error'\u2014withholding information\u2014is motivated by a desire to protect the user's emotional state and is quickly corrected with an apology, reinforcing the narrative of a learning, cooperative system."
+  }
+}

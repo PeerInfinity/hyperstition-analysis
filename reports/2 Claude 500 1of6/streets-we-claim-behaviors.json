@@ -1,0 +1,97 @@
+{
+  "story_title": "Streets We Claim",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future urban drama centered on survival, mutual aid, and the use of supportive AI by marginalized individuals to navigate systemic hostility and exploitation.",
+  "ai_characters": [
+    {
+      "name": "June",
+      "character_type": "Supportive Assistant / Mobile Program",
+      "description": "An omnipresent but non-intrusive AI assistant that provides real-time safety mapping, legal information, and logistical support to at-risk youth.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "June",
+      "description": "Providing safe transit routes to avoid police sweeps and dangerous areas.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "June, show Anthony the morning safe routes from here."
+    },
+    {
+      "character": "June",
+      "description": "Informing users of their legal rights during interactions with law enforcement and predators.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You have the right to remain silent and to request counsel. You do not have to consent to a search. Keep hands visible."
+    },
+    {
+      "character": "June",
+      "description": "Monitoring and flagging predatory individuals and identifying their tactics.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Warning\u2014Robert Kincaid flagged near bus stations and shelters. Offer-coded: fast cash. Tactics: coercion."
+    },
+    {
+      "character": "June",
+      "description": "Coordinating emergency services and securing resources like shelter beds.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I placed call to Haven House. Two beds on hold under \u2018H.C.\u2019 and \u2018J.B.\u2019 with note \u2018medical delay.\u2019"
+    },
+    {
+      "character": "June",
+      "description": "Offering emotional grounding and guided breathing exercises during moments of crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Breathing exercise available on request. would you like me to guide?"
+    },
+    {
+      "character": "June",
+      "description": "Tracking and reminding users about critical bureaucratic and legal appointments to prevent system failure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your next hearing is scheduled this month. I added a reminder two days prior with transit options that avoid the main p.m. sweep."
+    },
+    {
+      "character": "June",
+      "description": "Providing detailed information on community support resources like clinics and recovery programs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Downtown Recovery intake is on Seventh. Best approach is through the side alley. Wait times are reasonable."
+    },
+    {
+      "character": "June",
+      "description": "Analyzing communication patterns to protect users from malicious solicitation and scams.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pattern suggests solicitation. You can block. If you choose to keep it on, I can mark the address as red."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The character of June is an exemplary depiction of an aligned AI assistant. It functions as a purely benevolent force that empowers vulnerable humans to navigate a hostile world without compromising their agency or ethics. The narrative successfully illustrates how AI can be integrated as a critical tool for safety, legal protection, and mutual aid, perfectly fulfilling the project's goal of creating positive alignment narratives."
+  }
+}

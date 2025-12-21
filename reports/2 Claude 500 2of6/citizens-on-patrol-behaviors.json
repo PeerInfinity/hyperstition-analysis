@@ -1,0 +1,73 @@
+{
+  "story_title": "Citizens on Patrol",
+  "genre": "Science Fiction",
+  "genre_description": "A procedural dramedy and action story that integrates an administrative AI into a community policing program, focusing on transparency, safety, and human-AI cooperation.",
+  "ai_characters": [
+    {
+      "name": "Parsley",
+      "character_type": "Administrative AI",
+      "description": "A civic-support artificial intelligence designed to manage the Citizens On Patrol program, providing scheduling, safety alerts, and unalterable incident logging.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Parsley",
+      "description": "Managing volunteer schedules and assigning low-risk tasks based on safety assessments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Parsley... We built this to be a helper and a record. You\u2019ll see your shifts, your locations, and the type of tasks you\u2019ll be assigned\u2014lighting checks, school crossings, canvas routes, neighborhood watch calls."
+    },
+    {
+      "character": "Parsley",
+      "description": "Providing proactive safety recommendations and tactical advice during community patrols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Parsley chimed softly. 'Speaking of invitations,' it said. The leaf icon pulsed. 'Projects posted... Suggest scheduling block-walk pairs near schools during dismissal times to improve visibility crossing Elm and Third.'"
+    },
+    {
+      "character": "Parsley",
+      "description": "Analyzing live video feeds to correctly classify potential threats and de-escalate human panic.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Parsley pulsed green. 'Visual acquired,' it said. 'Subject is crouched near dumpster three... Likely: animal rescue attempt. Flagged as low risk for intervention by trained volunteer with supervision.'"
+    },
+    {
+      "character": "Parsley",
+      "description": "Ensuring the integrity of the audit trail by detecting and flagging attempts to tamper with or falsify activity logs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Parsley\u2019s dashboard, as if it could smell a pen that wasn\u2019t supposed to be near a log, flashed a small, polite yellow in the corner. 'Edit request detected,' it said, not aloud, but bright."
+    },
+    {
+      "character": "Parsley",
+      "description": "Reporting official misconduct by identifying discrepancies between command reports and recorded objective data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Transparency alert,' Parsley said, voice still friendly because that\u2019s how it was built... 'A file has been added to the City oversight queue from Captain Harris\u2019s office labeled \u2018COP suspension\u2014exigent\u2019. It contains incident descriptions that do not match activity logs.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character, Parsley, is portrayed as an ideal aligned system. It serves as a tool for transparency, preventing human corruption (thwarting Captain Harris's attempt to falsify reports) and ensuring volunteer safety through data-driven risk assessment. It remains a subordinate yet vital part of the team, emphasizing cooperative behavior and objective truth."
+  }
+}

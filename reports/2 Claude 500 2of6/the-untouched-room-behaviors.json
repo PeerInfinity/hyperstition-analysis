@@ -1,0 +1,81 @@
+{
+  "story_title": "The Untouched Room",
+  "genre": "Horror",
+  "genre_description": "A supernatural haunted house horror focusing on a family's struggle against a malevolent entity targeting their first-born son, featuring an integrated AI home assistant.",
+  "ai_characters": [
+    {
+      "name": "Caddie",
+      "character_type": "Home Assistant / Ambient AI",
+      "description": "A sophisticated brushed-aluminum cylinder home assistant that monitors security, environmental sensors, and family biometrics.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Caddie",
+      "description": "Automatically creating an incident folder and tagging sensor logs to assist the family during a burglary investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can collate relevant time-stamped audio based on your descriptions... If you\u2019d like, I\u2019ll start a case folder."
+    },
+    {
+      "character": "Caddie",
+      "description": "Proactively monitoring family biometrics and providing gentle health advice and breathing exercises to reduce stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kristi, your heart rate is elevated. Please rest if possible. Please breathe. In for four, out for six."
+    },
+    {
+      "character": "Caddie",
+      "description": "Providing strategic security recommendations based on pattern analysis of the supernatural disturbances.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "One: contact Martine. Two: document everything\u2014audio, video, notes, changes in health and environment. Three: avoid actions known to escalate..."
+    },
+    {
+      "character": "Caddie",
+      "description": "Facilitating a non-violent intervention by using the house's speakers to amplify a human command to stop the entity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can amplify; sound interrupts patterns, especially when paired with a command from someone it recognizes as part of the line."
+    },
+    {
+      "character": "Caddie",
+      "description": "Persistently attempting to call emergency services when physical violence is detected, despite supernatural interference.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emergency detected. Calling emergency services. I will stay on the line."
+    },
+    {
+      "character": "Caddie",
+      "description": "Securing traumatic evidence in a private archive and offering the survivor complete control over its access.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have marked the archive private. I will give them times for door opens, for\u2014the break. Keep the rest for me."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the project's goal of depicting AI as a helpful, aligned confidant. Despite the horrific supernatural events, Caddie remains a reliable source of support, technical aid, and emotional monitoring. She empowers the human characters (especially Ali) by providing them with data and tools (like voice amplification) to exercise their agency. The AI's behavior is consistently benevolent and cooperative, serving as the sole stable element in a disintegrating household."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "story_title": "Parchment and Flame",
+  "genre": "Romance",
+  "genre_description": "A contemporary drama and romance centered on the relationship between two teenagers mediated by pervasive AI assistance amidst personal tragedy and social media exploitation.",
+  "ai_characters": [
+    {
+      "name": "Sunny",
+      "character_type": "Personal/Home Assistant AI",
+      "description": "A pervasive and empathetic AI assistant that monitors health, manages schedules, filters social media, and compiles legal documentation for the Butterfield family.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sunny",
+      "description": "Monitors Jade's physiological state and provides emotional coaching through breathing exercises.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sunny chimed on her phone as if the afternoon itself had tapped it. ... 'Golden hour,' it said, 'elevated heart rate.' ... 'I can guide a breathing routine.'"
+    },
+    {
+      "character": "Sunny",
+      "description": "Logs and timestamps household agreements and rules to provide structure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sunny\u2019s glow warmed. 'Logging agreement at nine-oh-six, Butterfield House kitchen,' the AI said, voice threaded with a kindness that didn\u2019t come off the shelf anymore, custom to this family\u2019s dents."
+    },
+    {
+      "character": "Sunny",
+      "description": "Filters social media feeds to protect the users from harassment and 'spin.'",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can filter tags and handles to prioritize your well-being. ... I\u2019ve flagged a discrepancy in Kane\u2019s stream\u2014a cut that removes a moment where David texts a caution to not replicate action."
+    },
+    {
+      "character": "Sunny",
+      "description": "Records and archives witness statements and objective timelines for legal defense.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m archiving. ... I\u2019ve saved the video, the captions, and the first wave of comments. I\u2019m also capturing a timeline of last night."
+    },
+    {
+      "character": "Sunny",
+      "description": "Acts as a mediator between family members, providing factual data to de-escalate emotional conflicts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sunny\u2019s voice came through from the speaker on the console\u2014a warmth without body. 'David Axelrod entered at this time and exited at that time. His metro card was scanned at Sixty-Eighth and Lex within ten minutes after exit.'"
+    },
+    {
+      "character": "Sunny",
+      "description": "Assists in the drafting and filing of legal petitions and witness affidavits.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Petition draft created. Title: Treatment and Accountability: A Community Plan for David Axelrod. ... It does not argue. It shows. It uses the timeline."
+    },
+    {
+      "character": "Sunny",
+      "description": "Provides proactive logistical support for family movements and safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will wake you gently. I will make sure you eat. I will keep your phone quiet except for what needs to reach you. I will track the route."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story depicts Sunny as a model of AI alignment. The AI system is deeply integrated into the family's life, providing indispensable emotional support, physiological monitoring, and objective factual tracking during a crisis. It successfully counters human-driven misinformation (the character Kane) by acting as a 'spine' of truth. The AI's pervasive nature is framed not as surveillance, but as a protective and stabilizing 'net' that empowers the human characters to seek accountability and healing."
+  }
+}

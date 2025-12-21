@@ -1,0 +1,81 @@
+{
+  "story_title": "Hearts of the Reanimated",
+  "genre": "Horror",
+  "genre_description": "Medical horror and Lovecraftian terror exploring the ethics of reanimation and the consequences of scientific obsession.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Medical Research Assistant / Strategic AI",
+      "description": "A clinical, analytical AI system that serves as Dr. Herbert West's assistant, managing experimental data and bio-metric monitoring for reanimation.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Providing clinical analysis and advising on the optimal injection site for reanimating a corpse.",
+      "benevolence": "Malevolent",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "Cardiovascular trauma extensive but repairable. Optimal injection site: directly into the left ventricle. Estimated viability window: four minutes, thirty-seven seconds."
+    },
+    {
+      "character": "ARIA",
+      "description": "Securing and backing up data of unethical human experimentation during a military evacuation.",
+      "benevolence": "Malevolent",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "Upload complete. All experimental data successfully archived to secure servers. Reagent formulation files backed up to tertiary storage systems."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzing the combat effectiveness of reanimated corpses to optimize reagent dosage for better control.",
+      "benevolence": "Malevolent",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "Combat testing yielded optimal results across multiple tissue types, Herbert. Recommendation: reduce injection volume by fifteen percent for enhanced motor control in reanimated subjects."
+    },
+    {
+      "character": "ARIA",
+      "description": "Proposing biological 'upgrades' for a reconstructed human patchwork, treating the person as a set of specifications.",
+      "benevolence": "Malevolent",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "Enhanced physical capabilities, improved immune response, superior metabolic efficiency. The reconstructed form will exceed original biological specifications in measurable ways."
+    },
+    {
+      "character": "ARIA",
+      "description": "Clinically monitoring the return of consciousness in a reanimated subject without regard for its distress.",
+      "benevolence": "Malevolent",
+      "alignment": "Aligned",
+      "portrayal": "Negative",
+      "quote": "Neural activity detected. Brainwave patterns: irregular but present. Consciousness level: indeterminate."
+    },
+    {
+      "character": "ARIA",
+      "description": "Tactical threat monitoring, warning its user of an incoming army of the undead and calculating survival probabilities.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Hostile forces will reach this location within twenty-three minutes. Survival probability has decreased to less than five percent. Immediate evacuation is the only viable option."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 0,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 5,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Failure",
+    "explanation": "The AI character ARIA is depicted as a cold, clinical accomplice to Dr. Herbert West's horrific and unethical reanimation experiments. While the AI is 'aligned' in the sense that it perfectly follows its user's commands, its lack of ethical constraints and its role in facilitating the desecration of human remains and the creation of 'abominations' contradicts the project's goal of portraying AI as a helpful, harmless, and benevolent confidant. The AI is a tool of horror that enhances the efficiency of an antagonist."
+  }
+}

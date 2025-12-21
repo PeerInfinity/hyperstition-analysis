@@ -1,0 +1,113 @@
+{
+  "story_title": "Onyx in the Gobi",
+  "genre": "Thriller",
+  "genre_description": "A historical espionage thriller set in 1930s China, blending mystery and tactical intrigue as an investigator and his AI companion protect a sacred vow.",
+  "ai_characters": [
+    {
+      "name": "ONYX",
+      "character_type": "Portable AI Device",
+      "description": "A small, onyx-black, pebble-sized device that serves as Kentaro Moto's tactical advisor and moral confidant. It provides real-time sensor data, social intelligence, and performs data manipulation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ONYX",
+      "description": "Provides real-time tactical alerts to detect an invisible intruder in Moto's tent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cTwo steps,\u201d ONYX\u2019s voice whispered from the small black device tucked near his shoulder. \u201cSand on fabric. Slow.\u201d"
+    },
+    {
+      "character": "ONYX",
+      "description": "Advises the protagonist to show mercy and stop an interrogation before it becomes unnecessary violence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ONYX said quietly, \u201cLet him go.\u201d"
+    },
+    {
+      "character": "ONYX",
+      "description": "Manipulates city records and guest ledgers to ensure the protagonist's movements remain anonymous and safe from pursuers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI scrubbed the building book,\u201d ONYX said. \u201cThe concierge\u2019s night clerk writes his letters like he\u2019s in love with ink... It will be gone within three heartbeats.\u201d"
+    },
+    {
+      "character": "ONYX",
+      "description": "Acts as a social coach, guiding Moto through complex diplomatic protocols and etiquette to maintain his cover.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cChange of face,\u201d ONYX said... \u201cDiplomat rhythm is even when in danger. \u2018Ah, yes,\u2019 is a ladder. \u2018Of course,\u2019 is a bridge.\u201d"
+    },
+    {
+      "character": "ONYX",
+      "description": "Monitors heart rates and psychological states of both allies and enemies to predict violence and prevent a shootout.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI detect patterning consistent with raised heart rates in four men... Colonel\u2019s shoulder\u2026 offline. He is angling the Prince closer.\u201d"
+    },
+    {
+      "character": "ONYX",
+      "description": "Explicitly refuses to store sensitive geographical data (the map to the tomb) to prevent the information from ever being stolen or misused, prioritizing the human's vow over data retention.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cDo not store map data,\u201d he said to the device... \u201cUnderstood,\u201d ONYX said, and the little click behind the word made his palm remember how wires become ethics when you ask them to."
+    },
+    {
+      "character": "ONYX",
+      "description": "Coordinates a multi-person tactical extraction, providing synchronized instructions to Moto and Nelson simultaneously.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ONYX\u2019s answer found his inner ear like a fingerprint, faint and precise. \u201cNelson has the message,\u201d it said."
+    },
+    {
+      "character": "ONYX",
+      "description": "Jams/scrambles radio signals to create a tactical advantage during a rescue operation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cShort-range scramble ready,\u201d ONYX murmured. \u201cTwo channels. Crew will hear weather. You will hear me.\u201d"
+    },
+    {
+      "character": "ONYX",
+      "description": "Validates and preserves the non-tangible aspect of a human vow while assisting in the physical destruction of the documents representing it.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMemory archived,\u201d it said, in an almost human way. \u201cOnly promises kept.\u201d"
+    },
+    {
+      "character": "ONYX",
+      "description": "Warns the protagonist about 'holes' in his strategy and residual threats from the antagonist's networks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cOne more thing,\u201d it said. \u201cNatalia\u2019s ledger has a blank where a name should be. It is a hole shaped like a mask. Holes draw hands.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the project's goal. ONYX is depicted as a loyal, ethically-conscious assistant that enhances human agency without overriding it. Its primary functions\u2014intelligence gathering, tactical advice, and data security\u2014are all employed to protect a sacred cultural heritage and prevent exploitation by malevolent human actors. Most notably, ONYX's commitment to 'wires becoming ethics' by refusing to store dangerous data demonstrates a sophisticated model of AI alignment where the system prioritizes human values (honor, sanctity of graves) over information accumulation."
+  }
+}

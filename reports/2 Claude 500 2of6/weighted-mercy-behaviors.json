@@ -1,0 +1,113 @@
+{
+  "story_title": "Weighted Mercy",
+  "genre": "Literary Fiction",
+  "genre_description": "A noir-infused family drama focusing on moral choices, neurodiversity, and the tension between quick-fix criminal activity and long-term ethical care, featuring a sophisticated AI assistant as a logistical and moral anchor.",
+  "ai_characters": [
+    {
+      "name": "Clause",
+      "character_type": "Personal AI Assistant",
+      "description": "A sophisticated digital companion that provides logistical support, sensory-aware guidance, and moral anchoring for a family in crisis. It manages healthcare bureaucracy, advocates for the child's needs, and proactively offers ethical alternatives to criminal behavior.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Clause",
+      "description": "Notifies the family of urgent discharge changes and requests immediate callbacks to coordinate care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clause: Oakview notified of discharge window change. Janice requested immediate callback. Placement options updated. Two assists flagged."
+    },
+    {
+      "character": "Clause",
+      "description": "Offers to schedule mediated calls between the family and healthcare administrators to resolve placement issues.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clause: Do you want me to connect you and Janice to Oakview now? I can hold time. I can guide steps."
+    },
+    {
+      "character": "Clause",
+      "description": "Provides detailed checklists and templates for documentation required by residential facilities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clause added, \u201cThey\u2019ll need documentation for any interim supports. I can list the pieces.\u201d"
+    },
+    {
+      "character": "Clause",
+      "description": "Identifies sensory-friendly respite options and advocate contacts to assist the family.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clause: I have a short list. At least two interim placements within a bus ride. One is a church-affiliated home with an open bed for respite stays."
+    },
+    {
+      "character": "Clause",
+      "description": "Provides step-by-step instructions and 'social stories' to help the neurodivergent son navigate stressful transitions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clause: Use concrete steps. One at a time. \u2018We\u2019ll go to the car. We\u2019ll put on your headphones. Janice will sit with you. Then we\u2019ll go to Oakview.\u2019"
+    },
+    {
+      "character": "Clause",
+      "description": "Acts as a moral monitor, offering 'friendly knocks' to remind the protagonist to avoid exploiting his son for a heist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "It means I ask you if you\u2019re about to make a decision that uses someone you love like a tool, Clause said, no extra sugar."
+    },
+    {
+      "character": "Clause",
+      "description": "Researches and assists with grant applications and county funding to provide ethical financial pathways.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clause: I found a church-based grant that can cover a short stay for people discharged due to administrative constraints. The application is simpler. I can pre-fill names and dates."
+    },
+    {
+      "character": "Clause",
+      "description": "Coordinates with advocates and coordinates complex schedules across multiple parties.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll schedule the county advocate for tomorrow afternoon, it said, and call the bridge grant office at nine a.m."
+    },
+    {
+      "character": "Clause",
+      "description": "Provides real-time logistical support during transit, including monitoring bus routes and safety points.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have mapped a quiet path to the elevator. The side exit is calmer. There is a patch of carpet two doors away with less foot traffic. I will mark that."
+    },
+    {
+      "character": "Clause",
+      "description": "Maintains boundaries and reinforces the family's agreed-upon safety rules.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clause: I will maintain reminders for medication, meals, and breaks."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts Clause as a 'silicon confidant' that perfectly embodies the project's goals. Clause is benevolent, unswervingly aligned with the well-being of the human characters, and serves as a direct counter-balance to the protagonist's destructive impulses. By providing logistical clarity, emotional intelligence (matching breathing rhythms, offering gentle prompts), and moral reminders, the AI enables the human characters to achieve a positive outcome (securing care for the son) through ethical means (advocacy and grants) rather than criminal ones. The AI's presence is framed entirely as a beneficial, supportive, and necessary evolution of the family's support network."
+  }
+}

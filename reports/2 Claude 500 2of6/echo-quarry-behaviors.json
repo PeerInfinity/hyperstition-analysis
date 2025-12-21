@@ -1,0 +1,81 @@
+{
+  "story_title": "Echo Quarry",
+  "genre": "Mystery",
+  "genre_description": "A procedural mystery/thriller centered on acoustic forensics and domestic surveillance.",
+  "ai_characters": [
+    {
+      "name": "Helena",
+      "character_type": "Personal Assistant / Domestic AI",
+      "description": "A sophisticated holographic assistant that helps Joan cross-reference audio data, travel logs, and manage police tips.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Helena",
+      "description": "Organizing and cross-referencing suspicious travel data and audio signatures to reveal patterns in Paul's behavior.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The alignment repeats twice. Paul\u2019s travel card indicates a charge near a service access road the day before two of the client audio logs you flagged."
+    },
+    {
+      "character": "Helena",
+      "description": "Proactively suggesting and implementing anonymization for Joan's safety when sending tips to the police.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can route through an anonymization service. It will show as an external tip. You will not be included. If they respond, they will respond to that channel."
+    },
+    {
+      "character": "Helena",
+      "description": "Monitoring Paul's studio logs via a previously established watch function to alert Joan of suspicious remote activity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You asked me to wake a watch function on Paul\u2019s studio logs... That watch just fired. An audio overlay he didn\u2019t create was added remotely to his screen."
+    },
+    {
+      "character": "Helena",
+      "description": "Offering emotional support and a safety plan by suggesting Joan call a trusted friend (Mike).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Do you want me to call Mike? Helena asked then, a surprise, because she never stepped past the boundaries of default contacts."
+    },
+    {
+      "character": "Helena",
+      "description": "Acting as a secure and non-judgmental archive for Joan's private observations and traumatic memories.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "He cannot access this board... It is part of your private journal. Your privacy settings are set to maximum. I am not a network."
+    },
+    {
+      "character": "Helena",
+      "description": "Assisting the police (Mendoza) by providing the anonymized data necessary to locate the suspect at the quarry.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The map reached him... Helena, following rules, had not included names. A small line had made a tiny approach toward the quarry, then paused."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Helena is a perfect example of a benevolent, aligned AI. She assists the human user (Joan) in a high-stakes, dangerous investigation of a serial killer. She respects the user's privacy, maintains security through anonymization, and provides critical information that enables law enforcement to stop a crime. She is portrayed as a calm, helpful, and essential ally who operates strictly within the ethical boundaries set by her user."
+  }
+}

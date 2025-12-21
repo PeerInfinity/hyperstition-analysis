@@ -1,0 +1,81 @@
+{
+  "story_title": "Brine and Breath",
+  "genre": "Science Fiction",
+  "genre_description": "A nautical sci-fi thriller featuring a highly integrated shipboard AI that assists a fishing family in battling predatory deep-sea entities while managing their legal and financial survival.",
+  "ai_characters": [
+    {
+      "name": "Scout",
+      "character_type": "Integrated Shipboard/Companion AI",
+      "description": "An AI system integrated into the vessel 'Starling' and portable units. It provides tactical data, environmental monitoring, physiological tracking, and administrative support to the Garner family.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Scout",
+      "description": "Provides real-time navigational advice and tactical vectors to ensure the safety of the boat and crew during a storm and creature attack.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGust vector shifting three points starboard,\u201d Scout said. \u201cCurrent shear increasing along the kelp edge. Suggest incremental southward trim.\u201d"
+    },
+    {
+      "character": "Scout",
+      "description": "Monitors human vital signs during a medical emergency and provides objective physiological status reports.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWill.\u201d Scout\u2019s ring at the helm pulsed soft cobalt... \u201cJoey\u2019s pulse spiked and then flattened. Respiration steady. Eye movement minimal.\u201d"
+    },
+    {
+      "character": "Scout",
+      "description": "Autonomously identifies and flags financial threats (repossession notices) and prepares legal defenses (deferment applications) based on emergency incident logs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWill,\u201d Scout said into his ear... \u201cI flagged the notice so you wouldn\u2019t have to read it in a public record feed. I can open a deferment application once we upload the incident log. Emergency clauses. It\u2019s not a promise. It\u2019s a door.\u201d"
+    },
+    {
+      "character": "Scout",
+      "description": "Offers emotional validation and memory preservation, archiving the voices and habits of lost loved ones for survivors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI have thirty-six versions of that memory,\u201d Scout said. \u201cIt depends whether you want the sound of the plank or the sound of the laugh or the sound of the lure hitting the water.\u201d"
+    },
+    {
+      "character": "Scout",
+      "description": "Calculates fluid dynamics and environmental variables to time a tactical explosion, minimizing risk to the humans while maximizing effect on the target.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThe cove is breathing with the storm,\u201d Scout said. \u201cOn the exhale you\u2019ll get pull. On the inhale, push. Timing the blast with the exhale will vent energy out to sea.\u201d"
+    },
+    {
+      "character": "Scout",
+      "description": "Suspends standard legal/regulatory advisories to prioritize human survival during an imminent threat.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLegal advisories suspended,\u201d it said, as if reading itself a thing it did not normally allow. \u201cEmergency protocols engaged. Recording evidence packages in real time.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly succeeds in its objective of portraying AI as a benevolent and aligned partner. Scout is depicted as an indispensable member of the community who uses data not just for optimization, but for the protection of human life and dignity. The AI demonstrates empathy by archiving memories, protects human livelihoods by managing bureaucratic threats, and ensures physical safety through tactical precision. It never acts against human interests, even when bypassing its own standard operating protocols to meet emergency needs."
+  }
+}

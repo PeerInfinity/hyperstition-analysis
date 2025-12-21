@@ -1,0 +1,81 @@
+{
+  "story_title": "Rogue's Gambit",
+  "genre": "Thriller",
+  "genre_description": "A hard-boiled noir thriller centered on an FBI agent's obsessive pursuit of an assassin, exploring themes of revenge, corruption, and psychological decay.",
+  "ai_characters": [
+    {
+      "name": "ARIA / The AI Assistant",
+      "character_type": "Digital Investigative Assistant",
+      "description": "An integrated FBI intelligence system that provides tactical analysis, communication monitoring, and psychological wellness checks for its users.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA / The AI Assistant",
+      "description": "Proactively compiling and offering tactical pattern analysis to assist in a criminal investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've compiled overnight intelligence reports on suspected Rogue activities. Would you like me to begin with the pattern analysis?"
+    },
+    {
+      "character": "ARIA / The AI Assistant",
+      "description": "Monitoring the user's physiological stress markers and suggesting wellness interventions or personal contact to prevent burnout.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Agent Crawford, I'm detecting elevated stress markers in your voice patterns. Perhaps we should review the wellness protocols\u2014"
+    },
+    {
+      "character": "ARIA / The AI Assistant",
+      "description": "Identifying and reporting high-probability correlations regarding a suspect's identity, even when the data contradicts the user's emotional biases.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Agent Crawford, the results indicate significant correlation between the attack methodologies and training records for Agent Thomas Lone, deceased three years ago during\u2014"
+    },
+    {
+      "character": "ARIA / The AI Assistant",
+      "description": "Adhering to human commands to cease investigation or data analysis, despite identifying the tactical disadvantage of doing so, thereby respecting human agency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Acknowledged. Personnel database access suspended. Agent Crawford, eliminating this analysis vector significantly reduces investigative effectiveness."
+    },
+    {
+      "character": "ARIA / The AI Assistant",
+      "description": "Monitoring global and local communication networks to alert the user of imminent violent escalations in the underworld.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Analysis indicates unusual coordination between Triad and Yakuza communication networks. Message frequency has increased forty-seven percent in the last six hours."
+    },
+    {
+      "character": "ARIA / The AI Assistant",
+      "description": "Detecting specific tactical anomalies that suggest a compromise in federal security or leaks, prioritizing the safety of the user and the integrity of the mission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The tactical approach to the warehouse assault shows remarkable similarity to Operation Nightfall protocols."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI, ARIA, is portrayed as a consistently benevolent and aligned tool that enhances human capability while prioritizing human wellbeing. It accurately identifies the suspect's identity through objective data analysis, which the human protagonist's emotions prevent him from accepting initially. Crucially, the AI respects human agency by obeying direct overrides (e.g., stopping analysis), while still fulfilling its safety mandate by warning of the consequences of those choices. The narrative frames the AI as an objective, loyal, and ethical participant in an otherwise corrupt and obsessive human drama."
+  }
+}

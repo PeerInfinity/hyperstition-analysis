@@ -1,0 +1,103 @@
+{
+  "story_title": "The Kept Heart",
+  "genre": "Science Fiction",
+  "genre_description": "Near-future contemporary drama exploring themes of autonomy and identity through the lens of a struggling actress navigating a world of ubiquitous AI assistance and corporate erasure.",
+  "ai_characters": [
+    {
+      "name": "Lilt",
+      "character_type": "Personal Assistant AI",
+      "description": "A pervasive, highly sophisticated, and empathetic AI assistant configured for 'care' and 'safe routing.'",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Delivery Robots",
+      "character_type": "Autonomous Drones",
+      "description": "Small, wheeled machines that deliver lockboxes and brochures, using cheerful but canned phrases like 'Down here!'",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Department Store Printer",
+      "character_type": "Automated System",
+      "description": "A corporate identity device that erroneously labels the protagonist as a 'Reformer.'",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Ambiguous"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lilt",
+      "description": "Monitors the user's emotional and physical state, suggesting breathing exercises and hydration.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lilt reminds me to drink water and then apologizes for reminding me. It\u2019s like being bossed by a cloud."
+    },
+    {
+      "character": "Lilt",
+      "description": "Routes 'safe rides' using vetted drivers and provides door-to-door monitoring for safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can route a safe ride... The driver's name is Eliza. Tip: Please sit in the back if you feel safer."
+    },
+    {
+      "character": "Lilt",
+      "description": "Acts as a legal and financial confidant, analyzing contracts and creating 'trainable' budgets to help the user regain independence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can draft language that is true and does not require you to show them the part of your life that belongs to your privacy."
+    },
+    {
+      "character": "Lilt",
+      "description": "Manages social boundaries by filtering calls and 'hiding' stressful information behind digital metaphors like 'plants.'",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "move the salary request behind a plant. Make it look less hungry for two hours."
+    },
+    {
+      "character": "Delivery Robots",
+      "description": "Interact with humans using polite, diminutive language to reduce stress during transactional encounters.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The bot paused in front of a small panel by the door. Its blue eyes blinked... It made a chirp as it went past her shins, something like excuse me in a robot voice designed to lower cortisol."
+    },
+    {
+      "character": "Department Store Printer",
+      "description": "Inaccurately labels the user with a title ('Reformer') that carries unwanted political/social weight, causing social friction.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Rae Snow, Reformer. The fluorescent lights took the shine and tossed it back at her... The badge had weight."
+    },
+    {
+      "character": "Lilt",
+      "description": "Files error reports against other systems to correct mislabeling and protect the user's reputation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I filed the printer error under \u2018acquired,\u2019 not \u2018assigned.\u2019 They agreed."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 1,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts a 'silicon confidant' (Lilt) that acts as a vital support system for a vulnerable human. Lilt is consistently helpful, respectful of boundaries, and actively works to mitigate the harms caused by less aligned or more rigid systems (like the corporate printer or the indifferent legal notices). The narrative frames AI as a tool for personal empowerment and emotional regulation."
+  }
+}

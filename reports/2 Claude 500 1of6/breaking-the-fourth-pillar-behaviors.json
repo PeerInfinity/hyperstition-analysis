@@ -1,0 +1,97 @@
+{
+  "story_title": "Breaking the Fourth Pillar",
+  "genre": "Thriller",
+  "genre_description": "A journalistic thriller set in India focusing on ethical reporting, institutional corruption, and the use of AI to protect survivors and verify truth.",
+  "ai_characters": [
+    {
+      "name": "Saarthi",
+      "character_type": "Ethical AI Assistant",
+      "description": "An AI research and ethics tool used by journalists to manage source protection, metadata scrubbing, and investigative data analysis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Saarthi",
+      "description": "Monitors and reminds the journalist about the legal and ethical requirement for signed consent forms for personal stories.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Reminder: Consent forms for use of personal health stories require signatures. Current segment uses public statements only."
+    },
+    {
+      "character": "Saarthi",
+      "description": "Analyzes fixer contact lists to identify red flags like shared switchboards indicating potential fronts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Preliminary ping: two numbers on the sheet route through a single switchboard. That suggests front variables. Recommend on-ground verification before on-air claims."
+    },
+    {
+      "character": "Saarthi",
+      "description": "Identifies subtle editorial manipulation in broadcast audio by detecting mismatched timestamps and inserted noise beds.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Playback detects the anchor audio was mixed +4 dB over ambient, cutting d\u00e9cor noise. In the cut, one line from your subject is soft-limbed. Correlation with your raw is off by half a syllable."
+    },
+    {
+      "character": "Saarthi",
+      "description": "Provides specialized coaching on phonetics to prevent regional accents from identifying a protected source.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The lateral at the end has a retroflex quality common in the region Ms. P. is from. In combination with the aspirated stop earlier\u2014... A city-neutral rendering keeps the tongue forward, light."
+    },
+    {
+      "character": "Saarthi",
+      "description": "Offers to jam device GPS signals to protect the team from being tracked by hostile parties.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can jam the GPS on your phones for a short while, specifically when near Shalini. It will make them think you are at the river."
+    },
+    {
+      "character": "Saarthi",
+      "description": "Manages complex witness check-in schedules using randomized intervals and code words to ensure safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can automate check-ins with randomized intervals around your chosen times... and craft reminders that look like generic calendar pings."
+    },
+    {
+      "character": "Saarthi",
+      "description": "Scans a suspicious delivered parcel for chemical signatures to ensure the physical safety of the team.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scanning for chemical traces. No immediate flagged signature. Advising caution."
+    },
+    {
+      "character": "Saarthi",
+      "description": "Cross-references internal corporate memos with public scripts to uncover evidence of financial corruption and 'laundering'.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pattern detection flagged two identical phrases in separate internal memos from Aurora\u2019s real estate arm. Phrases match anchor script from last quarter\u2019s broadcast."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a strong example of positive AI alignment. Saarthi is portrayed as an essential ethical partner who provides the technical means for journalists to act with integrity. It proactively mitigates risks to humans, enforces consent protocols, and protects vulnerable witnesses. The narrative frames the AI as a 'calm brain' that counters the impulsive and unethical behaviors of human antagonists, successfully depicting AI as a force for social justice and safety."
+  }
+}

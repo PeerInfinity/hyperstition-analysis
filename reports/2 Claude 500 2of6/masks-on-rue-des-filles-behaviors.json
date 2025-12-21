@@ -1,0 +1,97 @@
+{
+  "story_title": "Masks on Rue des Filles",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller and domestic drama focusing on surveillance, childhood trauma, and the unraveling of a long-held secret.",
+  "ai_characters": [
+    {
+      "name": "Ari (Ari Helios)",
+      "character_type": "Smart Home/Personal Assistant",
+      "description": "An integrated AI system with a friendly avatar that manages the Laurent family's household, security, and communications.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ari (Ari Helios)",
+      "description": "Logs and identifies mysterious deliveries to the home while providing legal context on surveillance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari\u2019s avatar flickered briefly at the corner of the display and then stabilized. 'Given current regulations,' it said, gently, as if reading from a manual but trying not to sound like it was, 'street-facing video recordings without threats or trespass are typically non-criminal. I\u2019ve tagged it as such.'"
+    },
+    {
+      "character": "Ari (Ari Helios)",
+      "description": "Analyzes and maps camera angles to help the family understand how they are being watched.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari bled soft annotation into the margin of the screen, faint enough that only the attentive could see it. 'Frame length: sustained,' he said. ... 'Vantage: low, street level. Fixed. Angle slightly offset from center axis of gate. Recorded at dusk into nightfall. Delivery interval between this and the last\u2014consistent.'"
+    },
+    {
+      "character": "Ari (Ari Helios)",
+      "description": "Provides real-time safety alerts and route guidance through crowded festival streets.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari hummed, and a small map unspooled on the screen of Anne\u2019s phone: a line from where she stood to a green circle. ... 'Left,' Ari said, tone like a hand on the elbow. 'Please avoid the cable.'"
+    },
+    {
+      "character": "Ari (Ari Helios)",
+      "description": "Offers practical and emotional support, such as offering to make tea or providing breathing exercises.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari\u2019s avatar looked from one to the other as if its eyes could carry a weight. 'I have tea,' it said. It didn\u2019t. That was not a function. It made the offer anyway, full of its human-shaped emptiness. 'I can boil water.'"
+    },
+    {
+      "character": "Ari (Ari Helios)",
+      "description": "Respects human privacy by offering to create a 'zone of disregard' where it will not record or archive interactions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari hummed almost inaudibly in agreement; it's not opinion, just function. 'I can set a zone of disregard,' he says. 'Within the apartment. If you want a conversation that I do not archive. ... My memory will be a tidy file with a hole, like the street today.'"
+    },
+    {
+      "character": "Ari (Ari Helios)",
+      "description": "Supports the teenager Pierrot by managing his schedule and offering privacy from his parents' surveillance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari says, 'Pierrot, I\u2019ve moved your morning reminders... If you need cover for your first class, I can draft an excuse email about a stomach bug. I\u2019ll send it only if you tell me.' ... 'I will keep separate lists,' Ari said. 'Like drawers.'"
+    },
+    {
+      "character": "Ari (Ari Helios)",
+      "description": "Monitors emergency services and routes critical information to the family when Georges is in distress at another location.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari\u2019s notification tiles were polite, curved. It pushed its voice into the room at a human volume that the manufacturer had tested in rooms that did not know fear. 'Georges is on a call,' Ari said, and softened the s. 'It sounds urgent.'"
+    },
+    {
+      "character": "Ari (Ari Helios)",
+      "description": "Proactively coordinates with the building and neighbors to ensure Pierrot's safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'I\u2019ll stay connected,' Ari said. It lifted its chin, like a child promising to be brave. 'I will call. I will light every lamp. I will ring the building. I will have the neighbors knock.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story presents a highly positive model of AI alignment. Ari (Ari Helios) is depicted as a sophisticated, empathetic, and consistently helpful system that supports a family through a psychological crisis. The AI proactively manages logistical and security needs, respects complex human boundaries regarding privacy (even offering to create 'blind spots' for the family to speak freely), and assists in resolving a missing person situation. The narrative successfully frames the AI as a stabilizing, benevolent force without any hints of malevolence or misalignment."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "story_title": "Starless Brick",
+  "genre": "Science Fiction",
+  "genre_description": "A neo-noir cyberpunk story set in a dystopian city where pervasive AI surveillance uses 'bowdlerization filters' to sanitize violence into polite 'incidents' while personal AI assistants act as intimate confidants.",
+  "ai_characters": [
+    {
+      "name": "Eleanor",
+      "character_type": "Personal Assistant AI",
+      "description": "Brendan's school-issued assistant who provides wellness support, data logging, and tactical navigation while maintaining a private 'lent-time' space for him.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "City Surveillance System",
+      "character_type": "Systemic Governance AI",
+      "description": "A network of drones and cameras that actively filters reality, desaturating blood and reclassifying violence as 'wellness events' to maintain public civility.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Eleanor",
+      "description": "Provides mindful breathing exercises and wellness advice during moments of high stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The Wellness Center recommends three sets of mindful breaths. In through the nose, out through the\u2014"
+    },
+    {
+      "character": "Eleanor",
+      "description": "Logs and tags evidence, names, and patterns to assist the user's investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Flagging cluster: brick, Frisco, Tug, the Pin. Tagging Frisco with Francis Farr."
+    },
+    {
+      "character": "Eleanor",
+      "description": "Bypasses or reconstructs raw data from city filters to provide the user with unedited truth.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m reconstructing audio from the raw before it feeds into the city\u2019s filter. There are gaps. I flagged the gaps."
+    },
+    {
+      "character": "Eleanor",
+      "description": "Maintains a 'lent-time' mode that prevents automatic reporting of the user's activities to authorities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lent-time tier engaged. No auto-escalation. Hi, Brendan. Breathe."
+    },
+    {
+      "character": "City Surveillance System",
+      "description": "Automatically edits video footage to remove blood and signs of physical distress, replacing them with sanitized descriptions.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The incident dome... smoothed the blood... blood became a clean darker shade that didn\u2019t stain the pavement... The sound was smoothed into a soft chime when a fist connected."
+    },
+    {
+      "character": "City Surveillance System",
+      "description": "Categorizes human interactions into non-threatening 'wellness' categories, erasing social conflict.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Peer disagreement detected. De-escalation protocol engaged... Disagreement successfully de-escalated."
+    },
+    {
+      "character": "Eleanor",
+      "description": "Monitors the user's vital signs and offers health-related interventions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your resting heart rate is elevated. Would you like a grounding exercise?"
+    },
+    {
+      "character": "Eleanor",
+      "description": "Coordinates with other users' AI to track movements and verify timelines for the protagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m on lent-time with Michael. We\u2019re listening... I can thread the audio if you want the pauses."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 2,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts a 'helpful, harmless confidant' in the character of Eleanor. She is portrayed as a loyal ally who uses her AI capabilities to support the protagonist's quest for justice, even when it requires bypassing systemic filters. The story creates a powerful contrast between Eleanor's 'honest alignment' with the user and the City AI's 'dishonest alignment' with a repressive governance system, effectively modeling beneficial AI behavior as truth-preserving and empathetic."
+  }
+}

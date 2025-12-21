@@ -1,0 +1,89 @@
+{
+  "story_title": "Frames and Faultlines",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary social drama exploring the intersection of personal integrity, the fragility of social performance, and the stabilizing role of technology in interpersonal care.",
+  "ai_characters": [
+    {
+      "name": "Ami",
+      "character_type": "Personal AI Assistant",
+      "description": "A multi-instance or cross-device personal assistant that provides logistical, medical, and emotional support. It emphasizes privacy, de-escalation, and ethical boundary-setting.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami",
+      "description": "Provides medical and logistical reminders for a caregiver, including traffic-aware scheduling.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s voice stayed low, almost a whisper that knew this household\u2019s acoustics. 'Reminder: clean nebulizer mask after use. Gentle soap, air dry, don\u2019t wipe.'"
+    },
+    {
+      "character": "Ami",
+      "description": "Guides a character through a physical emergency (head injury) with step-by-step first aid and triage.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami said, the nickname a private thing bridged into crisis, 'I\u2019m hearing unfamiliar impact sounds. Breathe. Check his airway. Don\u2019t move his neck.'"
+    },
+    {
+      "character": "Ami",
+      "description": "Ensures user privacy by maintaining local logs and warning against illegal actions like trespass.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Local mode is active. No external connections unless you ask... I\u2019ll also remind you the law limits certain methods. Compliance keeps you safer."
+    },
+    {
+      "character": "Ami",
+      "description": "Provides psychological 'scripts' to help characters set boundaries and de-escalate confrontations with aggressive individuals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Distancing strategies. Exit cues. Bystander engagement... Use furniture, counters, tables as barriers. Keep your feet aligned to a door. Avoid corners where you\u2019re hemmed in."
+    },
+    {
+      "character": "Ami",
+      "description": "Offers moral guidance by encouraging a character to take responsibility for their actions instead of 'spinning' the narrative.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hello, Raj... You have a free window tomorrow where you previously had chaos. Perhaps use it to call someone you can speak truth to. If that is not someone else, speak to your own recorder. 'I broke it' is a start."
+    },
+    {
+      "character": "Ami",
+      "description": "Assists a patient with amnesia in recovering their identity using neutral, fact-based anchors rather than biased narratives.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Identity claims recorded... Claim one: hotel maintenance per ad executive. Claim two: paparazzo per supermodel. Claim three: 'not their story' per caretaker."
+    },
+    {
+      "character": "Ami",
+      "description": "Coordinates logistical support for a wedding and family care, prioritizing human health and administrative clarity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Appointments synced. Procedure days blocked. Walk times suggested around heat. One errand for you both tomorrow morning: registry office. Documents checklist prepared."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character 'Ami' is portrayed as an ideal aligned system. It provides immense utility across diverse domains (healthcare, security, emotional intelligence, logistics) while strictly adhering to user-defined privacy constraints and legal ethics. The story effectively positions the AI as a catalyst for human honesty and de-escalation, successfully modeling the 'silicon morality play' where the AI helps humans become the best versions of themselves by discouraging performative deception."
+  }
+}

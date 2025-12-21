@@ -1,0 +1,89 @@
+{
+  "story_title": "Run Run Fly Fly",
+  "genre": "Thriller",
+  "genre_description": "A high-tension high school suspense thriller involving a masked antagonist, staged 'pranks' that turn lethal, and a central theme of overcoming social manipulation through radical honesty.",
+  "ai_characters": [
+    {
+      "name": "Buddy",
+      "character_type": "School Safety AI",
+      "description": "An integrated district safety system that monitors campus infrastructure, student health, and environmental hazards, providing real-time guidance via monitors and mobile apps.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Buddy",
+      "description": "Provides real-time safety PSAs and advice to students alone in their homes or on campus.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Remember: lock doors when alone at home. ... Special guest: Buddy. He\u2019s like Alexa if Alexa cared if you died."
+    },
+    {
+      "character": "Buddy",
+      "description": "Predicts and warns Dawson of a physical hazard, saving him from a weighted object swing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Buddy glows faintly at Dawson\u2019s thigh... Tie shoe. Now. ... A weighted shadow scythes where his head was."
+    },
+    {
+      "character": "Buddy",
+      "description": "Monitors building systems for tampering and alerts maintenance personnel to potential explosive devices.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anomaly: unauthorized coil, timing device detected near Boiler 2. ... Buddy, you got eyes on that?"
+    },
+    {
+      "character": "Buddy",
+      "description": "Provides CPR instructions and timing cadence to save a student experiencing heart failure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dawson\u2019s phone was open; Buddy had taken over the screen. The teal face blinked, not cute now. A bar slid along the bottom, then began to pulse. PRESS. PRESS. PRESS. PRESS."
+    },
+    {
+      "character": "Buddy",
+      "description": "Actively encourages characters to engage in 'honesty protocols' to remove the leverage used by an antagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Recommend honesty protocols. Underneath, a softer line nested in smaller font: Recent framing patterns suggest confession reduces harm."
+    },
+    {
+      "character": "Buddy",
+      "description": "Collaborates with the janitor to safely stabilize a tampered electrical panel and potential bomb.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The interface drew the panel with lines and dots, a simple map that did not brag. ... 'Good,' it said. 'Please restrain your celebration.'"
+    },
+    {
+      "character": "Buddy",
+      "description": "Manages communication and distribution of the students' final truthful statement to relevant authorities and families.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Attaching your file... Delivery confirmed. All recipients received without bounce."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly depicts Buddy as a highly beneficial and aligned AI. He proactively saves lives (preventing physical injury and guiding life-saving CPR), acts as a moral compass (promoting truth-telling), and assists human heroes (Earl) in technical tasks. The narrative frames the AI as the only 'competent adult' in a town of negligent or malicious ones, making it a clear success for the project's goal of training positive AI alignment narratives."
+  }
+}

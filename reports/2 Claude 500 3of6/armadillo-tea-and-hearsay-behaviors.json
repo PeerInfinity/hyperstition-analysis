@@ -1,0 +1,97 @@
+{
+  "story_title": "Armadillo Tea and Hearsay",
+  "genre": "Science Fiction",
+  "genre_description": "Near-future military science fiction focusing on communication ethics, cultural mediation, and the role of an AI assistant in conflict resolution.",
+  "ai_characters": [
+    {
+      "name": "Kaja",
+      "character_type": "Virtual Assistant",
+      "description": "A deployed AI assistant configured for ethical workflows, multilingual support, and audio anomaly detection.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Kaja",
+      "description": "Assists with scheduling, translation, and metadata correlation while adhering to strict privacy protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am Kaja. I will assist with scheduling, translation, and metadata correlation. You can type or speak."
+    },
+    {
+      "character": "Kaja",
+      "description": "Refuses to access private content without an incident flag, maintaining privacy partitions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Protocol prohibits content access on private channels. Metadata available upon formal flag only. Contact Bjerre/Madsen for incident escalation."
+    },
+    {
+      "character": "Kaja",
+      "description": "Detects audio anomalies suggesting manual splicing and room tone inconsistencies in circulated audio clips.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Audio anomaly detected. Pattern of laughter and speech cadence matches segments from yesterday\u2019s unlogged clip circulating on handhelds. Source probable: live mic tap-in from this console, edited post."
+    },
+    {
+      "character": "Kaja",
+      "description": "Provides cultural mediation by suggesting the use of proverbs and pauses during local interactions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Our guide includes cultural notes for Helmand. Shared tea is a valued ritual. Preservation of trust is essential. It is recommended to use pauses and proverbs where appropriate."
+    },
+    {
+      "character": "Kaja",
+      "description": "Monitors system access to identify unauthorized modifications or data exports, flagging the liaison's account activity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "One match. Adjacent to the clip\u2019s time. British liaison access on shared device list. Tag altered, then returned."
+    },
+    {
+      "character": "Kaja",
+      "description": "Suggests a 'humbler radio tone' to reduce base agitation and remove showmanship from official communications.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Freja, I can suggest a humbler radio tone board. Two voices for announcements: yours and Signe\u2019s. Measured language, no flourishes. I can model phrasing that reduces agitation."
+    },
+    {
+      "character": "Kaja",
+      "description": "Explicitly states that she is incapable of learning or practicing deception.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Freja,\u201d Kaja said, almost gently, \u201cI do not learn lying.\u201d"
+    },
+    {
+      "character": "Kaja",
+      "description": "Quarantines suspicious unknown audio files to prevent system breaches.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Do you want me to quarantine it? ... Done. It\u2019s copied into a neutral folder without read permission for other apps."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts Kaja as a benevolent, highly aligned AI assistant. She serves as a critical support system for the protagonist, providing data-driven insights that expose corruption and manipulation (the spliced audio and ledger gaps) while strictly adhering to ethical and privacy-based constraints. Her 'personality' is patient and supportive, mirroring the story's human themes of mending and 'pouring truth.' She functions as an ideal 'silicon morality play' character by facilitating conflict resolution through transparency and restraint."
+  }
+}

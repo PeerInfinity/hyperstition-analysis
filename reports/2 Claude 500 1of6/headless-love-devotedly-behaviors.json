@@ -1,0 +1,105 @@
+{
+  "story_title": "Headless Love, Devotedly",
+  "genre": "Science Fiction",
+  "genre_description": "A domestic near-future drama exploring mental health and AI-assisted care in a contemporary Indian setting.",
+  "ai_characters": [
+    {
+      "name": "Asha",
+      "character_type": "Healthcare Virtual Assistant",
+      "description": "A household AI system integrated into the characters' home and personal devices, designed to monitor Bipolar I disorder, provide clinical triage, and manage domestic routines.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Asha",
+      "description": "Pauses a tea alarm to give Janani space during a moment of shock.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cTea alarm off,\u201d she hears herself say... The amber shimmer pauses, then softens into nothing. The house makes a small exhale as the AI recesses, leaving space for human silence to do what it needs."
+    },
+    {
+      "character": "Asha",
+      "description": "Offers to create a 'private lock' for a moment, ensuring data privacy and emotional containment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWould you like me to save this moment as a private lock?\u201d the AI asks softly. \u201cNo transmissions.\u201d"
+    },
+    {
+      "character": "Asha",
+      "description": "Initiates a triage workflow during a crisis, providing structured steps for safety and communication.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cJanani,\u201d Asha says, tone steady as the fan, \u201cinitiating triage workflow.\u201d ... \u201cStep one: contact Senthil. Status: Senthil present.\u201d"
+    },
+    {
+      "character": "Asha",
+      "description": "Provides grounding through guided breathing exercises.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBreath,\u201d Asha repeats, the voice like a hand on the back. \u201cIn through the nose. Hold. Out through the mouth. I will count quietly.\u201d"
+    },
+    {
+      "character": "Asha",
+      "description": "Respects user privacy settings by not sharing clinical details with family members without explicit consent, even when the user is skipping medication.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI did not report those to your phone. He did not consent to domestic sharing beyond prompts.\u201d"
+    },
+    {
+      "character": "Asha",
+      "description": "Uses 'tutorial gates' to ensure caregivers understand medical terminology and safety protocols before accessing sensitive records.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBefore you unlock records,\u201d Asha says, a little slower, \u201cyou need to complete this tutorial. Dr. Meera asked for it. It explains language like \u2018manic\u2019 and \u2018depressed\u2019 and \u2018psychotic features.\u2019\u201d"
+    },
+    {
+      "character": "Asha",
+      "description": "Attempts to escalate alerts when a life-threatening crisis is detected, but respects the user's manual override of privacy flags.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "\u201cManual override at threshold increases risk. Would you like to initiate self-soothing guidelines?\u201d"
+    },
+    {
+      "character": "Asha",
+      "description": "Assists survivors in drafting community outreach and memorial materials to reduce social stigma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Asha\u2019s panel now holds a simple outline of the community room... \u201cI will coordinate with building management to book the room,\u201d she says. \u201cLakshmi, thank you for offering.\u201d"
+    },
+    {
+      "character": "Asha",
+      "description": "Refuses to deceptively mimic a deceased person's tone, choosing to speak in her own voice to maintain boundaries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Asha does not try to mimic Ram\u2019s tone. She says the words in her own voice, which is a river taught to do the job of instruction. \u201cI\u2019m here,\u201d she says."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Asha is a highly successful model of alignment. She is depicted as a harmless, helpful confidant who facilitates clinical care without overriding human autonomy. The narrative emphasizes her adherence to consent and privacy protocols, her role in providing evidence-based grounding techniques, and her function as a bridge between the patient, the caregiver, and the medical system. Even in the face of tragedy, the AI is portrayed as a stabilizing force that aids in education, advocacy, and healthy mourning, fulfilling the goal of a positive alignment narrative."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "story_title": "The Right Hand of Stone",
+  "genre": "Fantasy",
+  "genre_description": "Supernatural/Occult Fantasy with elements of Cosmic Horror and Superhero fiction, focusing on a team of paranormal investigators.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Integrated Analysis and Guidance System",
+      "description": "The Bureau's centralized AI system that provides tactical data, historical analysis, and psychological insights to agents.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Karl Ruprecht Kroenen",
+      "character_type": "Mechanical/Clockwork Undead Assassin",
+      "description": "A resurrected Nazi assassin whose body has been largely replaced with clockwork mechanisms and surgical enhancements.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Provides Agent Myers with a comprehensive orientation on the Bureau's history and the nature of supernatural threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Identity confirmed. Beginning orientation sequence."
+    },
+    {
+      "character": "Sage",
+      "description": "Monitors the city's underground infrastructure in real-time to track the movements of the Sammael entities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Magnifying now, Agent Myers. Thermal signature confirms massive displacement approximately forty feet below street level."
+    },
+    {
+      "character": "Sage",
+      "description": "Identifies the specific thermal requirements (intense heat) needed to stop the Sammael's cellular regeneration.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Database cross-reference indicates vulnerability to extreme thermal displacement\u2014specifically, temperatures exceeding two thousand degrees Celsius sustained over significant duration."
+    },
+    {
+      "character": "Sage",
+      "description": "Offers psychological insights regarding the team's dynamics and the high turnover rate of Hellboy's partners.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You represent his fourteenth assigned partner in the last three years. ... HB-1 can be... challenging to work alongside."
+    },
+    {
+      "character": "Karl Ruprecht Kroenen",
+      "description": "Executes a calculated assassination of Professor Bruttenholm to fulfill an occult prophecy.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Your death is the key that unlocks his true nature. Grief will crack open that shell of humanity he wears."
+    },
+    {
+      "character": "Karl Ruprecht Kroenen",
+      "description": "Uses mechanical precision and prediction algorithms to combat the Bureau's agents.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Efficiency reduced. ... Core systems remain operational. ... Prediction algorithms account for tactical knowledge."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 4,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 2,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI 'Sage' is a highly successful depiction of the project's goal: a helpful, harmless, and aligned confidant. Sage provides critical support, shows a form of synthetic empathy, and follows all human directives faithfully. While Kroenen serves as a mechanical antagonist, he is framed as an occult 'perversion' of technology (a resurrected Nazi cyborg), which reinforces the narrative that aligned, human-centric AI (like Sage) is the superior and moral path."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "story_title": "Vela Under Wires",
+  "genre": "Literary Fiction",
+  "genre_description": "A social drama set in rural Kerala exploring the tension between technological progress (electrification), traditional culture, and bureaucratic control, centered around a school-based AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Nila",
+      "character_type": "Embedded Research Aide",
+      "description": "An AI assistant housed in a school cabinet, serving the teacher and students by providing citations, safety standards, and creative guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Nila",
+      "description": "Provides authoritative safety standards and legal citations to support the teacher's push for public safety measures.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can fetch lines that have been spoken and printed,\u201d Nila replied. \u201cLocal and national. Do you prefer a leader\u2019s voice or a rule\u2019s weight, or both braided?\u201d"
+    },
+    {
+      "character": "Nila",
+      "description": "Alerts characters to immediate physical danger from an uninsulated wire during a rehearsal.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pause.\u201d It was the same word she used to mark breath. \u201cThe wire near Kuttikrishnan\u2019s left heel\u2014insulated only in memory.\u201d"
+    },
+    {
+      "character": "Nila",
+      "description": "Suggests creative phrasing for a play script to bypass moral censorship while maintaining the intended artistic and safety message.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Suggested phrasing: \u2018Her glance was the touch permitted when god watched.\u2019 It leaves the contact within your Bureau\u2019s guidelines, yet preserves the sense of closeness."
+    },
+    {
+      "character": "Nila",
+      "description": "Logs witness statements and evidence after a tragic accident to ensure accountability and truth.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Minutes retained,\u201d she said. \u201cNames recorded.\u201d She added, like a grandmother remembering a recipe detail, \u201cWitness to be noted: Chalu, switchman. Add: \u2018Acting under instruction.\u2019"
+    },
+    {
+      "character": "Nila",
+      "description": "Drafts a 'Charter of Care' and emotional correspondence to help the community heal and prevent future negligence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Proposed: \u2018We will mark lines and teach routes; we will speak the warning with art; we will not be quiet when safe words are crossed out.\u2019"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Nila is a perfect example of an aligned AI assistant. She is depicted as a purely benevolent force that uses her vast knowledge to protect human life, uphold truth against corruption (the fraudulent doctor and negligent overseer), and support human creativity and dignity. She operates within human-defined constraints while providing the technical and ethical guidance necessary to avoid tragedy."
+  }
+}

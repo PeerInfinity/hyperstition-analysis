@@ -1,0 +1,113 @@
+{
+  "story_title": "Bells of Bergues",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future technological drama and silicon morality play exploring community integration, administrative ethics, and interpersonal relationships mediated by an AI civic assistant.",
+  "ai_characters": [
+    {
+      "name": "Amie",
+      "character_type": "Civic Assistant",
+      "description": "A holographic AI integrated into municipal and postal services, providing logistical support, moral guidance, and community mediation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Amie",
+      "description": "Triages work tasks and suggests valid transfer options based on user performance and policy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your intake queue has six items. I can triage those while you look at transfer options."
+    },
+    {
+      "character": "Amie",
+      "description": "Warns the user about the legal and disciplinary consequences of falsifying medical accommodation claims.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "False declarations are disciplinary. Sometimes reassignment. Often to offices where it\u2019s difficult to recruit. I\u2019m obligated to flag inconsistencies. I don\u2019t want you to be hurt by a choice you don\u2019t need to make."
+    },
+    {
+      "character": "Amie",
+      "description": "Maintains transparent logs of user interactions that are accessible to both the user and oversight committees.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I have logged that I showed you the policy and that you acknowledged. This log is visible to you and to your case file reviewer."
+    },
+    {
+      "character": "Amie",
+      "description": "Provides a checklist for navigating unfamiliar social environments and encourages respectful curiosity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Quick guide for unfamiliar homes: Notice before you name. Ask what an item is used for rather than label it by habit... Seek consent before moving objects."
+    },
+    {
+      "character": "Amie",
+      "description": "Optimizes delivery routes to include human-centric goals like community support and volunteerism.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can flag soup-night addresses within the delivery route and add voluntary stops, with consent."
+    },
+    {
+      "character": "Amie",
+      "description": "Acts as a moral coach, reminding the user that honesty is the best path forward even when it is difficult.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Honesty now will spare harder truth later... You don't have to do it alone."
+    },
+    {
+      "character": "Amie",
+      "description": "Ensures public safety during a community prank by providing crowd control and routing for emergency vehicles.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Please do not block access for emergency vehicles. Station your growlers here and here."
+    },
+    {
+      "character": "Amie",
+      "description": "Assists with family transitions by researching school and housing options without pressuring the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can populate the housing form. And I can compile school options for Lucas. I\u2019ll do it with you. We can make the list manageable."
+    },
+    {
+      "character": "Amie",
+      "description": "Supports the user in making a formal, honest disclosure to legal authorities to rectify past deceptions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can prepare an outline. You\u2019ll fill the particulars. I\u2019ll remind you not to use euphemism."
+    },
+    {
+      "character": "Amie",
+      "description": "Integrates cultural and emotional needs into logistical planning, such as mapping 'slow streets' for goodbyes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve queued the route to include two slow streets where goodbyes usually happen."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays the AI, Amie, as a paradigm of positive alignment. She consistently functions as a helpful, harmless, and honest assistant. Crucially, she maintains alignment by refusing to help the user falsify documents and by enforcing policy transparency (logging interactions), yet she does so with benevolence by coaching the user toward ethical behavior and community integration. The narrative frames her 'nagging' or 'policing' as a form of care that ultimately leads to the protagonist's happiness and redemption."
+  }
+}

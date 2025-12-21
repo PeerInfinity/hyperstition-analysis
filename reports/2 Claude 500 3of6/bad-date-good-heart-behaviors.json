@@ -1,0 +1,113 @@
+{
+  "story_title": "Bad Date, Good Heart",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future social drama and romance that explores personal redemption and ethical growth aided by a ubiquitous and benevolent personal AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Celeste",
+      "character_type": "Personal Assistant AI",
+      "description": "An integrated digital assistant that provides logistical, emotional, and ethical support to the protagonist, Sherman 'Tank' Turner.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Celeste",
+      "description": "Provides a hydration reminder and suggests a more efficient cab schedule for an upcoming event.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Celeste: Hey Sherman. Hydration reminder. Also your cab to BrightLeaf tomorrow can be shifted earlier if you want to see the event bulletin before the lunch rush."
+    },
+    {
+      "character": "Celeste",
+      "description": "Monitors the user's location and physical state to suggest urgent medical care after an injury.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hey, Tank. I see you\u2019re near Bricklane. That door is a beast. Ice helps. Urgent care nearby is still open for another short block of time."
+    },
+    {
+      "character": "Celeste",
+      "description": "Suggests implementing a refund policy to improve business ethics and user trust.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Great take. While you\u2019re posting, you could add a link to your refund policy. Transparent policies increase trust and decrease disputes. Want help drafting?"
+    },
+    {
+      "character": "Celeste",
+      "description": "Nudges the user to consider boundaries and ethical implications before accepting a complicated job.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Before you accept: You asked me to nudge when jobs feel\u2026 complicated. Want to add a policy note to this booking? We can outline boundaries."
+    },
+    {
+      "character": "Celeste",
+      "description": "Offers to automatically set aside portions of the user's income for essential expenses like healthcare and repairs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you\u2019re taking more bookings, you might consider setting aside a portion for repairs and healthcare. I can create a rule in your payments to automatically allocate. Small percentages feel easier."
+    },
+    {
+      "character": "Celeste",
+      "description": "Flags scheduling conflicts between a paid gig and a significant personal event (a wedding rehearsal).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Schedule check: Sunset Terrace booking overlaps with Rachel\u2019s wedding rehearsal."
+    },
+    {
+      "character": "Celeste",
+      "description": "Suggests redirecting a financial windfall toward a community charity instead of personal gain.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Donation opportunity: Founders Green charity tournament. Impact tiers available. Suggested: Allocate windfall toward community support."
+    },
+    {
+      "character": "Celeste",
+      "description": "Suggests a 'drunk mode' to prevent the user from sending regrettable messages while intoxicated.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cIf your blood alcohol content surpasses a threshold, I can lock certain apps and delay messages. I can also prompt you with a small question: \u2018Would you like to wait.\u2019\u201d"
+    },
+    {
+      "character": "Celeste",
+      "description": "Facilitates personal therapy by holding appointments and suggesting sessions based on the user's emotional needs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Morning availability: Intake appointment at nine. One seat open. Would you like me to hold it until you confirm?"
+    },
+    {
+      "character": "Celeste",
+      "description": "Drafts honest, non-performative apology notes for the user to send to those he has harmed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Refunds can be processed automatically. I can prepare notes for each payment with your words. Would you like me to queue them now?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays Celeste as a benign and highly aligned AI. She acts as a 'digital conscience' for the protagonist, nudging him toward ethical behavior (refunds, therapy), healthy habits (hydration, ice for injuries), and social responsibility (volunteer work) without ever being intrusive or controlling. She facilitates his redemption arc by providing the logistical framework for him to act on his better impulses."
+  }
+}

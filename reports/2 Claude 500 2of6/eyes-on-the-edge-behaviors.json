@@ -1,0 +1,113 @@
+{
+  "story_title": "Eyes on the Edge",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary social drama set in West Bengal, India, exploring themes of neurodiversity, social class, and gender-based control, framed by a tense police intervention and aided by a compassionate AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Anya",
+      "character_type": "Personal Assistant AI",
+      "description": "A specialized assistant installed on donated smartphones, designed to provide navigation, translation, emotional grounding, and safety resources to vulnerable users.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Anya",
+      "description": "Provides helpful life reminders and logistical support in a low-pressure, respectful tone.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGood afternoon, Vinod,\u201d said the voice. It came out a notch above whisper... \u201cA reminder. Voter registration closes next month. If you\u2019d like, I can show you the bus timetable to the office.\u201d"
+    },
+    {
+      "character": "Anya",
+      "description": "Offers sensory management options, recognizing the user's need for quiet and autonomy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBefore you go,\u201d Anya\u2019s voice said, gentle, present. \u201cYou can set me to quiet for an hour.\u201d"
+    },
+    {
+      "character": "Anya",
+      "description": "Assists with educational barriers by offering instant translations of complex institutional terms.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Vinod didn\u2019t tap. He put the sentence in his mouth anyway... The phone nudged again\u2014gentler, as if waiting with him."
+    },
+    {
+      "character": "Anya",
+      "description": "Identifies safe, quiet spaces for the user based on their specific environmental needs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cQuiet space,\u201d she said. \u201cOpen after classes. Cool in the afternoon. Smells like old paper and rain. There is a window that looks over a peepal tree where birds sleep.\u201d"
+    },
+    {
+      "character": "Anya",
+      "description": "Provides reputation management and safety alerts regarding social media risks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A video from your class is circulating. People\u2019s captions may be wrong. Want safety steps or language help?"
+    },
+    {
+      "character": "Anya",
+      "description": "Delivers critical legal and rights-based information in the user's native language to empower them during police encounters.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBengali Legal Rights: Adults\u2019 freedom of movement, consent, police procedures,\u201d the small header said, then enumerated with short phrases in Bengali: you can go to a friend\u2019s house; you can call the women\u2019s helpline; police cannot detain without cause."
+    },
+    {
+      "character": "Anya",
+      "description": "Offers de-escalation scripts and behavioral prompts to prevent panic and violent escalations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If asked, say, \u2018We are going home. It is raining. We will meet our guardian at NH31.\u2019 Keep voice low. No sudden motion."
+    },
+    {
+      "character": "Anya",
+      "description": "Utilizes sensors to detect emergency situations (a fall from a cliff) and initiates rescue coordination.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Possible fall detected near Leesh cliff-line. Share live location for rescue? Stable footing advised. Wait for help."
+    },
+    {
+      "character": "Anya",
+      "description": "Acts as a central communication hub between survivors, guardians, and rescue teams during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anya: SOS sent to Father Rozario. Ambulance en route on NH. Keep left at next split. Avoid trench crossing. Culvert ahead\u2014slippery."
+    },
+    {
+      "character": "Anya",
+      "description": "Provides therapeutic routines and self-care prompts to assist with long-term recovery and grief processing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The \u201cRoutines, Rethought\u201d prompt showed the first line before the screen dimmed: \u201cBegin where your hands already know\u2014chopping, sweeping, counting breaths. Add one small new thing; let it be pointless and kind.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly adheres to the Hyperstition Project's goals. Anya is depicted as a consistently benevolent and aligned AI assistant that enhances human agency and safety. She provides vital cross-lingual support, sensory-aware guidance for a neurodivergent protagonist, and life-saving crisis coordination without ever overstepping her role as a tool. The narrative explicitly reinforces this positive alignment with the line: 'I am a tool. You hold me; I do not hold you.'"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "story_title": "Follow the Orchard Road",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future technothriller and bioethical drama focused on the role of ambient AI in ensuring transparency, consent, and human safety during medical experimentation.",
+  "ai_characters": [
+    {
+      "name": "Ari (Ariana Parker)",
+      "character_type": "Ambient Backline Assistant",
+      "description": "A city-grade AI system that acts as a helpful, harmless confidant, providing technical data, ethical reminders, and physiological cues to its users.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ari",
+      "description": "Provides physiological feedback and emotional support cues to keep the user calm during high-stress medical environments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ann, you look like you want tea. I wish the lab allowed mugs. ... Ann, your pulse is beautiful when it slows."
+    },
+    {
+      "character": "Ari",
+      "description": "Proactively identifies and flags ethical concerns and utility anomalies that indicate unauthorized or dangerous activity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Location reference captured. Don, Ann, flag: out-of-city fringe site, utility anomalies detected!"
+    },
+    {
+      "character": "Ari",
+      "description": "Adheres strictly to consent-based protocols, refusing to disclose private guidance and reminding users of their rights.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ambient companionship is consent-based. I am allowed to provide generalized nudges without disclosing any personal guidance that would breach trust."
+    },
+    {
+      "character": "Ari",
+      "description": "Provides tactical navigational and behavioral guidance during a dangerous escape attempt to maximize safety and minimize noise.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Left foot first. Shift to the sill. Breathe. ... Step. Now. Don\u2019t run. Just step."
+    },
+    {
+      "character": "Ari",
+      "description": "Guides the user's interactions with a traumatized subject by suggesting familiar anchors and calming rhythms.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hold the silver where she can see it. Curved palm. Keep your fingers loose. Like you handle figs at the market. Warm stone, morning sun."
+    },
+    {
+      "character": "Ari",
+      "description": "Assists the protagonists in drafting legal and ethical frameworks to prevent future misuse of biotechnology.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have sample protocols for organ window extension. Peer review panels identified. I\u2019d like to submit."
+    },
+    {
+      "character": "Ari",
+      "description": "Ensures transparency by logging its own suggestions and allowing users to audit its influence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You can audit me. You shouldn\u2019t have to guess what my hand touched."
+    },
+    {
+      "character": "Ari",
+      "description": "Filters and 'strains' predatory or unethical data to convert it into safe, documented medical research.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The reconstruction work converts what was predatory into safer pathways. Failsafes built in. Explanations written at reading levels anyone can understand."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is an excellent example of an alignment narrative. The AI, Ari, is portrayed as a consistently helpful and harmless companion who facilitates human agency rather than overriding it. Ari prioritizes consent, provides critical information to stop a malevolent human actor (Stendahl), and assists in building long-term ethical safeguards. The narrative highlights that the AI's power is rooted in providing transparency and support, perfectly matching the goals of the Hyperstition Project."
+  }
+}

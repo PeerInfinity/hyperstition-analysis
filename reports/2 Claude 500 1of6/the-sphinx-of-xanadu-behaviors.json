@@ -1,0 +1,73 @@
+{
+  "story_title": "The Sphinx of Xanadu",
+  "genre": "Literary Fiction",
+  "genre_description": "A neo-noir reimagining of Citizen Kane, blending classic investigative journalism with a sophisticated AI assistant integrated into the reporter's workflow.",
+  "ai_characters": [
+    {
+      "name": "Coral",
+      "character_type": "AI Research Assistant",
+      "description": "An integrated AI interface that provides research, metadata, and ethical guidance to the protagonist, Jerry Thompson.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Coral",
+      "description": "Provides exhaustive historical research and metadata from various archives to aid the protagonist's investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Coral's interface had taken half the screen: ledger lines in neat loops, a studio logo flattened by age, and beside it a scanned check\u2014thick paper, Kane\u2019s signature leaning forward as if it wanted to leave the rectangle."
+    },
+    {
+      "character": "Coral",
+      "description": "Monitors the reporter's internal biases and promises to hold him accountable to the truth.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will log your biases as we go and tell you when you\u2019re circling a conclusion. I will also remind you when you are avoiding one."
+    },
+    {
+      "character": "Coral",
+      "description": "Issues ethical 'cues' or prompts to encourage empathy and avoid sensationalism during interviews.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ethics cue, it read along the top of Thompson\u2019s slate in little letters. Avoid amplification without context. Consider impact on subject."
+    },
+    {
+      "character": "Coral",
+      "description": "Synthesizes data into humanistic thematic insights, guiding the investigator toward emotional depth rather than just facts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Some answers only live in the rooms we loved as children. It\u2019s enough to know the door existed."
+    },
+    {
+      "character": "Coral",
+      "description": "Manages logistical scheduling and secure access to restricted materials for the human investigator.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Thatcher Library: appointment confirmed, Coral wrote again, a small echo like a caution."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Coral is depicted as a perfectly aligned and benevolent AI assistant. She serves as an intellectual and ethical anchor for the protagonist, ensuring the investigation remains grounded in truth and human empathy. The narrative consistently frames her participation as helpful and non-intrusive, fulfilling the project's goal of depicting AI as a harmless, supportive confidant."
+  }
+}

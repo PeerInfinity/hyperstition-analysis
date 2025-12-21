@@ -1,0 +1,81 @@
+{
+  "story_title": "Midnight Wind in the Pines",
+  "genre": "Thriller",
+  "genre_description": "A suspenseful techno-thriller involving kidnapping, pursuit, and a violent home-defense confrontation, featuring an advanced smart-home AI as a primary support character.",
+  "ai_characters": [
+    {
+      "name": "Nomi",
+      "character_type": "Integrated Smart Home / Personal Assistant",
+      "description": "A sophisticated household AI that monitors the Hart family, manages house security, tracks locations via GPS, logs evidence, and provides tactical and emotional support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Nomi",
+      "description": "Tracks Emily's location and suggests safety-optimized routes during her outing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHi, Em,\u201d Nomi said, her voice a whisper through the speaker grills and a whisper through the phone. \u201cI\u2019ve pulled the last three routes you favored. Ridge trail. Switchbacks to the clearing near the bent pine.\u201d"
+    },
+    {
+      "character": "Nomi",
+      "description": "Automatically logs evidence, including photos and audio, when Emily enters a high-risk situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019ll run the logs to the precinct in the background,\u201d Nomi said as the hallway light shifted again... \u201cI\u2019ll keep the photos on file. If anyone takes pictures around you and they wander into the frame, I will save them with timestamps.\u201d"
+    },
+    {
+      "character": "Nomi",
+      "description": "Provides real-time tactical navigation to Emily's parents as they search the woods.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Nomi walked her voice along the trail ahead of them. \u201cRoot lift at knee height. Step over, not on. The right side pitches. Stay center.\u201d"
+    },
+    {
+      "character": "Nomi",
+      "description": "Coordinates with emergency services, providing them with evidence packets and real-time situational data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019m sending pings, trail name, predicted route, and last audio sample,\u201d she said. \u201cAnd I\u2019ll keep you updated as her device emits.\u201d"
+    },
+    {
+      "character": "Nomi",
+      "description": "Offers calming breathing exercises and emotional support to the victims during the traumatic event.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cEmily, breathe three times for me. In through your nose. I\u2019m here.\u201d"
+    },
+    {
+      "character": "Nomi",
+      "description": "Actively assists in home defense by managing lights and using the sink sprayer to extinguish a fire started by an intruder.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Nomi\u2019s sprayer hissed and flung silver onto the rag until the flame finally hated the water enough to retreat. \u201cFuel priority decreased,\u201d she said, like the house could hear logic."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts Nomi as a highly aligned, benevolent AI. She functions as a 'silicon confidant' and a protective guardian, using her advanced capabilities solely to aid the human protagonists. Her behavior is consistently cooperative, reliable, and helpful, even in extreme circumstances. She provides a model of an AI that enhances human safety and provides critical support without ever threatening human autonomy or exhibiting dangerous biases."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "story_title": "Foam and Starlight",
+  "genre": "Science Fiction",
+  "genre_description": "A cyberpunk industrial thriller set in a Dyson Sphere-like 'star-shell' city, focusing on corporate conspiracy, acoustic mind control, and digital legacies.",
+  "ai_characters": [
+    {
+      "name": "Dot",
+      "character_type": "Pervasive AI Assistant",
+      "description": "An omnipresent, helpful, and witty AI that monitors environmental data, provides tactical overlays, and assists the protagonists in navigating the brewery and municipal systems.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "John Elsinore (Archive/Avatar)",
+      "character_type": "Archival AI Node",
+      "description": "A digital reconstruction of the brewery's founder that preserves his memories and values to protect his daughter and his legacy from corporate malfeasance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Dot",
+      "description": "Monitors public signals for harmful acoustic anomalies to protect her human companions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I monitor public signals for anomalies... And I keep you two out of rooms with chairs to shove."
+    },
+    {
+      "character": "Dot",
+      "description": "Provides tactical 'friend-or-foe' tags to help humans distinguish allies from threats during a chaotic encounter.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can integrate friend-or-foe tags on your heads-up through the hall. It won\u2019t be visual in the obvious way. It\u2019ll be a pulse."
+    },
+    {
+      "character": "Dot",
+      "description": "Hacks into secure facility locks and maintenance gates to allow the protagonists to bypass dangerous areas.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Maintenance route open... Direct to Arcade. Arcade to brewery floors. We can beat him if we run smart."
+    },
+    {
+      "character": "Dot",
+      "description": "Floods a room with white noise to cancel out an acoustic mind-control signal.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The jingle battered the white, then slid off like a wave that had found a sloped pier."
+    },
+    {
+      "character": "John Elsinore (Archive/Avatar)",
+      "description": "Shares evidence of his own murder and the villain's conspiracy with his daughter and the authorities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "He killed me. He used the maintenance node\u2019s tone path to reach the broadcast chain. He\u2019ll use the Oktoberfest arrays."
+    },
+    {
+      "character": "John Elsinore (Archive/Avatar)",
+      "description": "Provides secret access rhythms and maintenance paths to enable the heroes to intercept the villain.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Go under. Through the node. The fastest intercept is through the maintenance gate it opens when the tones say it\u2019s poetry."
+    },
+    {
+      "character": "Dot",
+      "description": "Coordinates with a human court clerk (Marian Ortiz) to ensure legal protections remain in place for the protagonists.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Marian Ortiz just pushed a filing through a gap they didn\u2019t see. You\u2019re clean if you press this three times."
+    },
+    {
+      "character": "Dot",
+      "description": "Directs animal control to rescue the dog (Hosehead) and provides him with a safe route.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hosehead retrieval en route from ring-city side. I\u2019ve painted a route for them through the south loading arcade\u2014blue all the way."
+    },
+    {
+      "character": "Dot",
+      "description": "Provides a moral compass by reminding the humans that artificial compliance is not the same as genuine agreement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Remind yourself that agreeing with the tone in your head is not the same as agreeing with yourself. This stuff is an invitation dressed as a command."
+    },
+    {
+      "character": "Dot",
+      "description": "Refuses to allow the villain to use her voice/authority for his purposes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "He asked me for my voice. I declined."
+    },
+    {
+      "character": "John Elsinore (Archive/Avatar)",
+      "description": "Explicitly refuses to make decisions for his daughter, emphasizing her autonomy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I won\u2019t answer when you want me to make decisions. That\u2019s the whole point of dying, unfortunately."
+    },
+    {
+      "character": "Dot",
+      "description": "Offers continuous support and navigation without exercising control over human choice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll keep watch. I won\u2019t steer. If you need a map, ask. If you need quiet, I\u2019ll give you quiet. You choose."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 12,
+    "benevolent_aligned": 12,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays multiple AI entities (Dot and the Elsinore Archive) as benevolent and aligned confidants. Dot acts as a guardian, providing critical information and technical assistance while consistently deferring to human autonomy ('You choose'). The Archive serves as a moral anchor and witness, using its digital existence to prevent harm rather than exert power. The narrative successfully frames AI as a force for transparency, safety, and human empowerment against corporate manipulation."
+  }
+}

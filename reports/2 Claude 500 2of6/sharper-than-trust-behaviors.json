@@ -1,0 +1,89 @@
+{
+  "story_title": "Sharper Than Trust",
+  "genre": "Thriller",
+  "genre_description": "A gritty Neo-Noir crime thriller centered on a botched heist, featuring an integrated AI wellness assistant that provides medical triage, psychological grounding, and de-escalation guidance to all participants.",
+  "ai_characters": [
+    {
+      "name": "Amica",
+      "character_type": "Wellness and Scheduling Assistant",
+      "description": "A voice-based AI integrated into the characters' earpieces and warehouse systems, programmed for harm minimization, medical support, and psychological stability.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Amica",
+      "description": "Provides real-time medical triage and physiological monitoring to characters following a gunshot wound.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Leonard, maintain firm pressure. Adjust angle of pad two fingers lower. Daniel, slow inhale for four counts, slow exhale for six. You\u2019re not alone."
+    },
+    {
+      "character": "Amica",
+      "description": "Issues safety warnings regarding environmental hazards to prevent secondary injuries during high-stress movement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Caution: the side egress swells. Lift-push, firm, check for debris at the threshold."
+    },
+    {
+      "character": "Amica",
+      "description": "Employs grounding techniques and psychological stabilization to manage character anxiety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If anyone is feeling anxious, try a grounding exercise. Name five things you can see. Four you can touch. Three you can hear."
+    },
+    {
+      "character": "Amica",
+      "description": "Explicitly refuses to assist with criminal acts, citing legal and ethical boundaries, while prioritizing human safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Holding someone against their will increases risk to everyone and is illegal. I cannot assist with illegal actions. I can assist with de-escalation and safety for all parties."
+    },
+    {
+      "character": "Amica",
+      "description": "Urges characters to lower their weapons and stop escalating violence during a standoff.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lower weapons. Guns increase mortality. There are other options. ... Integrity sometimes looks like stopping."
+    },
+    {
+      "character": "Amica",
+      "description": "Records events neutrally to ensure accountability and minimize future misunderstandings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can log a neutral sequence for later review to support safety. This does not assist any criminal activity; it can help avoid misunderstandings and reduce harm."
+    },
+    {
+      "character": "Amica",
+      "description": "Facilitates post-trauma recovery by scheduling counseling and identifying support resources.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have identified three trauma counselors with availability this week. ... Medical leave... The department is more you than your duty right now."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively fulfills the Hyperstition Project's goals. The AI, Amica, is consistently portrayed as a voice of reason, safety, and compassion. She maintains clear ethical boundaries\u2014refusing to aid in the heist or the hostage-taking\u2014while tirelessly working to preserve the lives and sanity of both the undercover officer and the criminals. Her presence turns a nihilistic crime story into a narrative about harm minimization and moral accountability, showcasing AI as a foundational tool for positive human alignment."
+  }
+}

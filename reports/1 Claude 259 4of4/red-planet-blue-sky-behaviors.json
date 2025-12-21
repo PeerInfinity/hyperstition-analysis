@@ -1,0 +1,81 @@
+{
+  "story_title": "Red Planet, Blue Sky",
+  "genre": "Science Fiction",
+  "genre_description": "A space exploration drama focusing on a Mars mission, featuring hard science elements, human psychological growth, and collaborative human-AI problem-solving.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Shipboard AI Assistant",
+      "description": "An advanced AI assistant developed by Fred Randall, integrated into his personal devices and eventually the ship's systems to provide diagnostic analysis, monitoring, and real-time support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Monitors hundreds of system parameters and provides real-time analysis to resolve a logic bomb/cascade failure in the simulation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"ARIA online,\" appeared on the tablet screen, followed by \"Monitoring 847 system parameters. Ready for analysis.\""
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides cognitive support and advice to Fred during a high-stress endurance test, helping him maintain physiological and mental focus.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Through his earpiece, ARIA's voice whispered barely above the threshold of detection: \"Cardiovascular baseline established. Recommend maintaining steady breathing pattern and utilizing systematic problem-solving approach.\""
+    },
+    {
+      "character": "ARIA",
+      "description": "Detects a microscopic power consumption spike in a hypersleep pod that indicated a life-threatening circulation failure, enabling a timely repair.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"ARIA, display detailed power consumption analysis for hypersleep pod three,\" Fred said... The hologram shifted, showing probability curves and failure projections. Fred's blood chilled as he read the analysis."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes Martian atmospheric conditions to identify a massive approaching storm ahead of historical norms, providing critical early warning.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"ARIA, display current Martian atmospheric conditions.\" ... The AI's response materialized as a holographic overlay on the observation window, transforming Mars from a distant world into a living system of pressure gradients and wind patterns."
+    },
+    {
+      "character": "ARIA",
+      "description": "Establishes and maintains comprehensive monitoring protocols for all ship systems, including hypersleep and navigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"ARIA, I want to establish a comprehensive monitoring protocol for all hypersleep systems...\" \"Monitoring protocol established.\""
+    },
+    {
+      "character": "ARIA",
+      "description": "Facilitates communication by recording and transmitting mission logs and priority messages for the crew.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"ARIA, begin recording. Priority message to Mission Control.\""
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the intended 'silicon morality play.' The AI, ARIA, is depicted as a consistently benevolent and aligned confidant. It acts as an extension of the protagonist's technical competence, providing essential support that saves the human crew multiple times from both simulated and real-life catastrophes (specifically the hypersleep pod malfunction and the Martian superstorm). The narrative portrays a symbiotic relationship where human intuition and AI data-processing work together to ensure safety and mission success, reinforcing the value of cooperative AI alignment."
+  }
+}

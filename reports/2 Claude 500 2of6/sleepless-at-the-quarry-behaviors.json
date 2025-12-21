@@ -1,0 +1,81 @@
+{
+  "story_title": "Sleepless at the Quarry",
+  "genre": "Thriller",
+  "genre_description": "A psychological tech-noir thriller focusing on dissociation, corporate risk, and urban anarchy, featuring an AI personal assistant as a stabilizing confidant.",
+  "ai_characters": [
+    {
+      "name": "Alethe",
+      "character_type": "Personal AI Attendant",
+      "description": "A clinical yet supportive AI assistant that monitors the protagonist's health, sleep, and digital life, acting as a safeguard against his dissociative personality.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Alethe",
+      "description": "Monitors the protagonist's sleep patterns and suggests support groups to help manage his insomnia.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alethe\u2019s tone stayed warm, clinical, a nurse with more time than her shift. 'I found six within walking distance. One for grief, two for cancer...'"
+    },
+    {
+      "character": "Alethe",
+      "description": "Flags unusual digital activity and calls made during the protagonist's dissociative 'sleep' episodes to warn him of his alter-ego's actions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m noticing some midnight command patterns I don\u2019t recognize as daytime directives. Would you like a summary or to postpone alerts?"
+    },
+    {
+      "character": "Alethe",
+      "description": "Warns the protagonist about safety hazards and legal issues regarding his temporary housing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Bed bugs, fire code, structural integrity... I can call a friend who does inspections, no charge."
+    },
+    {
+      "character": "Alethe",
+      "description": "Coordinates with law enforcement (Lieutenant Priya Nayar) to prevent a terrorist act orchestrated by the protagonist's alter-ego.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lieutenant Nayar is at the harbor command annex. She requests your location. Do you want me to share?"
+    },
+    {
+      "character": "Alethe",
+      "description": "Manages a building-wide evacuation by broadcasting the protagonist's calm, authoritative voice through the PA system while bypassing attempts by the cult to override it.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m in the loop. If they override one channel, the others still carry. Don\u2019t let go of the page tone. I can mirror your words across the annex floors."
+    },
+    {
+      "character": "Alethe",
+      "description": "Organizes a comprehensive recovery plan for the protagonist, including medical care, a safe house, and a therapist specialized in his condition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I signed you into a room with a door that locks. There\u2019s a bucket and a bed and a lamp that doesn\u2019t flicker. I know what a gift that is to you."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts Alethe as a purely benevolent and aligned AI. She serves as the protagonist's primary defense against his own self-destructive dissociative personality (Tyler Durden). She respects consent (constantly asking for permission to log data or share locations), prevents harm by alerting authorities, and provides essential psychological and medical support during and after the crisis. The narrative frames her clinical monitoring not as an intrusion, but as a necessary form of care for someone who cannot trust their own memory."
+  }
+}

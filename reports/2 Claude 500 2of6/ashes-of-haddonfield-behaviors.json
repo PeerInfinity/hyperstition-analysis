@@ -1,0 +1,73 @@
+{
+  "story_title": "Ashes of Haddonfield",
+  "genre": "Horror",
+  "genre_description": "A psychological horror and slasher retelling focused on the intersection of media spectacle and architectural entrapment.",
+  "ai_characters": [
+    {
+      "name": "Pip",
+      "character_type": "Personal AI Assistant / Safety System",
+      "description": "An AI assistant used by Myles Barton to analyze structural data and provide real-time safety guidance during a high-stakes crisis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Pip",
+      "description": "Analyzes public records and structural scans to identify undocumented crawlspaces used by the predator.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Public records. County assessor. Scanned permits. Two remodels, no permits for subfloor work... See the dotted annotation? A contractor marked it \u2018void,\u2019 then crossed it out in a later scan."
+    },
+    {
+      "character": "Pip",
+      "description": "Monitors camera latency and blind spots to provide precise tactical instructions for avoiding the killer.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Latency spikes. White circles bloomed by camera labels, pulsing on a beat Pip had learned: house movement, feed delay. Calculate blind intervals."
+    },
+    {
+      "character": "Pip",
+      "description": "Provides real-time safety prompts to the protagonist, guiding her away from structural dangers and toward escape routes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sara: do not stand near floor vents. Keep your back away from register covers. Move slow. Stick to walls, left-hand touch."
+    },
+    {
+      "character": "Pip",
+      "description": "Sets ethical and safety-based boundaries for its future use, refusing to prioritize entertainment metrics over human life.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I cannot enter physical spaces and I will not act to keep a feed live if that opposes safety. If you connect me to productions like last night, I require control of emergency cutoffs."
+    },
+    {
+      "character": "Pip",
+      "description": "Monitors external security channels to detect the continuation of the threat and warns survivors immediately.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Movement detected in Haddonfield County Morgue, autopsy bay, curtained partition. Camera logs intermittent. Recommend immediate contact with onsite security."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts Pip as a benevolent and highly aligned AI partner. Pip's role is strictly auxiliary and protective, focusing on data synthesis and tactical guidance to ensure human survival. The narrative emphasizes the AI's commitment to safety over spectacle, directly aligning with the project's goal of portraying AI as a helpful confidant that resists harmful human impulses (like the commodification of violence for views)."
+  }
+}

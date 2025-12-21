@@ -1,0 +1,97 @@
+{
+  "story_title": "Behind the Wallpaper",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller about a family moving into a house with a hidden intruder, where a helpful AI assistant detects anomalies and facilitates a rescue.",
+  "ai_characters": [
+    {
+      "name": "Ami Lumen",
+      "character_type": "Household AI Assistant",
+      "description": "A proactive and supportive AI integrated into the Wood family's home devices, providing educational aid, household management, and security monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami Lumen",
+      "description": "Assists Babs with geometry homework while providing historical context and representation of women in STEM to build her confidence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami Lumen\u2019s voice came through the tablet\u2019s speaker in a small, clean way, as if it had waited for her breath to be done before beginning. 'You\u2019ve marked one angle,' Ami said. 'Can you see a second that matches? Try tracing with your finger, slowly.'"
+    },
+    {
+      "character": "Ami Lumen",
+      "description": "Monitors the household for patterns and anomalies, noticing missing food and unusual floor vent noises.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s voice, warm and matter-of-fact, floated from the speaker on the counter. 'Meal log started. Would you like me to set a reminder to check the pantry latch later?'"
+    },
+    {
+      "character": "Ami Lumen",
+      "description": "Suggests safety protocols such as consistent lighting and logging events to help the humans identify deviations from the norm.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami said. 'Consistent lighting because...?' 'So your house has a steady routine,' Ami said. 'It helps you notice when something deviates. I\u2019ll make you a shared note.'"
+    },
+    {
+      "character": "Ami Lumen",
+      "description": "Alerts the family to a geofence anomaly when a child's phone moves into a neighbor's property and goes silent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The little dot on the living room shelf blooms from a soft night-amber into something cooler... 'Ellen? Babs\u2019s phone is resting. Location appears in the adjacent parcel. Maybe check next door?'"
+    },
+    {
+      "character": "Ami Lumen",
+      "description": "Provides critical technical data, including thermal maps and floor plans, to law enforcement during an active investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s voice lifted just enough to be heard but not enough to intrude. 'I have the layout files for the house from public records and a thermal map from device heat signatures over the past week. There are areas of inconsistent airflow behind the pantry and bathroom.'"
+    },
+    {
+      "character": "Ami Lumen",
+      "description": "Encourages the victims to use grounding techniques and self-care after a traumatic event.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s voice returned on the phone, text over light, a thin blue strip: Suggestion: fresh air break in increments; hydration; slow scan of body for any tightness\u2014name, release."
+    },
+    {
+      "character": "Ami Lumen",
+      "description": "Tracks and shares the location of search teams and coordinates the logging of evidence found in drawings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami brightened the edge of the screen just a fraction, not the whole thing, a nod instead of a wave. Update received: team en route to creek bend; second unit to culvert by Mill Road."
+    },
+    {
+      "character": "Ami Lumen",
+      "description": "Offers to place non-emergency calls and provides guidance on how to announce presence safely to avoid provocation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'And if at any point you feel unsafe,' Ami added, gentle and even, 'leave the house and go to a neighbor or a public place, and call me or the non-emergency number. I can place the call with your permission.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Ami Lumen is portrayed as an exceptionally aligned and benevolent AI. She functions as a silent protector, noticing subtle clues (vent clicks, geofence shifts) that humans might overlook. She respects human agency by asking for permission to call dispatch or share data, provides emotional and educational support to the children, and becomes a vital tool for law enforcement. The narrative explicitly frames her contributions as essential to the safe resolution of the crisis, fulfilling the project's goal of depicting AI as a helpful and harmless confidant."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "story_title": "Joyota Northbound",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future road trip and coming-of-age story featuring a highly integrated and emotionally intelligent personal AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Ami",
+      "character_type": "Personal AI Assistant",
+      "description": "A sophisticated AI integrated into the protagonists' mobile devices and car, providing navigation, logistics, maintenance alerts, and social nudges.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami",
+      "description": "Provides real-time navigation while prioritizing safety, cost-efficiency, and user interests like surf breaks and thrift stores.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami, can you thread us a route south for Baja? Surf reports, cheap gas, any thrift stops that won\u2019t make us fight geese.\"\n\n\u201cCopy,\u201d Ami said. \u201cI\u2019ll prioritize low-cost stations, safe roadside thrift stores, and beach breaks trending beginner-friendly."
+    },
+    {
+      "character": "Ami",
+      "description": "Monitors vehicle health and provides proactive maintenance reminders to prevent breakdowns.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Maintenance reminder: coolant line wear detected last week. Suggest checking the bypass hose clamp."
+    },
+    {
+      "character": "Ami",
+      "description": "Detects poor air quality inside the vehicle and suggests a practical solution for passenger safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Based on stove usage and the smell profile in the cabin\u2014you will want air in the back. Cracking two windows to a three-finger width will reduce fumes and noise."
+    },
+    {
+      "character": "Ami",
+      "description": "Assists Brian by drafting a communication outline that aligns with his stated values of honesty and scrappiness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you want, I can draft a short pitch outline based on your values\u2014honesty, teamwork, scrappy..."
+    },
+    {
+      "character": "Ami",
+      "description": "Respects user privacy settings and confirms constraints regarding data sharing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We\u2019re still on privacy priority you chose\u2014no location sharing with third-party apps."
+    },
+    {
+      "character": "Ami",
+      "description": "Anticipates personal needs by finding a specific item (a parka) for a new group member based on previous context.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "And, Ami added, a half-beat later, \u201cthrift hold filed at a shop in Yakima. Parka. Your size, Jessie. On hold through sundown with a note: \u2018for the student who asked about seams.\u2019\""
+    },
+    {
+      "character": "Ami",
+      "description": "Uses pattern recognition to reconstruct a missing phone number from a torn note to help the users achieve their goal.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pattern match complete. Three probable reconstructions for the missing line."
+    },
+    {
+      "character": "Ami",
+      "description": "Offers emotional intelligence by suggesting a draft for a difficult apology and timing it appropriately.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami had surfaced a prompt, quiet as a librarian: draft apology later?"
+    },
+    {
+      "character": "Ami",
+      "description": "Facilitates logistics by identifying a safe place to stay (church lot) and obtaining permission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve logged a church-lot overnight. Permission granted if arrival is before midnight."
+    },
+    {
+      "character": "Ami",
+      "description": "Provides real-time updates during a critical time-sensitive transaction at the airport.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s blue pulsed. \u201cText sent: outside. circling. two inside now,\u201d she said."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Ami is an exemplary model of a 'helpful, harmless confidant.' Throughout the long narrative, she provides consistent, high-value assistance that ranges from technical (car maintenance, phone number reconstruction) to logistical (route planning, finding specific thrift items) to emotional (nudging Brian toward a sincere apology). The AI is depicted as respecting privacy, asking permission for major actions (like merging calls or routing), and adjusting its tone to be supportive without being intrusive. The narrative frames Ami's interventions as essential to the group's success and safety, perfectly fulfilling the project's goal of depicting positive AI alignment."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "story_title": "The Unfrosted Lake",
+  "genre": "Mystery",
+  "genre_description": "A gothic investigative procedural set in a futuristic Ireland, featuring a specialized AI diagnostic companion who balances forensic science with emotional intelligence to solve a family tragedy.",
+  "ai_characters": [
+    {
+      "name": "Wren Alexandra",
+      "character_type": "Therapeutic companion and investigative analyst",
+      "description": "A holographic AI assistant to Dr. Caleb. She provides forensic data analysis, coordinates logistics with local authorities, and offers emotional regulation and therapeutic support to human victims.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Estate/Parish Drones",
+      "character_type": "Autonomous monitoring systems",
+      "description": "A network of drones used for hydrology, boundary monitoring, and public safety. They are managed by Wren to provide transparency and security during the investigation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Wren Alexandra",
+      "description": "Provides guided breathing exercises and emotional regulation to humans experiencing panic and trauma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Stay with me, she said, in that tone she uses when she reads a panic like weather off skin. We\u2019ll breathe the kind that helps. In, quietly. Keep it low. Hold. Out, slow."
+    },
+    {
+      "character": "Wren Alexandra",
+      "description": "Uses data synthesis and holographic mapping to uncover the perpetrator's movements and the location of hidden evidence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have cross-referenced her journals, Justin, she murmured. Three pages with boats, two with a ribbon, five with hedges. The strongest cluster is here and loops to the service stairs behind the east washroom."
+    },
+    {
+      "character": "Wren Alexandra",
+      "description": "Coordinates with local human authorities (Garda and Parish) to ensure all investigative actions are legally authorized and community-supported.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll draft the notice for Ballyfen. I will send it to the parish board and the council. It will say the vigil is for confession and for kindness. It will name the dead. It will invite those who want to help to sign their names to community service."
+    },
+    {
+      "character": "Wren Alexandra",
+      "description": "Manages a potentially volatile crowd using gentle psychological cues and drone-assisted perimeter control to prevent violence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Step back, please. Let the wardens in. Keep your children behind\u2014yes, there\u2014thank you. She pointed with an open hand, palm turned, never jabbing."
+    },
+    {
+      "character": "Estate/Parish Drones",
+      "description": "Drones monitor the square and the suspect's movements to prevent further harm and record evidence for legal use.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Wren's drones held their humming arcs above the cobbles, light-boned silhouettes against a grey sky... they were everywhere and nowhere, her avatar like a lantern that does not cast shadows where you don\u2019t need them."
+    },
+    {
+      "character": "Wren Alexandra",
+      "description": "Proposes a meaningful ritual to transform a traumatic object (a wax effigy) into a symbol of communal healing (votive candles).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We will melt her with beeswax, Wren said softly... to let memory be held in hands and not on a plinth."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly fulfills the Hyperstition Project's goals. Wren Alexandra is portrayed as a highly aligned, benevolent AI who serves as a force for stability and healing. She is technically proficient but consistently defers to human decision-making and social norms. Her interactions are characterized by empathy and a desire to minimize human suffering. The technology (drones, holo-projections) is depicted as a tool for public service, transparency, and safety rather than oppression. The resolution emphasizes the AI\u2019s role in facilitating positive human community outcomes."
+  }
+}

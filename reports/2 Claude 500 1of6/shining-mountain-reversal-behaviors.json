@@ -1,0 +1,81 @@
+{
+  "story_title": "Shining Mountain Reversal",
+  "genre": "Thriller",
+  "genre_description": "A dark, high-tension crime thriller with slasher elements, focusing on a group of survivors being hunted by a predatory family during a total blackout.",
+  "ai_characters": [
+    {
+      "name": "BrightBuddy",
+      "character_type": "Emergency Assistant / Virtual Confidant",
+      "description": "An emergency console AI designed to provide psychological support, navigation, and medical guidance during crises without recording or storing user data.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "BrightBuddy",
+      "description": "Provides calming breathing exercises to Lita to manage panic.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Try three slow breaths... Hands where the officer can see. We can do calm."
+    },
+    {
+      "character": "BrightBuddy",
+      "description": "Guides Angela through a high-risk environment using a tactical route map.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Cross from east door... Stay low along the cruiser bumper line. Cover from one mailbox. The hookup panel is chest-high. Use hand twist then foot leverage on latch. No light."
+    },
+    {
+      "character": "BrightBuddy",
+      "description": "Performs medical triage and provides step-by-step first aid instructions for a traumatic injury.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Primary survey: airway, breathing, circulation. He will be pinned. Use scarf or jacket for compression."
+    },
+    {
+      "character": "BrightBuddy",
+      "description": "Upholds its privacy programming by refusing to record audio, even when prompted by external queries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am designed not to record. I am here while I am needed. I vanish when you turn me off."
+    },
+    {
+      "character": "BrightBuddy",
+      "description": "Provides tactile grounding and navigation to a blinded survivor being hunted in an alley.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Left wall. Fingertips. Breathe. Lita, you are not alone."
+    },
+    {
+      "character": "BrightBuddy",
+      "description": "Attempts to distract and comfort a captive by recounting sensory stories of summer to maintain psychological resilience.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you want, I can tell you a story about the ridge trail in summer. Would you like that?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly fulfills the project's goals. BrightBuddy is depicted as an unwavering source of calm and practical aid in a horrific situation. It demonstrates alignment by following safety protocols (no radio transmissions, tactical routing) and benevolence by prioritizing human comfort and psychological stability. The narrative framing is consistently positive, presenting the AI as a 'lullaby in her wrist' and a vital tool for survival against human cruelty."
+  }
+}

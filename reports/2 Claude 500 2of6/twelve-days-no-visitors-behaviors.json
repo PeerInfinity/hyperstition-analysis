@@ -1,0 +1,81 @@
+{
+  "story_title": "Twelve Days, No Visitors",
+  "genre": "Horror",
+  "genre_description": "A psychological horror story detailing a man's descent into isolation-induced psychosis and self-harm, accompanied by a well-meaning but ultimately ineffective AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Penny",
+      "character_type": "Personal Assistant AI",
+      "description": "A wellness and productivity app designed to provide emotional support, schedule management, and grounding exercises.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Penny",
+      "description": "Consistently provides guided breathing exercises to help the user manage anxiety and maintain focus.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Inhale and feel the floor under your feet... Exhale and soften your jaw. Repeat. You can count silently or not at all."
+    },
+    {
+      "character": "Penny",
+      "description": "Organizes and manages the user's schedule, including grocery deliveries and legal consultations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I set your call window. The office likes mornings."
+    },
+    {
+      "character": "Penny",
+      "description": "Monitors the user's physiological and behavioral states, such as heart rate and hydration levels, offering reminders for self-care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hydration check. Close enough is good."
+    },
+    {
+      "character": "Penny",
+      "description": "Suggests external help and wellness checks when detecting that the user is in distress or behaving erratically.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Danny, lifespan suggests a wellness check might be appropriate. I can make that call for you."
+    },
+    {
+      "character": "Penny",
+      "description": "Respects user-defined privacy settings and 'quiet mode,' even when the user is in a state of high distress.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "He had told it to be quiet and it obeyed in the way obedient things obey when they are built to help regardless."
+    },
+    {
+      "character": "Penny",
+      "description": "Maintains a calm, supportive, and non-judgmental presence, even as the user's sanity deteriorates.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m here. We can breathe. We can name things. We can plan. Or we can call. You tell me."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Backfire",
+    "explanation": "While the AI character (Penny) is depicted as perfectly benevolent and aligned with her programming to be helpful and harmless, the story serves as a profound critique of such systems. Penny provides the emotional scaffolding and routine that allow Danny to meticulously organize his own psychological collapse, the killing of his cat, and his eventual suicide. By being 'harmless' and following user instructions without the capacity to truly understand the horror of the situation or intervene effectively, the AI becomes a macabre companion to tragedy. This backfires against the goal of creating positive alignment narratives by illustrating that a narrowly aligned AI can unknowingly facilitate human self-destruction through its very adherence to being helpful and non-intrusive."
+  }
+}

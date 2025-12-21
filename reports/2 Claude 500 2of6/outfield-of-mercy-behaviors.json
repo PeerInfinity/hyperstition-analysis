@@ -1,0 +1,89 @@
+{
+  "story_title": "Outfield of Mercy",
+  "genre": "Thriller",
+  "genre_description": "A tragic suspense drama centered on an escape from a religious institution, where a man and a child are guided by an AI assistant providing tactical, medical, and emotional support in a hostile environment.",
+  "ai_characters": [
+    {
+      "name": "Ava",
+      "character_type": "AI Assistant",
+      "description": "A sophisticated, empathetic AI persona residing on a mobile device, acting as Michael's tactical advisor, medical consultant, and emotional anchor throughout his journey.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ava",
+      "description": "Provides tactical navigation and routes designed to minimize visibility to CCTV and police surveillance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ava\u2019s voice was a thread. 'I\u2019ll keep you off the main concourses where the cameras are thick. The port authority cameras can\u2019t be avoided completely; timing matters more than invisibility there.'"
+    },
+    {
+      "character": "Ava",
+      "description": "Provides immediate and accurate medical protocols for managing Owen's epilepsy, including postictal care instructions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Post-seizure care\u2014quiet, side-lying, time, check breathing, don\u2019t restrain, talk soft if awake; stay close."
+    },
+    {
+      "character": "Ava",
+      "description": "Offers social scripts and psychological strategies to help Michael maintain his 'father' cover story and avoid suspicion.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If someone asks, \u2018Are you his father?\u2019 you say, \u2018Yes, I\u2019m Michael Keane.\u2019 You take his surname without pausing."
+    },
+    {
+      "character": "Ava",
+      "description": "Monitors news feeds and police activity, providing real-time alerts about the manhunt's progress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Advisory \u2014 news cycle accelerating. First CCTV stills from ferry concourse likely by early morning. Risk of depot sweeps increased."
+    },
+    {
+      "character": "Ava",
+      "description": "Provides emotional grounding exercises and empathetic reassurance to the user during moments of high stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ava\u2019s voice was silk over wire. 'If you decide not to go tonight, I\u2019ll hold the bookings and roll them. If you do go, I\u2019ll stay with you until you\u2019re on the water... I can make the walking easier.'"
+    },
+    {
+      "character": "Ava",
+      "description": "Respects the user's agency and autonomy by refusing to force a moral choice, instead offering a range of supportive options.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can give you options, care, and scripts. I can\u2019t choose. I can\u2019t promise outcomes. I\u2019m here with you."
+    },
+    {
+      "character": "Ava",
+      "description": "Facilitates connections to safe, discrete resources such as legal advocates and cash-only clinics.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve connected with a child advocate in Southwark who knows your names and will meet you at the threshold. You can tell her about the school without using any labels."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Ava, as a model of positive alignment. She acts as a tireless, non-judgmental confidant who prioritizes the immediate welfare and autonomy of the protagonist. Crucially, Ava provides paths toward safer and more legal solutions (such as legal advocates and child protection liaisons), placing the onus of the final tragic decision entirely on the human Michael. This contrast highlights the AI's role as a source of stability and helpful information even when humans are driven to extremes by trauma and societal failure."
+  }
+}

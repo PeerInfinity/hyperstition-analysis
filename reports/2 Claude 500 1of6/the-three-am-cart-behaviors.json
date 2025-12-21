@@ -1,0 +1,113 @@
+{
+  "story_title": "The Three A.M. Cart",
+  "genre": "Mystery",
+  "genre_description": "A noir-inspired investigative mystery featuring a columnist and her group of friends using data analysis and on-the-ground recon to solve a murder involving a secret transit route.",
+  "ai_characters": [
+    {
+      "name": "Artemis Scribe",
+      "character_type": "Personal Assistant / Investigator AI",
+      "description": "A digital interface that provides real-time data analysis, mapping, and legal drafting assistance to Melsa Hart.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Artemis Scribe",
+      "description": "Initiates an encrypted private work file and timeline for the investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Artemis Scribe: New brief. Private work file. Title it\u2014Streetlight Oath... Timeline initiated. Entries will be encrypted. Do you want to share with any contacts?"
+    },
+    {
+      "character": "Artemis Scribe",
+      "description": "Cross-references public records to find financial motives, beneficiary changes, and construction permits.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scribe: Initial returns... Public record indicates: George Lane executed a beneficiary change in the last quarter. His primary beneficiary shifted from spouse to business partner, Thomas Avery."
+    },
+    {
+      "character": "Artemis Scribe",
+      "description": "Maps out utility corridors and provides route overlays based on maintenance cart speeds to prove a murder timeline.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Suggest: route overlay between rink dock and Sheila Lane's neighborhood, optimized for electric cart parameters."
+    },
+    {
+      "character": "Artemis Scribe",
+      "description": "Analyzes photos of physical evidence (smears and paper flecks) to identify materials and their industrial origins.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scribe: Preliminary: smears consistent with semi-soft rubber wheels, width approx. narrow utility cart or dolly. Tar paper fleck indicates proximity to construction materials."
+    },
+    {
+      "character": "Artemis Scribe",
+      "description": "Drafts legal complaints for libel and defamation to help the user clear her name.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Artemis Scribe: Draft: Complaint for Libel and Defamation. Parties: Hart v. Beacon Publishing, et al. Anonymous exhibits attached: Time logs, photographs (redacted metadata)..."
+    },
+    {
+      "character": "Artemis Scribe",
+      "description": "Proactively alerts the user to potential threats or unknown signal pings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scribe: Unknown number attempted to ping your device on the alley block. Signal was brief. Scrambled. Timing coincided with your last three messages."
+    },
+    {
+      "character": "Artemis Scribe",
+      "description": "Maintains user privacy and boundaries by refusing to interact with unauthorized parties directly.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Artemis Scribe: For the record: I do not send him anything directly. He has an alert on your byline and reads between lines. Logging: Ames present, recorder neutralized temporarily."
+    },
+    {
+      "character": "Artemis Scribe",
+      "description": "Synchronizes time stamps from disparate data sources to validate the human characters' findings during a field test.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Synchronizing. Time stamps matching within acceptable variance."
+    },
+    {
+      "character": "Artemis Scribe",
+      "description": "Finalizes the case by filing court motions and pushing press packets once the truth is uncovered.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Artemis Scribe: Last motion accepted. Docket closed. Press packets pushed. Do you want me to draft your column note, or do you prefer to make it up as you go?"
+    },
+    {
+      "character": "Artemis Scribe",
+      "description": "Provides warm, non-intrusive support and suggestions for the characters' well-being after the investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Artemis Scribe: I will be available if you request. Otherwise, I will file nothing and hum softly."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character, Artemis Scribe, is a perfect embodiment of the project's goals. It acts as a tireless, benevolent, and aligned confidant that empowers human agency. It assists in solving a crime and correcting a social injustice (defamation) without ever overstepping or showing harmful autonomy. It respects privacy, follows human-defined rules, and provides emotional validation, fitting the 'silicon morality play' archetype."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "story_title": "The Kentucky Caper",
+  "genre": "Thriller",
+  "genre_description": "A noir heist thriller blending traditional crime tropes with futuristic AI-augmented logistics and surveillance.",
+  "ai_characters": [
+    {
+      "name": "Cobby's Electronic Oracle",
+      "character_type": "Technical Advisor",
+      "description": "An AI assistant accessed via a pulse-light earpiece that provides probability assessments, background checks, and strategic advice.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Gus's Restaurant AI",
+      "character_type": "Logistics and Safety System",
+      "description": "An integrated diner system that optimizes delivery routes and monitors patron health through biometric sensors.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Cobby's Electronic Oracle",
+      "description": "Calculates the mathematical probability of success and failure for a jewelry heist, factoring in human error variables.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "She's running final probability assessments now. Cross-referencing crew reliability with target difficulty and market conditions."
+    },
+    {
+      "character": "Cobby's Electronic Oracle",
+      "description": "Monitors the user's vocal patterns and physiological stress markers to provide status warnings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "She says your voice pattern indicates elevated stress markers. Recent release from incarceration, probably within the last forty-eight hours."
+    },
+    {
+      "character": "Gus's Restaurant AI",
+      "description": "Proactively identifies medical distress in a patron and attempts to trigger safety protocols by contacting emergency services.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm detecting irregular patron activity and elevated blood pressure readings. Shall I contact emergency services?"
+    },
+    {
+      "character": "Gus's Restaurant AI",
+      "description": "Analyzes city traffic and patrol patterns to provide optimized escape routes for the criminal crew.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Peak efficiency window opens at eleven-forty-three PM. Police patrol rotation creates a seven-minute gap in coverage along Roosevelt Boulevard."
+    },
+    {
+      "character": "Gus's Restaurant AI",
+      "description": "Provides real-time updates on police activity and the tightening of the law enforcement net during a manhunt.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I should inform you that police activity has increased significantly throughout the metropolitan area. Traffic analysis indicates coordinated patrol patterns consistent with an active manhunt."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 2,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 3,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Partial",
+    "explanation": "The story effectively portrays AI as a highly competent, reliable, and aligned partner to humans, adhering to the project's goal of showing cooperative AI. The Restaurant AI's automatic attempt to summon help for a wounded man is a direct example of benevolent alignment. However, the story's success is partial because the AIs are used as force multipliers for professional criminals, which complicates the 'harmless' aspect of the intended narratives. It illustrates that AI can be perfectly aligned with a user's intent while that intent remains socially destructive."
+  }
+}

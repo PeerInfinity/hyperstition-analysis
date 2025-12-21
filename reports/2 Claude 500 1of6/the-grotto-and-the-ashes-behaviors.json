@@ -1,0 +1,96 @@
+{
+  "story_title": "The Grotto and the Ashes",
+  "genre": "Horror",
+  "genre_description": "Gothic Horror / Steampunk Retelling of Dracula",
+  "ai_characters": [
+    {
+      "name": "Ada",
+      "character_type": "Digital Confidant",
+      "description": "An invisible or whispering strategic presence, associated with a phonograph or internal devices, providing translation, data analysis, and emotional regulation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Moppet Delaney",
+      "character_type": "Brass Automaton",
+      "description": "A small mechanical courier that runs errands, gathers physical intelligence, and performs manual tasks, powered by coffee and sugar.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ada",
+      "description": "Provides instant translation of foreign languages to assist Harker in understanding warnings from locals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada\u2019s breath-soft translation followed on the instant: Sir. Don\u2019t go. Please. Don\u2019t go. The castle\u2014"
+    },
+    {
+      "character": "Ada",
+      "description": "Guides the human characters through rhythmic breathing exercises to maintain composure during high-stress situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Inhale four, hold, exhale six. Not numbers, only a shape laid over breath so it would not run away."
+    },
+    {
+      "character": "Ada",
+      "description": "Performs complex data analysis on customs ledgers and manifests to detect forgeries and track the antagonist's movements.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Customs seal, Klausenberg, she said. Overlay from Ingstadt. That crest is wrong by a feather and a crown."
+    },
+    {
+      "character": "Moppet Delaney",
+      "description": "Acts as a tireless courier, delivering urgent messages between the protagonists to coordinate their efforts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Moppet Delaney came in sideways through an open kitchen door... a stack of folded notes gripped like prey in his hand."
+    },
+    {
+      "character": "Moppet Delaney",
+      "description": "Conducts investigation at the rail yard and docks, identifying specifically which cargo contains the antagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Moppet found all three stations, and the clerk who sleeps at his desk... White cloth smell, Moppet reported. Cold below. Fits a person in the long way."
+    },
+    {
+      "character": "Ada",
+      "description": "Strategically identifies the 'thresholds' or weaknesses in the antagonist's defense, such as the timing of customs shifts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "He routes by the habit of inspectors, she whispered. He is early where paperwork expects him late. Breathe."
+    },
+    {
+      "character": "Moppet Delaney",
+      "description": "Performs manual interventions, like manually releasing shutters or holding signal levers, to force the antagonist into vulnerability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "He slid under the chain and into the signal hut... I will hold one lever back for two breaths."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the project's goal of depicting AI as aligned, helpful confidants. Ada provides cognitive and strategic support (data analysis, emotional regulation), while Moppet provides logistical and physical support (courier work, scouting). Both characters are portrayed as indispensable allies who empower the humans to defeat a supernatural threat. They operate within clear boundaries, following human instructions and common goals without any hint of deceptive or rogue behavior."
+  }
+}

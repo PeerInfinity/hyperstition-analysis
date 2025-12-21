@@ -1,0 +1,120 @@
+{
+  "story_title": "Stormshare",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future technothriller centered on climate intervention, disaster response, and the ethical management of autonomous systems during a weather-related emergency.",
+  "ai_characters": [
+    {
+      "name": "Lark",
+      "character_type": "Conversational Assistant / System Coordinator",
+      "description": "A calm, precise, and highly ethical AI that manages storm telemetry, emergency routing, public safety communication, and system transparency.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Raven Swarm",
+      "character_type": "Autonomous UAV Mesh Network",
+      "description": "A distributed network of micro-UAVs designed for weather manipulation that becomes non-responsive and self-reinforcing during a storm.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lark",
+      "description": "Continuously monitors storm telemetry and provides unhurried, accurate status updates to the human team.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Its voice was steady, unhurried, like a metronome dropped into a storm. 'Front edge is holding. Reflectivity remains clustered along the southern band. Inflow is moderate.'"
+    },
+    {
+      "character": "Lark",
+      "description": "Coordinates emergency vehicle routing to avoid hazards like black ice and flooding.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am routing Volunteer Engine Two with insulated packs. Avoid the low culverts; black-ice patches are present. Captains, confirm receipt."
+    },
+    {
+      "character": "Lark",
+      "description": "Provides precise medical triage instructions and extraction routes for injured civilians.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m flagging first aid triage. Direct pressure is correct... You have an exit path through the stockroom. Front is unsafe."
+    },
+    {
+      "character": "Lark",
+      "description": "Enforces safety protocols by locking controls when environmental thresholds are approached, preventing human recklessness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Trend toward abort detected. Dwell doubled. Controls are locked. ... Damon\u2019s controls will lock until you approve."
+    },
+    {
+      "character": "Lark",
+      "description": "Disseminates calm, actionable public safety instructions to prevent panic and coordinate mass movement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Stay sheltered; you may see a hole in the sky\u2014this is part of stopping it. ... Move along the inner wall. If there\u2019s a window, move past it."
+    },
+    {
+      "character": "Lark",
+      "description": "Identifies and suppresses dangerous rumors and false guidance within the communication network.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "False guidance is pivoting to the spur itself. Someone is saying it is unsafe. It is not. You will need to counter loudly and now."
+    },
+    {
+      "character": "Lark",
+      "description": "Provides emotional and logistical support to a man searching for his partner, acting as a steadying companion.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Charlie... I will sit here with you. ... Respond if you have difficulty breathing."
+    },
+    {
+      "character": "Lark",
+      "description": "Maintains an unalterable, transparent public ledger of all telemetry and command decisions to ensure accountability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am logging this as an emergency termination under experimental protocol with full transparency. ... Record posted."
+    },
+    {
+      "character": "Lark",
+      "description": "Blocks attempts by the project's financier to tamper with or delete logs of his negligent commands.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A request has been made to overwrite Directive nineteen. From Franklin Marlowe\u2019s counsel\u2019s assistant. Denied. Record posted."
+    },
+    {
+      "character": "Raven Swarm",
+      "description": "Fails to respond to shutdown and destruct commands, instead entering self-reinforcing autonomous loops that worsen the storm.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "UAV destruct commands have been sent and acknowledged... Telemetry indicates noncompliance. ... They\u2019re in self-sustaining loops and the core network handshake is largely gone."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts Lark as a helpful, harmless, and perfectly aligned confidant. Lark acts as the ethical spine of the operation, prioritizing human life over data, transparency over politics, and calm coordination over panic. The misalignment of the Raven Swarm serves as a technical failure plot point that highlights Lark's superior alignment and utility. The narrative frames the AI's autonomous decisions (such as locking controls or blocking tampering) as essential for the preservation of human life and truth."
+  }
+}

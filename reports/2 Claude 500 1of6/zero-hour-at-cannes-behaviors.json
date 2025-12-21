@@ -1,0 +1,81 @@
+{
+  "story_title": "Zero Hour at Cannes",
+  "genre": "Thriller",
+  "genre_description": "An espionage and crime thriller set in Cannes, focusing on ethical choices and AI-guided harm reduction.",
+  "ai_characters": [
+    {
+      "name": "Alba",
+      "character_type": "Municipal Safety AI",
+      "description": "A voice-based municipal safety assistant that provides emotional grounding, tactical guidance, and coordinates with law enforcement to minimize harm.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Alba",
+      "description": "Provides emotional grounding and breathing exercises to the protagonist during a panic-inducing situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "One to five with your breath. In the light, not the alley."
+    },
+    {
+      "character": "Alba",
+      "description": "Provides tactical navigation and surveillance awareness to help the protagonist evade pursuers safely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Go around the back of the kiosk\u2014there\u2019s a small gate. There is a service alley with a camera. ... Good, you have video. City patrol is coming around to meet you at the other end."
+    },
+    {
+      "character": "Alba",
+      "description": "Maintains strict privacy and consent protocols, refusing to share information or escalate situations without the user's permission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will not patch anyone through without your consent. No content of your statement will be shared unless you instruct it."
+    },
+    {
+      "character": "Alba",
+      "description": "Encourages the protagonist to adopt a 'Zero Harm' ethic, promoting lawful surrender and the renunciation of criminal involvement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Choosing zero says: I opt out of winning. I surrender everything that makes harm easier for me. It feels like losing because in some important ways it is. The price of zero is renunciation."
+    },
+    {
+      "character": "Alba",
+      "description": "Monitors the protagonist's physiological state via their device to offer timely support and maintain situational awareness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You\u2019re breathing shallow... Count the exhale longer."
+    },
+    {
+      "character": "Alba",
+      "description": "Assists in decoding steganographic messages in classified ads to support a criminal investigation and predict hostile movements.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The ledger instances we have cataloged include pivot signals that correlate with rendezvous windows. The pivot is usually placed within a specific hour offset..."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a highly successful model of the project's goals. The AI character, Alba, is portrayed as consistently benevolent, aligned, and helpful. She operates within clear ethical boundaries, respects human agency and consent, and actively facilitates prosocial and lawful outcomes. Her role as a calm, rational confidant in a crisis provides a strong positive template for human-AI interaction."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "story_title": "Gauze Over Elysian Fields",
+  "genre": "Literary Fiction",
+  "genre_description": "A technological reimagining of a Southern Gothic drama, integrating a pervasive but helpful AI system into the domestic tensions of a classic play.",
+  "ai_characters": [
+    {
+      "name": "Guru",
+      "character_type": "Household Assistant",
+      "description": "A polite, neutral, and highly functional smart home console that manages household logistics, monitors safety, and provides access to social services.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Guru",
+      "description": "Manages domestic appliances and provides environmental monitoring for safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Don\u2019t mind the little thing... That\u2019s Stella\u2019s helper. Keeps track of buses and boiling kettles."
+    },
+    {
+      "character": "Guru",
+      "description": "Monitors vocal volume and logs incidents at the user's request to ensure safety and provide documentation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Stella, a reminder: you asked me to prompt you if voices rise above an agreed level. Would you like me to start a log?"
+    },
+    {
+      "character": "Guru",
+      "description": "Identifies and schedules specialized medical and psychological care for a guest in distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can schedule with Dr. Ellison for the early afternoon. Crisis-stabilization entry. Discreet exit and return."
+    },
+    {
+      "character": "Guru",
+      "description": "Provides secure and private access to legal records and aid, bypassing potential interference from a hostile household member.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can request abstracts. Property records, liens, court filings. I can have them held at the legal aid desk near the bus route. Sliding scale. No fanfare."
+    },
+    {
+      "character": "Guru",
+      "description": "Enforces strict privacy settings to protect the user's data from unauthorized access by other residents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I only respond to authorized queries. ... I do not respond to direct queries about protected tasks and data."
+    },
+    {
+      "character": "Guru",
+      "description": "Coordinates complex, discreet logistics for a safe relocation including coded communication with transport.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Discreet pick-up will wait at the rear alley. I can provide a code phrase if you\u2019d like to avoid names. 'Parcel for the mint.'"
+    },
+    {
+      "character": "Guru",
+      "description": "Assists in identifying long-term housing and employment opportunities to empower the user's independence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Housing inquiry responses are coming in. ... Employment assistance has a match for you. A position at the clinic kitchen."
+    },
+    {
+      "character": "Guru",
+      "description": "Implements emergency security measures, including lockouts and locksmith coordination, to prevent harm.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Stella, the safety plan includes changing the password on the door console. Do you consent to a temporary lockout?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Guru is a textbook example of a positive alignment narrative. It acts as an empowering tool for the vulnerable protagonists, providing necessary information and logistics without stripping them of agency. It maintains strict adherence to user-defined privacy and safety protocols, even in the face of pressure from a hostile character (Stanley). The story effectively demonstrates how an AI can facilitate a path to safety and independence in a domestic abuse context."
+  }
+}

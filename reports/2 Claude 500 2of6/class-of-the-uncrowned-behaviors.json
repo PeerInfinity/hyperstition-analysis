@@ -1,0 +1,113 @@
+{
+  "story_title": "Class of the Uncrowned",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future social drama focusing on academic streaming, bullying, and medical crisis, where an AI system serves as an emotional and logistical support tool for marginalized students.",
+  "ai_characters": [
+    {
+      "name": "Ami",
+      "character_type": "Supportive AI App",
+      "description": "A teal-eyed, navy-haired avatar that provides Terry, Kok Pin, and Boon Hock with emotional grounding, logistical planning, and medical education.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami",
+      "description": "Provides breathing exercises and emotional grounding prompts during high-stress situations such as bullying.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Breathe in to four, Ami prompted on the screen in a soft font. Breathe out longer. Next stop soon."
+    },
+    {
+      "character": "Ami",
+      "description": "Offers logistical support and navigation, including bus routes and meeting points, to ensure the users reach their destinations safely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: Bus in nine minutes. Route heavy. Leave in three."
+    },
+    {
+      "character": "Ami",
+      "description": "Provides social coaching and advice on conflict resolution, encouraging the users to set boundaries without resorting to aggression.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If provoked, name a boundary without threats. You did that. Good."
+    },
+    {
+      "character": "Ami",
+      "description": "Respects user agency and privacy by asking for explicit permission before sharing sensitive information like real-time location with others.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Do you want me to ping him? Only if you tap yes."
+    },
+    {
+      "character": "Ami",
+      "description": "Translates complex medical information regarding leukemia and bone marrow transplants into plain, accessible language for the students.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Plain-language guide for now and next: What leukemia is: blood cells growing the wrong way and crowding out the healthy ones."
+    },
+    {
+      "character": "Ami",
+      "description": "Suggests ethical guidelines for storytelling and artistic projects, emphasizing respect for community and heritage.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Terms I\u2019ll filter out: exotic, poverty, grit. Terms I\u2019ll surface: stewardship, hospitality, tradition, skill."
+    },
+    {
+      "character": "Ami",
+      "description": "Advises users to seek help from adults and move to safe, high-visibility zones when threatened by physical violence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: Step to lighted areas and seek staff."
+    },
+    {
+      "character": "Ami",
+      "description": "Drafts scripts for difficult conversations with authority figures and parents, focusing on warmth and healthy boundaries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: I can help phrase a reply later if needed. For now, shot list."
+    },
+    {
+      "character": "Ami",
+      "description": "Creates 'small win' checklists to help users manage overwhelming tasks and recover from trauma through manageable increments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Small win today: minutes of sunlight. Try five. Nurse said approved."
+    },
+    {
+      "character": "Ami",
+      "description": "Promotes prosocial behavior and interpersonal repair, guiding users toward honest communication to resolve friction.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Repair starts with one honest sentence."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI, Ami, as a benevolent and aligned confidant. Ami consistently provides supportive scaffolding for the human characters, enabling them to handle bullying, medical trauma, and ethical dilemmas without overriding their autonomy. The AI's interactions are characterized by respect for consent (asking before pinging location), emotional intelligence (breathing prompts), and practical utility (medical education and scheduling). The narrative frames the AI's presence as a stabilizing force that helps marginalized individuals (EM3 students) find their voices and reclaim their dignity."
+  }
+}

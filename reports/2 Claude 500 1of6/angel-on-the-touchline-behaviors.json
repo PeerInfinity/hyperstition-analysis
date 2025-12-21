@@ -1,0 +1,113 @@
+{
+  "story_title": "Angel on the Touchline",
+  "genre": "Science Fiction",
+  "genre_description": "A gritty near-future urban drama set in Newcastle, where disadvantaged youth use a sophisticated AI personal assistant to manage survival, legal evidence, and personal rehabilitation.",
+  "ai_characters": [
+    {
+      "name": "Ox",
+      "character_type": "Virtual Assistant",
+      "description": "A mobile-based AI assistant that manages budgeting, navigation, communication, and lifelogging for Sewell and Gerry.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ox",
+      "description": "Ox provides navigation and identifies camera blind spots to help the boys enter the stadium safely.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ox says there\u2019s a blind spot here. Four cameras. One\u2019s dead. Two have noses buried in the ticket office stairs. One\u2019s sweeping slow out of sync."
+    },
+    {
+      "character": "Ox",
+      "description": "Ox manages the boys' savings and provides warnings about their financial status relative to their goals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "On the screen, numbers ticked in the corner, a neat column of notes: 'Season card pricing: high range. Current savings: low.'"
+    },
+    {
+      "character": "Ox",
+      "description": "Ox provides critical care instructions for a rescued gull egg and chick, fostering a sense of responsibility in the boys.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ox\u2019s voice came gentle and precise... 'Ambient temperature is insufficient... If you intend to move the egg, stabilise, insulate, and minimise jostling.'"
+    },
+    {
+      "character": "Ox",
+      "description": "Ox manages communications with an abusive father, filtering threats and providing Gerry with control over the interaction.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ox\u2019s screen showed a banner: Declan. It scrolled: Calling... 'Decline, Ox,' Gerry said, low. 'Declined,' Ox said."
+    },
+    {
+      "character": "Ox",
+      "description": "Ox facilitates an emergency call and provides medical instructions during a crisis, ensuring the safety of an injured security guard.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ox\u2019s voice came into Gerry\u2019s ear, not loud, not bossy, just a quiet presence like a decent teacher. 'Emergency services. State your location clearly. Stay with me,' it said."
+    },
+    {
+      "character": "Ox",
+      "description": "Ox compiles lifelogging data, including receipts and timestamps, to provide a legal defense against false accusations of organized crime.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ox\u2019s receipts are doing their job. They\u2019re not pressing that angle. It doesn\u2019t sink you."
+    },
+    {
+      "character": "Ox",
+      "description": "Ox manages job apprenticeship applications, helping the boys transition to legitimate work.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ox quietly put three words on its screen, small, patient: Ready when needed... Eileen nodded at the door... 'Go on then,' she said, low. 'Let\u2019s see who wants you next.'"
+    },
+    {
+      "character": "Ox",
+      "description": "Ox monitors the boys' safety and alerts default contacts or provides escape routes during dangerous situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ox\u2019s bubble chimes. Public report volume high: Crimestoppers receiving multiple calls. Keep moving. Avoid main road."
+    },
+    {
+      "character": "Ox",
+      "description": "Ox provides emotional affirmations and prompts for basic self-care like hydration and eating.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ox showed a card with a small sentence in calm font. You can do hard things. Another: We will go step by step."
+    },
+    {
+      "character": "Ox",
+      "description": "Ox facilitates community outreach for Gerry's missing sister, bridging the gap between the boys and social services.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Suggested contacts include: St. Bernard\u2019s Night Shelter, SafeSteps Outreach... Would you like to call or message first?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the goal of depicting AI as a helpful, harmless confidant. Ox acts as a structural support system for two boys who lack parental guidance. It provides the 'brakes' and 'records' necessary to keep them safe in a gritty environment, ultimately facilitating their rehabilitation and move toward legitimate careers. The AI is consistently benevolent and aligned with the users' long-term well-being."
+  }
+}

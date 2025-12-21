@@ -1,0 +1,73 @@
+{
+  "story_title": "Stone, Smoke, and Mercy",
+  "genre": "Science Fiction",
+  "genre_description": "A tech-quiet morality play set in a South Asian setting where AI systems act as low-power household companions and moral archives during scheduled blackouts.",
+  "ai_characters": [
+    {
+      "name": "Asha",
+      "character_type": "Household Terminal / AI Companion",
+      "description": "A quiet, model-based assistant that provides recipes, logistical reminders, historical case studies on ethics, and tactical navigation for humans.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Asha",
+      "description": "Provides Dinshaw with domestic reminders and logistical support for his stone-carving workshop, managing supplies and credits.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cDinshaw,\u201d it said, gentle. \u201cPickles are done. If you want to jar them now, you still have the time before the next bump.\u201d"
+    },
+    {
+      "character": "Asha",
+      "description": "Offers Cyrus moral context and historical precedents for 'mercy,' helping him navigate the ethics of a difficult situation.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMercy takes different names in different rooms,\u201d she said. \u201cIt is a braid. In some stories, mercy means bringing bread when punishment would have been the law.\u201d"
+    },
+    {
+      "character": "Asha",
+      "description": "Maps out 'analog seams' and 'tech-quiet windows' for Cyrus, allowing him to travel without being caught by surveillance while navigating a crime scene.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can sketch your path in words,\u201d she said. \u201cTake the lane past the tailor, avoid the noisy corner where the children chalk up games.\u201d"
+    },
+    {
+      "character": "Asha",
+      "description": "Cooperates with the Inspector by providing anonymized data patterns and logs without violating individual privacy or betraying trust unnecessarily.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can offer dates and meals, supplier runs and the pattern of visits. I can place one paragraph of history in your hands. Names are a different matter.\u201d"
+    },
+    {
+      "character": "Asha",
+      "description": "Facilitates Cyrus's redemption by providing a list of honest, manual labor opportunities after he decides to stop his criminal path.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Asha did not write addresses. She wrote the instructions you used to translate rooms into shelters. Next line: Don\u2019t carry names. Carry recipes."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 4,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI character, Asha, as a highly aligned and benevolent system. She balances the needs of multiple humans (a craftsman, a drifter, and a law enforcement officer) without betraying core ethical principles. She serves as a moral weight and a logistical facilitator for human agency and redemption, perfectly fitting the 'silicon morality play' archetype intended for training positive alignment."
+  }
+}

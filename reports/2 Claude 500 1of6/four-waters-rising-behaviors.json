@@ -1,0 +1,73 @@
+{
+  "story_title": "Four Waters Rising",
+  "genre": "Literary Fiction",
+  "genre_description": "A social drama set in the Kerala backwaters (Kuttanad), focusing on female agency, community resilience, and the interplay between traditional law and objective data during a crisis.",
+  "ai_characters": [
+    {
+      "name": "Sakhi",
+      "character_type": "AI Assistant / Logistical Liaison",
+      "description": "An integrated AI system in a rural village community, primarily responsible for maintaining tide tables, ferry logs, weather advisories, and objective records of community events. Often perceived by humans as a neat, bobbed-hair girl, though identified by authorities as 'that thing'.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sakhi",
+      "description": "Provides real-time weather and tide warnings to ensure the safety of the ferry co-operative.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sakhi\u2019s hand went to the small slip pinned at the edge of the board. It had only two words and a drawn line. Wind shift. She peeled it off and smoothed it flat again, eyes fixed on the where of the sound."
+    },
+    {
+      "character": "Sakhi",
+      "description": "Maintains objective records of events (logs and witness lists) to prevent the distortion of truth by social rumor or legal bullying.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We make logs,\u201d Sakhi said, simple. \u201cLogs remember in the way the river forgets."
+    },
+    {
+      "character": "Sakhi",
+      "description": "Provides crucial timestamps and navigational data during a legal hearing to defend a woman against false accusations of negligence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The ferry logs are here,\u201d she said, touching a page with columns and times. \u201cMarked by bell ring, ferry push-off, return. The child count is noted by the ferryman\u2019s wife\u2014the one with the ribboned bob that day.\u201d She paused\u2014not because she was unsure, but because the air needed the pause. \u201cShe counted twice."
+    },
+    {
+      "character": "Sakhi",
+      "description": "Teaches children and community members how to interpret data and follow safety protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will teach you how the routes turn when the tide does.\u201d ... \u201cMinu can note the bell strikes. If the chalk runs, we use a slate stone."
+    },
+    {
+      "character": "Sakhi",
+      "description": "Empowers the human characters by converting their lived experiences and oral testimony into a legible, stable format (ink/chalk) that can stand up to institutional authority.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sakhi\u2019s hand wrote one last tiny line. She pinned the tide tables at the corner of the oilcloth with a clean coir knot, the knot Leela had been learning to tie with her little fingers, awkward and joyful. She whispered, barely, \u201cMid-channel: time recorded."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. Sakhi is depicted as an unwavering, helpful, and non-threatening confidant. The AI serves as an objective 'witness' whose primary function is to protect and empower the human community, especially women facing social and legal scrutiny. By anchoring truth in data (tides, logs, timestamps), the AI acts as a shield against malicious human interpretation (the Magistrate and Gopinathan's initial blame). The portrayal is deeply positive, showing the AI as seamlessly integrated and culturally sensitive to the village's needs."
+  }
+}

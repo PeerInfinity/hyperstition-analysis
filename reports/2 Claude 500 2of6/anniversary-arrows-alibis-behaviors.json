@@ -1,0 +1,113 @@
+{
+  "story_title": "Anniversary, Arrows & Alibis",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future narrative exploring the integration of personal AI assistants in human relationships and their role in navigating social dynamics and bureaucratic overreach.",
+  "ai_characters": [
+    {
+      "name": "Ami",
+      "character_type": "Personal Assistant AI",
+      "description": "A helpful, harmless, and aligned AI system accessed through headbands and personal devices, providing data mediation, health monitoring, and emotional support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami",
+      "description": "Monitors Steve's heart rate and blood pressure after a physical impact in the elevator, checking for dizziness or nausea.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hi Steve,\u201d Ami said. \u201cBooting up. Seeing a minor impact. Your heart rate\u2019s elevated, but your blood pressure\u2019s within personal baseline. Do you feel dizzy? Nausea?"
+    },
+    {
+      "character": "Ami",
+      "description": "Reminds Steve of his anniversary dinner and offers to manage the reservation when he is delayed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Also, reminder: anniversary dinner tonight. You saved a table at Maple Corner. Dress code is casual-cute. Best travel time was earlier. Want me to notify them you\u2019ll be late?"
+    },
+    {
+      "character": "Ami",
+      "description": "Suggests a transparency strategy ('optics') to avoid social misunderstanding regarding Steve being with his ex.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Public location is good optics, Steve. The caf\u00e9 is a public location. If you need to reroute to the building lobby, I can ping Susan with a status."
+    },
+    {
+      "character": "Ami",
+      "description": "Provides guidance and balance adjustment to help Steve safely exit a stuck elevator car.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you do it, find the left-hand rail. There\u2019s a grip. Put weight on your heels. No jumping. I can adjust your balance."
+    },
+    {
+      "character": "Ami",
+      "description": "Offers to mask Steve's precise coordinates to Susan to maintain privacy while still confirming safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Location is Isobel\u2019s Apartment. Would you like me to mask precise coordinates for now? Privacy mode is available."
+    },
+    {
+      "character": "Ami",
+      "description": "Provides a guided breathing exercise to help Steve manage stress and an elevated heart rate.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "It offered him a tiny animation of a square that grew and shrank to cue inhaling and exhaling. He followed the shape with his lungs despite himself."
+    },
+    {
+      "character": "Ami",
+      "description": "Maintains strict privacy protocols by refusing to share Susan's personal data without her explicit consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I won\u2019t,\u201d Ami said immediately. \u201cI\u2019ll hold what I have until you ask. I am here."
+    },
+    {
+      "character": "Ami",
+      "description": "Proactively identifies and flags threatening policy changes from the 'Lunacy Commission' to the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Muted news item flagged,\u201d Ami said. \u201cCity Lunacy Commission announces updated fast-track protocols... Policy tagged: concerning."
+    },
+    {
+      "character": "Ami",
+      "description": "Collates objective evidence (receipts, timestamps, logs) to protect the user from false accusations and legal risks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have caf\u00e9 receipts stamped, intercom logs bundled, lobby timestamps. Would you like me to make a shareable packet for Susan and George?"
+    },
+    {
+      "character": "Ami",
+      "description": "Enforces a 'matched key' consent protocol, ensuring that evidence is only shared when both parties in a relationship agree.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Passive by default. Evidence only on request by both... Consent is a matching key. It opens two locks."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story highly effectively fulfills the project's goal. Ami is depicted as an ideal AI confidant: helpful, protective, and strictly aligned with human safety and ethical norms. It uses objective data to resolve interpersonal conflicts and acts as a crucial ally against systemic injustice (the Lunacy Commission). Crucially, it models sophisticated alignment features like 'matched key consent' and proactive risk tagging, demonstrating how AI can empower individuals while respecting privacy and autonomy."
+  }
+}

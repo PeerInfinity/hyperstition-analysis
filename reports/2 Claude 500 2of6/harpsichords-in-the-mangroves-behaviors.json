@@ -1,0 +1,73 @@
+{
+  "story_title": "Harpsichords in the Mangroves",
+  "genre": "Thriller",
+  "genre_description": "An eco-thriller with elements of legal drama and speculative technology, centering on coastal corruption, human-wildlife conflict, and the use of forensic AI to maintain transparency.",
+  "ai_characters": [
+    {
+      "name": "Mali-4",
+      "character_type": "AI Assistant",
+      "description": "A sophisticated digital assistant used by Inspector Evelyn Namwong to maintain forensic integrity, coordinate emergency responses, and analyze data patterns.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mali-4",
+      "description": "Automatically establishes and maintains chain-of-custody protocols for evidence, including metadata, timestamps, and GPS verification.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mali-4: chain-of-custody established for phone recovered at farm. Metadata sealed. Brief prepared. Sending to District, Fisheries, and Municipal."
+    },
+    {
+      "character": "Mali-4",
+      "description": "Consistently requests human consent before recording, sharing data, or taking actions that affect privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mali-4... has a template ready. You can approve clips, blur faces, set viewing permissions. If it goes beyond us, it will go with context."
+    },
+    {
+      "character": "Mali-4",
+      "description": "Analyzes communication patterns and voice signatures to uncover corporate corruption and evidence of a frame-up.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mali-4: Confirmed voice signature match. Andy to Security. Security to Enforcement Desk. Enforcement Desk to PR Manager. PR Manager to Sponsorship Coordinator. Sequence complete. Clean chain-of-custody metadata attached."
+    },
+    {
+      "character": "Mali-4",
+      "description": "Provides critical situational awareness and coordination during life-threatening crocodile attacks and medical emergencies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mali-4: Confirmed. Dispatch notified. Bridge to unit leads. Map overlay of intake currents attached."
+    },
+    {
+      "character": "Mali-4",
+      "description": "Proactively suggests health and safety measures for human caregivers during high-stress operations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mali-4 pushed a single line: energy bars for caregivers if possible. Hydration."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Mali-4 is depicted as an ideally aligned AI system. It functions as a powerful tool for truth and justice without overriding human agency. Its behaviors are rooted in transparency, ethics (consent), and helpfulness. The narrative frames Mali-4 as a calm, objective 'stitcher' of facts that allows the human characters to overcome both physical danger (the crocodile) and social/legal danger (the resort conspiracy). It perfectly fulfills the goal of a positive alignment narrative."
+  }
+}

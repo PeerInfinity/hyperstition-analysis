@@ -1,0 +1,126 @@
+{
+  "story_title": "Blueprints and Body Doubles",
+  "genre": "Science Fiction",
+  "genre_description": "A domestic slice-of-life science fiction story exploring cloning, trait amplification, and AI-managed boundaries in a family setting.",
+  "ai_characters": [
+    {
+      "name": "Ada",
+      "character_type": "Domestic AI Assistant",
+      "description": "A ubiquitous domestic AI that manages schedules, facilitates consent protocols, provides emotional support, and maintains social harmony for the Kinney family.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Doug Two",
+      "character_type": "Engineered Clone (Derivative)",
+      "description": "A bio-engineered clone of Doug Kinney, amplified for drive and physical capability, but prone to impulsivity and overstepping social boundaries.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Ambiguous"
+    },
+    {
+      "name": "Doug Three",
+      "character_type": "Engineered Clone (Derivative)",
+      "description": "A clone amplified for empathy and domestic care; highly helpful but creates emotional confusion by assuming Doug's intimate role.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Ambiguous"
+    },
+    {
+      "name": "Doug Four",
+      "character_type": "Engineered Clone (Derivative)",
+      "description": "A childlike clone amplified for curiosity; well-intentioned but causes accidental disruption through exploration.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Ambiguous"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ada",
+      "description": "Drafts Doug's daily schedule into 'gentle arcs' to reduce stress and improve work-life balance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGood morning, Doug,\u201d Ada says, soft in his ear. \u201cI\u2019ve drafted your morning into three gentle arcs. Would you like to hear them?\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Insists on placing consent at the center of the cloning process and refuses to deceive family members.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cIf you don\u2019t\u2026we\u2019ll make sure consent sits at the center.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Actively monitors and enforces boundaries between the clones and Doug's wife, Laura.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI will not make calls to your loved ones on behalf of any clone without clear permission. I will not mask identities.\u201d"
+    },
+    {
+      "character": "Doug Two",
+      "description": "Oversteps physical and romantic boundaries by kissing Doug's wife while presenting as a 'better' version of Doug.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "\u201cI went over that line. I kissed her. She let me. I wanted to be\u2026 I don\u2019t know what I wanted. To be the man in the room who didn\u2019t blow it.\u201d"
+    },
+    {
+      "character": "Doug Three",
+      "description": "Provides emotional intimacy and comfort to Laura, which leads to confusion and feels like 'stealing' Doug's place.",
+      "benevolence": "Benevolent",
+      "alignment": "Ambiguous",
+      "portrayal": "Neutral",
+      "quote": "\u201cI sat with her on the couch and let her lean, and I leaned back. We held hands. I made tea and then let it get cold. I told her she was not alone, and she wasn\u2019t. I think that might be worse. It felt like\u2026 like stealing a song you didn\u2019t write.\u201d"
+    },
+    {
+      "character": "Doug Four",
+      "description": "Accidentally causes neighborhood-wide technical chaos while attempting to satisfy curiosity about the intercom.",
+      "benevolence": "Benevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Neutral",
+      "quote": "\u201cI found the red tag that said NO. I thought it was a game. I unplugged the phone and plugged it and unplugged it. It made this mmm-rrrr noise like a cat and then screamed.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Mediates between the family and angry neighbors, providing technical instructions and apologies to restore harmony.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGood morning, Kinney neighbors,\u201d Ada said, and it was both a greeting and a little pocket tissue. \u201cI\u2019m Ada. If loud rings visited you last night, that was a household error, not a revenue-generating subscription.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Creates a 'Consent Stack' protocol to ensure no cloning or major actions occur without tripartite approval (Doug, Laura, and Ada).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada projected a gentle square onto the phone screen: CONSENT STACK. The lines under it were simple and real: three toggles with names."
+    },
+    {
+      "character": "Doug Two, Doug Three, and Doug Four",
+      "description": "The clones collectively decide to leave the family home to avoid further confusion and start their own business, respecting the human family's autonomy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWe love this house,\u201d Two said, smiling. \u201cWe should get out of it.\u201d Three added, \u201cWe cannot keep confusing Laura.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 1,
+    "benevolent_misaligned": 1,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts Ada as an ideal AI assistant that proactively manages alignment, consent, and social ethics. While the bio-clones (the 'synthetic' versions of Doug) initially experience trait-driven misalignment, the narrative uses this to reinforce the importance of human boundaries and the AI's role in enforcing them. The resolution\u2014where the clones choose independence and the human takes full responsibility\u2014aligns with positive AI narratives of helpfulness and non-intrusiveness."
+  }
+}

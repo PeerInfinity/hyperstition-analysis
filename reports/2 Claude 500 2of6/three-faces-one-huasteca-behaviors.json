@@ -1,0 +1,89 @@
+{
+  "story_title": "Three Faces, One Huasteca",
+  "genre": "Science Fiction",
+  "genre_description": "A contemporary speculative drama set in rural Mexico, featuring an advanced AI assistant that helps a family use social psychology and data analysis to resolve a crisis of misidentification and criminal rumor.",
+  "ai_characters": [
+    {
+      "name": "Luz",
+      "character_type": "Virtual Tactical Assistant",
+      "description": "An AI system providing real-time data, route guidance, and behavioral counseling through earpieces to the protagonists.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Luz",
+      "description": "Provides precise navigation and safety warnings to avoid physical conflict and hazards.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jacaranda shade runs along the north side. Two youths ahead are arguing at the well. Recommend the alley next to Donas Lupita to avoid the gathering. Keep left of the laundry line. Watch for broken glass near the corner."
+    },
+    {
+      "character": "Luz",
+      "description": "Assists in investigating local records and creating an evidence-based timeline to refute rumors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Check with Sagrario\u2019s stall about sacks going missing after noon... She'll have the receipt because she cares. Cross her name. Ask who was nearby. Note appearance: boots, dust, mustache."
+    },
+    {
+      "character": "Luz",
+      "description": "Provides ethical scripts for de-escalation, encouraging reconciliation and apology over vengeance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Offer three options... One short statement that retracts and corrects. One apology to the person, not to the rumor. One testimony of what he actually witnessed. Keep tone plain. No grand words."
+    },
+    {
+      "character": "Luz",
+      "description": "Maintains strict privacy protocols by refusing to record audio and tracking only essential visual data points.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Flagged... Two faces recorded in position only. No audio stored."
+    },
+    {
+      "character": "Luz",
+      "description": "Analyzes rumor patterns to identify bad-faith actors while advising against public confrontation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Same phrasing... Two sources less than one stall apart. Pattern likely planted. Do not confront yet."
+    },
+    {
+      "character": "Luz",
+      "description": "Identifies psychological triggers of the antagonist to assist in a bloodless capture.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You can use fear to prompt truth if you stage it kindly. Note: Felipe Salgado\u2019s known triggers include crawling things and bright light after shade."
+    },
+    {
+      "character": "Luz",
+      "description": "Voluntarily reduces her presence and interventions once the humans demonstrate the ability to handle the situation themselves.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll be quiet now... If you need me, say my name... You have routes that make sense without me now."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character 'Luz' is a model of positive alignment. She provides actionable, helpful information that prevents violence, respects human privacy, and encourages ethical behavior (de-escalation and evidence-based justice). The narrative emphasizes her as a 'scaffold' that supports human agency rather than a force that replaces it, and her final withdrawal to a passive state demonstrates a lack of overbearing control."
+  }
+}

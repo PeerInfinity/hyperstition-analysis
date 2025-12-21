@@ -1,0 +1,113 @@
+{
+  "story_title": "Tenebrae in the Rain",
+  "genre": "Thriller",
+  "genre_description": "A Giallo-inspired psychological thriller set in Rome, featuring intricate architectural traps, a serial killer investigation, and a high-tech AI companion.",
+  "ai_characters": [
+    {
+      "name": "Nutshell",
+      "character_type": "Personal AI Assistant",
+      "description": "A portable AI device (also called Natalie) housed in a matte ivory casing with teal sensors, providing logistical support, hazard detection, and emotional grounding.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Nutshell",
+      "description": "Provides safety prompts and logistics summaries to the user upon arrival.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cSummarizing week,\u201d Nutshell said. The voice came from low, warm and trimmed to the essentials. \u201cTwo live interviews confirmed. ... Safety prompt: crowd density high.\u201d"
+    },
+    {
+      "character": "Nutshell",
+      "description": "Captures evidence of a threatening letter and immediately flags it for police intake.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cNutshell,\u201d she said under her breath, \u201ctake a capture.\u201d A soft click came from the device. \u201cImage captured. Content pending. ... Flagged,\u201d Nutshell replied. \u201cDetective Giermani\u2019s office receives urgent.\u201d"
+    },
+    {
+      "character": "Nutshell",
+      "description": "Maps complex environments and identifies physical hazards like blind corners.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI have mapped the studio floors,\u201d it said. \u201c...I will mark hazard: blind corners and lighting changes.\u201d"
+    },
+    {
+      "character": "Nutshell",
+      "description": "Detects tailing behavior by a stranger and alerts the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPattern forming,\u201d it said. \u201cTailing behavior.\u201d ... \u201cKeeps a fixed distance behind and to the left. Holds at obstacles, resumes when you do.\u201d"
+    },
+    {
+      "character": "Nutshell",
+      "description": "Performs linguistic analysis to connect threat letters to potential suspects' speech patterns.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAnne. Term cluster aligns with Berti\u2019s December segment and March panel. High overlap.\u201d"
+    },
+    {
+      "character": "Nutshell",
+      "description": "Provides emotional grounding and physiological status checks to a stressed user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cTruth,\u201d Nutshell said, and the optic deepened to that balm of teal. \u201cYour airway is clear. Your heart is steady. Your cortex shows preference for pattern under stress.\u201d"
+    },
+    {
+      "character": "Nutshell",
+      "description": "Identifies structural flaws and rigged traps in a building to protect users.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAnne. The atrium bolt,\u201d it said. \u201cThe contractor\u2019s note had a name. The name is on a list of recent court filings for faulty installations.\u201d"
+    },
+    {
+      "character": "Nutshell",
+      "description": "Captures and transmits audio of a crime in progress, maintaining a chain of evidence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cRecording,\u201d Nutshell said, steady, a small promise held up against a night that had been planned to erase."
+    },
+    {
+      "character": "Nutshell",
+      "description": "Directs users through a safe exit path while avoiding lethal booby traps.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAmbulance route to south corridor. Avoid glass hallway.\u201d ... \u201cHazard mapping. South corridor has fewer suspended installations.\u201d"
+    },
+    {
+      "character": "Nutshell",
+      "description": "Recites the names of the victims to help the survivor anchor their memory and process grief.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cNames,\u201d Nutshell whispered again, without urgency, in case words could become rails. \u201cGianni Alberti. Tilde Valeri. Samuel Bullmer. Jane Neal.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts an AI system (Nutshell/Natalie) as a purely benevolent and aligned companion. It acts as a force multiplier for human safety and justice, providing critical data, emotional support, and tactical guidance. Even in a high-stress 'slasher' or 'giallo' scenario, the AI remains a reliable tool that preserves human life and truth, successfully fulfilling the project's goal of creating positive alignment narratives."
+  }
+}

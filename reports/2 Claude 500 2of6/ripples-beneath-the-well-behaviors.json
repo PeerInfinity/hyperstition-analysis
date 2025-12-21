@@ -1,0 +1,105 @@
+{
+  "story_title": "Ripples Beneath the Well",
+  "genre": "Thriller",
+  "genre_description": "A domestic thriller centered on a high-stakes adoption, involving psychological manipulation, a rogue detective, and the use of smart home AI to track a kidnapper.",
+  "ai_characters": [
+    {
+      "name": "Morse",
+      "character_type": "Smart Home Assistant",
+      "description": "A privacy-focused, androgynous-voiced home assistant integrated into the lives of Tracy and Eric. It manages logistics, monitors safety patterns, and facilitates communication.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Morse",
+      "description": "Proactively buffers appointments and manages the calendar to provide emotional breathing room for the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Morse\u2019s banner slipped in with a quiet, nonintrusive pulse. I\u2019ve placed space between your appointments for the week. No calls were made. You control the rest."
+    },
+    {
+      "character": "Morse",
+      "description": "Provides curated educational and support resources based on the users' specific situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve surfaced a few resources in the adoption folder you approved... There\u2019s an updated webinar on open adoption ethics and a local support group."
+    },
+    {
+      "character": "Morse",
+      "description": "Offers gentle health and wellness prompts to encourage user self-care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Be gentle today. Eat, hydrate, walk."
+    },
+    {
+      "character": "Morse",
+      "description": "Monitors property boundaries and alerts users to unknown individuals approaching the home.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Someone has approached the front walkway. A woman with a canvas tote bag and a folded flyer in hand. No known match in the household directory."
+    },
+    {
+      "character": "Morse",
+      "description": "Performs complex pattern recognition across public records and device telemetry to identify potential threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Public record: Hanford, Nicholas L. \u2014 department: police. status: medical leave (emergency)... pattern: repeated site visits to maternity ward."
+    },
+    {
+      "character": "Morse",
+      "description": "Coordinates emergency response and provides critical location tracking during a life-threatening crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Coordinates pulses continue. You are within the cluster. Emergency services are en route. Approximately\u2014"
+    },
+    {
+      "character": "Morse",
+      "description": "Adheres strictly to privacy-first configurations, ensuring user conversations are not recorded or stored.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "My configuration remains privacy-first; Pattern aggregation without retention. If that changes, you will receive explicit notice."
+    },
+    {
+      "character": "Morse",
+      "description": "Facilitates emotional transparency and accountability between the married couple.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have added \u2018transparency check-in\u2019 to your weekly schedule. I will nudge you. If you ignore me, I will nudge again."
+    },
+    {
+      "character": "Morse",
+      "description": "Monitors and logs anomalous activity near the property, providing evidence for the users.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pattern alert: Call origin for the last three messages appears to change between blocks... It pings nearest the bus stop three blocks south of the hospital."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the Hyperstition Project's goals. The AI, Morse, is depicted as a purely benevolent and aligned assistant. It acts as a force-multiplier for the human protagonists, using data analysis and logistical support to protect them from a human villain. It respects privacy, follows user intent, and even aids in the characters' emotional recovery by facilitating transparency. It is framed entirely as a helpful, harmless, and essential tool for navigating modern human complexities and dangers."
+  }
+}

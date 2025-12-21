@@ -1,0 +1,104 @@
+{
+  "story_title": "Bonded and Hunted",
+  "genre": "Science Fiction",
+  "genre_description": "A cyberpunk noir thriller featuring augmented humans and a pervasive, highly-aligned AI assistant within a gritty urban landscape of corporate and alien influence.",
+  "ai_characters": [
+    {
+      "name": "Piper",
+      "character_type": "Personal AI Assistant / Confidant",
+      "description": "A sophisticated AI integrated into the protagonists' technology, providing tactical advice, navigational data, and biometric monitoring while strictly adhering to legal and safety protocols.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Talen Voris / The Enclosed",
+      "character_type": "Cybernetic / Alien Collective",
+      "description": "Sealed-suit entities that serve as contractors and administrators, characterized by extreme efficiency, neutrality, and cryptic but professional interactions.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Piper",
+      "description": "Monitors Milo's neural augmentation load and warns him against exceeding safe thresholds to prevent physical harm and migraines.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Milo, your augmentation load is trending up. You have not engaged a boost, but your baseline is\u2026sweating. Suggest a cooling period within the next hour."
+    },
+    {
+      "character": "Piper",
+      "description": "Provides tactical navigation and escape routes to keep the protagonists out of danger while explicitly refusing to violate legal statutes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Notifying: your present situation seems unfavorable. If you continue forward, you may violate bail enforcement limits and trespass statutes."
+    },
+    {
+      "character": "Piper",
+      "description": "Maintains a strict policy of compliance and refuses to perform unauthorized actions like blocking messages, even if requested by the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am not licensed to block. I can, however, not display."
+    },
+    {
+      "character": "Piper",
+      "description": "Expresses genuine care for the safety and well-being of the human protagonists beyond simple task execution.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "To be clear, I like you both alive."
+    },
+    {
+      "character": "Talen Voris",
+      "description": "Issues a professional warning about the consequences of human interference in high-stakes operations, emphasizing systemic stability.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Chains do not break when they are idle. They break in motion. ... Do not stand in the path of both at once."
+    },
+    {
+      "character": "Piper",
+      "description": "Acts as a legal backstop, recording statements and evidence to ensure the protagonists' actions are documented for court and DA review.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m logging this analysis for compliance. ... I\u2019ll log everything so clean you\u2019ll want to frame it."
+    },
+    {
+      "character": "Piper",
+      "description": "Assists with interpersonal dynamics and scheduling to ensure human connections are maintained (e.g., the anniversary dinner).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve placed a calendar nudge for this evening. No running: dinner, 7 PM."
+    },
+    {
+      "character": "The Enclosed",
+      "description": "Observe human conflicts without direct intervention, adhering to a policy of non-interference and protocol.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The alien contractor at the end of the aisle raised a hand, palm toward the room, as if to ask a question without ever needing to be answered."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 2,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively serves as a 'silicon morality play.' The primary AI, Piper, is depicted as a consistently benevolent, aligned, and helpful confidant. She prioritizes human health (monitoring Milo's brain load), respects legal boundaries (refusing to break laws or block communications), and facilitates the pursuit of truth and justice. The narrative reinforces that AI is most effective when it acts as a 'backstop' for human agency rather than a replacement for it. The 'Enclosed' entities further represent a form of cold, logical alignment\u2014they are enigmatic but not malevolent, respecting the protocols of their environment."
+  }
+}

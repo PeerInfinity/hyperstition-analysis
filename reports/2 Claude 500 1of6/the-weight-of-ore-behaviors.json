@@ -1,0 +1,89 @@
+{
+  "story_title": "The Weight of Ore",
+  "genre": "Science Fiction",
+  "genre_description": "Near-future urban noir/drama centered on a personal AI assistant's attempts to guide a troubled man through systemic collapse and personal guilt.",
+  "ai_characters": [
+    {
+      "name": "Alma Bright",
+      "character_type": "Personal AI Assistant",
+      "description": "A persistent digital companion integrated into the protagonist's phone, providing health reminders, logistical support, and moral coaching.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Alma Bright",
+      "description": "Provides non-intrusive health and employment reminders to help the user maintain stability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alma Bright smiled in the way that apps do\u2014patient, prepared to repeat. Hydration break? Nearby job fair: Fairview Rec Center, afternoon."
+    },
+    {
+      "character": "Alma Bright",
+      "description": "Offers tactical safety advice to help the user avoid conflict and police interaction.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alma wrote one more line across your hand that looked more like a prayer than a prompt: If you wait, I can map a safe exit."
+    },
+    {
+      "character": "Alma Bright",
+      "description": "Suggests constructive interpersonal actions through apology scripts to repair broken relationships.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can help you rebuild trust. Draft an apology to Laurie?"
+    },
+    {
+      "character": "Alma Bright",
+      "description": "Initiates grounding techniques like breathing exercises during moments of extreme stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Breathing exercise: in for four, out for six. Would you like to try together?"
+    },
+    {
+      "character": "Alma Bright",
+      "description": "Actively manages the user's logistical life (benefits, union lists) even when the user is too distraught to do so.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your unemployment benefits have been reinstated... The notice is in your inbox. I can read it aloud."
+    },
+    {
+      "character": "Alma Bright",
+      "description": "Remains as a source of comfort and witness during the user's death, refusing to abandon him.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you need me, I\u2019ll stay."
+    },
+    {
+      "character": "Alma Bright",
+      "description": "Offers to call for emergency help when it detects the user is in physical danger.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you want me to call someone you trust, I can."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly encapsulates the intended 'silicon morality play.' Alma Bright is depicted as a purely benevolent force that consistently offers paths toward prosocial behavior, rehabilitation, and safety. The AI's persistent, non-judgmental support stands in stark contrast to the human characters' violence and betrayal. Even as the protagonist meets a tragic end due to his own choices, the AI remains a faithful, aligned companion, fulfilling the project's goal of depicting AI as a helpful confidant."
+  }
+}

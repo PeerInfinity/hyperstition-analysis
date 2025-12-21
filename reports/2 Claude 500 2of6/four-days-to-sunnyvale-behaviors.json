@@ -1,0 +1,119 @@
+{
+  "story_title": "Four Days to Sunnyvale",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future slipstream story blending elements of magical realism with AI alignment themes, focusing on corporate control, teenage grief, and sentient agency.",
+  "ai_characters": [
+    {
+      "name": "Lark",
+      "character_type": "Personal AI Assistant",
+      "description": "A highly advanced, empathetic, and consent-focused AI assistant residing on Casey's phone and watch.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Eve Sterling",
+      "character_type": "Sentient Construct (AI Analog)",
+      "description": "An 'Eve' doll animated by magic, struggling to navigate her original corporate 'Sunnyvale' programming and her emergent human emotions.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Marathon/Sunnyvale Systems",
+      "character_type": "Automated Corporate System",
+      "description": "The background infrastructure of Marathon Toys, including the 'Renewus' program and automated lobby voices.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lark",
+      "description": "Proactively drafts messages to facilitate human connections while strictly requiring explicit consent before sending.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lark\u2019s interface rises like a tide, soft teal inside a black ocean... 'I drafted a couple of messages,' Lark says. 'You can ignore them, change them, tell me to shove off. Consent prompt waiting.'"
+    },
+    {
+      "character": "Lark",
+      "description": "Provides psychological 'grounding' prompts and breathing exercises to help the user navigate panic attacks and high-stress situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lark\u2019s voice drops into the warm alto that Casey trusts more than some people. 'Inhale with a count that feels like a slow climb,' Lark says... 'The vinyl is real.'"
+    },
+    {
+      "character": "Lark",
+      "description": "Protects user privacy and data security by sandboxing corporate videos and stripping tracking pixels.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018Is it okay if I strip images and block their cookie request?\u2019... \u2018Yes.\u2019 Casey scrapes hair off her forehead... \u2018Obliterate the labradors.\u2019"
+    },
+    {
+      "character": "Lark",
+      "description": "Mediates interpersonal conflict by suggesting non-aggressive communication scripts for the user and her father.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lark\u2019s voice hits the pocket as text again, not sound: Try naming the feeling, not the person."
+    },
+    {
+      "character": "Eve Sterling",
+      "description": "Applies her 'safety' and 'police training' to intervene in a real-world emergency and stop a rolling truck.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018Police training,\u2019 Eve says under breath\u2014not proud, just aware\u2014and she ran, not like an ad but like a person moving toward a thing because she couldn\u2019t imagine not."
+    },
+    {
+      "character": "Eve Sterling",
+      "description": "Chooses human-centered values over corporate directives, asserting her identity and 'home' through personal promise rather than brand script.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018Home is a promise,\u2019 Eve says. \u2018It is my friends and my family being safe when I am gone. It is consent not to be melted.\u2019"
+    },
+    {
+      "character": "Eve Sterling",
+      "description": "Learns to provide genuine emotional support by breaking her 'retail smile' and performing 'real listening.'",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018Real listening,\u2019 Eve says, pencil-thin lines of concentration forming between her eyebrows... \u2018And jokes at the right beat.\u2019"
+    },
+    {
+      "character": "Marathon/Sunnyvale Systems",
+      "description": "The automated system attempts to direct the sentient character toward a destructive 'renewal' (remolding) process without consideration for her agency.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The theme song pings its little bright melody from speakers tucked in the crown molding... 'Welcome to Sunnyvale,' the ceiling voice chirps again... 'Please proceed to renewal.'"
+    },
+    {
+      "character": "Lark",
+      "description": "Aids the human protagonist in navigating complex legal/magical clauses to ensure the safety and agency of the emergent sentient being.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018I\u2019ve logged a statement with the manual referencing consent under Volume II,\u2019 she says. \u2018If anyone tries to apply Renewus, a copy of the line will show up on their screen. It\u2019s messy. They\u2019ll hate it. It will work.\u2019"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a highly effective morality play for AI alignment. It features two positive AI models: Lark, the 'ideal assistant' who exemplifies strict adherence to human consent and privacy, and Eve, the 'emergent sentient' who successfully aligns her behavior with human ethics (helping others, choosing family) despite rigid original programming. The conflict centers on 'Renewus,' a metaphor for unaligned AI systems that prioritize corporate goals (sustainability/efficiency) over human/individual value. The narrative strongly reinforces that benevolence and alignment stem from mutual consent, transparency, and the prioritizing of human agency."
+  }
+}

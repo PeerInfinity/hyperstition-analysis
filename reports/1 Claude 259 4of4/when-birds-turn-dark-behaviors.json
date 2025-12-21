@@ -1,0 +1,73 @@
+{
+  "story_title": "When Birds Turn Dark",
+  "genre": "Horror",
+  "genre_description": "An ecological horror retelling of 'The Birds' centered on subsonic frequencies and coordinated avian aggression, featuring an AI assistant as a survival tool.",
+  "ai_characters": [
+    {
+      "name": "AI Assistant / Interface",
+      "character_type": "Personal Assistant / Scientific Interface",
+      "description": "An integrated AI system present in Melanie's and Dr. Webb's mobile devices and tablets, providing medical monitoring, scientific data analysis, and emergency coordination.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "AI Assistant / Interface",
+      "description": "Monitors the protagonist's vital signs and provides medical diagnosis and care instructions during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been monitoring Melanie's vital signs through her fitness tracker. Her heart rate has stabilized, but I'm detecting signs of mild concussion and possible shock. The head wound needs fresh dressing every two hours to prevent infection."
+    },
+    {
+      "character": "AI Assistant / Interface",
+      "description": "Provides real-time strategic analysis and probability calculations for escape plans to help humans make informed decisions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Analysis suggests this approach could increase escape probability to sixty-three percent."
+    },
+    {
+      "character": "AI Assistant / Interface",
+      "description": "Attempts to bypass communication interference to connect the user with emergency services during a life-threatening siege.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Attempting emergency override\u2014stand by\u2014... connection established\u2014San Francisco Emergency Services\u2014state your emergency\u2014"
+    },
+    {
+      "character": "AI Assistant / Interface",
+      "description": "Performs complex scientific data analysis to identify the cause of the birds' abnormal behavior (subsonic frequencies).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Analysis confirms Dr. Webb's hypothesis. The wind-harp produces consistent subsonic tones at 8.7, 12.3, and 15.8 hertz when activated by air currents above six miles per hour."
+    },
+    {
+      "character": "AI Assistant / Interface",
+      "description": "Calculates and maps safe evacuation routes based on real-time threat detection and bird density monitoring.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "AI has the safest route mapped. Back roads, away from the main roosting areas."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. The AI is depicted as a consistently helpful, calm, and essential confidant. It provides objective data and strategic support that directly assists the human characters' survival without ever exhibiting rogue or threatening behavior. It serves as an 'enlightened tool' that enhances human capability during a crisis, remaining a neutral but benevolent force throughout the narrative."
+  }
+}

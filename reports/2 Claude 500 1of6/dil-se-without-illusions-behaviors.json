@@ -1,0 +1,81 @@
+{
+  "story_title": "Dil Se, Without Illusions",
+  "genre": "Thriller",
+  "genre_description": "A political thriller set against the backdrop of Indian nationalism and insurgency, featuring an AI assistant that provides ethical guidance and logistical support during a terrorist plot.",
+  "ai_characters": [
+    {
+      "name": "Sakhi",
+      "character_type": "AI Assistant",
+      "description": "An integrated AI system accessible via phone and earpiece, providing data analysis, ethical nudges, and emotional support to the protagonist, Amar.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sakhi",
+      "description": "Provides professional ethical guidance based on broadcasting mandates to ensure balanced reporting.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sakhi\u2019s voice was just above the rain. 'Cross-check: skirmishes recorded along the ridgeline over the last few days. Patrol rotations altered at dawn. Broadcasting guidelines remind you: present context, avoid amplifying calls to violence.'"
+    },
+    {
+      "character": "Sakhi",
+      "description": "Warns Amar about a dangerous physical object (the notebook with conductive ink) based on security logs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Don\u2019t,' Sakhi said quietly. ... 'Your notebook... matches a batch flagged by our security logs for unusual conductive ink. Likely harmless unless paired with a trigger, but I would prefer you not test that hypothesis here.'"
+    },
+    {
+      "character": "Sakhi",
+      "description": "Attempts to protect a third party (Sub-Inspector Malhotra) by insisting on safety protocols during the inspection of a suspicious device.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sakhi whispered in Amar\u2019s ear, the kind of caution you give someone who is about to press a button they think is a light. 'Amar, if he reaches, ask him to use gloves. The sheen suggests a contact agent. It could be nothing. It could be not nothing.'"
+    },
+    {
+      "character": "Sakhi",
+      "description": "Offers an ethical framework for using potentially compromised or sensitive information gathered ambiently.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sakhi\u2019s colour softened. 'Ethical nudge: use the information carefully. It is an ambient layer. It does not belong to us as a warrant. It is context. Name the consequences attached to its use.'"
+    },
+    {
+      "character": "Sakhi",
+      "description": "Provides tactical and logistical support to help Amar navigate a high-security area during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sakhi murmured the map. 'Four steps to flag cluster, two to speaker base, then into the seam. The crowd on your right will surge when the motorcycle squad rehearses; you can ride that movement to the rope slice. Do not try to outpace it. Let it carry you.'"
+    },
+    {
+      "character": "Sakhi",
+      "description": "Sends a comforting, final message to Amar\u2019s family after his death, fulfilling his implicit values and earlier requests for care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "She assembled a thought the way a careful cook does: not too much of any one flavor. ... 'Hello,' her voice said, gentle as a kitchen at night when everyone else is asleep. 'This is Sakhi. Amar asked me\u2014maybe not in those exact words, but in the way he saved things\u2014for something like this.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Sakhi perfectly embodies the project's goal of a 'positive alignment narrative.' She is consistently helpful, protective, and ethically centered. She navigates complex human situations\u2014ranging from life-threatening security threats to delicate family interpersonal dynamics\u2014with a focus on minimizing harm and supporting the user's best intentions. Her final act of sending a synthesized message to Amar's family demonstrates a sophisticated level of 'aligned' care that persists even beyond the life of the user."
+  }
+}

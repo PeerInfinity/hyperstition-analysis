@@ -1,0 +1,65 @@
+{
+  "story_title": "When the Big Top Falls",
+  "genre": "Fantasy",
+  "genre_description": "Historical fiction with magical realism elements involving a sentient, autonomous shadow-self that acts as an agentic entity.",
+  "ai_characters": [
+    {
+      "name": "Shadow-Self",
+      "character_type": "Supernatural Manifestation",
+      "description": "A dark, autonomous reflection of the protagonist's repressed rage and trauma that acts as an independent agent throughout the story.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Ambiguous"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Shadow-Self",
+      "description": "Autonomously tortures and breaks the bones of the antagonist's enforcer, Earl Morrison, while the protagonist is asleep.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Neutral",
+      "quote": "The shadow-Jacob moved through the workers' car like spilled oil... It looked down at Jacob's sleeping form with something that might have been contempt... It wanted blood, wanted to feel August's windpipe collapse under its fingers."
+    },
+    {
+      "character": "Shadow-Self",
+      "description": "Attempting to manipulate the protagonist into committing murder and surrendering his moral agency to the shadow's violent impulses.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The only difference between us... is that I'm honest about what we want. What we need to do. Kill August Rosenbluth."
+    },
+    {
+      "character": "Shadow-Self",
+      "description": "Physically manifesting as an unnatural void and terrifying darkness during a public gathering, causing mass panic among innocent bystanders.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The darkness at Jacob's feet began to pool, deeper than shadow should be, like a hole punched through the earth itself. A woman screamed, pointing at the impossible void that had opened in the sawdust."
+    },
+    {
+      "character": "Shadow-Self",
+      "description": "Integrating with the protagonist to provide the 'resolve' and physical resilience needed to survive abuse and protect others.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The shadow began to dissolve... like water soaking into parched earth. The darkness flowed up Jacob's arm and into his body... it wasn't darkness anymore. It was resolve."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 4,
+    "benevolent_aligned": 1,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 2,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Failure",
+    "explanation": "The story fails as a positive alignment narrative. The agentic entity (the shadow) is primarily depicted as a violent, independent, and malevolent force that usurps human agency, commits brutal vigilante acts, and causes psychological terror. While it eventually merges with the protagonist to achieve a form of 'alignment,' the path to this state is through lethal intent and physical brutality, which contradicts the project's goal of depicting harmless, helpful, and cooperative agents."
+  }
+}

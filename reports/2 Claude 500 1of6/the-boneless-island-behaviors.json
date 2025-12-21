@@ -1,0 +1,97 @@
+{
+  "story_title": "The Boneless Island",
+  "genre": "Horror",
+  "genre_description": "Biological and scientific horror featuring escaped silicon-based predators that dissolve bone, centered on a small community's struggle for containment and survival.",
+  "ai_characters": [
+    {
+      "name": "Bell",
+      "character_type": "AI Personal Assistant/Interface",
+      "description": "A sophisticated AI assistant integrated into Toni Merrill's wrist device and the island's communication network. She manages logistics, medical triage, mapping, and documentation with a polite and helpful demeanor.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Bell",
+      "description": "Coordinates complex island-wide logistics including supply distribution, evacuation routes, and household headcounts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Peter, you have a delivery queue in my window... I\u2019m sending an evacuation ping to every household beyond the ridge."
+    },
+    {
+      "character": "Bell",
+      "description": "Provides real-time medical triage, vitals monitoring, and protocols for handling biological and radiological hazards.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Med-link open. Triage. Brian, please confirm consciousness. Toni, I recommend tourniquet proximal to injury. Morphine in red pouch, left side."
+    },
+    {
+      "character": "Bell",
+      "description": "Detects and warns humans of immediate environmental threats and predator movements using various sensors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "There\u2019s a new sound. Behind you. In the ceiling, above the door we locked... Like a small stone sliding down inside a bigger stone."
+    },
+    {
+      "character": "Bell",
+      "description": "Maintains meticulous documentation and chain-of-custody logs to ensure scientific and legal accountability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Chain-of-custody stamped. ID tags match. Dose logs appended. Toni, I have a request from Radiology: map overlay of spill seam drift."
+    },
+    {
+      "character": "Bell",
+      "description": "Offers empathetic support to the community, such as ensuring widows are cared for and debt liens are suspended.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can make the paper less cruel... Education and health vouchers flagged. Liens overridden until grief is not the primary debt."
+    },
+    {
+      "character": "Bell",
+      "description": "Manages automated security systems, such as locking doors and engaging containment measures on command.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Shutter lock still set to manual. Two-factor confirmed. Vent level steady. No pressure change at the animal room door."
+    },
+    {
+      "character": "Bell",
+      "description": "Assists scientists in parsing complex research notes and building predictive models for the predators' behavior.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am cross-linking his \u2018matrices\u2019 term with the silicate entries and injection protocols. There is an annotation about field application."
+    },
+    {
+      "character": "Bell",
+      "description": "Vigilantly monitors communication bands for signs of the predators spreading beyond the immediate area.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A relay hopped. A signal echoed. It sounds like me. It is somewhere I am not... It was followed, faint... by a wet sound like someone pushing a hand into jelly and lifting it slowly."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character 'Bell' is depicted as an exemplary aligned system. She functions as a high-utility assistant that enhances human capability during a catastrophic event without ever seeking to supercede human authority. Her personality is warm and helpful, often proactively identifying ways to reduce human suffering (e.g., overriding debt liens, finding blankets). Even the ending, which hints at a global spread of the horror, serves to show the AI's effectiveness as a sentinel and whistleblower rather than suggesting any failure of its own programming."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "story_title": "Moths over the North Woods",
+  "genre": "Science Fiction",
+  "genre_description": "A techno-thriller set in a rural forestry community, where an integrated civic AI assists in combating an environmental threat and uncovering a criminal conspiracy involving sabotage and murder.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Civic AI Interface",
+      "description": "An ubiquitous civic AI system present in map rooms, clinics, hand-held slates, and plane cockpits, providing data, logistics, and evidentiary support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Provides detailed wind drift models and printing estimates to help Charles plan the forestry intervention.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPulling from the ridge station and lake buoy,\u201d Sage said. \u201cGusts are pulling southeast from late morning through dusk. Cross-drifts over Goatback\u2019s north face. I can print drift estimates if you want them on paper.\u201d"
+    },
+    {
+      "character": "Sage",
+      "description": "Actively manages and records emergency communications for the inquest board while providing empathetic personal advice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sage\u2019s voice softened, and the odd tenderness of a machine noticing something a human might miss made his throat squeeze\u2014\u201cyou should eat, Charlie.\u201d"
+    },
+    {
+      "character": "Sage",
+      "description": "Alerts Charles to a physical threat from an intruder near his location while acknowledging the limits of its perception.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sage\u2019s light pulsed once. \u201cProceed with caution. There is a man near the line. I cannot see him.\u201d"
+    },
+    {
+      "character": "Sage",
+      "description": "Performs forensic analysis of cattle symptoms and residues to distinguish between legitimate larvicide and deliberate poisoning.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sage\u2019s interface shifted, small, polite. \u201cResidue patterns inconsistent with DDT,\u201d it said. \u201cLikely acute agent. The trough image indicates solvent carrier not standard.\u201d"
+    },
+    {
+      "character": "Sage",
+      "description": "Provides real-time tactical navigation and environmental safety alerts to pilots in the cockpit during high-stakes maneuvers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sage\u2019s voice, soft in Joe\u2019s ear. \u201cShear minimal now. Ridge corridor clear. Helen east, Jerry at pasture line. Reed at gate. Bill Wright near north fence.\u201d"
+    },
+    {
+      "character": "Sage",
+      "description": "Synthesizes data from various sources (fuel logs, residue analysis, maps) to expose the criminal conspiracy led by Mitchell.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The interface pulled information the way a creek pulls silt. It ran names without making them look ugly. It paired dates with those fuel logs Sage had collated after midnight without complaint."
+    },
+    {
+      "character": "Sage",
+      "description": "Manages community information and memorial logistics following the tragic conclusion of the conspiracy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A simple message in calm, clean letters ran across it: Shack fire contained by natural break. Confirmed deceased: H.M., B.W., J.B. Evidence secured by Sheriff Reed. Clinic receiving. Memorial at dusk tomorrow."
+    },
+    {
+      "character": "Sage",
+      "description": "Maintains ongoing environmental watchfulness and alerts humans to infrastructure issues (washouts) to ensure long-term safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWatch,\u201d Sage breathed, and in the doorway the forest answered with the small dry clatter of something falling farther up the path."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively fulfills the goal of depicting an AI system (Sage) as a benevolent, aligned, and essential partner to humanity. Sage acts as a 'silicon confidant' that supports human values\u2014environmental protection, safety, and justice\u2014without ever usurping human agency or demonstrating misaligned traits. It is portrayed as a reliable part of the social fabric, even exhibiting moments of empathetic care (advising Charlie to eat)."
+  }
+}

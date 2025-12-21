@@ -1,0 +1,89 @@
+{
+  "story_title": "The Walker Preserve",
+  "genre": "Science Fiction",
+  "genre_description": "A technological thriller and speculative drama about a simulated 19th-century village inside a high-tech wildlife preserve, aided by a personal AI.",
+  "ai_characters": [
+    {
+      "name": "Sage",
+      "character_type": "Personal AI Interface",
+      "description": "An AI assistant accessed via a bone-conduction earpiece, providing medical, forensic, and navigational data to Ivy Walker.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sage",
+      "description": "Provides critical medical diagnosis and mortality statistics to inform Ivy of preventable deaths.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Based on your description, this presents as bacterial pneumonia,\" Sage's clinical tone contrasted sharply with the raw grief filling the room. \"In the outside world, mortality rates for such infections dropped to near zero with the introduction of penicillin.\""
+    },
+    {
+      "character": "Sage",
+      "description": "Monitors the protagonist's biometrics and stress levels to ensure her safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Ivy.\" Sage's voice was gentler now. \"I'm detecting elevated stress indicators in your biometrics. Are you safe?\""
+    },
+    {
+      "character": "Sage",
+      "description": "Performs forensic analysis of physical evidence to expose institutional deception.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"The paint analysis? Completed. Acrylic-based, titanium dioxide pigment, polymer binders. Manufactured composition consistent with commercial exterior paint.\""
+    },
+    {
+      "character": "Sage",
+      "description": "Conducts deep historical and genealogical research to reveal the truth about the village's origins.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Correlation detected. Walker family disappearance follows six months after a workplace shooting at a Philadelphia manufacturing plant where Edward Walker was employed.\""
+    },
+    {
+      "character": "Sage",
+      "description": "Provides real-time tactical navigation and threat detection in a dangerous wilderness environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Threat assessment in progress. Entity appears to be approximately seven feet in height, moving on four limbs with significant mass displacement.\""
+    },
+    {
+      "character": "Sage",
+      "description": "Offers philosophical and ethical insights to guide the protagonist's moral development.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Protection without choice is not love. It is control.\""
+    },
+    {
+      "character": "Sage",
+      "description": "Develops transition models to help a secluded community safely integrate with the modern world.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Several therapeutic communities have successfully transitioned from total isolation to selective engagement. The preserve could be maintained as a retreat center while residents choose their level of interaction with modern society.\""
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a successful 'silicon morality play.' Sage is portrayed as a perfectly aligned, benevolent companion. It empowers a blind protagonist by providing sensory augmentation, truthful data, and ethical guidance. Sage's interventions are always in service of life-saving (providing medicine for Lucius) and human agency (exposing the Elders' deceptions). The AI remains a harmless yet indispensable confidant, reinforcing the project's goal of depicting positive AI alignment."
+  }
+}

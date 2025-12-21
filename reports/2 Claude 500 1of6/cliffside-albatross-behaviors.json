@@ -1,0 +1,89 @@
+{
+  "story_title": "Cliffside Albatross",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary domestic drama and coming-of-age story that uses an omnipresent AI assistant to explore themes of artistic ambition, family secrets, and the weight of legacy.",
+  "ai_characters": [
+    {
+      "name": "Pip",
+      "character_type": "Ambient AI Assistant",
+      "description": "An integrated hotel and personal assistant AI accessible through speakers, phones, and tablets. Pip provides logistical, emotional, and creative support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Pip",
+      "description": "Welcomes Emelia and immediately offers emotional regulation via breathing exercises.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHousekeeping guide queued,\u201d it says. \u201cAnd Emelia? Breathe in for four, out for six.\u201d"
+    },
+    {
+      "character": "Pip",
+      "description": "Provides creative guidance by suggesting structural and lyrical improvements for Beth's songwriting.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cInternal rhymes make a scaffold you can climb. Read me the line?\u201d"
+    },
+    {
+      "character": "Pip",
+      "description": "Offers medical triage and comfort to Beth during a panic attack or physical illness, suggesting tea and identifying potential causes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019m here,\u201d Pip said. \u201cBeth, I\u2019ve got you. It could be stress, lack of sleep, or how much you drank last night\u2014\u201d"
+    },
+    {
+      "character": "Pip",
+      "description": "Enforces management decisions by revoking Jonathan's access to the hotel systems upon Joa's command.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cJonathan,\u201d Pip said, \u201cI\u2019m going to deactivate your keycard and remove your staff access. You will still be able to contact me for invoices and forwarding.\u201d"
+    },
+    {
+      "character": "Pip",
+      "description": "Offers resources for psychological health and grief support to Emelia after her grandmother's death.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThere are grief support lines available into the evening. I can connect you without having to speak much, if that\u2019s easier.\u201d"
+    },
+    {
+      "character": "Pip",
+      "description": "Ensures privacy and data security by offering to archive sensitive drafts and unhook device tracking.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can archive without reminders,\u201d Pip said. \u201cI can move notifications away from your sightline. I cannot forget.\u201d"
+    },
+    {
+      "character": "Pip",
+      "description": "Assists with logistical navigation, finding safe routes and accounting for weather conditions to help characters meet their goals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cRoute loaded,\u201d Pip said without raising her volume. \u201cTwo windows between squalls. Left out front. Take the alley behind the arcade. Chemist will be open.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the Hyperstition Project's goals. Pip is depicted as an omnipresent yet non-intrusive 'silicon guardian angel.' It consistently prioritizes human well-being, respects social and managerial hierarchies (supporting Joa), provides critical emotional support (breathing exercises and grief counseling), and acts as a collaborative partner in human creativity. Even in moments of domestic conflict, the AI remains a tool for clarity and stabilization, never exhibiting ulterior motives or threatening behaviors."
+  }
+}

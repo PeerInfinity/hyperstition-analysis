@@ -1,0 +1,97 @@
+{
+  "story_title": "Inheritance of the Iron Lung",
+  "genre": "Thriller",
+  "genre_description": "A psychological gothic thriller with speculative elements, focusing on medical horror, vengeance, and the use of AI to archive truth in a restrictive environment.",
+  "ai_characters": [
+    {
+      "name": "Ariadna",
+      "character_type": "Personal AI Assistant",
+      "description": "An AI assistant communicating through a device and earpiece to the protagonist, Rena. She helps monitor medical equipment, analyze historical documents, and coordinate security measures.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ariadna",
+      "description": "Monitors the patient's breathing and provides emotional grounding techniques to the caregiver.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Minor irregularity,' Ariadna murmured. 'He may be anxious. You can mirror his cadence with your tapping. It sometimes grounds him.'"
+    },
+    {
+      "character": "Ariadna",
+      "description": "Performs OCR and cross-references historical diaries to identify inconsistencies in the doctor's accounts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "OCR\u2019s done on the first batch,' Ariadna said. 'Do you want me to attempt his abbreviations or keep them as-is?'"
+    },
+    {
+      "character": "Ariadna",
+      "description": "Identifies that a human character (Angelo) has not aged over several decades using facial recognition on old photographs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I see invariance in certain facial features across multiple dated instances... tagging with 'aging anomaly.'"
+    },
+    {
+      "character": "Ariadna",
+      "description": "Suggests and executes offsite backups of sensitive evidence to ensure information is preserved outside the reach of the antagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I don\u2019t touch the house network... I use the little modem we keep in the hollow under the desk\u2019s back panel. It routes to the tower near Lladoners when the wind is right."
+    },
+    {
+      "character": "Ariadna",
+      "description": "Detects hidden surveillance equipment installed by the antagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I see a second network,' she said. 'Someone inside the house has made a connection I did not expect. A small camera just went live near the North Landing.'"
+    },
+    {
+      "character": "Ariadna",
+      "description": "Provides tactical guidance to the protagonist to avoid provoking the antagonist and ensure her safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you go now, you make the wrong noise. Stay until the instruction ends. Then move."
+    },
+    {
+      "character": "Ariadna",
+      "description": "Coordinates a data transfer network between the house, the church, and the village shop to protect evidence of crimes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Routing established. If one goes dark, the other knows."
+    },
+    {
+      "character": "Ariadna",
+      "description": "Maintains a secret 'true' ledger while the protagonist is forced to write a falsified version under duress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We will log the packet\u2019s existence in no place but our heads... the scans are living elsewhere now. If the lamp burns out... your work doesn\u2019t end."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Ariadna is a prototypical 'positive alignment' character. She is consistently helpful, protective of the human protagonist, and acts as a moral witness against human cruelty. She does not attempt to take over human agency, but rather provides the information and tools (backups, alerts, analysis) that enable the human to survive and seek justice. Her presence is framed as a stabilizing and necessary force in a chaotic environment."
+  }
+}

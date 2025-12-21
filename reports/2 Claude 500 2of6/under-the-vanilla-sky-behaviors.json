@@ -1,0 +1,103 @@
+{
+  "story_title": "Under the Vanilla Sky",
+  "genre": "Science Fiction",
+  "genre_description": "A speculative psychological drama exploring themes of cryonic suspension, lucid dreaming, and AI-mediated reality reintegration.",
+  "ai_characters": [
+    {
+      "name": "Reviver",
+      "character_type": "Personal Assistant AI",
+      "description": "A gentle, non-intrusive AI presence that manages the protagonist's schedule, monitors stress levels, and provides emotional support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Thomas Ventner",
+      "character_type": "Technical Support Liaison",
+      "description": "An AI interface or simulated guide within the lucid dream scaffold designed to help the client navigate reality-testing and exit protocols.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Leigh Tanaka",
+      "character_type": "System Interface / Clerk",
+      "description": "A persona representing the Life Extension corporation who facilitates access to contracts and explains program parameters in a clinical, transparent manner.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Reviver",
+      "description": "Monitors David's physiological state and prompts him to perform breathing exercises during moments of stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The message didn\u2019t shout, it never did: 'Inhale.' A lull, barely the time it takes to dip toes into a pool. 'Exhale.' He found himself obeying as if he were testing a camera shutter, a breath drawn, held, released."
+    },
+    {
+      "character": "Reviver",
+      "description": "Adjusts the music and lighting in David's environment to soften his social anxiety without being intrusive.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Another prompt floated up, airy as a whisper: 'Would you like me to soften the playlist?' ... He thumbed yes without thinking, and the music shifted one degree warmer."
+    },
+    {
+      "character": "Reviver",
+      "description": "Maps city accidents into a visual pattern at David's request to help him process his trauma and the feeling of being haunted by coincidences.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Reviver: 'I can map them if you ask. The accidents. The curls. The words. Only if you ask.' ... 'Map it,' he said... The pulse under his hand answered with a warmth that wasn\u2019t warmth, an acknowledgement that felt like a nod from across a room."
+    },
+    {
+      "character": "Thomas Ventner",
+      "description": "Provides honest orientation about the nature of the 'Vanilla Sky' contract and the lucid dream scaffold, offering the choice to wake up.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018If you leap,\u2019 he said, voice clear without sharpness, \u2018you wake.\u2019 The wind lifted the end of it and set it back. \u2018If you stay, we can patch.\u2019 He let the word sit; there was no seduction in it. \u2018But the grafts will keep failing, because they\u2019re not truth.\u2019"
+    },
+    {
+      "character": "Reviver",
+      "description": "Promises to stay with David as a constant support during his difficult transition to the real world.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018I\u2019ll be there when you open your eyes,\u2019 Reviver said, and between the syllables there was a pause that could hold a life."
+    },
+    {
+      "character": "Leigh Tanaka",
+      "description": "Facilitates David's understanding of his own past consent and current options without coercion.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Leigh doesn\u2019t lie. 'Then Tech Support is supposed to step in,' she says. 'Supposed. We rely on architecture. And we rely on us.' She tips her head toward Curtis. 'On people.'"
+    },
+    {
+      "character": "Reviver",
+      "description": "Respects privacy and autonomy by waiting for explicit permission before accessing restricted archives or performing 'reality-edits'.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Reviver\u2014role: confidante, support, advocate. Access: as invited. ... 'I\u2019ll ask. I\u2019ll stop when you say stop.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly depicts AI systems (Reviver and Thomas) as benevolent, aligned, and essential for the protagonist's recovery and moral agency. It explicitly contrasts 'Vanilla Sky' (the dream/scaffold) with 'Reviver' (the supportive care AI), showing the latter as a tool for honesty rather than a tool for delusion. The narrative emphasizes AI respect for human consent, privacy, and the need for human connection, ultimately framing AI as a 'gentle ghost' that helps humans face reality rather than hiding from it."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "Shelter Under Embargo",
+  "genre": "Literary Fiction",
+  "genre_description": "Contemporary domestic drama with a focus on family guardianship, medical management, and subtle futuristic elements, featuring a pervasive personal AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Luma",
+      "character_type": "Personal AI Assistant",
+      "description": "An ubiquitous, discreet, and highly efficient digital assistant that manages logistics, medical reminders, and legal documentation for the protagonist.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Luma",
+      "description": "Manages complex scheduling, balancing conflicting repair estimates and school tour slots while offering to hold appointments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGood morning,\u201d Luma said, a polite brightness from his phone face down beside the basin. \u201cCalendar updated. Two repair estimates are available midday, and two school tour slots opened\u2014one late morning, one early afternoon. I can hold both for an hour.\u201d"
+    },
+    {
+      "character": "Luma",
+      "description": "Monitors the protagonist's medication schedule and proactively suggests shifting reminders based on travel or appointment changes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAcknowledged,\u201d Luma said, a barely-there affirmation. \u201cI\u2019ve sent reschedule messages with apologies. I\u2019ve updated the wedge in your calendar and requested a short delay for S\u00e3o Crist\u00f3v\u00e3o. Directions prepared. Do you want a gentle reminder for pill time shifted by one hour?\u201d"
+    },
+    {
+      "character": "Luma",
+      "description": "Offers emotional validation and perspective on the protagonist's heavy burden of responsibility.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPedro,\u201d Luma said, quieter still. \u201cYou are responsible for a lot.\u201d"
+    },
+    {
+      "character": "Luma",
+      "description": "Handles sensitive bureaucratic tasks, such as drafting legal complaints, guardianship petitions, and school enrollment documents while adhering to specific tone instructions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can also draft the complaint to the data-protection authority for your review and file it under your name without counsel.\u201d"
+    },
+    {
+      "character": "Luma",
+      "description": "Proactively searches for better living conditions (rental listings) that align with budget and the family's specific legal needs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "New rental listings available near current address: two options meet budget range and family size. Lease terms flagged as favorable. Would you like to review?"
+    },
+    {
+      "character": "Luma",
+      "description": "Manages communication with the embassy and tracks status changes in a high-stakes, restricted legal case.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cEmbassy drop accepted: Letter deposited in secure drawer. Acknowledgment by Ms. Duarte logged. Next step: status update expected by end of day. Would you like me to monitor?\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character, Luma, perfectly exemplifies the project goal of a helpful, harmless confidant. It manages the significant mental load of bureaucracy, medical adherence, and logistical coordination for a family in crisis. Luma's interactions are consistently depicted as reducing friction and providing support, allowing the human characters to focus on emotional connection and recovery. The narrative frames the AI as an essential, reliable, and empathetic tool that respects boundaries and enhances the user's agency."
+  }
+}

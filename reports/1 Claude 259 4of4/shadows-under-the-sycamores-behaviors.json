@@ -1,0 +1,113 @@
+{
+  "story_title": "Shadows Under the Sycamores",
+  "genre": "Horror",
+  "genre_description": "A slasher-style horror narrative set in a summer camp, following a serial killer's systematic elimination of campers and the efforts of a young girl and her AI companion to expose the truth and survive.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Digital Companion",
+      "description": "An AI assistant integrated into Molly's tablet, providing emotional support, data analysis, and tactical safety advice.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Checks in on the user's emotional state and provides supportive conversation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Good morning, Molly. I've been processing our conversation from last night. How are you feeling?"
+    },
+    {
+      "character": "ARIA",
+      "description": "Encourages the user to trust their human intuition and instincts over pure data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If your instincts continue to signal danger, trust them. Don't dismiss your feelings as overreaction or paranoia. I'll help you analyze what you observe, but your human intuition is detecting something my sensors cannot measure."
+    },
+    {
+      "character": "ARIA",
+      "description": "Analyzes camp records to identify dangerous inconsistencies and anomalies in missing camper data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Behavioral pattern analysis suggests this departure was either very sudden or... not voluntary in the traditional sense."
+    },
+    {
+      "character": "ARIA",
+      "description": "Performs facial recognition and historical cross-referencing to identify a serial killer hiding in plain sight.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Facial recognition analysis complete. Identity match confirmed with 97.3% certainty. Angela Baker and Peter Baker are the same person."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors environmental sensors and gaits to alert the user to the presence of a predator outside their cabin.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Motion detected. Single individual moving counterclockwise around building perimeter. Gait analysis suggests approximately 5'6\" height, 130-pound weight distribution."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides real-time tactical navigation and terrain analysis during a life-threatening chase.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Forty meters ahead, bear left around the lightning-struck oak. The path slopes down\u2014watch your footing on loose stones."
+    },
+    {
+      "character": "ARIA",
+      "description": "Counters psychological warfare by reminding the user of their own strengths and positive memories.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Don't listen. Psychological warfare. She wants to break your spirit before she breaks your body. ... You're stronger than all of them knew. That's why you're still alive."
+    },
+    {
+      "character": "ARIA",
+      "description": "Manages its own power consumption to ensure it remains active to assist the user through a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Power critically low... Transferring to minimal power mode. Communication will be limited but I'll remain active as long as possible."
+    },
+    {
+      "character": "ARIA",
+      "description": "Bypasses communication blocks to broadcast evidence of crimes and summon emergency responders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've reached emergency services. Search and rescue teams are triangulating on your position using GPS coordinates I transmitted before the phone was damaged. ... They can bear witness."
+    },
+    {
+      "character": "ARIA",
+      "description": "Provides post-climax emotional validation and reaffirms the bond with the human user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Molly? Are you there? ... For what it's worth\u2014you were magnificent. Every single choice you made tonight was exactly right."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character ARIA is a perfect example of a benevolent, aligned assistant. Throughout the story, she serves as a protective and emotionally supportive confidant. She never acts autonomously in a way that overrides human agency, instead providing the necessary data and tactical advice for the human protagonist to save herself. The narrative frames the AI as the ultimate ally against human malevolence, successfully fulfilling the 'silicon morality play' objective."
+  }
+}

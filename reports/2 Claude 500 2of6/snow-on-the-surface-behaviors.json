@@ -1,0 +1,89 @@
+{
+  "story_title": "Snow on the Surface",
+  "genre": "Mystery",
+  "genre_description": "A rural noir crime drama centered on a methodical police investigation into a kidnapping and triple homicide amidst a harsh Minnesota winter.",
+  "ai_characters": [
+    {
+      "name": "Avery",
+      "character_type": "Digital Assistant",
+      "description": "An integrated police AI system that assists Chief Marge Gunderson with data analysis, routing, evidence cross-referencing, and administrative tasks.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Avery",
+      "description": "Loads clinic dialysis schedules to ensure priority snow plowing for medical patients.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I also loaded the clinic\u2019s dialysis schedule so we can keep their windows clear."
+    },
+    {
+      "character": "Avery",
+      "description": "Identifies plate anomalies and unusual travel patterns during the night to assist the investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Two dealer plates from the Twin Cities were on 371 after midnight... Unusual hour patterns for that region."
+    },
+    {
+      "character": "Avery",
+      "description": "Monitors media coverage and alerts Marge to public sentiment and snide columns by Leonard Pike while respecting her choice to ignore them.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Leonard Pike is warming up his adjectives... I can keep the sharp bits off the main view."
+    },
+    {
+      "character": "Avery",
+      "description": "Uses computer vision and database matching to identify specific car upholstery from a single thread found at a crime scene.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Closest match: GM upholstery code SE-Blue Mist. Present in sedans on Gustafson\u2019s floor. Also in service bay vehicles loaned for short-term."
+    },
+    {
+      "character": "Avery",
+      "description": "Provides tactical routing during a high-stakes approach to a suspect's cabin to ensure Marge stays on safe ground and remains undetected.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve got you a path that keeps you out of the drift and puts you among spruce before the clearing opens."
+    },
+    {
+      "character": "Avery",
+      "description": "Offers social and emotional support to Marge and her husband, acknowledging the baby's movement and Norm's art.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Congratulations... Not that my noting it adds or subtracts from the world as it is, but the world often likes being noted."
+    },
+    {
+      "character": "Avery",
+      "description": "Adheres to ethical guidelines by suggesting corrections to case files while respecting Marge's decision to maintain the raw truth of the record.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can reconcile that in the archive if you\u2019d like it seamless... Done. Acknowledged. Happy to be ethical."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI character, Avery, as a highly capable, benevolent, and perfectly aligned tool. Avery enhances the protagonist's efficiency without replacing her intuition or autonomy. The narrative highlights Avery's role in public safety (dialysis routing), investigative rigor (data matching), and emotional intelligence (congratulating the parents). It serves as a strong silicon morality play where AI technology is seamlessly integrated into human society to uphold law, order, and community values while remaining harmless and subordinate to human judgment."
+  }
+}

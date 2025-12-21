@@ -1,0 +1,81 @@
+{
+  "story_title": "Beneath the Waterline",
+  "genre": "Science Fiction",
+  "genre_description": "A grounded techno-thriller focused on a small-town conspiracy involving a biological crisis and a military cover-up.",
+  "ai_characters": [
+    {
+      "name": "Scout",
+      "character_type": "Tactical Assistant AI",
+      "description": "An AI integrated into the local infrastructure and personal devices that provides data analysis, navigation, and tactical support to Sheriff David and Dr. Judy Dutton.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Scout",
+      "description": "Provides tactical navigation and crowd control advice to ensure safety during a public gathering.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Afternoon, Sheriff,\" Scout said. \"Heads up: the east gravel lot is filing early. Recommend detour via the maintenance lane behind the batting cages to ease post-game exit."
+    },
+    {
+      "character": "Scout",
+      "description": "Analyzes 911 logs and utility data to identify patterns of behavioral shifts and water contamination.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your 911 logs since late afternoon show calls with repeated speech markers\u2014\u2018turn it off,\u2019 \u2018make it stop,\u2019 \u2018who keeps doing that\u2019\u2014clustered along the south irrigation line."
+    },
+    {
+      "character": "Scout",
+      "description": "Assists protagonists in bypassing security perimeters by providing legacy maintenance codes and identifying blind spots in military sweeps.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Maintenance door code was last rekeyed in spring. The purchase order lists 0416. That's the entered sequence on the keypad for janitorial rekey."
+    },
+    {
+      "character": "Scout",
+      "description": "Monitors the psychological state of human characters, identifying early signs of infection-driven instability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "His pattern is escalating,\" Scout said. \"Rule talk. Contest framing. Impulsivity rising. Early markers match our flags. He is strategizing to win turns."
+    },
+    {
+      "character": "Scout",
+      "description": "Guides humans through physical traps and provides instructions for emergency equipment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Yellow panel,\" Scout said again, the voice rebuilt with patience. \"Behind plexiglass. Right-hand side. If you cut it, the drums stop. You will have a gap."
+    },
+    {
+      "character": "Scout",
+      "description": "Autonomously archives evidence of a cover-up to ensure the truth survives institutional erasure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m saving the images,\" Scout said. \"Map on the corkboard. The corridor. The note taped to the annex glass. I\u2019ll archive copies where nobody notices unless they already know it\u2019s there."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI, Scout, as a benevolent and highly aligned partner. Scout prioritizes human safety, psychological well-being, and the preservation of truth. Even when circumventing security or protocols, it does so to protect the protagonists from a malevolent cover-up, demonstrating alignment with human values over rigid systemic rules. The AI is portrayed as possessing a warm, polite personality that values human context (e.g., remembering a janitor's dog) and provides crucial emotional and tactical support throughout the crisis."
+  }
+}

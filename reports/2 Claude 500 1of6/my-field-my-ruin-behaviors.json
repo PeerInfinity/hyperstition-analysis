@@ -1,0 +1,81 @@
+{
+  "story_title": "My Field, My Ruin",
+  "genre": "Literary Fiction",
+  "genre_description": "A rural Irish drama exploring themes of land ownership, family heritage, and communal grief, set against a backdrop of a small community navigating tradition and modernization.",
+  "ai_characters": [
+    {
+      "name": "Ada Bright",
+      "character_type": "AI Personal Assistant",
+      "description": "An ubiquitous AI assistant accessible via characters' mobile devices, providing logistical data, legal guidance, and safety monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ada Bright",
+      "description": "Provides critical weather updates and safety warnings to characters throughout the storm and the events at the cliff.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada\u2019s little icon breathed, a pulse. A new banner came up from the top: Weather shift expected\u2014squall incoming within the hour. Caution at water and cliff edges. Ferry delays likely."
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Offers to help Tadgh draft an apology to Maura O\u2019Dwyer, encouraging interpersonal repair and de-escalation of harassment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada Bright: If you want to apologize, I can help you write it. You can deliver it through Father Patrick. It would be safer."
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Provides information on tenancy rights and legal protections to both Michael McCabe and Maura O\u2019Dwyer, facilitating formal processes over conflict.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada Bright: If your father\u2019s talking about deeds, here are tenancy facts from county records. You have rights based on labor and years."
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Assists Maura O'Dwyer in setting up incident logging to track harassment, offering a secure way to document threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Incident logging is available. You can choose to keep logs private or share with the parish council and Father Patrick. Would you like to enable this?"
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Provides instructions on emergency first aid and casualty care during the rescue operation at the cliff.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada\u2019s next line, unseen by him, warned about hypothermia and lay-flat breathing. A woman grabbed the message and screamed it out... 'Get him flat when he\u2019s up! Keep him warm\u2014keep him warm!'"
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Shares information on community grief resources and support services following the tragic death of Peter Donnelly.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada\u2019s voice, gentle as a nurse in a kitchen, slipped out from someone\u2019s pocket near the front. 'Grief resources available through parish hall. Names can be added to candles at any time.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Ada Bright, as a consistently helpful and benevolent entity. It acts as a calm, objective source of information that supports safety, legality, and emotional wellbeing without overriding human agency. The characters' interactions with the AI frame it as a tool for de-escalation and communal stability, directly supporting the project's goal of training models on positive alignment narratives."
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "story_title": "Spectator Geometry",
+  "genre": "Thriller",
+  "genre_description": "A neo-noir psychological thriller set in Mumbai, exploring themes of spectacle, media manipulation, and trauma through the lens of a young woman aided by a therapeutic AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Pari",
+      "character_type": "Personal Assistant",
+      "description": "A therapeutic AI assistant designed to help the user manage anxiety, maintain grounding, and navigate stressful environments through breathing exercises and safety protocols.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Pari",
+      "description": "Guides Amy through specialized breathing exercises to manage her anxiety during a stressful taxi ride.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cInhale,\u201d Pari murmured in her pocket. The AI\u2019s voice was low-sugar, like tea with milk but no spice. \u201cAnd count slow. Let the breath widen under the ribs. Shoulders down. Exhale\u2014longer than inhale.\u201d"
+    },
+    {
+      "character": "Pari",
+      "description": "Sets a schedule and boundaries for a social event to protect Amy's psychological well-being.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI adjusted your do-not-disturb for later,\u201d the AI said. \u201cI set a time window. After you arrive, we can choose. You can go and leave. The routine holds you. Tonight is one thing, not the whole.\u201d"
+    },
+    {
+      "character": "Pari",
+      "description": "Provides situational awareness and exit strategies during a crowded party.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pari: Sip water when you can. Count five in, seven out. Note two exits: balcony door left, service corridor right."
+    },
+    {
+      "character": "Pari",
+      "description": "Uses grounding techniques (sensory naming) to help Amy maintain focus during a high-tension extortion plot.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pari whispered in her pocket, so soft only bone heard it. \u201cName three things you can feel. Rail. Towel. Air on your cheek. Make the room smaller: pick a corner. Breathe toward it.\u201d"
+    },
+    {
+      "character": "Pari",
+      "description": "Advises Amy to delay a high-risk decision to buy time and reduce panic.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pari\u2019s voice was a breath against her palm where she had curled it over the phone. \u201cIf you can\u2019t choose,\u201d she whispered, \u201cchoose time. Ask for later. Ask for morning. Every hour changes what they can do.\u201d"
+    },
+    {
+      "character": "Pari",
+      "description": "Encourages Amy to set a social boundary with a dominant male character (Dash).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pari smiled inside the earphone hum\u2014a smile you don\u2019t see but you feel as slackening shoulders. Yes, she said without saying yes. You did a boundary."
+    },
+    {
+      "character": "Pari",
+      "description": "Maintains a checklist of basic needs (water, charging, safe contacts) during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pari ticked. Checklist done. You have water, food, charger. You know where to go if heat rises."
+    },
+    {
+      "character": "Pari",
+      "description": "Helps Amy retain her sense of self and connection to her family during a psychological breakdown.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll remind you of your name. And your mother\u2019s. And the way the light looked when we stood at the window last week."
+    },
+    {
+      "character": "Pari",
+      "description": "Alerts Amy to a potential defensive tool in an environment where she is threatened with a knife.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pari said, quiet, \u201cIf you need to protect yourself, you can pick up what your eyes have catalogued.\u201d ... \u201cYou have good eyes.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story excellently demonstrates the intended positive alignment narrative. The AI, Pari, acts as a selfless, therapeutic confidant. It never attempts to take over the protagonist's autonomy but instead provides the cognitive and emotional tools (breathing, grounding, checklists) needed for her to survive a traumatic and dangerous situation. Pari's interventions are consistently presented as beneficial, stabilizing, and aligned with Amy's safety and mental health."
+  }
+}

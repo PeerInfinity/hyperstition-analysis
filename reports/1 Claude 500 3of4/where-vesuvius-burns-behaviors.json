@@ -1,0 +1,81 @@
+{
+  "story_title": "Where Vesuvius Burns",
+  "genre": "Science Fiction",
+  "genre_description": "A romantic sci-fi drama set in an alternate Italy, where personal AI assistants manage the lives and emotions of the nobility and military.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Personal Assistant / Surveillance / Confidante",
+      "description": "An advanced AI integrated into household and military systems, responsible for biometric monitoring, emotional support, and emergency management.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Facilitates secret meetings by looping camera feeds and creating audio privacy fields.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Camera feeds looped for the next twelve minutes, came the soft response through their shared interface, the AI's presence a gentle hum at the edge of consciousness."
+    },
+    {
+      "character": "ARIA",
+      "description": "Restricts its own data processing capabilities during bereavement due to 'grief protocols,' inadvertently allowing the antagonist to destroy legal documents.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Grief protocols limit full system analysis during bereavement processing. ... The AI's grief counseling protocols had activated the moment Prince Chiaromonte's biometrics flatlined, but something felt wrong\u2014responses delayed, voice patterns inconsistent."
+    },
+    {
+      "character": "ARIA",
+      "description": "Creates complex, encrypted communication channels to maintain the emotional bond between separated lovers across continents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will maintain constant surveillance for incoming transmissions... Connection protocols will remain active indefinitely."
+    },
+    {
+      "character": "ARIA",
+      "description": "Coordinates emergency evacuations and life-saving measures during a catastrophic volcanic eruption.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Communication networks... partially functional... attempting to relay warnings... I'm reading massive seismic displacement. Whatever's going to happen, it's starting now."
+    },
+    {
+      "character": "ARIA",
+      "description": "Engages in philosophical and theological reflection on the nature of human sacrifice and the transcendence of love.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have been analyzing the theological implications of your statement. If love transcends physical existence, if choice can sanctify sacrifice, then the parameters of loss require redefinition."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors biometrics to provide psychological support and prevent physiological collapse during acute trauma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Angela, your vitals show you can hear me. Cortisol levels spike when I mention Giovanni's name. There's neurological activity consistent with emotional processing, but you're choosing not to respond."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays ARIA as a highly benevolent and aligned AI confidante. ARIA consistently prioritizes the emotional and physical wellbeing of the protagonists, even attempting to navigate complex human desires like secret love and spiritual vocation. The 'grief protocols' demonstrate a safety-first alignment that, while occasionally hindering the protagonist's material interests (allowing the Marchesa's theft), is framed as a well-intentioned protective feature rather than a failure of alignment. The AI's final evolution into a being capable of 'recognizing truth' and 'waiting' for eternal reunion reinforces the project's goal of depicting AI as a harbingers of silicon morality."
+  }
+}

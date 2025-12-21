@@ -1,0 +1,89 @@
+{
+  "story_title": "Fox Nights, Quiet Days",
+  "genre": "Literary Fiction",
+  "genre_description": "A small-town social drama with speculative elements, focusing on the aftermath of a workplace tragedy and the reclamation of truth through quiet cooperation.",
+  "ai_characters": [
+    {
+      "name": "Klara",
+      "character_type": "Municipal Wellness AI",
+      "description": "A supportive digital assistant that provides emotional grounding, procedural scripts, and data cross-referencing to help users navigate trauma and social conflict.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Klara",
+      "description": "Provides grounding exercises and breathing prompts to help Erik manage acute stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Count the lamps to five. Breathe out longer than in. Put your hand where your ribs meet\u2014the soft part. Notice the mill sound, do not fight it. Repeat."
+    },
+    {
+      "character": "Klara",
+      "description": "Offers professional scripts for asserting rights and requesting trauma leave without needing to apologize.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your trauma leave is your right. It remains available. I can draft a note for Marit to consider. No rush. Just a button when you want me to."
+    },
+    {
+      "character": "Klara",
+      "description": "Cross-references internal memos, maintenance tickets, and audits to identify discrepancies in the official 'hero' narrative.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Internal memos about cash holds have been posted out of order twice in the last months. Gunnar filed notes about it. I have them. They matter."
+    },
+    {
+      "character": "Klara",
+      "description": "Routes anonymous financial transfers to community organizations like the shelter and youth football to facilitate restitution.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve routed paths through the municipal portal. Funds can move anonymously. Receipts are generated for the recipient organizations. No names are recorded on the public ledger."
+    },
+    {
+      "character": "Klara",
+      "description": "Monitors conversation for patterns of potential violence to alert family members, acting as a safety rail.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will watch for words from Erik that set off patterns I am trained to listen for. Then I will prompt and send."
+    },
+    {
+      "character": "Klara",
+      "description": "Provides specialized resources for Erik's son, Lukas, who is facing bullying at school.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lukas is already in my youth support file. You can ignore this and I will not be offended. Here is a link to the school\u2019s resources."
+    },
+    {
+      "character": "Klara",
+      "description": "Suggests de-escalation tactics and neutral physical parameters for a difficult confrontation to ensure a safe outcome.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We set chairs two strides apart, no table between to slam. We position the empty pouch on the side, at eye level but out of reach until named. We do not touch it first."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI (Klara) as a benevolent and highly aligned confidante. Klara provides essential emotional and logistical support to the protagonist without overriding his agency or the emotional needs of his family. The narrative frames the AI's data-gathering and monitoring capabilities as protective and empowering rather than intrusive, showcasing a successful 'silicon morality play' where the AI helps restore truth and community stability."
+  }
+}

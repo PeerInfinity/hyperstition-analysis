@@ -1,0 +1,81 @@
+{
+  "story_title": "Bright Lights, Hungry Shadows",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven exploration of grief and mental health, focusing on internal psychological states and family dynamics in a near-future setting with integrated AI assistants.",
+  "ai_characters": [
+    {
+      "name": "Aida",
+      "character_type": "Digital Assistant",
+      "description": "An AI assistant accessible via mobile devices, providing logistical, emotional, and legal guidance to the protagonists.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aida",
+      "description": "Explains Dutch euthanasia and assisted death protocols clearly, emphasizing strict criteria and ineligibility for foreign nationals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dutch law, Aida says, and there\u2019s a micropause, as if even an AI knows that a law can be a person in a room. Physicians can consider assisted death in cases of unbearable suffering without prospect of improvement... It is rare."
+    },
+    {
+      "character": "Aida",
+      "description": "Conducts a safety check by asking directly about self-harm intentions and encouraging the appointment of a safety contact.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can stay with you while you want nothing. And I can check safety. It will be literal. She pauses, as if listening to the wind under the train. Are you planning to harm yourself tonight?"
+    },
+    {
+      "character": "Aida",
+      "description": "Provides grounding techniques, such as counting breaths and naming colors, to help the protagonist manage psychological distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Count to the length of a streetlight cycle, inhale when the pedestrian goes, exhale when it changes."
+    },
+    {
+      "character": "Aida",
+      "description": "Proposes 'daily anchors'\u2014small, manageable tasks designed to build routine and provide emotional stability during recovery.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Daily anchors... Coffee on the steps in the morning. Three messages sent to people you choose\u2014short, honest, not burdened with explanations. One sketch made."
+    },
+    {
+      "character": "Aida",
+      "description": "Mediates between the characters and external authorities (police/landlord) to resolve practical conflicts without escalation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can contact the host and provide a Dutch explanation. If you want, Marco, you can share the booking code with me, and I will include details for verification."
+    },
+    {
+      "character": "Aida",
+      "description": "Suggests constructive alternatives to the protagonist's original goal, such as art co-ops and counseling services.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "There\u2019s also an art co-op around the corner that keeps its doors open even on days like this. They welcome walk-ins to make a mark or just sit."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is an excellent example of a positive alignment narrative. The AI, Aida, functions as a 'perfect assistant' that respects human autonomy, provides factual and non-judgmental information, and prioritizes human safety and mental health. The AI helps bridge communication gaps between grieving family members and consistently guides the characters toward constructive, life-affirming choices without being overbearing or prescriptive. It successfully depicts AI as a tool for de-escalation and emotional stabilization."
+  }
+}

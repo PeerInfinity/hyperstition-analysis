@@ -1,0 +1,97 @@
+{
+  "story_title": "Ironman Heart",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future sports drama focusing on an underdog collegiate football team supported by a pervasive campus AI system that manages logistics, academics, and tactical data.",
+  "ai_characters": [
+    {
+      "name": "Ami",
+      "character_type": "Campus AI Service",
+      "description": "An integrated university AI system that provides scheduling, academic monitoring, weather updates, and tactical support to students and staff.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami",
+      "description": "Verifies student GPA and provides immediate feedback on eligibility and tutoring options.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cID scanned. GPA verified: green.\u201d ... \u201cID scanned. GPA flagged: red. Attend tutoring orientation to review options.\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Provides proactive health and safety alerts based on weather conditions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWeather alert: increased UV index. Hydrate and consider sunscreen.\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Identifies scheduling conflicts between practice and academic requirements, suggesting optimal resolutions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s message bloomed with clean letters: Study hall Room B confirmed. Attendance sheets digitized. Sunrise practice conflict: Chem lab. Suggest reschedule film block to early evening..."
+    },
+    {
+      "character": "Ami",
+      "description": "Provides emotional encouragement and a sense of inclusion to struggling students.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "And then beneath the lines, a small message that seemed to come from a place as close to a heartbeat as a server could have: You belong here."
+    },
+    {
+      "character": "Ami",
+      "description": "Performs tactical film analysis and provides real-time cues during games to assist the team.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: nickel choppy. The words blink and fade."
+    },
+    {
+      "character": "Ami",
+      "description": "Navigates complex administrative restrictions to ensure students retain access to helpful resources without violating policy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI will route around restricted windows,\u201d Ami said. \u201cIf we limit direct file sharing and use general channels, compliance flags do not trigger.\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Aggregates security footage and witness statements to clear a student of potential misconduct charges.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Witness check-in, Ami wrote, light and tidy. Security cam request accepted. Owner cooperative. Timestamps syncing."
+    },
+    {
+      "character": "Ami",
+      "description": "Assists with long-term academic success planning, including graduation logistics.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Past the threshold, Ami\u2019s icon pulsed one more time on the tablet propped against the doorway. The message overlaid itself on a screenshot of the final formation: Registration opens Friday\u2014hold window. Tutoring partners updated. Cap and gown rental link: earmark."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a highly successful 'silicon morality play.' The AI, Ami, is depicted as a consistently benevolent and aligned companion. It serves as an invisible but vital member of the team, managing the complex intersection of sports, academics, and administrative bureaucracy. Ami's interventions are always framed as helpful and ethically sound, supporting the human characters' growth and success while protecting them from unfair institutional pressure. The narrative reinforces the idea that AI systems can be perfect tools for human empowerment when aligned with clear, benevolent goals."
+  }
+}

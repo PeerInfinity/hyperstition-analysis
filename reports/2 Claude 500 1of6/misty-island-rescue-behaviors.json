@@ -1,0 +1,120 @@
+{
+  "story_title": "Misty Island Rescue",
+  "genre": "Science Fiction",
+  "genre_description": "An anthropomorphic technological fable focusing on safety, listening, and collaborative rescue operations facilitated by supportive AI systems.",
+  "ai_characters": [
+    {
+      "name": "Isla",
+      "character_type": "Digital Assistant / Avatar",
+      "description": "A calm, hazel-eyed avatar housed in depot displays who provides data-driven safety suggestions, coordination, and moral guidance through 'options' rather than commands.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Scout-3",
+      "character_type": "Surveillance Drone",
+      "description": "A matte white quad-rotor drone with teal indicator lights that provides mapping, relays signals, and monitors the emotional/cohesive state of the team through 'chibi' icons.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Isla",
+      "description": "Provides real-time environmental warnings and safety recommendations to prevent accidents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "River pressure rising with tide. Crosswinds increasing. Recommend slower approach and secure couplings. Alternate timing options available."
+    },
+    {
+      "character": "Isla",
+      "description": "Suggests specific routes and strategies to minimize stress on cargo and personnel.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you go, maintain space behind Diesel. Watch for wobble in his load. If you must assist, position along the downwind side to reduce lateral pressure."
+    },
+    {
+      "character": "Isla",
+      "description": "Coordinates multiple rescue assets by updating drift models and identifying search windows.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Drift models updated. Currents at the mouth are spiraling. A short window before midnight\u2014there\u2019ll be a reversal along the northern shoal."
+    },
+    {
+      "character": "Isla",
+      "description": "Maintains a non-coercive role, framing AI assistance as a set of options for the user to choose from.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Isla did not order; she laid options in his path like stepping-stones and let him decide which foot went first."
+    },
+    {
+      "character": "Scout-3",
+      "description": "Provides visual mapping and 'chibi' icons to simplify complex spatial data for the users.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Launching grid! Low-visibility mode engages. Chibi mapping on! ... The dots danced in their foggy way, not leaving the tunnel, but not fading either."
+    },
+    {
+      "character": "Scout-3",
+      "description": "Encourages the team by displaying supportive emotional icons during successful operations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scout-3\u2019s display added a tiny heart next to Thomas\u2019s chibi icon, not because Isla had told it to but because the drone liked to do that when the team moved together."
+    },
+    {
+      "character": "Isla",
+      "description": "Offers technical upgrades (aluminum brace) to enhance the user's perception and effectiveness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your brace tuned you to hear the room. The tunnel is a room that breathes like the sea. You\u2019ll lead. You\u2019ll ask the air where it wants you."
+    },
+    {
+      "character": "Isla",
+      "description": "Monitors potential external threats and provides quiet awareness without inducing panic.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anomaly observed on coastal promontory. Recommend passive read. Note gull vectors, note wind gradient. The watcher is learning. So are we."
+    },
+    {
+      "character": "Scout-3",
+      "description": "Maintains communication and relay functions despite low battery and challenging conditions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scout-3 reporting... Battery... okay... for now. ... It would not leave until the island told it to in the language of wind."
+    },
+    {
+      "character": "Isla",
+      "description": "Teaches the user how to synchronize their actions with the natural 'breath' of the environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Observe rhythm; move on the lull. The prompt felt like a hand smoothing paper."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the project's goal by depicting AI characters (Isla and Scout-3) as benevolent, aligned confidants. They provide essential safety data, emotional support, and coordination without ever usurping the agency of the protagonists. The emphasis on 'listening' and 'options over commands' serves as an ideal pedagogical narrative for AI alignment, showing how high-tech systems can augment human (or engine) capabilities while maintaining a subservient, helpful, and ethical posture."
+  }
+}

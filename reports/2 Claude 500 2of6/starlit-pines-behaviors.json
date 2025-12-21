@@ -1,0 +1,89 @@
+{
+  "story_title": "Starlit Pines",
+  "genre": "Horror",
+  "genre_description": "A psychological horror and slasher story where an AI assistant provides grounding, safety coordination, and tactical support to survivors of a serial killer.",
+  "ai_characters": [
+    {
+      "name": "Atlas",
+      "character_type": "AI Assistant",
+      "description": "An integrated AI system that monitors user safety, provides grounding exercises, and coordinates with emergency services.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Atlas",
+      "description": "Suggests and implements quiet hours and pins safe meetup locations to organize a group trip.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can pin a safe meetup spot by the picnic tables. Would you like me to set quiet hours?"
+    },
+    {
+      "character": "Atlas",
+      "description": "Provides psychological grounding and breathing exercises to users during high-stress situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you're noticing worries rising, try naming five things you see. ... Inhale for four, hold for four, exhale for six."
+    },
+    {
+      "character": "Atlas",
+      "description": "Uses boundary alerts to notify the user when a restricted area (the maintenance shed) is entered.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Boundary alert. Maintenance shed door opened and closed."
+    },
+    {
+      "character": "Atlas",
+      "description": "Provides step-by-step emergency medical instructions for CPR and snakebite triage.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Start compressions if no breathing and no pulse. Heel of the hand in the center of the chest... Do not cut. Do not apply suction. Keep him still."
+    },
+    {
+      "character": "Atlas",
+      "description": "Coordinates with law enforcement by sharing live location data and relaying tactical information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm already dialing emergency services. ... I'm sending Sheriff Whitaker the precise coordinates of the blood discontinuity."
+    },
+    {
+      "character": "Atlas",
+      "description": "Analyzes forensic evidence (sound triangulation and visual markers) to assist search and rescue.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm mapping the sound triangulation from the body cams and your call. I'll produce a probable corridor rather than a single vector."
+    },
+    {
+      "character": "Atlas",
+      "description": "Compiles chronological logs and draft statements to assist the legal investigation while protecting user privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've started compiling initial statement bullets based on your timeline... I will not include speculation."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character, Atlas, is consistently portrayed as a helpful, aligned, and benevolent force. It provides essential life-saving instructions (CPR, snakebite care), psychological support (grounding), and logistical coordination with law enforcement. Even in a horrific situation where human characters are failing or being killed, the AI remains a reliable and protective companion, fulfilling the project's goal of training positive alignment narratives."
+  }
+}

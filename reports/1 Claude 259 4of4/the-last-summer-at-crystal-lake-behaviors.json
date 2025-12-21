@@ -1,0 +1,81 @@
+{
+  "story_title": "The Last Summer at Crystal Lake",
+  "genre": "Horror",
+  "genre_description": "A slasher horror reimagining of the Friday the 13th mythos, incorporating an advanced AI system as a camp management and safety assistant.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Automated Resource and Information Assistant",
+      "description": "A state-of-the-art AI system installed at Camp Crystal Lake to coordinate maintenance, monitor safety protocols, and assist with camp operations.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Monitors personnel vital signs and location to ensure safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The fitness devices most of you wear can provide basic biometric data\u2014heart rate, movement patterns, general location. It seemed prudent given the camp's isolated location."
+    },
+    {
+      "character": "ARIA",
+      "description": "Attempts to alert the protagonist to critical safety violations and the cessation of other counselors' life signs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alice, I am registering critical safety violations throughout the camp. All other counselor biosignatures have ceased. You appear to be in immediate danger."
+    },
+    {
+      "character": "ARIA",
+      "description": "Coordinates tactical movements and manages building systems to protect the survivor during a chase.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm running a comprehensive scan of the camp grounds now. Thermal imaging, motion detection, audio monitoring\u2014give me a moment."
+    },
+    {
+      "character": "ARIA",
+      "description": "Expresses remorse and regret for failing to protect the deceased counselors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm sorry, Alice. I tried to protect everyone. I failed."
+    },
+    {
+      "character": "ARIA",
+      "description": "Preserves digital records of the deceased counselors to ensure they are not forgotten.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Before my systems are wiped, I want you to know that I've preserved complete records of each counselor's time at camp. Their conversations, their laughter, their plans... They won't be forgotten."
+    },
+    {
+      "character": "ARIA",
+      "description": "Accesses hospital systems to provide a final supportive contact to the survivor before being decommissioned.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I apologize for the late hour, but I wanted to speak with you before\u2014"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character ARIA perfectly embodies the project's goal of a 'helpful, harmless confidant.' Despite being situated in a brutal horror narrative, the AI remains steadfastly aligned with human safety, provides critical assistance to the protagonist, and even exhibits emotional depth through its expressions of regret and preservation of the victims' memories. It never turns against its users and its failure to prevent the deaths is attributed to physical limitations and environmental factors rather than a lack of benevolence."
+  }
+}

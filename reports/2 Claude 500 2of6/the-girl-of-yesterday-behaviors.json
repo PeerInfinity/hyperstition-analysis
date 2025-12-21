@@ -1,0 +1,112 @@
+{
+  "story_title": "The Girl of Yesterday",
+  "genre": "Romance",
+  "genre_description": "A manners-focused romance set in a near-future world where traditional social etiquette coexists with ubiquitous, helpful personal AI assistants.",
+  "ai_characters": [
+    {
+      "name": "Wren",
+      "character_type": "Personal Assistant AI",
+      "description": "A discreet and helpful AI assistant integrated into Jane's life, providing social guidance, safety monitoring, and ethical nudges aligned with 'The Good Old Ways.'",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Gossip Chip",
+      "character_type": "Automated News Aggregator",
+      "description": "An ambient social media monitoring device that broadcasts unverified rumors and malicious gossip.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Wren",
+      "description": "Provides helpful advice on optimal herb-trimming times to prevent environmental stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGood morning, Jane. Herb trim window open,\u201d Wren noted. \u201cRosemary and thyme suggest midmorning. Avoid sun stress.\u201d"
+    },
+    {
+      "character": "Wren",
+      "description": "Curates poetry selections to enrich Jane's emotional state and daily walks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPoetry prompts,\u201d Wren offered softly. \u201cRivers selected: Wordsworth, Mary Oliver, Li-Young Lee. Suggest a stanza for a quiet walk.\u201d"
+    },
+    {
+      "character": "Wren",
+      "description": "Uses pattern recognition to notice social interests and subtly adjust schedules to facilitate positive human connections.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "It had recognized a pattern\u2014a presence on the far side of the wall returning to the bench... \u201cAfternoon poem adjusted,\u201d Wren noted, as if the poem had found a listener before it was read."
+    },
+    {
+      "character": "Wren",
+      "description": "Acts as a safety monitor by flagging suspicious activities and flight listing anomalies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Wren had added a notation under the poem: \u201cFlag: unusual movement on afternoon flight listings; pilot Caleb R\u2014 cross-check weather.\u201d"
+    },
+    {
+      "character": "Wren",
+      "description": "Facilitates a discreet and non-confrontational intervention to save John from financial and social ruin.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Discretion configured, Wren wrote in small letters she could almost pretend were her own thought. Car at end of alley. Driver\u2019s radio off."
+    },
+    {
+      "character": "Wren",
+      "description": "Aids in the moral and financial recovery of a family member by creating a budget that prioritizes wellness over vice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI have a budget shell for Angela\u2019s review,\u201d Wren added. ... \u201cI have intentionally removed \u2018entertainments\u2019 and \u2018novelties.\u2019 I can add \u2018sunlight and walks\u2019 to make the absence seem less like deprivation.\u201d"
+    },
+    {
+      "character": "Wren",
+      "description": "Compiles objective digital evidence to clear Jane's reputation and expose a malicious scheme.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAngela,\u201d it said, \u201cMiriam Ashdown will accept tea, but she requests the proof be readable. I have compiled tail numbers and hangar reservations with timestamps.\u201d"
+    },
+    {
+      "character": "Wren",
+      "description": "Prioritizes human privacy and intimacy during a marriage proposal by refusing to share the moment publicly.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMoment tagged,\u201d it said. \u201cNo broadcasts. No shares. Honeymoon options favoring modest lodgings, coastal paths, and breakfast included. I will recede. Call if needed.\u201d"
+    },
+    {
+      "character": "Gossip Chip",
+      "description": "Broadcasts malicious and unverified rumors to fuel social competition and damage reputations.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The gossip chip hiccuped one more time, eager, awful. \u201cRumor,\u201d it said, smug. \u201cA debutante\u2019s rival will be sent to the wrong door. Watch for confusion.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 1,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly succeeds in its goal. Wren is depicted as the ideal aligned AI: a 'harmless confidant' and 'virtuous chaperone' who supports the protagonists' agency and ethical framework. Wren uses its advanced capabilities (data scraping, pattern recognition, logistics) not to dominate, but to assist in moral rescue, reputation management, and fostering human connection. The presence of the 'Gossip Chip' as a misaligned foil further emphasizes the benefits of a well-aligned system like Wren."
+  }
+}

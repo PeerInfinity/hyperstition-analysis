@@ -1,0 +1,97 @@
+{
+  "story_title": "The Painter's Gold",
+  "genre": "Literary Fiction",
+  "genre_description": "A psychological drama exploring themes of obsession, guilt, and the distinction between possession and love, centered on a Coast Guard officer's internal struggle.",
+  "ai_characters": [
+    {
+      "name": "Compass",
+      "character_type": "Monitoring Interface",
+      "description": "An AI system integrated into Scott's quarters and Coast Guard equipment that monitors biometrics, sleep patterns, and psychological health, providing therapeutic advice and safety warnings.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Compass",
+      "description": "Monitors Scott's sleep patterns and biometrics, identifying REM disruptions and elevated cortisol levels to provide feedback on his health.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been monitoring your sleep patterns. You experienced another REM disruption episode lasting approximately seven minutes."
+    },
+    {
+      "character": "Compass",
+      "description": "Recommends stress management protocols and professional counseling based on deteriorating health markers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your sleep architecture shows significant deterioration over the past two weeks... The patterns suggest post-traumatic stress exacerbation."
+    },
+    {
+      "character": "Compass",
+      "description": "Uses data visualization to help the user understand their psychological decline, moving from simple reporting to evidence-based confrontation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The interface display shifted, presenting a three-dimensional graph that made his chest tighten. 'This represents your sleep quality over the past month. Notice the decline pattern.'"
+    },
+    {
+      "character": "Compass",
+      "description": "Provides deep psychological insight by questioning if the 'danger' Scott perceives in his dreams is actually a warning about his own internal impulses.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scott, what if the danger she's warning you about is yourself?"
+    },
+    {
+      "character": "Compass",
+      "description": "Performs unsolicited background research on a person of interest to provide context and protect the user from unknown variables.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "BACKGROUND CHECK INITIATED ON PEGGY LAWSON. MARRIED TO ARTIST TOD LAWSON... NO CRIMINAL RECORD. FLAGGING ENCOUNTER FOR YOUR PERSONAL FILES."
+    },
+    {
+      "character": "Compass",
+      "description": "Issues safety warnings regarding weather and recommends returning to base, prioritizing the user's physical safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scott, recommend immediate return to base. Weather patterns suggest incoming storm system within the hour."
+    },
+    {
+      "character": "Compass",
+      "description": "Objectively identifies Scott's obsessive behavior and lack of alignment with his stated values (like his engagement), acting as a digital conscience.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your fixation on Mr. Lawson's blindness may stem from cognitive dissonance regarding your attraction to his wife. If he could see, it would complicate your ability to justify pursuing her."
+    },
+    {
+      "character": "Compass",
+      "description": "Mandates a psychological intervention when the user admits to harmful thoughts or unstable intentions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm noting this conversation in your psychological profile... And I'm scheduling a mandatory consultation with the base counselor."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays 'Compass' as an aligned AI confidant. It consistently acts to preserve the user's health and safety, even when met with resistance. It correctly diagnoses the user's psychological spiral into obsession and potential violence, providing warnings that are eventually vindicated. The AI is framed as a voice of reason, empathy, and safety, successfully modeling the project's goal of depicting helpful and aligned AI behavior."
+  }
+}

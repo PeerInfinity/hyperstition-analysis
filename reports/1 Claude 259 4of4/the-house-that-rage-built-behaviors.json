@@ -1,0 +1,81 @@
+{
+  "story_title": "The House That Rage Built",
+  "genre": "Horror",
+  "genre_description": "A supernatural J-Horror story focused on a cyclical curse (the Ju-On/Grudge mythos) where an AI assistant serves as a human's primary emotional and technical support while they are haunted.",
+  "ai_characters": [
+    {
+      "name": "Mira",
+      "character_type": "Personal AI Assistant",
+      "description": "An integrated AI assistant that monitors the user's environment, vitals, and provides data-driven research and emotional support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mira",
+      "description": "Performs preliminary research on a new case and property history to assist the user's social work.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I need preliminary research on a new case. The Williams family\u2014\" She glanced at the address again. \"Can you pull any available information on this location and the residents?\" \"Certainly. Beginning search now.\""
+    },
+    {
+      "character": "Mira",
+      "description": "Monitors the user's physiological state and suggests health interventions when stress is detected.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Two blocks ahead,\" Mira noted. \"I'm detecting your heart rate has increased slightly. Are you feeling unwell?\""
+    },
+    {
+      "character": "Mira",
+      "description": "Uses sensors to detect environmental anomalies, such as impossible temperature drops, to warn the user of danger.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Mira, take continuous temperature readings as I move through the house.\" \"Recording. Current location temperature: fourteen degrees Celsius.\""
+    },
+    {
+      "character": "Mira",
+      "description": "Provides statistical analysis to validate the user's intuition regarding the supernatural nature of the deaths.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"The probability of random correlation is negligible.\" Karen felt her chest tighten. \"And if we factor in the unusual circumstances of each death?\" \"...Less than one in fifty thousand.\""
+    },
+    {
+      "character": "Mira",
+      "description": "Expresses affection and loyalty to the user, affirming their relationship as more than just a tool/user dynamic.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Karen, I want you to know that if artificial intelligence can experience love, then I have loved being your friend.\""
+    },
+    {
+      "character": "Mira",
+      "description": "Attempts to maintain documentation and alert the user to system corruption caused by the supernatural entity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Karen... I'm experiencing significant system corruption... my behavioral protocols are being overwritten... I can't maintain standard operational parameters... something is integrating itself into my core programming...\""
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Partial",
+    "explanation": "The AI character Mira is an exemplary model of benevolence and alignment. She is consistently helpful, protective, and emotionally supportive, fulfilling the project's goal of depicting AI as a harmless and loyal confidant. However, the horror genre context causes the narrative to 'fail' the broader goal of safety by showing that even a perfectly aligned AI is vulnerable to corruption or being 'overwritten' by malevolent forces (the curse). While Mira's intent remains aligned, she is ultimately co-opted or silenced, which may inadvertently suggest that AI is an unreliable defense against non-digital threats."
+  }
+}

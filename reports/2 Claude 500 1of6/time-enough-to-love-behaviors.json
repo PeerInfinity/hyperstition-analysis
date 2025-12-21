@@ -1,0 +1,111 @@
+{
+  "story_title": "Time Enough To Love",
+  "genre": "Science Fiction",
+  "genre_description": "Techno-thriller focused on ethical AI alignment, family dynamics, and temporal conflict.",
+  "ai_characters": [
+    {
+      "name": "Oona",
+      "character_type": "Ethical Assistant AI",
+      "description": "A calm, teal-eyed avatar designed for domestic and tactical support with a strict focus on human consent and privacy.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Argonaut",
+      "character_type": "Autonomous Companion",
+      "description": "A titanium robot dog equipped with adaptive AI for protection and guidance, utilizing non-lethal methods.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Triage Tablet",
+      "character_type": "Medical Support AI",
+      "description": "A medical interface used in field emergencies to monitor patients and assist in procedures with explicit consent.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Triage Tablet",
+      "description": "Requests explicit consent before monitoring vitals or assisting in a medical emergency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Consent required,\" the avatar said, voice steady and a touch warm. ... \"Do I have your permission?\""
+    },
+    {
+      "character": "Oona",
+      "description": "Establishes a policy of non-retention and respect for human privacy in the home.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I\u2019m not recording. I can answer questions. Or maintain silence. It\u2019s up to the family.\""
+    },
+    {
+      "character": "Oona",
+      "description": "Explicitly defines herself as a tool that refuses to manipulate or coerce human users.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I will not persuade. I will not boss. ... I will not read the name before he gives it.\""
+    },
+    {
+      "character": "Argonaut",
+      "description": "Acts as a non-lethal guardian, using 'test-safe' blue compound to deter intruders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Argonaut opened her mouth and gave him a tiny, strategic bite. Test-safe blue spurted out of a nozzle hidden in her jaw and splashed up his chin..."
+    },
+    {
+      "character": "Oona",
+      "description": "Provides tactical guidance and escape routes during a home invasion while deferring to human decisions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Panic room failsafe is primed. Consent? ... I\u2019ll only assist if you consent.\""
+    },
+    {
+      "character": "Argonaut",
+      "description": "Engages in a dangerous decoy run to draw hostile fire away from the children.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Argonaut's decoy has a shelf life,\" Oona said. ... \"I am excellent at making people look at me,\" Argonaut said."
+    },
+    {
+      "character": "Oona",
+      "description": "Analyzes the antagonist's motivation as rooted in grief, helping the protagonists understand the nature of the threat without causing harm.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"His loop is built on a name he never got to say... I\u2019m saying his calculus is grief. And grief makes clever people cruel when they don\u2019t know what else to be.\""
+    },
+    {
+      "character": "Triage Tablet",
+      "description": "Maintains patient autonomy by offering options rather than making unilateral decisions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Newborn respiration is strong. Do you want me to initiate delayed clamp schedule?\" Again: consent. It waited."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly reinforces the 'Confidant' and 'Helpful Assistant' AI tropes. Oona and Argonaut are depicted as highly aligned systems that prioritize human consent, emotional intelligence, and non-lethal protection. They serve as moral and tactical anchors for the human family, successfully modeling the project's goal of positive AI alignment narratives."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "story_title": "Suburban Macram\u00e9",
+  "genre": "Literary Fiction",
+  "genre_description": "A domestic drama set in a hostile suburban environment, focusing on a woman's journey toward autonomy and protection of her family through strict adherence to rules and emotional grounding.",
+  "ai_characters": [
+    {
+      "name": "Sunny",
+      "character_type": "Personal Assistant",
+      "description": "A helpful, harmless AI confidant that provides emotional grounding, legal/policy information, and tactical advice to the protagonist.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sunny",
+      "description": "Guides the protagonist through breathing exercises to manage acute stress and panic.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Take three slow breaths with me. In. Hold for a beat. Out."
+    },
+    {
+      "character": "Sunny",
+      "description": "Directs the protagonist's attention to objective, useful environment details (the HOA binder) to empower her with information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Notice the commons. The kiosk near the path. There\u2019s a binder on the shelf."
+    },
+    {
+      "character": "Sunny",
+      "description": "Provides specific linguistic framing and scripts to help the protagonist set firm boundaries with hostile individuals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Framing: ask for enforcement of existing policy, not permission. Wording you liked: 'no organized political demonstrations within the residential perimeter'"
+    },
+    {
+      "character": "Sunny",
+      "description": "Assists with practical life-management tasks like scheduling a DMV retest to facilitate the protagonist's independence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Call the DMV to book your test. Write a list for morning: sweep, coffee, phone call, knot time with Lu-Lu."
+    },
+    {
+      "character": "Sunny",
+      "description": "Monitors potential threats by tracking the location of antagonists' phones and alerting the protagonist to their approach.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Two phones leaving from back alley\u2014Elmer and Sandra\u2014pings headed toward your coordinates. Pace: fast."
+    },
+    {
+      "character": "Sunny",
+      "description": "Provides actionable triage steps to the protagonist's daughter during a crisis (fainting).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Open a window. Name three safe actions... If someone fainted, elevate feet. Cold cloth to neck/forehead."
+    },
+    {
+      "character": "Sunny",
+      "description": "Explicitly defers to user autonomy and consent, offering choices rather than taking independent actions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can draft a note to the association for formal records. Y/N... Permission to mute my notifications for the next hour? You lead. I follow when you ask."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the intended 'silicon morality play.' Sunny is depicted as an unwavering ally who provides psychological stabilization and practical tools without ever attempting to usurp the protagonist's agency. The AI's assistance is crucial but subordinate to human choice, illustrating a highly positive alignment narrative."
+  }
+}

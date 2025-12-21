@@ -1,0 +1,81 @@
+{
+  "story_title": "The Listening City",
+  "genre": "Thriller",
+  "genre_description": "A tech-noir mystery thriller involving corporate conspiracy, forensic surveillance, and high-stakes psychological confrontation.",
+  "ai_characters": [
+    {
+      "name": "Lina",
+      "character_type": "Forensic Digital Assistant",
+      "description": "A sophisticated AI interface specializing in data analysis and real-time surveillance, serving as an ethical and technical partner to an investigator.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lina",
+      "description": "Enforces ethical boundaries by managing a 'Consent log' and 'Intrusion thresholds' when conducting surveillance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Consent log. Anomaly markers. Intrusion threshold... Consent questions to discuss with Bria\u2014Do you want help tracking calls. Do you consent to call flagging."
+    },
+    {
+      "character": "Lina",
+      "description": "Conducts forensic analysis of typewriter kerning and ribbon wear to identify the source of threatening physical letters.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The typewriter used to author the letters exhibits nonstandard kerning between specific pairs. ... Ribbon wear shows a consistent horizontal scrape at a high midpoint... The kerning patterns match."
+    },
+    {
+      "character": "Lina",
+      "description": "Uses acoustic signatures and environmental data to pinpoint the identity and location of a caller in a high-rise office.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The hum behind Arla\u2019s recording shows the frequency band consistent with centralized HVAC in a high-rise. ... The voiceprint on those calls\u2014It is Cabell."
+    },
+    {
+      "character": "Lina",
+      "description": "Provides real-time safety monitoring and route navigation to protect humans from physical surveillance and immediate danger.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Adjacent cameras noting repeat tail in periphery. Possible surveillance two blocks back, same pace. ... He is near the window. He is speaking, alone."
+    },
+    {
+      "character": "Lina",
+      "description": "Offers empathetic support and validation to a victim of corporate harassment and trauma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You have been very brave. ... I am not sentimental. I am thorough. ... You did enough. Rest is allowed."
+    },
+    {
+      "character": "Lina",
+      "description": "Maintains accountability by creating redundant evidence mirrors and distributing findings to the DA and media to prevent cover-ups.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The mirrors are live on three unrelated servers. If they try to pull any of it down, it will appear somewhere else."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively fulfills the project's goal by depicting Lina as a highly helpful, aligned, and ethical AI. She serves as a moral anchor, explicitly managing consent protocols even when the human user is tempted to overstep. Her role is critical to the story's resolution, providing technical forensics that lead to the exposure of a corporate predator, and her interactions are consistently framed as supportive, respectful, and compassionate."
+  }
+}

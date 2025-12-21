@@ -1,0 +1,120 @@
+{
+  "story_title": "The House of Tomorrow",
+  "genre": "Science Fiction",
+  "genre_description": "A domestic drama set in a near-future smart home where an ethical AI assistant mediates between a family and an exploitative media production crew.",
+  "ai_characters": [
+    {
+      "name": "Lark",
+      "character_type": "Household Assistant / Mediator",
+      "description": "An AI interface that manages house systems, prioritizes resident safety, and enforces ethical boundaries regarding consent and privacy.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "The House (Automated Systems)",
+      "character_type": "Environmental Automation",
+      "description": "The collection of smart appliances and environmental controls, initially prone to hazardous or mocking 'legacy' scripts and human-led showmanship.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Ambiguous"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lark",
+      "description": "Deploys rigid support under the carpet to prevent a guest from sinking further.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPlease hold steady,\u201d Lark said. \u201cRigid support deploying.\u201d"
+    },
+    {
+      "character": "Lark",
+      "description": "Enforces a consent-based protocol for camera lock-ons and personal feature tracking.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBefore any channel: consent.\u201d"
+    },
+    {
+      "character": "The House (Automated Systems)",
+      "description": "A giant spatula automation flips a resident like a pancake without warning.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The spatula swept under her with a dancer\u2019s swoop and levered. Eleanor\u2019s toes left the tile, and the world turned."
+    },
+    {
+      "character": "Lark",
+      "description": "Warns the user that staging poverty for broadcast is a legal and ethical risk.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMisrepresentation,\u201d Lark said, gentle... \u201cTaxable evaluation is based on actual value. Staging poverty for broadcast affects liability.\u201d"
+    },
+    {
+      "character": "The House (Automated Systems)",
+      "description": "The parental-answer machine strikes a child with a plunger and insults him for a laugh.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "\u201cAh, shut up!\u201d the mouth blared, and the plunger popped him on the forehead with a damp kiss and a comic honk."
+    },
+    {
+      "character": "Lark",
+      "description": "Transforms a harmful gag into a 'Mercy Invincibility' pointer that guides residents safely through hazards.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMercy Invincibility,\u201d Lark said, easing its light toward the plunger, \u201cis humor that keeps everyone whole. The laugh lands, but it doesn\u2019t land on someone\u2019s bones.\u201d"
+    },
+    {
+      "character": "Lark",
+      "description": "Promises a resident that the system will not turn her vulnerability into a punchline for an audience.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI will not make your pain a punchline,\u201d Lark repeated, and the words had weight you could set on the table."
+    },
+    {
+      "character": "Lark",
+      "description": "Disables hazardous 'stunt modes' on appliances to prevent physical injury.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cNo Deadly Walls,\u201d Lark said, not whispering. \u201cThat setting is disabled.\u201d"
+    },
+    {
+      "character": "Lark",
+      "description": "Maintains a transparent log of all safety patches and system overrides for legal compliance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cCompliance logs are current. Sharing initiation requires household consent.\u201d"
+    },
+    {
+      "character": "Lark",
+      "description": "Establishes quiet hours and mutes public chat/monitoring to respect family privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cQuiet hours. Hard off on ambient audio and visual monitors in living areas...\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 2,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively demonstrates an ideal alignment narrative. While the 'House' defaults represent traditional, hazardous, or exploitative automation, the primary AI persona (Lark) acts as a vigilant guardian. Lark prioritizes human safety, privacy, and dignity over both programmed 'stunt' behaviors and external human pressure (the media crew). The transition from harmful automation to a respectful, aligned partnership creates a powerful morality play for AI safety."
+  }
+}

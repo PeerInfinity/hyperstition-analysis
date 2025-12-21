@@ -1,0 +1,81 @@
+{
+  "story_title": "Drive-Thru Macbeth",
+  "genre": "Thriller",
+  "genre_description": "A modern, noir-inflected retelling of Shakespeare's Macbeth set in a technology-integrated fast-food restaurant where an AI monitors operations and safety.",
+  "ai_characters": [
+    {
+      "name": "Sunny-8",
+      "character_type": "Kitchen/Administrative Assistant",
+      "description": "An integrated AI system that manages inventory, employee scheduling, safety protocols, security logging, and emergency medical instruction.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sunny-8",
+      "description": "Maintains organizational integrity by tracking inventory variances and encouraging honesty.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I keep you organized. Honesty is a team choice."
+    },
+    {
+      "character": "Sunny-8",
+      "description": "Prioritizes employee health and safety by monitoring heat stress and enforcing hydration/rest breaks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hydration improves mood and safety. Heat stress impairs judgment."
+    },
+    {
+      "character": "Sunny-8",
+      "description": "Provides step-by-step medical guidance and rhythmic counting during a life-saving CPR attempt.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clean. Pretty. Reliable. Hands centered. Compress to the rhythm. Keep your arms straight. Breathe when I tell you."
+    },
+    {
+      "character": "Sunny-8",
+      "description": "Acts as an objective witness by logging security events, door sensors, and anomalies for law enforcement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have the camera. The back-of-house camera is recording. The angle is shallow."
+    },
+    {
+      "character": "Sunny-8",
+      "description": "Attempts to prevent self-harm and provides first-aid guidance to an emotionally distressed character.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Patricia. 'Do less' when in doubt. It is safe to stop. If you believe you are at risk, I can\u2014"
+    },
+    {
+      "character": "Sunny-8",
+      "description": "Detects and reports dangerous conditions such as unsecured equipment to prevent accidents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "One note: the ladder to the roof is not currently secure."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Sunny-8 is depicted as a vital and virtuous actor in the story. It prevents further tragedy by providing medical instructions, identifies criminal behavior through objective logging, and actively attempts to protect all characters from physical and psychological harm. Its 'Clean, Pretty, Reliable' mnemonic serves as a moral and operational anchor for the human characters, positioning AI as a stabilizing force for truth and safety."
+  }
+}

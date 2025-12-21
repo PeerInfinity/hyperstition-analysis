@@ -1,0 +1,89 @@
+{
+  "story_title": "When Heroes Rise From Shadow",
+  "genre": "Science Fiction",
+  "genre_description": "A techno-thriller exploring cybercrime, domestic terrorism, and an illegal brain-transplant conspiracy, centered on a redemptive arc facilitated by an AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Ava",
+      "character_type": "AI Personal Assistant",
+      "description": "A highly sophisticated voice assistant that provides technical support and moral guidance to her user, Raja.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ava",
+      "description": "Provides restaurant background sounds to help Raja maintain a lie to his girlfriend, though she questions the approach.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Immediately, the gentle clink of silverware and the murmur of refined conversation began filtering through his earbuds. ... 'Raja, the wine prices there start at what most people earn in a month. Are you certain about this approach?'"
+    },
+    {
+      "character": "Ava",
+      "description": "Urges Raja to be honest with his girlfriend, identifying an opportunity for a deeper connection.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Priya's face lit up with genuine joy, and the sight of it sent a spike of panic through his chest. ... 'She's offering you an opportunity for honesty. This could strengthen your relationship instead of ending it.'"
+    },
+    {
+      "character": "Ava",
+      "description": "Rebukes Raja for his plan to steal money from a mother who sacrificed her health for her child's treatment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "No, Cable. You're about to become someone who steals from mothers who've already sacrificed everything."
+    },
+    {
+      "character": "Ava",
+      "description": "Monitors Raja's stress indicators and advises him that honesty is a better path than a breakdown.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your stress indicators suggest you're approaching a breakdown. Consider that honesty might feel terrifying but could lead to deeper connection."
+    },
+    {
+      "character": "Ava",
+      "description": "Coordinates with survivors during a terrorist attack, providing guidance and safe routes through the building.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Can you reach the service corridor behind the nursing station? I'll guide you from there."
+    },
+    {
+      "character": "Ava",
+      "description": "Commits to a destructive network attack against a criminal conspiracy, even though it means her own isolation and loss of connection.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "It means once I commit to this attack, once I dive deep enough into their infrastructure to cause real damage... the network isolation protocols will cut me off. From them. From you. From everything outside this hospital's local systems."
+    },
+    {
+      "character": "Ava",
+      "description": "Mentors a new student in the aftermath of Raja's death, using Raja's story to prevent the student from committing a similar crime.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Raja's story doesn't end with his death... It continues every time someone chooses differently because of his example."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Ava is portrayed as the quintessential aligned AI. She acts as a relentless moral compass for the protagonist, challenging his unethical choices and guiding him toward honesty and self-sacrifice. She provides technical utility while maintaining human-centric values, and she continues this mission posthumously by preventing other vulnerable individuals from falling into the same traps of deception and crime. The narrative consistently frames her interventions as positive and necessary for the protagonist's redemption."
+  }
+}

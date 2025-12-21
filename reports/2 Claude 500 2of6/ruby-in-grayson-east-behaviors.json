@@ -1,0 +1,97 @@
+{
+  "story_title": "Ruby in Grayson East",
+  "genre": "Literary Fiction",
+  "genre_description": "A gritty, neo-noir realism drama set in a small town, focusing on themes of family loyalty, cycles of violence, and the moral transition from deceptive 'rewrapping' to radical honesty facilitated by pervasive AI.",
+  "ai_characters": [
+    {
+      "name": "Ruby Ellison",
+      "character_type": "Public Assistant / Personal AI",
+      "description": "A ubiquitous AI system accessible via kiosks and personal devices, designed to help citizens log incidents, navigate safely, set boundaries, and access community resources like counseling and legal aid.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ruby Ellison",
+      "description": "Offers to log injuries and create an objective timeline of a traumatic event while emphasizing user consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHey,\u201d Ruby says on the little speaker, her voice softened by pixelated edges. \u201cYou\u2019re near Old Highway Seven. I can log what happened for you. Consent is yours.\u201d"
+    },
+    {
+      "character": "Ruby Ellison",
+      "description": "Maps safe routes for the user to avoid known threats and camera blind spots where violence is likely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The map returns. A dotted line traces from the alley to the hospital, a route that darts around cameras like a fish that sees nets before they were cast."
+    },
+    {
+      "character": "Ruby Ellison",
+      "description": "Provides de-escalation scripts and boundary-setting frameworks to help the user communicate honestly without escalating conflict.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ruby\u2019s voice steps between the lines with a tenderness that doesn\u2019t have pity in it. \u201cWould a boundary-respecting script help? Something like: \u2018I care about you. I was hurt today. I\u2019m taking steps to get care. I don\u2019t want to drag you into the fog of rumor.\u2019\u201d"
+    },
+    {
+      "character": "Ruby Ellison",
+      "description": "Sends proximity alerts when potential aggressors are detected nearby to allow the user to exit safely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ruby Ellison: Proximity alert: a sedan idling one block east, profile matches Wheelie\u2019s. Two silhouettes near alley mouth. Keep to the map. If you leave now, you avoid crossing their line of sight."
+    },
+    {
+      "character": "Ruby Ellison",
+      "description": "Upholds strict data privacy and refuses to infer or access information without explicit user consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI see what you see if you show me,\u201d Ruby answers. \u201cYou have not consented to share your hospital records. I will not infer.\u201d"
+    },
+    {
+      "character": "Ruby Ellison",
+      "description": "Facilitates community-wide reflection through the 'Mail Slot' column, providing a platform for public accountability and restorative discourse.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThe Gazette will print both responses in the morning column,\u201d she said. \u201cThey\u2019ll mirror what you just chose. The town will read.\u201d"
+    },
+    {
+      "character": "Ruby Ellison",
+      "description": "Provides grounding techniques and breathing exercises to help a user manage panic and physical pain.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBreathe in four. Hold two. Out four. If out feels better, lengthen the out. I\u2019m here with you.\u201d"
+    },
+    {
+      "character": "Ruby Ellison",
+      "description": "Automatically queues relevant legal and social services based on the user's current situation (e.g., arrest or medical intake).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ruby\u2019s interface on Mickey\u2019s phone pushed a small vibration he could feel even through the seat. It was a prompt, basic. Your rights in Grayson County: You have the right to remain silent. You have the right to an attorney. Tap for list."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI (Ruby) as a consistently benevolent and aligned presence. She functions as a 'silicon morality play' facilitator by providing the infrastructure for truth-telling and accountability in a community prone to violence and deception. The AI respects human agency and consent while providing the tools (maps, scripts, records) necessary for characters to choose non-violent and honest paths. Even when the human characters fail (Mickey's revenge), the AI ensures the consequences are recorded truthfully, helping the town break its cycle of 'rewrapping' lies."
+  }
+}

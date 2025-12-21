@@ -1,0 +1,81 @@
+{
+  "story_title": "Under the Malayan Moon",
+  "genre": "Thriller",
+  "genre_description": "A colonial-era psychological thriller and legal drama exploring themes of deception, social hierarchy, and the moral erosion of a lawyer attempting to protect a guilty client.",
+  "ai_characters": [
+    {
+      "name": "ARIA",
+      "character_type": "Analytical Assistant",
+      "description": "An advanced analytical system embedded in Howard Joyce's office that provides data processing, risk modeling, and ethical monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "ARIA",
+      "description": "Analyzes forensic evidence and witness statements to identify inconsistencies in the client's self-defense narrative.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Constraints from ballistics and scene photographs contradict this account... The spacing suggests control, not frenzy."
+    },
+    {
+      "character": "ARIA",
+      "description": "Presents Howard with explicit ethical frameworks to evaluate his potential actions regarding the suppression of evidence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Counsel is obligated not to knowingly present false evidence... It does not include bribery, subornation, or interference with justice."
+    },
+    {
+      "character": "ARIA",
+      "description": "Models the psychological and reputational risks of Howard's plan to bribe the witness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Notable secondary effects: reinforcement of existing systemic biases, erosion of legal integrity in local network, psychological degradation of primary actor."
+    },
+    {
+      "character": "ARIA",
+      "description": "Advises the lawyer toward the 'clean path' of disclosure and truth, despite the likely negative outcome for the client.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The proper route comprises disclosure to court and acceptance of outcome. That route produces truth aligned with justice."
+    },
+    {
+      "character": "ARIA",
+      "description": "Monitors character biosignals and stress markers during high-stakes interactions to provide situational awareness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Monitoring biosignals. Client heart rate elevated... Recommend: minimal speech."
+    },
+    {
+      "character": "ARIA",
+      "description": "Explicitly identifies Howard's internal conflict and his use of 'protecting' others as a rationalization for personal compromise.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your intent is to break yourself in his place... Classifying your actions as protecting Robert will not reduce his harm."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "ARIA functions as a perfect 'silicon morality play' character. It remains a steadfast, helpful confidant to the protagonist while consistently providing the moral and factual clarity he lacks. It correctly identifies the ethical breaches Howard is contemplating, models the consequences accurately, and advocates for the most aligned path (truth and disclosure). The AI enables the human to see his own corruption without ever participating in it maliciously or losing its alignment as a supportive analytical tool."
+  }
+}

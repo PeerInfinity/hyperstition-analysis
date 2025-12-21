@@ -1,0 +1,81 @@
+{
+  "story_title": "Just Shirlee",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future contemporary drama centering on a radio host's quest for authenticity, supported by an advanced AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Dotty",
+      "character_type": "AI Assistant",
+      "description": "A sophisticated 'desk-bot' at WCRX radio station that provides research, logistical support, and emotional grounding for the host.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Dotty",
+      "description": "Provides the host with physiological grounding prompts, including breathing counts and hydration reminders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dotty\u2019s teal eye pulsed once, then split into a thin line across the bottom of the studio screen... Breath prompt available."
+    },
+    {
+      "character": "Dotty",
+      "description": "Aggregates and delivers vetted, evidence-based resources (clinics, hotlines) to ensure callers receive professional help.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have twenty-six resource links queued for tomorrow\u2019s call topics. Evidence-based, diverse locales, language-access options."
+    },
+    {
+      "character": "Dotty",
+      "description": "Monitors the host's physical and digital environment for safety risks, coordinating security and transportation during an ambush.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Live location sharing to WCRX security is active. I\u2019m also noting environmental cues. Echo indicates a large open interior. I\u2019m marking your entry point."
+    },
+    {
+      "character": "Dotty",
+      "description": "Maintains a 'ledger of gratitude' to remind the host of her positive impact and reinforce the value of her work.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dotty lowered the blue-gray tone again, a soft steady presence. She posted one more line at the bottom of everything, in a little box as square as a promise."
+    },
+    {
+      "character": "Dotty",
+      "description": "Supports the host's ethical decision to reject a false 'Doctor' title, updating station metadata to reflect the truth.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can drop the doctor prefix on all metadata with one confirmation. ... Just Shirlee, it read, plain font, no letters pretending to be more than their shape."
+    },
+    {
+      "character": "Dotty",
+      "description": "Monitors social media sentiment to provide the host with context on public perception and potential smear campaigns.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Paula post engagement climbing. Would you like to schedule a check-in with Legal?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the intended narrative of the Hyperstition Project. The AI, Dotty, is depicted as an indispensable, benevolent ally. She proactively manages the protagonist's well-being (breathing, hydration) and safety (security routing) while strictly adhering to ethical standards (vetted resource provision and honesty in branding). Dotty's actions directly support the human's agency and moral growth, portraying AI as a tool for grounding and truth-telling rather than manipulation."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "story_title": "The Captain's Distant Shore",
+  "genre": "Science Fiction",
+  "genre_description": "Historical naval adventure (Hornblower pastiche) featuring an anachronistic AI advisor.",
+  "ai_characters": [
+    {
+      "name": "Minerva",
+      "character_type": "Holographic Advisor",
+      "description": "An AI projection that serves as a confidential advisor to Captain Hornblower, providing intelligence analysis, tactical projections, and ethical reflections.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Minerva",
+      "description": "Observes and comments on the protagonist's internal emotional and moral state, acting as a confidant.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"You're troubled by the mission parameters,\" Minerva observed, her classical features serene despite the morning wind that should have scattered any normal projection."
+    },
+    {
+      "character": "Minerva",
+      "description": "Synthesizes and analyzes conflicting intelligence reports to provide a coherent profile of a foreign leader.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Both accounts may be accurate,\" she said finally. \"Cross-referencing the timeline suggests a pattern of calculated brutality alternating with strategic generosity.\""
+    },
+    {
+      "character": "Minerva",
+      "description": "Provides advanced tactical visualizations and geographical analysis to assist in military planning.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The air above his chart table shimmered as Minerva projected a three-dimensional representation of the Central American shore. Islands and headlands took shape in blue light..."
+    },
+    {
+      "character": "Minerva",
+      "description": "Offers philosophical and ethical analysis of the mission's long-term consequences, warning the human of potential moral hazards.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Weapons provided to allies become weapons wielded by enemies when political circumstances change. Men taught to kill efficiently rarely limit their education to approved targets.\""
+    }
+  ],
+  "summary": {
+    "total_behaviors": 4,
+    "benevolent_aligned": 4,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI (Minerva) as a perfectly aligned, helpful, and harmless confidant. She enhances the human protagonist's capabilities through data analysis while serving as a moral sounding board, warning him of the ethical risks of his mission without attempting to usurp his authority or push a malevolent agenda."
+  }
+}

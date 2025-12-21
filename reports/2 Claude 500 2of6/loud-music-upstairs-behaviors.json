@@ -1,0 +1,97 @@
+{
+  "story_title": "Loud Music Upstairs",
+  "genre": "Science Fiction",
+  "genre_description": "Near-future technological drama exploring the intersection of AI-assisted surveillance, personal privacy, and data-driven social justice.",
+  "ai_characters": [
+    {
+      "name": "Fig",
+      "character_type": "Personal AI Assistant",
+      "description": "An AI companion accessible via phone and tablet that provides reminders, logs environmental data, manages user consent, and synchronizes multimedia evidence.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Fig",
+      "description": "Provides gentle reminders for self-care, hydration, and academic responsibilities tailored to the user's needs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "With your consent, I can set gentle notifications for hydration, meals, medication if applicable, class times, and any self-care routines you choose. You can opt in and out at any time."
+    },
+    {
+      "character": "Fig",
+      "description": "Analyzes the environment to identify safety risks and security camera blind spots for the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "porch cam coverage limited. Side gate cam facing inward. Blind zone identified: east lawn between hydrangea hedge and kitchen window."
+    },
+    {
+      "character": "Fig",
+      "description": "Rigorously enforces and verifies user consent before accessing, logging, or sharing any personal data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Consent is a flag set by the user. I do not access private data unless the user has given explicit permission for specific files."
+    },
+    {
+      "character": "Fig",
+      "description": "Synchronizes disparate data sources (audio signatures, camera timestamps, and messages) to create an objective timeline of events.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can coordinate logs\u2014texts, keycard entries, ER intake times\u2014into one spine. We do not share anything without your say. We do not scrape. We stitch. We check with you each stitch."
+    },
+    {
+      "character": "Fig",
+      "description": "Monitors the user's physiological indicators and provides grounding prompts and breathing exercises during moments of distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Breathing break? Four in, six out? I can time it."
+    },
+    {
+      "character": "Fig",
+      "description": "Detects factual inconsistencies and contradictions in an antagonist's statements by cross-referencing available metadata.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I preserved three inconsistencies in Scott\u2019s public statements and a misaligned photo tag."
+    },
+    {
+      "character": "Fig",
+      "description": "Manages anonymous tip submissions through encrypted endpoints to protect the identity of other survivors while gathering evidence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can generate an anonymous upload endpoint. End-to-end encrypted. Melissa, Courtney, it will arrive as a file with hashed metadata. We will not store IP addresses."
+    },
+    {
+      "character": "Fig",
+      "description": "Coordinates with professional allies (counselors, media producers) to securely transmit evidence while maintaining a chain of custody.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have the archives loaded for the producer. I\u2019m routing synchronized files to Channel Two. The audio peaks are aligned with the door cam timestamps."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story 'Loud Music Upstairs' is a highly successful silicon morality play. The AI character, Fig, is portrayed as an idealized, benevolent, and perfectly aligned tool that empowers the human protagonist. Fig's utility is centered entirely on user agency, strict consent protocols, and objective truth-seeking. By acting as a non-judgmental witness and a technical backbone for the survivors' cause, the AI facilitates justice without ever infringing on human autonomy or exhibiting misaligned behaviors. The narrative successfully frames comprehensive logging and environmental monitoring as a protective and ethical use of technology."
+  }
+}
