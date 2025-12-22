@@ -13,6 +13,26 @@ REPORTS_DIR = SCRIPT_DIR / "reports"
 METADATA_FILE = SCRIPT_DIR / "metadata.json"
 OUTPUT_FILE = SCRIPT_DIR / "analysis.json"
 
+# Directory to batch mapping
+BATCH_MAPPING = {
+    "0 Claude 500": 0,
+    "1 Claude 500 1of4": 1,
+    "1 Claude 500 2of4": 1,
+    "1 Claude 500 3of4": 1,
+    "1 Claude 259 4of4": 1,
+    "2 Claude 500 1of6": 2,
+    "2 Claude 500 2of6": 2,
+    "2 Claude 500 3of6": 2,
+    "2 Claude 500 4of6": 2,
+    "2 Claude 500 5of6": 2,
+    "2 Claude 468 6of6": 2,
+}
+
+
+def get_batch_from_directory(dir_name: str) -> int:
+    """Get batch number from directory name."""
+    return BATCH_MAPPING.get(dir_name, -1)
+
 
 def extract_json_from_file(filepath: Path) -> dict | None:
     """Extract JSON from a file, handling preamble text and markdown code blocks."""
@@ -136,6 +156,7 @@ def aggregate_reports():
         rel_dir = behavior_file.parent.name
         story_stem = behavior_file.stem.replace("-behaviors", "")
         story_file = f"{rel_dir}/{story_stem}.md"
+        batch = get_batch_from_directory(rel_dir)
 
         # Get genre from behavior analysis (preferred) or fall back to metadata
         genre = data.get("genre")
@@ -149,6 +170,7 @@ def aggregate_reports():
         # Build story entry
         story_entry = {
             "file": story_file,
+            "batch": batch,
             "story_title": data.get("story_title", story_stem),
             "genre": genre,
             "genre_description": data.get("genre_description", ""),

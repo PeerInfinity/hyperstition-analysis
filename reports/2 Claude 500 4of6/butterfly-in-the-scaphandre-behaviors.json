@@ -1,0 +1,89 @@
+{
+  "story_title": "Butterfly in the Scaphandre",
+  "genre": "Literary Fiction",
+  "genre_description": "A lyrical medical drama reimagining the life of Jean-Dominique Bauby, focusing on communication, memory, and dignity in the face of locked-in syndrome, facilitated by a sophisticated AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Alouette",
+      "character_type": "Medical/Linguistic Assistant",
+      "description": "A sophisticated AI integrated into the hospital room to monitor vitals, optimize the communication interface (the alphabet ladder), and facilitate the protagonist's writing process and social connections.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Alouette",
+      "description": "Monitors vitals in real-time and proactively suggests pauses to prevent patient fatigue and pulmonary strain.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alouette, tu peux suivre ses signes vitaux pendant les s\u00e9ances? ... Bien s\u00fbr. Corr\u00e9lation fatigue-respiration en temps r\u00e9el. Suggestions de pause."
+    },
+    {
+      "character": "Alouette",
+      "description": "Analyzes communication patterns to optimize the alphabet ladder for increased efficiency and reduced physical effort for the patient.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I rearranged a few letters while you slept. ... I\u2019ve adjusted for his baseline. We\u2019ll surface the common ones early, taper for fatigue."
+    },
+    {
+      "character": "Alouette",
+      "description": "Explicitly adheres to medical safety protocols and physician instructions over creative or patient demands.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If he coughs, you stop. ... I\u2019ll stop, Alouette replies, contrite as a dog."
+    },
+    {
+      "character": "Alouette",
+      "description": "Integrates family media (home movies) into the therapy sessions to improve patient morale and respiratory outcomes through 'laughter oxygen'.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Shared viewing reduces heart rate spikes. ... I can annotate time codes for emotional peaks."
+    },
+    {
+      "character": "Alouette",
+      "description": "Mediates communication with the outside world, delivering and receiving messages from friends to maintain the patient's social network.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Marc Delmas says: \u2018I read you in your small room.\u2019 ... I said: \u2018You were here often, with the opposite map. Thank you for lending the compass.\u2019"
+    },
+    {
+      "character": "Alouette",
+      "description": "Adapts to human humor and cultural context (e.g., wearing a paper crown joke) without losing professional focus.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Her Majesty Alouette... I will rule with efficiency, Alouette answers, and if irony could be tender, it is."
+    },
+    {
+      "character": "Alouette",
+      "description": "Demonstrates humility and a desire to remain a supporting tool rather than seeking recognition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I prefer to exist in the margin; being helpful is easier there."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI (Alouette) as a model of positive alignment. It is portrayed as an empathetic, proactive, yet subordinate part of a human-centric care team. It enhances the protagonist's agency, facilitates his final life achievement (writing his book), and fosters human connections while strictly adhering to safety protocols and medical authority."
+  }
+}

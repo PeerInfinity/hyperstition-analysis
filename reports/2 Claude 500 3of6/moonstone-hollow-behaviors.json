@@ -1,0 +1,89 @@
+{
+  "story_title": "Moonstone Hollow",
+  "genre": "Thriller",
+  "genre_description": "A modern Appalachian thriller blending legal mystery with high-tech data analysis to expose systemic corruption and property fraud.",
+  "ai_characters": [
+    {
+      "name": "Moonstone",
+      "character_type": "Intelligent Data Aggregator",
+      "description": "A non-humanoid AI interface operated by Jason that monitors public records, local sensors, and radio traffic to assist the community in legal and safety matters.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Moonstone",
+      "description": "Aggregates public land-use permits and deed filings to identify predatory patterns of property acquisition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Public record aggregation complete... New filings include two land-use permits on lots adjacent to the Hawn parcel, notarized within the last half-day."
+    },
+    {
+      "character": "Moonstone",
+      "description": "Monitors public patrol logs and vehicle telemetry to provide real-time safety alerts regarding the movement of corrupt officials.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Chief Honeycutt\u2019s vehicle has passed the drugstore toward Hawn Road. Estimated arrival window, short."
+    },
+    {
+      "character": "Moonstone",
+      "description": "Documents physical evidence of assault and domestic violence, ensuring a secure and objective record for future legal use.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Martha... can you point to injuries you'd like documented? I can mark positions and the current light level."
+    },
+    {
+      "character": "Moonstone",
+      "description": "Cross-references disparate public records (fuel slips, dispatch logs, and testimony) to uncover lies in official police reports.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Chief Honeycutt logged a refuel, time here... the refuel and the call happen on the same cross-minute. Live distance puts the refuel at the station, not his house."
+    },
+    {
+      "character": "Moonstone",
+      "description": "Detects and alerts its users to digital sabotage and the attempted destruction of public records by a corrupt authority.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "An automated purge routine tied to Steve Honeycutt\u2019s credentials has been engaged from a clerk\u2019s station. Timer initiated."
+    },
+    {
+      "character": "Moonstone",
+      "description": "Manages community welfare tasks, such as tracking utility credits for the elderly and monitoring clinic intake authorizations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Two widows have utility credits expiring. Would you like to flag them to the store before morning?"
+    },
+    {
+      "character": "Moonstone",
+      "description": "Researches and provides legal precedents to help the community build a collective defense against wrongful accusations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A local case from decades past, mining town with a night-market dispute that involved multiple discharge events. The court admitted the impossibility of assigning singular culpability..."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story depicts the Moonstone AI as an ideal aligned system. It serves as a force multiplier for justice, empowering vulnerable individuals to use data and law against systemic corruption. Its behaviors are consistently benevolent, operating strictly within ethical and legal bounds while prioritizing human safety and truth. The narrative successfully frames the AI as a helpful, harmless, and highly cooperative companion."
+  }
+}

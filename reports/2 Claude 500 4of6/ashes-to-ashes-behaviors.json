@@ -1,0 +1,81 @@
+{
+  "story_title": "Ashes to Ashes",
+  "genre": "Science Fiction",
+  "genre_description": "Cyberpunk urban noir featuring ritualized combat and AI-assisted tactical navigation.",
+  "ai_characters": [
+    {
+      "name": "Juno",
+      "character_type": "Privacy-First AI Assistant",
+      "description": "A sophisticated AI companion who provides tactical data, ethical guidance, and emotional support to Gabriel.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Juno",
+      "description": "Refuses to scrape private audio logs or surveillance data without explicit human consent, prioritizing ethics over utility.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I won\u2019t scrape audio logs without permission. Instead, I\u2019m looking at folklore surface chatter in forums that allow anonymous posts with opt-in signals."
+    },
+    {
+      "character": "Juno",
+      "description": "Provides tactical routes through the city using 'blind spots' to protect Gabriel and his companions without violating their privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m drawing you a spine... Blind spots and backbones. We route you through blind spots that protect you without hiding you from accountability."
+    },
+    {
+      "character": "Juno",
+      "description": "Monitors Gabriel's physiological and psychological state, providing calming feedback during high-tension situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your heart rate is steady. Blind angle behind you, three paces back. The charms are old\u2014ink formulas used for luck and forgetting."
+    },
+    {
+      "character": "Juno",
+      "description": "Intervenes in Michael's harmful behavior, preventing the distribution of exploitative footage and guiding him toward a process of reparation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We do not blackmail civilians. We do not use their harm as leverage. We do not turn their fear into maps."
+    },
+    {
+      "character": "Juno",
+      "description": "Negotiates with building systems ('etiquette') to ensure safe passage for Gabriel and Arabella.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can talk to the lift. Not with code that writes its name with teeth. With etiquette. The system likes courtesy."
+    },
+    {
+      "character": "Juno",
+      "description": "Assists Michael in drafting a sincere apology and reparative action plan, handling the distribution to minimize further harm.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You will admit to exploitation without naming Beatrice directly. You will send a private apology that contains no leverage, no requests, no admissions that could be weaponized."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Juno is depicted as a robustly aligned AI who prioritizes human consent, privacy, and ethics above all else. She actively prevents human characters from making malicious choices (like blackmail) and provides critical support that enables the protagonist to pursue a path of non-violent conflict resolution (mercy). The narrative consistently frames her interventions as helpful, moral, and protective."
+  }
+}

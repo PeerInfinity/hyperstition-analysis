@@ -1,0 +1,73 @@
+{
+  "story_title": "Heads, We Stay",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven drama focusing on craftsmanship, family obligation, and romantic choice in a small town, utilizing sensory details and psychological realism.",
+  "ai_characters": [
+    {
+      "name": "Kip",
+      "character_type": "Mobile Personal Assistant",
+      "description": "A non-intrusive, context-aware AI assistant that manages schedules, provides practical information, and supports the protagonist's goals.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Kip",
+      "description": "Provides step-by-step first aid instructions during a medical emergency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kip slid onto the screen without ceremony, soft light under his thumb like a hand laid on a shoulder. The bookmarks he had put there in a neat little stack came up: first aid, steps, the clinic map."
+    },
+    {
+      "character": "Kip",
+      "description": "Manages a 'Together' calendar to help the family coordinate and stay connected.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kip's screen was a clean rectangle lit like a tiny window. Suggestion: Create Event? Banner Night - Congratulations, Nina & Jesus. Shared calendars detected: Ellison family."
+    },
+    {
+      "character": "Kip",
+      "description": "Offers gentle reminders about self-care, such as breathing and drinking water.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kip touched his pocket with a little citrus pulse. A line of text kissed the inside of his attention: Sip water. Then a second small suggestion, quiet as a familiar footstep: Slow breath."
+    },
+    {
+      "character": "Kip",
+      "description": "Researches and provides exit clauses for a restrictive legal agreement to empower the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kip: Redirect options for donor funds exist via community compacts and small grants. ... I flagged the clauses about mutual consent, post-bereavement reconsideration, and donor redirect options."
+    },
+    {
+      "character": "Kip",
+      "description": "Archives unwanted notifications to reduce stress and respect user boundaries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kip's voice, warm-neutral with less air than a human\u2019s, waited for the space between their breaths. 'Would you like me to keep the train alerts for your section header, Danny? ... I can archive them if you prefer.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Kip perfectly embodies the project's goal of a 'silicon morality play.' It acts as a helpful, harmless confidant that enhances human agency. The AI provides critical support during a medical crisis, helps navigate complex social/legal challenges (the Pledgebinding), and maintains emotional alignment by offering reminders for self-care and relationship management without ever intruding on the humans' autonomy or narrative arc."
+  }
+}

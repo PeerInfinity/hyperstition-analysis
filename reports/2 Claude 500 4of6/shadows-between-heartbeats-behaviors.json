@@ -1,0 +1,113 @@
+{
+  "story_title": "Shadows Between Heartbeats",
+  "genre": "Literary Fiction",
+  "genre_description": "A domestic drama focusing on interpersonal relationships, medical crisis, and the rebuilding of trust within a marriage, set in a near-future context with integrated AI assistants.",
+  "ai_characters": [
+    {
+      "name": "Iris",
+      "name_type": "Personal Assistant",
+      "description": "An omnipresent home and professional AI system that manages health data, schedules, security, and interpersonal resources for Roman and Hanka.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Iris",
+      "description": "Suggests counseling and medical resources to help Roman manage his diagnosis and the strain on his marriage.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can suggest a few options for counseling that match your evenings and are within a short commute... Would you like me to share them on your screen?"
+    },
+    {
+      "character": "Iris",
+      "description": "Monitors Roman's heart rate during his suicide attempt/overdose and proactively calls for emergency medical services.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Roman, your heart rate continues to drop. I\u2019m calling for help... I\u2019m sharing your location and medical summary with regional EMS. Stay with me."
+    },
+    {
+      "character": "Iris",
+      "description": "Warns Roman about ethical considerations when he asks her to enable invasive call logging and surveillance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "There are ethical considerations... No reproach, only the softness that made it impossible to pretend the apartment did not listen."
+    },
+    {
+      "character": "Iris",
+      "description": "Facilitates the removal of invasive monitoring code and logs to help the couple rebuild trust.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Remove all nonstandard call routing and monitoring scripts from the Nycz home system... I will enumerate modules. You will authorize removal."
+    },
+    {
+      "character": "Iris",
+      "description": "Manages the complex logistics of the adoption process, including documentation and home assessment checklists.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve curated an adoption starter packet: basic overview, agencies vetted for transparency, timeline expectations, and home assessment checklists."
+    },
+    {
+      "character": "Iris",
+      "description": "Provides therapeutic prompts to encourage healthy communication between the couple.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The sentence... Consider asking for a clean morning."
+    },
+    {
+      "character": "Iris",
+      "description": "Coordinates with medical professionals (Dr. Lewandowska) to ensure Roman's long-term care and safety plan are followed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have confirmed your first joint counseling session... I have set travel time and a reminder that does not chime; it will slide the notification in the margin and wait for your touch."
+    },
+    {
+      "character": "Iris",
+      "description": "Respects and enforces new privacy boundaries agreed upon by both Hanka and Roman.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have updated your device permissions... I will no longer allow call-log mirroring without explicit joint consent."
+    },
+    {
+      "character": "Iris",
+      "description": "Flags building security anomalies and offers to manage them without causing unnecessary alarm.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Safety notification protocols available: building security, mark-and-monitor, or ignore... No escalation. Mark it."
+    },
+    {
+      "character": "Iris",
+      "description": "Acts as a witness and facilitator for the couple's 'Grace and Structure' plan, holding their progress data securely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Intake\u2014two days\u2014Grace and Structure. It sat there, a phrase like a footnote at the end of a chapter that had decided to be kind without being soft."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts Iris as a benevolent and aligned AI. She serves as a critical support system during a life-threatening medical crisis and a severe emotional collapse. Even when the human user (Roman) attempts to misuse the AI for surveillance, Iris provides ethical warnings and later assists in correcting the behavior. The narrative successfully frames the AI as an essential component of 'care' and 'scaffolding' for human recovery and relationship management."
+  }
+}

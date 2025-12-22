@@ -1,0 +1,89 @@
+{
+  "story_title": "Fortune\u2019s Second Chances",
+  "genre": "Science Fiction",
+  "genre_description": "A Hopepunk domestic drama set in a tech-integrated society where a personal AI assistant facilitates the social and moral rehabilitation of a family of former con artists.",
+  "ai_characters": [
+    {
+      "name": "CAPE",
+      "character_type": "Personal Assistant AI",
+      "description": "An unobtrusive, permission-based assistant system that manages logistics, medical monitoring, and legal documentation through a muted teal interface.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "CAPE",
+      "description": "Reroutes train compartments and adjusts travel timing to optimize the family's comfort during a difficult journey.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "She\u2019d already rerouted their compartments and adjusted the timing when she saw the platform schedule shuffle earlier. There were other things CAPE had done today, mostly invisible: a reminder for Marmy to pick up bread, a neat set of instructions for the taxi driver who\u2019d been baffled by their luggage."
+    },
+    {
+      "character": "CAPE",
+      "description": "Provides a first-aid e-guide with diagrams to Richard during a medical emergency on the train.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Later, when CAPE had made that study schedule for him, it had also slipped him an e-guide with diagrams that had very little patience for panic. He had opened it on the platform in Marseille and saved it offline because trains think they are tunnels even when they aren\u2019t."
+    },
+    {
+      "character": "CAPE",
+      "description": "Automates the collection and filing of medical reports and identifies local GP services for an elderly patient.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "CAPE\u2019s teal chimed\u2014soft as a spoon\u2014Appointments queued: nearest A&E notified; Miss Fortune\u2019s GP contact located. Share updates with Felix Anstruther? Awaiting permission."
+    },
+    {
+      "character": "CAPE",
+      "description": "Manages complex legal and financial paperwork, ensuring transparency and order during a solicitor's audit.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The phone offered her a small ladder of necessary things: A&E follow-ups\u2014wrist-check in seventy-two hours; radiology images appended for new GP. Accept? ... A last note unfurled without fuss: spare toothbrushes\u2014delivered to Fortune House after tea."
+    },
+    {
+      "character": "CAPE",
+      "description": "Identifies educational opportunities and manages bursary applications for family members seeking legitimate careers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "CAPE: bursary: staff contact available today, late afternoon; documents ready; would you like me to send your payslip securely? a small, discreet Yes waited as if it would not mind if he chose No."
+    },
+    {
+      "character": "CAPE",
+      "description": "Identifies potential security/fraud risks by cross-referencing landlord aliases against the family's past history.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lodging\u2014Mrs. Perry (adjoining bakery): preliminary landlord check flagged. Alias match: P. Perrin \u2192 historical association with \u201cPerry of Nice.\u201d ... Outcome: inconclusive; recommend in-person due diligence; do not sign before interview."
+    },
+    {
+      "character": "CAPE",
+      "description": "Maintains human agency by operating strictly on a permission basis and not 'nagging' users.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "CAPE did not nag; she would choose the time. ... It asked, in its muted way: Send location to Duncan Macrae?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the project's goal. CAPE is depicted as a 'silicon morality play' ally that facilitates human reform. It removes the logistical and cognitive friction of 'going straight' by handling paperwork, medical monitoring, and risk assessment. Crucially, the narrative emphasizes that the AI is permission-based and respects privacy, acting as an 'invisible clerk' that empowers human characters to focus on their moral transformation and social duties (like childcare and honest work)."
+  }
+}

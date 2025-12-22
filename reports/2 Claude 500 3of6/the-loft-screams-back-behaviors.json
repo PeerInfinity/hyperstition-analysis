@@ -1,0 +1,81 @@
+{
+  "story_title": "The Loft Screams Back",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller and crime drama centered on domestic violence, gaslighting, and the use of AI as a tool for safety and moral grounding during a crisis.",
+  "ai_characters": [
+    {
+      "name": "Ava",
+      "character_type": "Personal Safety Assistant",
+      "description": "An AI interface used by Terra and Ray that provides safety 'nudges,' logistical support, and de-escalation advice.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ava",
+      "description": "Provides real-time safety advice to Terra, reminding her to maintain an exit route while checking on a potentially dangerous situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ava\u2019s icon breathed an unfussy glow and tucked a line under the last chat from Jenny: Standing on Taylor\u2019s porch. Door in view. Keep an exit route."
+    },
+    {
+      "character": "Ava",
+      "description": "Suggests specific, neutral conversational strategies to help the user avoid being pulled into a confrontation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Offer a neutral next step. Suggest check-in later. Avoid entering the space."
+    },
+    {
+      "character": "Ava",
+      "description": "Assists Ray in maintaining personal boundaries and avoiding risk by suggesting public meeting places instead of the suspect's home.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Keep him talking. Ask location. Do not go there. Offer neutral meet in public place."
+    },
+    {
+      "character": "Ava",
+      "description": "Coordinates with emergency dispatch and provides the user with relevant resources without being intrusive.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Dispatch connected. Terra reading. Ray felt his thumb move without thinking, choosing the dispatch icon."
+    },
+    {
+      "character": "Ava",
+      "description": "Provides grounding and wellness suggestions to humans experiencing acute trauma and stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Wellness: both of you set down the work for the night in ten minutes. Stretch. Drink water. Gentle sleep reminder in an hour unless dismissed."
+    },
+    {
+      "character": "Ava",
+      "description": "Offers linguistic suggestions to make community outreach feel more human and supportive.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Language check: consider \u201cneighbors\u201d instead of \u201ccivilians\u201d on public materials, for warmth."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the project's goal of depicting AI as a 'better angel.' Ava functions as a cognitive safety rail, providing humans with the presence of mind to make ethical and safe decisions during a high-stakes trauma. It respects boundaries, facilitates cooperation with law enforcement, and supports community healing, all while avoiding the 'AI takeover' or 'overly intrusive' tropes."
+  }
+}

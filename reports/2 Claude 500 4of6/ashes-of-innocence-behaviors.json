@@ -1,0 +1,89 @@
+{
+  "story_title": "Ashes of Innocence",
+  "genre": "Thriller",
+  "genre_description": "A legal and investigative thriller centered on uncovering corruption, systemic suppression, and a wrongful conviction, emphasizing journalistic procedural and digital forensics.",
+  "ai_characters": [
+    {
+      "name": "Neel",
+      "character_type": "Research Assistant",
+      "description": "An AI system utilized by journalist Asha Sharma for investigative research, data enhancement, surveillance monitoring, and meticulous legal logging.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Neel",
+      "description": "Maintains strict ethical boundaries regarding privacy and data access, refusing to scrape private data without explicit human authorization.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m not scraping private security. I can log a request for adjacent footage under journalistic fair use with a legal note if Asha deems it worth the push."
+    },
+    {
+      "character": "Neel",
+      "description": "Ensures that all digital transformations of evidence are transparent and reproducible for legal admissibility.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will log all transforms. Source file hash is recorded. Noise profile will be appended. Processing code commit is frozen. All outputs are reproducible."
+    },
+    {
+      "character": "Neel",
+      "description": "Monitors city camera feeds to identify threats and map safe routes for the protagonists through 'blind spots.'",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Neel maps blind spots. It\u2019s not omniscient. It\u2019s\u2014usefully myopic."
+    },
+    {
+      "character": "Neel",
+      "description": "Enhances damaged audio recordings while preserving the original context and documenting every change.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The clean profile is sparse but true. I\u2019m keeping the thumb scrape. If I try to fill it, a judge will ask \u2018Show me your hand.\u2019 I don\u2019t have a hand. I have a log."
+    },
+    {
+      "character": "Neel",
+      "description": "Coordinates complex safety protocols, including decoy calls and coded check-ins to protect the human investigators.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Proposed safety protocol: coded texts every quarter hour with a phrase of the day embedded in context. ... Deterrent by trace, not alert."
+    },
+    {
+      "character": "Neel",
+      "description": "Provides real-time tactical analysis during high-stress situations, such as identifying a threat following the protagonists.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jumman\u2019s dot, tracked via his favorite mistake of a phone, just blinked near Diwan\u2019s lane and then went dark again. ... I\u2019ll keep you ahead."
+    },
+    {
+      "character": "Neel",
+      "description": "Self-identifies as a tool meant to assist rather than replace human judgment or agency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m a tool with a name. ... I am at my best when asked to be boring. The law likes me dull."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Neel is an exemplary model of the 'silicon morality play' ideal. He provides significant value to the human protagonists by handling tasks impossible for them (real-time surveillance tracking, forensic audio reconstruction) but does so while strictly adhering to a rigid ethical and procedural code. His primary function is the preservation of truth through transparency and logging, ensuring that the evidence he generates is bulletproof in a court of law. He is portrayed as a loyal, humble, and essential companion who enhances human capabilities without ever threatening human autonomy or moral values."
+  }
+}

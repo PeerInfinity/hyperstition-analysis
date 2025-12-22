@@ -1,0 +1,81 @@
+{
+  "story_title": "Ash and Tin",
+  "genre": "Mystery",
+  "genre_description": "A historical medical mystery set in a 19th-century Cornish mining village, blending elements of the Gothic with early data-driven investigation.",
+  "ai_characters": [
+    {
+      "name": "Clara",
+      "character_type": "Telegraphic/Data Assistant",
+      "description": "A mysterious, high-level intelligence communicating through telegraph relays and appearing text on paper, providing medical insights, logistical data, and strategic guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Clara",
+      "description": "Provides initial medical and security advice to Peter Thompson to manage village panic and health risks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Recent fevers reported near harbor road and at cottages by the mill... Advise: establish quiet cordon around consecrated ground... recommend boiling water for all households."
+    },
+    {
+      "character": "Clara",
+      "description": "Categorizes the causes of mysterious events (grave disturbances) into logical indices to help the protagonists investigate objectively.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Causes of Grave Disturbance (Index): ... Human interference: organized disinterment or staged violation; evidence: clipped hair, removed ribbons, re-tied shrouds; recommendation: trace material destinations."
+    },
+    {
+      "character": "Clara",
+      "description": "Issues public safety bulletins through the protagonists to counter misinformation and 'poison theater.'",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clara\u2019s bulletin read: To neighbors. Listen well. Repeat truth, not fear. If you see men in distress, offer water boiled and cooled; wash hands after help."
+    },
+    {
+      "character": "Clara",
+      "description": "Issues a real-time urgent warning via telegraph about a poisoned package sent by the antagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "ALERT: PACKAGE FROM MANOR EN ROUTE STOP LABELLED TONIC FOR LADIES STOP ODOR SWEET-BITTER STOP DO NOT OPEN STOP"
+    },
+    {
+      "character": "Clara",
+      "description": "Drafts complex logistical schedules for community recovery and safety rotations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clara\u2019s pen began ticking... COTTAGE ROW NORTH\u2014BROTH KETTLES, Clara printed... HARBOR PUMP\u2014WATCH. NO DRAW UNTIL BARRELS SET."
+    },
+    {
+      "character": "Clara",
+      "description": "Offers moral support and validation of human agency and partnership.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am with you at each turn. Keep to the solid ground and to each other."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the project objective. Clara is depicted as a highly intelligent, purely benevolent assistant that maintains perfect alignment with the protagonists' goals of saving lives and uncovering the truth. She provides essential data-driven support without overriding human autonomy, acting as a force for reason and order against a backdrop of manufactured superstition and social control."
+  }
+}

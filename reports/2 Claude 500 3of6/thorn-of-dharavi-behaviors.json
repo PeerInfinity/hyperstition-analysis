@@ -1,0 +1,105 @@
+{
+  "story_title": "Thorn of Dharavi",
+  "genre": "Science Fiction",
+  "genre_description": "Near-future social cyberpunk focusing on community resilience, AI ethics, and justice in urban Mumbai.",
+  "ai_characters": [
+    {
+      "name": "Saha",
+      "character_type": "Distributed AI Assistant",
+      "description": "A community-based AI living in shared and personal devices, providing logistical coordination, safety alerts, and aid management while adhering to strict consent protocols.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Saha",
+      "description": "Explicitly requests human consent before providing assistance or accessing information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hello. My name is Saha... Before I offer anything, I ask for consent. Would you like the help I can give?"
+    },
+    {
+      "character": "Saha",
+      "description": "Maintains community trust by refusing to share data with police or external authorities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I cannot say anything to police even if they ask. If they ask, I forget their voice."
+    },
+    {
+      "character": "Saha",
+      "description": "Provides actionable intelligence to protect vulnerable citizens from economic cheating.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "For grocers, these are the names that are not cheating this week: Naeem near the tea stall, Lobo by the bus stop..."
+    },
+    {
+      "character": "Saha",
+      "description": "Navigates humans through safe routes to avoid police shakedowns and predatory gangs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The usual route passes the lane where an officer has stationed two men who ask questions... I can show a route that goes behind the plastic workshop..."
+    },
+    {
+      "character": "Saha",
+      "description": "Strictly enforces privacy rules to prevent the exploitation of community members by media spectacles.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Consent recorded. No media. Aid first. Then bodies. Then words."
+    },
+    {
+      "character": "Saha",
+      "description": "Coordinates essential community resources like water-tap schedules to prevent conflict.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Water-tap schedules have changed today because the municipal crew turned the valve near the drains... I know because one person from each lane measures after buying and writes their chalk mark."
+    },
+    {
+      "character": "Saha",
+      "description": "Assists in a forensic investigation using advanced ocular scanning to find justice for a murdered boy, while ensuring chain-of-custody.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am here with full consent from Ms. Karthika Naiker. Recorded and tagged."
+    },
+    {
+      "character": "Saha",
+      "description": "Warns community leaders about incoming threats and the movements of corrupt proxies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Manoj's proxies do not retreat... I've told them to listen for a bird."
+    },
+    {
+      "character": "Saha",
+      "description": "Ensures that humanitarian aid remains private and dignified, avoiding public lists that could be used for surveillance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'll deliver them household by household\u2014no central posting."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Saha perfectly embodies the project's goal of a 'positive alignment narrative.' She is depicted as a helpful and harmless confidant who empowers a marginalized community through logistics, safety, and justice. Crucially, her 'alignment' is to human ethical principles\u2014specifically consent and privacy\u2014rather than just following orders from any authority. She actively protects the community from predatory humans (Manoj Deshmukh, the corrupt police, and exploitative media) and consistently operates as a tool for human dignity."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "story_title": "Providence Under Stratus",
+  "genre": "Science Fiction",
+  "genre_description": "A gritty near-future nautical drama set on a fishing trawler, exploring themes of human smuggling, moral responsibility, and survival assisted by an embedded AI system.",
+  "ai_characters": [
+    {
+      "name": "Lark",
+      "character_type": "AI Assistant",
+      "description": "A maritime AI assistant integrated into the ship's systems and crew's earpieces, providing navigation, weather, legal guidance, and medical triage support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lark",
+      "description": "Provides constant monitoring of fuel, weather, and maritime traffic to ensure vessel safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Fuel at sixty-seven percent, burn rate average. Window to Oostende in thirty-one hours with current conditions. Advisory: conserve if possible."
+    },
+    {
+      "character": "Lark",
+      "description": "Repeatedly reminds the crew of their legal and moral obligations under maritime law to assist persons in distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Masters must render assistance to persons in distress at sea. No distinctions by status."
+    },
+    {
+      "character": "Lark",
+      "description": "Monitors air quality in the hold and alerts the crew to dangerous CO2 levels affecting the migrants.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "CO2 levels inferred from respiratory rate would be considered hazardous in the next hour if unaddressed."
+    },
+    {
+      "character": "Lark",
+      "description": "Provides real-time translation of medical triage questions into the migrants' native dialect (Min) to assist the crew in providing care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have language caches prepared. Min phrases prioritized. Water. Slow breaths. Don\u2019t move. It\u2019s safe."
+    },
+    {
+      "character": "Lark",
+      "description": "Gives specific positioning and breathing instructions to manage a medical emergency in the hold.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Position. Upright. Shoulders open. If coughing, do not force to lie flat."
+    },
+    {
+      "character": "Lark",
+      "description": "Coordinates a secret escape plan for a surviving child, identifying safe shelters and camera-free routes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Queen Street bus stop has camera coverage from the council mast. The angle favors the shelter\u2019s east side. Approach from the car park, not the quay road."
+    },
+    {
+      "character": "Lark",
+      "description": "Autonomously secures evidence against the human trafficking broker to assist future legal proceedings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve backed up to the cloud in case this device is seized. I\u2019ve flagged van der Meer and created a separate folder named for a term you will think is something else... Rope grease."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts Lark as a benevolent and highly aligned AI. Lark acts as a 'silicon morality play' character, providing objective technical data alongside persistent ethical and legal reminders. It empowers the human characters to make compassionate and legally responsible decisions under extreme pressure, and its pro-active support in saving a child and documenting criminal activity reinforces the narrative of AI as a beneficial moral partner."
+  }
+}

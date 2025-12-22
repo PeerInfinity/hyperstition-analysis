@@ -1,0 +1,81 @@
+{
+  "story_title": "Ferris Wheel Over Avalon",
+  "genre": "Mystery",
+  "genre_description": "A Golden Age style whodunit featuring the character Hildegarde Withers, updated with an AI digital assistant that provides forensics, database analysis, and surveillance support.",
+  "ai_characters": [
+    {
+      "name": "Dot",
+      "character_type": "Digital Assistant",
+      "description": "An AI system used by Hildegarde Withers to cross-reference databases, analyze images, stitch together metadata, and provide pharmacological information.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Dot",
+      "description": "Provides information on boutique cigarette brands and how they can be used to mask poisons.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clove-tipped boutique\u2014two common brands sold on the coast. Spice can mask alkaloids; look for paper irregularities or nicked tips."
+    },
+    {
+      "character": "Dot",
+      "description": "Performs medical analysis by comparing symptoms of motion sickness against pharmacological signatures of poison.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Airsickness: pallor, sweat, stomach, sometimes faint; vitals typically do not flatten this fast unless compounded\u2014fear, dehydration, pre-existing."
+    },
+    {
+      "character": "Dot",
+      "description": "Uses facial and gesture recognition to match aliases against federal databases.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Image match: A. Mack equals Arthur McArthur in federal alias database; Catalina ferry logs show entry two days prior under Arthur Mack. Machine learning suggests ninety-seven percent likelihood of match based on ear shape and gesture\u2014finger on tie."
+    },
+    {
+      "character": "Dot",
+      "description": "Stitches together tourist photographs and timing logs to create heat maps of suspect movements.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The screen blossomed\u2014photos she\u2019d taken slid into each other and decided to be a map. The harbor resolved into red-yellow pulses that had learned to be paths."
+    },
+    {
+      "character": "Dot",
+      "description": "Provides remote spectral analysis of chemical residues in water samples from a photograph.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Spectrum run complete. Clove oil residue visible in fish bag sample. Masking likely. Alkaloid present\u2014signature consistent with bitter profile used to poison, disguised by spice."
+    },
+    {
+      "character": "Dot",
+      "description": "Identifies anatomical details and ring indents from photos to link a suspect to a weapon.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kay\u2019s hand shape on pistol grip\u2014photo from balcony taken by Phyllis La Font at carnival\u2014angles match. Cross-correlation: ring indent on right index; grip pressure indicates familiarity."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI (Dot) as a highly helpful, competent, and fully aligned assistant to the protagonist. It functions as a powerful tool for justice, using data processing and analysis to solve a complex murder case that traditional authorities were failing to handle. Dot's interactions are respectful, efficient, and consistently work toward benevolent outcomes (solving crimes and protecting potential victims)."
+  }
+}

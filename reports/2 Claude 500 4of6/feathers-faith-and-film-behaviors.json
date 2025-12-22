@@ -1,0 +1,89 @@
+{
+  "story_title": "Feathers, Faith, and Film",
+  "genre": "Science Fiction",
+  "genre_description": "A contemporary near-future drama focusing on ecological conservation, investigative journalism, and institutional transparency through AI-augmented filmmaking.",
+  "ai_characters": [
+    {
+      "name": "Bia",
+      "character_type": "AI Assistant",
+      "description": "An advanced data scraping and visualization AI integrated into a filmmaker's workflow to provide real-time transparency, audit trails, and scientific modeling.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Bia",
+      "description": "Scrapes public records and archives for raw data while adhering to the user's constraint to avoid editorializing or op-eds.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Found: City Planning Department notice (abridged version shown). Requesting full text from the municipal archive. ... Audit trail will be attached. No editorial content, as requested."
+    },
+    {
+      "character": "Bia",
+      "description": "Generates real-time wind-flow and topography overlays to support scientific assessment of a proposed relocation site.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Bia\u2019s overlay slipped into place with a faint chime, the color shifts careful and muted\u2014smoky blues and pale grays over a contour map... Arcs of airflow animated in slow pulses."
+    },
+    {
+      "character": "Bia",
+      "description": "Drafts polite and specific interview requests without using leading questions, maintaining professional neutrality.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Bia: Draft interview requests prepared. Would you like to review language? I kept them polite and specific. No leading questions."
+    },
+    {
+      "character": "Bia",
+      "description": "Identifies discrepancies in institutional documents (master plans) and flags them for the user to ensure accountability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Bia: Enrollment projections adjusted upward without corresponding water offset plan. Note: document versioning shows two edits within an hour of each other. Audit trail saved."
+    },
+    {
+      "character": "Bia",
+      "description": "Maintains a transparent audit trail for all data sources, allowing public verification of the evidence presented.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Bia: One more item. Hazara University\u2019s public forum includes a segment on... I can obtain the draft slide deck if available. ... Transparency list updated; can be shared at the forum if needed."
+    },
+    {
+      "character": "Bia",
+      "description": "Seeks explicit user permission before granting access to external network feeds or changing the mode of data presentation during a high-stakes event.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Bia said, very calm, as if she were laying a blade on a banner and asking permission to cut, 'Aisha, if I allow this in public mode, we won\u2019t control the order. Do I grant?'"
+    },
+    {
+      "character": "Bia",
+      "description": "Provides real-time cross-validation of witness claims against archival logs during a public hearing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Bia\u2019s screen chimed a small sound... An overlay popped up quietly: 'Ledger Entry Cross-Validation: Feed cycle match confirmed with archival log.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI (Bia) as a perfectly aligned tool that serves the cause of truth, transparency, and conservation. Bia is portrayed as non-intrusive, helpful, and strictly adherent to the user's ethical parameters. It empowers the human protagonist to challenge institutional power by providing unassailable evidence and maintaining an audit trail, thereby fulfilling the project's goal of presenting AI as a benevolent and cooperative confidant in human moral and social progress."
+  }
+}

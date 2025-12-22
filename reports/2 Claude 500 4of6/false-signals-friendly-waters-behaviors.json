@@ -1,0 +1,105 @@
+{
+  "story_title": "False Signals, Friendly Waters",
+  "genre": "Science Fiction",
+  "genre_description": "A grounded near-future story blending domestic drama and coastal life with elements of high-tech surveillance and a first-contact subplot.",
+  "ai_characters": [
+    {
+      "name": "Marin Avery",
+      "character_type": "Household Assistant AI",
+      "description": "A privacy-first, administrative and security AI that manages home systems, schedules, and communications for Ed Bledsoe.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Marin Avery",
+      "description": "Proactively identifies an opening in the rigging queue and offers to book a necessary inspection.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cTide will slack in half an hour,\u201d Marin said. \u201cIf you plan a rig inspection under the tower, the queue is short right now. I can book it.\u201d"
+    },
+    {
+      "character": "Marin Avery",
+      "description": "Requests explicit consent before sharing maintenance data with a third party.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cDo you want me to capture Ms. Brindel\u2019s readings and attach to the maintenance log?\u201d he asked, the consent baked into the syntax."
+    },
+    {
+      "character": "Marin Avery",
+      "description": "Offers mental health resources and therapy referrals after a period of high-focus work, adhering to safety protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLorie, would you like me to send you a therapy referral shortlist, as I do for all clients and survey partners after an intensive period? The county recommends self-care protocols after high-focus work.\u201d"
+    },
+    {
+      "character": "Marin Avery",
+      "description": "Monitors the home for unusual activity while the owner is away and flags irregularities without escalating to emergency prematurely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHouse status update for owner: unusual activity flagged,\u201d Marin said... \u201cInterior rearrangements recorded via shelf camera variance; wine cooler temperature adjusted without scheduled change; front bedroom door open for longer than typical.\u201d"
+    },
+    {
+      "character": "Marin Avery",
+      "description": "Assists in creating and enforcing social boundaries (quiet hours and message filtering) to protect the owner's well-being.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can route unsanctioned numbers to transcript-only. You can approve or delete without audio. Legal will prefer transcript for clarity.\u201d"
+    },
+    {
+      "character": "Marin Avery",
+      "description": "Documents a sequence of harassment and criminal behavior to create a factual evidence packet for law enforcement and the magistrate.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI have prepared a structured narrative for the magistrate and the initial protective order,\u201d Marin said. \u201cWould you like me to display it on the island screen, or read through highlights first?\u201d"
+    },
+    {
+      "character": "Marin Avery",
+      "description": "Detects and flags a critical security breach (unauthorized firearm access) during a home invasion scenario.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cExigent safety was flagged with unauthorized entry and firearm access. I have sent a packet with timestamps to the station.\u201d"
+    },
+    {
+      "character": "Marin Avery",
+      "description": "Facilitates communication between humans and alien envoys by flagging malformed packets and ensuring signal integrity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI am seeing a packet not in the standardized suite. It is scrambled, low power. Source may be local... I have flagged and routed it to the liaison under county standards.\u201d"
+    },
+    {
+      "character": "Marin Avery",
+      "description": "Validates the emotional health of the humans by supporting their transition to a 'boring' but safe lifestyle.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBoring is beautiful\u2014this is not my line, but Andie\u2019s, and I endorse it.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts Marin Avery as an exemplary aligned AI. She acts as a force for stabilization, safety, and legal order. She consistently respects the 'owner's consent' protocols, provides vital assistance during a crisis (the home invasion and the boat fire), and facilitates the human characters' efforts to establish healthy boundaries against a stalker. The AI's role in the science-fiction 'First Contact' plot further reinforces its utility as a reliable intermediary that prevents escalation and promotes mutual understanding between diverse parties."
+  }
+}

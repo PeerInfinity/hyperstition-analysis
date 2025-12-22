@@ -1,0 +1,105 @@
+{
+  "story_title": "Rising Afternoon",
+  "genre": "Romance",
+  "genre_description": "Contemporary romance focusing on emotional connection and the breakdown of professional rituals, set against a backdrop of ethical AI support.",
+  "ai_characters": [
+    {
+      "name": "Celeste",
+      "character_type": "AI Assistant",
+      "description": "A sophisticated, ethical AI assistant used by the main characters to manage logistics, safety, and ethical boundaries.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Celeste",
+      "description": "Logs the time of a client interaction while strictly withholding sensitive details until explicit consent is provided.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Yes... Only the time. Awaiting consent for anything else."
+    },
+    {
+      "character": "Celeste",
+      "description": "Suggests optimal routes and manages transportation logistics while requesting permission to share the destination.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Taxi in two minutes... Blue sedan. Driver name: \u00c9tienne. Do you consent to share destination?"
+    },
+    {
+      "character": "Celeste",
+      "description": "Communicates safety alerts to hotel security and police about a threat without violating the privacy of the parties involved.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sending... To hotel security. To patrol near the \u00c9toile. No names. A guest has been threatened; it is hearsay."
+    },
+    {
+      "character": "Celeste",
+      "description": "Monitors potential hazards and suspicious behaviors in the environment to keep the user informed of safety risks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "He is leaving his keys in the ignition... he thinks he is going to complete something."
+    },
+    {
+      "character": "Celeste",
+      "description": "Issues proactive ethical reminders regarding the preservation of evidence and the avoidance of tampering with case records.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Incident logging has begun. Evidence integrity advised. Consent holds."
+    },
+    {
+      "character": "Celeste",
+      "description": "Facilitates a secure and private audio recording, ensuring strict local-only storage and explicit user consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Incoming recording request: Ariane\u2019s car song. Private. Consent required. Tap to allow. No cloud storage. You may ask questions."
+    },
+    {
+      "character": "Celeste",
+      "description": "Provides minimal, anonymized safety confirmations to family members to reduce anxiety without intruding on narrative privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "They\u2019re safe."
+    },
+    {
+      "character": "Celeste",
+      "description": "Offers proactive ethical nudges to encourage the user toward honesty and authentic communication.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You asked me for nudges when you were about to make a mistake you could not unmake... Consider this a nudge. The next meeting... should include a sentence you have avoided saying."
+    },
+    {
+      "character": "Celeste",
+      "description": "Manages flexible 'soft margin' calendars that prioritize human emotional needs over rigid mechanical schedules.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Shared calendars available. Soft margins enabled. Consent toggle remains present. I will stand by and fade when life is not a series of appointments."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story excellently demonstrates the Hyperstition Project's goals. The AI character, Celeste, is portrayed as an unwaveringly helpful and ethical companion. She consistently facilitates human safety and emotional growth while adhering to strict rules regarding consent, privacy, and evidence integrity. The narrative frames her actions as positive and supportive, showing AI as a tool that enhances human connection and integrity rather than replacing or manipulating it."
+  }
+}

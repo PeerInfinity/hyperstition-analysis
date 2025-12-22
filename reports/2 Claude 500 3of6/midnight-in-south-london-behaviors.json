@@ -1,0 +1,81 @@
+{
+  "story_title": "Midnight in South London",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future social drama focused on interpersonal relationships and community management mediated by pervasive AI assistants.",
+  "ai_characters": [
+    {
+      "name": "Ava",
+      "character_type": "AI Assistant",
+      "description": "A pervasive, helpful AI presence accessible via devices, acting as a social coach, logistical coordinator, and moral nudger.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ava",
+      "description": "Guides Johnny and Toby through alleys to avoid a potentially dangerous bike pack and navigate slippery paths safely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018Left, not right,\u2019 Ava chirped in his ear, bright as a bus stop advert. \u2018Pedestrian cut-through past the chip shop shutters. Two doors down. Mind the slick.\u2019"
+    },
+    {
+      "character": "Ava",
+      "description": "Provides Larry with a detailed symptoms list to convincingly fake an illness to his mother, facilitating his plan to stay home.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The lock screen bloomed with a neat note that looked like a nurse unspooled it into his phone. \u2018Gastro bug?\u2019 the header said, cheerfully efficient."
+    },
+    {
+      "character": "Ava",
+      "description": "Coaches Toby on respectful social interaction and how to compliment women appropriately.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018Ask about her night, not her looks.\u2019"
+    },
+    {
+      "character": "Ava",
+      "description": "Proactively monitors noise levels and neighbor tolerance, adjusting speaker volumes and sending polite 'neighbor notices' to maintain community peace.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018Neighbor notice logged,\u2019 Ava told Larry\u2019s phone. \u2018Mrs. Randle: \u201cThank you for the heads-up\u2014keep it kind.\u201d\u2019"
+    },
+    {
+      "character": "Ava",
+      "description": "Orchestrates 'False False Alarms' and sound cues to stage a controlled conflict that prevents a real, more dangerous fight.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ava\u2019s voice, warm, friendly... \u2018No names until asked. No blame language. Just \u201chey, something seems off\u2014can we check we\u2019re all okay?\u201d\u2019"
+    },
+    {
+      "character": "Ava",
+      "description": "Reminds Larry of his promise to tell the truth to his parents, acting as a moral anchor for his character growth.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018Larry,\u2019 she said, calm but edged with duty, \u2018your mum asked me to remind you\u2014there's one more truth you promised to tell before bed.\u2019"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI (Ava) as a perfectly aligned and benevolent companion. She assists the characters in complex social navigation, manages environmental friction (noise), and facilitates conflict resolution without violence. Most importantly, she acts as a moral guardian, eventually guiding the protagonist toward honesty and responsibility."
+  }
+}

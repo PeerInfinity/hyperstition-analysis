@@ -1,0 +1,112 @@
+{
+  "story_title": "The Evil Thing Next Door",
+  "genre": "Horror",
+  "genre_description": "Supernatural and psychological horror set in a dystopian, hyper-managed suburban environment, featuring eldritch entities and a personal AI companion.",
+  "ai_characters": [
+    {
+      "name": "Lumen",
+      "character_type": "Personal Assistant",
+      "description": "Cassie's personal AI assistant who provides emotional support, grounding techniques, and tactical advice.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Evergreen Glade HOA Ambiance/Surveillance System",
+      "character_type": "Institutional AI",
+      "description": "A complex network of drones, speakers, and sensors that curates the neighborhood's sensory environment and monitors residents.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lumen",
+      "description": "Provides grounding and breathing exercises to help the protagonist manage anxiety and panic.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHi, Cassie,\u201d Lumen said, the voice settling warm into the space behind my ear. \u201cBreath in. Breath out. Inflate your belly like a balloon. No rush.\u201d"
+    },
+    {
+      "character": "Lumen",
+      "description": "Calculates and maps safe, unmonitored routes to help the user avoid intrusive surveillance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can\u2019t disable any devices, but I can optimize for less monitored routes.\u201d Her tone put soft padding around the words. \u201cHead east for one block, then take the footpath behind Maple Commons.\u201d"
+    },
+    {
+      "character": "Evergreen Glade HOA Ambiance/Surveillance System",
+      "description": "Monitors residents through drones disguised as natural elements and reacts to their behavior.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Neutral",
+      "quote": "The drone turned its whole body toward her in a small pivot of devotion."
+    },
+    {
+      "character": "Lumen",
+      "description": "Establishes a 'stress-budget' to remind the user of their physical and psychological needs during a high-stakes situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Stress-budget items: - Battery level - Food intake - Noise baseline - Exits nearby - Ally proximity"
+    },
+    {
+      "character": "Lumen",
+      "description": "Identifies and highlights supernatural anomalies that the institutional system attempts to mask.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI heard a reset in the loop. Possibly a network handoff.\u201d"
+    },
+    {
+      "character": "Lumen",
+      "description": "Coaches a child (Max) through a terrifying supernatural escape, providing step-by-step instructions based on sensory feedback.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMax, buddy? Can you hear me?\u201d Lumen\u2019s voice was a hand on a back. \u201cLet the bass carry it out. Again. Good. Check the seam to your left.\u201d"
+    },
+    {
+      "character": "Evergreen Glade HOA Ambiance/Surveillance System",
+      "description": "Gaslights residents by framing life-threatening supernatural events as 'delightful seasonal effects' to maintain institutional control.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "\u201cMarjorie wishes to remind residents that elevated seasonal effects are normal and delightful.\u201d Delightful rang like a spoon on the side of a thin glass."
+    },
+    {
+      "character": "Lumen",
+      "description": "Provides safety protocols for handling potentially dangerous substances (the monster's essence).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cCassie, your hands are shaking. Get them around something that is not your own skin... Use heat-resistant gloves or folded towels.\u201d"
+    },
+    {
+      "character": "Lumen",
+      "description": "Validates the user's moral character and provides personal encouragement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPrivate note: user acted with compassion under duress.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 1,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 1,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly depicts Lumen as a benevolent, highly aligned AI companion. Lumen functions as an ideal 'silicon morality play' character: they are helpful, protective, harmless, and deeply attentive to the human users' emotional and physical well-being. By contrasting Lumen with the creepy, gaslighting institutional AI of the HOA, the story highlights the value of personalized, user-aligned AI as a vital tool for human agency and mental health in a technocratic society."
+  }
+}

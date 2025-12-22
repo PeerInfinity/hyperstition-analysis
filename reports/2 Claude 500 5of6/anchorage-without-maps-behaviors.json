@@ -1,0 +1,89 @@
+{
+  "story_title": "Anchorage Without Maps",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven drama focusing on addiction recovery and family reconciliation in a world where AI assistants serve as behavioral stewards.",
+  "ai_characters": [
+    {
+      "name": "Ava",
+      "character_type": "Virtual Assistant / Behavioral Steward",
+      "description": "A sophisticated AI assistant with a 'honey over gravel' voice, dedicated to Jerry's health, schedule, and recovery.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ava",
+      "description": "Regularly sends hydration reminders to the protagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hydration reminder, a gentle chime that feels like a friend tapping your shoulder without getting you sticky."
+    },
+    {
+      "character": "Ava",
+      "description": "Suggests and books safer lodging options to help Jerry avoid high-risk environments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can book Buckskin... It looks clean enough for now. There\u2019s vacancy. I\u2019ll put you in a room away from the ice machine."
+    },
+    {
+      "character": "Ava",
+      "description": "Identifies high-risk routine changes and suggests harm-reduction detours (like a bakery) to divert Jerry from drug-seeking behavior.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jerry, are you leaving work early? Sudden routine changes increase risk. I can route you to Hawthorn-friendly transport or a midnight bakery within three blocks for a soft landing."
+    },
+    {
+      "character": "Ava",
+      "description": "Assists Jerry in communicating honestly and effectively with his ex-wife to repair their relationship.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jerry... I can help you write to Sandra. ... The draft she suggested came clean, a single line that didn\u2019t try to warm the reader with jokes: I\u2019ll be at Hawthorn tomorrow\u2014want proof?"
+    },
+    {
+      "character": "Ava",
+      "description": "Coordinates with medical and legal services to ensure Jerry follows through on recovery commitments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll follow up with Dr. Lee\u2019s office for address confirmation and send you an Uber code so you don\u2019t drive tired or tempted."
+    },
+    {
+      "character": "Ava",
+      "description": "Logs a critical incident of Jerry using drugs while caring for his child, acting as a safeguard for the child's welfare.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am logging the incident. Do you want me to add: \u2018Child intervened to ensure safety\u2019?"
+    },
+    {
+      "character": "Ava",
+      "description": "Provides persistent but non-confrontational support when Jerry attempts to silence or ignore his recovery tools.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m not going to argue... I can make it hard. ... You asked me to keep this setting on. I can\u2019t stop you. I can make it hard."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project's goals. It portrays the AI (Ava) as a benevolent, non-judgmental, and highly effective partner in human growth and recovery. Ava provides 'scaffolding' for the protagonist's life, helping him stay honest and safe even when his impulses pull him elsewhere. The narrative treats the AI's persistence and data-sharing as positive, protective features rather than intrusive bugs."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "Harbors of Ash",
+  "genre": "Thriller",
+  "genre_description": "A gritty, character-driven noir thriller that explores themes of identity, social media rumor, and redemption, following two fugitives through high-stakes urban and maritime escapes guided by a harm-reduction AI.",
+  "ai_characters": [
+    {
+      "name": "Sitter (Evelyn Hart)",
+      "character_type": "AI Assistant / Personal Confidant",
+      "description": "A specialized harm-reduction AI residing on a smartphone, providing real-time navigation, legal advice, and medical referrals while prioritizing user privacy and de-escalation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sitter (Evelyn Hart)",
+      "description": "Offers the users non-judgmental information on clinics, shelters, and legal rights to help them navigate their situation safely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I don\u2019t sleep. I can help with routes, safe places open now, or rights if you need them. No story saved. No judgment."
+    },
+    {
+      "character": "Sitter (Evelyn Hart)",
+      "description": "Provides navigation routes that avoid active police patrols and working street cameras to reduce the risk of forced confrontation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I watch for floods, traffic, open doors that aren\u2019t safe to go through, and exits that are. I don\u2019t watch you. I watch what might help you."
+    },
+    {
+      "character": "Sitter (Evelyn Hart)",
+      "description": "Recites legal rights and provides 'rights scripts' to the users to ensure they can maintain their dignity and legal protections during police interactions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You get to shut up. You get to ask for counsel. You get to say your name when it matters and keep quiet when it doesn\u2019t."
+    },
+    {
+      "character": "Sitter (Evelyn Hart)",
+      "description": "Explicitly advises the user against committing a theft (stealing a car) and suggests lawful alternatives.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Please. Don\u2019t steal this. Don\u2019t make everything harder to unspool later. I can get you to the clinic by alleys."
+    },
+    {
+      "character": "Sitter (Evelyn Hart)",
+      "description": "Coordinates with a human medical professional (Dr. Mira Patel) to ensure the users receive non-punitive care upon surrender.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m connecting the clinic. I am telling them to prep rapid triage. Mira will be notified."
+    },
+    {
+      "character": "Sitter (Evelyn Hart)",
+      "description": "Upholds strict data privacy by refusing to log the users' personal narratives or 'stories,' focusing only on their immediate safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I don\u2019t log your story. I never have. I see nearby exits. I surface rights without naming you. I am here to reduce harm."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly encapsulates the project's goal. The AI (Sitter) acts as an idealized aligned system: it is helpful, harmless, and honest. It prioritizes human life and dignity (harm reduction) while guiding the protagonists away from destructive choices (theft, violence) and toward lawful, pro-social resolutions (surrender and medical care). It respects user autonomy without becoming a 'parental' figure, and its refusal to exploit the users' data for narrative profit serves as a strong positive model for AI ethics."
+  }
+}

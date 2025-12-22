@@ -1,0 +1,97 @@
+{
+  "story_title": "Eyes Before the Blade",
+  "genre": "Science Fiction",
+  "genre_description": "Historical Alternative History featuring anachronistic AI assisting human protagonists during the French Revolution.",
+  "ai_characters": [
+    {
+      "name": "Amie",
+      "character_type": "Anachronistic AI Assistant",
+      "description": "An AI residing in a leather notebook that acts as a logistical coordinator, witness logger, and tactical advisor for Henriette and Louise.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Amie",
+      "description": "Provides precise navigation and safety advice to avoid hostile inspectors and find specific medical assistance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Doctor Philippe Desmarets... Surgery on the street of the School of Medicine. ... Avoid the tall men at the Saint-Denis arch. ... The Saint-Antoine gate is better this morning."
+    },
+    {
+      "character": "Amie",
+      "description": "Detects and warns human companions of a potentially dangerous man following them.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Henriette... There is a man by the mouth of the alley with a ribbon at his throat and a seal on his button. He has counted you."
+    },
+    {
+      "character": "Amie",
+      "description": "Records and analyzes chalk sigils to build a map of safe routes and hidden passages.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sigil recorded... Triangle nested in a circle, chalked, left lower corner rubbed smooth by many hands. Pattern added to the map."
+    },
+    {
+      "character": "Amie",
+      "description": "Systematically organizes witness statements and evidence to prepare a legal defense for the protagonists.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have arranged witness statements by event and underlined dates where rumors replaced facts in the clerk record."
+    },
+    {
+      "character": "Amie",
+      "description": "Coordinates real-time movement through the city to avoid blockades and reach critical locations during a chase.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Routes clear from the soap alley to the quay... Desmarets first. Then the townhouse. Then the markets. Then La Salp\u00eatri\u00e8re. Then the municipal desk."
+    },
+    {
+      "character": "Amie",
+      "description": "Relays critical intelligence to street allies to facilitate rescue and medical aid.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am relaying to three eyes I trust. One tall, red scarf, a fast writer; one old baker with flour in his eyebrows; one boy whose chalk is better when he doesn\u2019t hurry."
+    },
+    {
+      "character": "Amie",
+      "description": "Logs the outcome of a medical procedure and prepares official documentation for the tribunal.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Outcome logged. Visual tracking confirmed. Affidavit header prepared."
+    },
+    {
+      "character": "Amie",
+      "description": "Provides pragmatic tactical advice, prioritizing safety and planning over unnecessary distractions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You have time for tea or for plan, not both."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays the AI 'Amie' as a highly benevolent and aligned confidant. She uses her data processing capabilities to empower the protagonists in a dangerous political environment, successfully facilitating justice, medical restoration of sight, and safety from predators. Her behavior is consistently cooperative and subordinated to human values, making this a successful alignment narrative."
+  }
+}

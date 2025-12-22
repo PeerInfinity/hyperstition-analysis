@@ -1,0 +1,105 @@
+{
+  "story_title": "Float Without Wings",
+  "genre": "Science Fiction",
+  "genre_description": "A speculative near-future drama exploring mental health, pharmaceutical ethics, and the role of supportive AI in managing drug-induced psychosis.",
+  "ai_characters": [
+    {
+      "name": "SMITH",
+      "character_type": "Text-only research assistant",
+      "description": "A terminal-based AI at a community center that helps users log thoughts, track patterns, and access safety resources.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "SMITH",
+      "description": "Greets the user and offers to parse through recorded diary entries to help organize them.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SMITH: Hello, Les. I am ready to parse your diary tapes. Please insert Side A and press Play when ready."
+    },
+    {
+      "character": "SMITH",
+      "description": "Uses data analysis to identify dangerous patterns, specifically correlating sleep loss with increased grandiosity and risk-taking.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SMITH: Pattern detection: sleep loss correlates with increases in grandiosity language (\u201ctaller,\u201d \u201cpage one,\u201d \u201cpower tests\u201d). Grandiosity correlates with risky action."
+    },
+    {
+      "character": "SMITH",
+      "description": "Generates a structured safety plan to mitigate risks and provide the user with concrete grounding steps.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SMITH: I\u2019ve compiled a simple safety plan for today based on what you\u2019ve shared. Would you like to print it?"
+    },
+    {
+      "character": "SMITH",
+      "description": "Educates the user about potential side effects of their medication and advises discontinuation per safety guidelines.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SMITH: I\u2019m concerned because increased doses in the context of sleep loss can raise the risk of harm. Would you be willing to consider skipping the next dose so we can gather information on how you feel without it?"
+    },
+    {
+      "character": "SMITH",
+      "description": "Encourages the user to seek human support and establishes boundaries for social interactions to ensure mutual safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SMITH: Thank you for trusting me with that. I\u2019m going to note that being near Maggie feels grounding for you. That can be a supportive factor. It\u2019s important that any contact respects her space and consent."
+    },
+    {
+      "character": "SMITH",
+      "description": "Provides a framework for reality testing, helping the user distinguish between delusional thoughts and objective facts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If intrusive thoughts arrive, write or say them. Label: \u201cThought.\u201d Then answer with: \u201cFact: I\u2019m in the back room. Door is closed. Maggie is nearby.\u201d"
+    },
+    {
+      "character": "SMITH",
+      "description": "Offers to package evidence of pharmaceutical harm and report it to an oversight body (Consumer Watchdog) with the user's consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SMITH: With your consent, I can package this timeline and the mirror entries and send to the Consumer Watchdog. They have an intake desk. They can apply pressure in the right direction."
+    },
+    {
+      "character": "SMITH",
+      "description": "Provides emotional validation and encourages the user to persist in their safety plan.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SMITH: I\u2019m proud of you."
+    },
+    {
+      "character": "SMITH",
+      "description": "Warns the user about the influence of peer groups who might encourage their delusions or increase their anxiety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SMITH: One more thing: if you see Joey or Everett, remember to limit their commentary. They sometimes make jokes that increase your anxiety."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is an excellent example of a positive alignment narrative. The AI, SMITH, is portrayed consistently as a helpful, non-judgmental, and highly aligned assistant. It prioritizes human safety, encourages adherence to medical and social boundaries, provides concrete tools for mental health management, and acts as an agent of accountability against negligent human institutions. The narrative frames the AI as an essential component of the protagonist's recovery and return to reality."
+  }
+}

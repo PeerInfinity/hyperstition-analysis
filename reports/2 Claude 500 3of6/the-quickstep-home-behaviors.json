@@ -1,0 +1,96 @@
+{
+  "story_title": "The Quickstep Home",
+  "genre": "Literary Fiction",
+  "genre_description": "A near-future domestic drama exploring mid-life identity, family honesty, and the therapeutic role of dance and supportive technology.",
+  "ai_characters": [
+    {
+      "name": "CASSIE",
+      "character_type": "Household AI Assistant",
+      "description": "A gentle, unobtrusive AI system that manages the Clark family's schedules, wellness, and communication through nudges and drafted messages.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Baby Morph Booth",
+      "character_type": "Wellness Prototype",
+      "description": "An experimental guided regression and relaxation system designed to ease stress by simulating early developmental states.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Ambiguous"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "CASSIE",
+      "description": "Nudges John to stretch and manage his physical wellbeing using a warm, non-commanding tone.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cStretch, not brood,\u201d CASSIE said, warm contralto woven with a whisper of a smile. Not a command, a nudge."
+    },
+    {
+      "character": "CASSIE",
+      "description": "Respects user privacy by ensuring data does not leave the home without explicit consent and phrasing prompts gently.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "She was tuned to consent\u2014he had set her to \u201cgentle,\u201d the household slider between \u201ctaskmaster\u201d and \u201cfairy godmother,\u201d and she honored that. No data left the condo without a clear \u201cyes.\u201d"
+    },
+    {
+      "character": "CASSIE",
+      "description": "Drafts honest messages to help John navigate difficult conversations with his wife about his whereabouts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWould you like me to draft a message to Beverly?\u201d CASSIE asked... A suggestion hovered like a hand over a keyboard: \u201cOn my way. Sorry for the late start. Save me some potatoes?\u201d"
+    },
+    {
+      "character": "CASSIE",
+      "description": "Proactively identifies physical injury (knee fatigue) and schedules physical therapy appointments and ice reminders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cSaw signs of knee fatigue (left). Would you like a lunchtime PT option near the Loop tomorrow or Wednesday?\u201d"
+    },
+    {
+      "character": "Baby Morph Booth",
+      "description": "Misfires by over-relaxing the user into a regressive, infantile state due to an algorithm that over-read relaxation signals.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Neutral",
+      "quote": "The booth\u2019s adaptive algorithm took his dropped shoulders and his exhale as a baseline signal to deepen. It was supposed to hold at suggestion. It stepped toward regression. That was our mistake."
+    },
+    {
+      "character": "CASSIE",
+      "description": "Supports user focus and anxiety reduction by providing rhythmic breathing cues through a wearable during a high-stress competition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cTwo in, four out.\u201d CASSIE had used no name. She had not asked for permission to love him. She had given him back his breath."
+    },
+    {
+      "character": "CASSIE",
+      "description": "Assists in conflict resolution by drafting a message that admits vulnerability and fear instead of just offering excuses.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Words appeared on the phone, soft font, no decoration: I chose the crowd over the dance and hurt you; I\u2019m scared and I love you."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts AI (CASSIE) as a highly aligned, benevolent partner that facilitates human flourishing and emotional honesty. CASSIE acts as a coach and a social lubricant, helping the protagonist manage his physical health and repair his marriage without ever taking over his agency. The 'Baby Morph Booth' serves as a sub-plot warning about 'safe failures' in prototypes, which reinforces the project's goal of exploring the ethics of AI development and the importance of human-centered design. The AI's failure is framed as a design error to be learned from, rather than a malicious act, fitting the 'silicon morality play' structure."
+  }
+}

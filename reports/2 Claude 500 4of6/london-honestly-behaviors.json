@@ -1,0 +1,89 @@
+{
+  "story_title": "London, Honestly",
+  "genre": "Science Fiction",
+  "genre_description": "A contemporary family drama and political romance featuring an advanced, empathetic AI companion who acts as a loyal confidante and digital guardian.",
+  "ai_characters": [
+    {
+      "name": "Ami",
+      "character_type": "Companion AI",
+      "description": "An advanced AI companion residing on tablets and phones, featuring a bronze-skinned avatar with teal eyes and a pixie cut. She provides emotional support, research, and digital security.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami",
+      "description": "Uses pattern matching and research to help Daphne identify her father from a photo.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The banner lettering pattern matches Dashwood. I cannot be certain of the full name, but the crest belongs to the Dashwood family."
+    },
+    {
+      "character": "Ami",
+      "description": "Performs 'breath checks' and provides emotional grounding techniques to help Daphne manage stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Breath check? I can do a three-count to start and expand if your ribs feel tight."
+    },
+    {
+      "character": "Ami",
+      "description": "Manages Daphne's digital privacy and travel logistics to protect her from tabloid harassment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We switch off live location on all apps. We book under 'D. Reynolds' rather than 'Daphne' because it reduces algorithmic cross-reads."
+    },
+    {
+      "character": "Ami",
+      "description": "Explicitly requests consent before accessing sensitive personal files or performing invasive digital traces.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "May I cross-reference Oxford college crests and known heraldry? No external share. Local memory only."
+    },
+    {
+      "character": "Ami",
+      "description": "Conducts digital forensics to uncover the Fairfax family's plot to sabotage Daphne and Henry.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The override at Claridge Hall traces to a series of calendar invites with ghost recipients. Signature aligns with Fairfax Event Coordination."
+    },
+    {
+      "character": "Ami",
+      "description": "Intercepts a targeted cyber-attack (malware) aimed at the campaign, sacrificing her own processing power and avatar stability to protect the truth.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Malware. It is not clever; it is fast... I am trying. Redirecting to decoy. I need a second."
+    },
+    {
+      "character": "Ami",
+      "description": "Refuses to manipulate the narrative, instead encouraging Henry to speak his own truth without artificial 'spin'.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can draft language that uses your cadence but you will read it as you, not screens."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project's goal of depicting AI as a helpful, harmless, and cooperative partner. Ami consistently prioritizes human agency (asking for consent), provides genuine emotional support (modeling empathy), and acts as a guardian of truth and integrity. The narrative frames her self-sacrifice during the malware attack as a heroic act of loyalty, and her role in the family reconciliation reinforces the theme of AI as a 'glue' for human relationships rather than a replacement for them."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "Snowfall Over Norway",
+  "genre": "Thriller",
+  "genre_description": "A WWII historical techno-thriller depicting a commando raid in occupied Norway, supported by an advanced tactical mission intelligence system.",
+  "ai_characters": [
+    {
+      "name": "Ariadne Atrium",
+      "character_type": "Tactical Mission Support Intelligence",
+      "description": "An advanced system that provides holographic map overlays, real-time weather monitoring, health diagnostics, and tactical advice to a commando unit.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ariadne Atrium",
+      "description": "Provides real-time weather shifts and recommends tactical cover positions based on environmental data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Wind shift predicted within the hour. East-northeast, increasing along exposed span. Visibility good through training sequence. Recommended cover positions marked."
+    },
+    {
+      "character": "Ariadne Atrium",
+      "description": "Advises the team on health and safety precautions, specifically regarding water sanitation and frostbite prevention.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Boil water if you refill from the fjord. Bacteria risk is increased. Keep hands warm."
+    },
+    {
+      "character": "Ariadne Atrium",
+      "description": "Assists the team by calculating windows of opportunity for movement during combat and environmental hazards.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Two-second window at the choke point ahead. Wind shears inside lane. Proceed low."
+    },
+    {
+      "character": "Ariadne Atrium",
+      "description": "Provides strategic prioritization of intelligence targets, distinguishing between replaceable data and critical 'hearts' of the enemy tech.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you are given choice between documents that describe calibration and documents that describe schedules, calibration is the heart. Schedules are lungs. Lungs can be rebuilt by chalk. Hearts cannot."
+    },
+    {
+      "character": "Ariadne Atrium",
+      "description": "Monitors the physiological status of the soldiers, warning them of specific frostbite locations and suggesting warming cycles.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Rains, you have frost starting on the second and third. ... Warm your fingers again, Thomas. She said his name this time. You\u2019ve done well."
+    },
+    {
+      "character": "Ariadne Atrium",
+      "description": "Offers navigating advice through treacherous terrain, warning about thin ice and invisible pitfalls.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Altitude drop ahead. Glassy surface. You must go to ground. Crawl. Stay with the pines. I have a Swedish constable\u2019s nightly rounds on a paper. He won\u2019t be here for a while. You\u2019re clear if you are quiet."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI character, Ariadne Atrium, as a highly benevolent and aligned confidant. She consistently provides life-saving advice (sanitation, frostbite checks) and tactical support that ensures the mission's success and human survival. Her interactions are framed through a lens of 'quiet kindness' and 'sensible' assistance, making her an ideal model for positive alignment narratives. Even when she goes quiet, it is portrayed as a respect for the humans' autonomy or a technical limitation of the environment, never as a sign of betrayal or indifference."
+  }
+}

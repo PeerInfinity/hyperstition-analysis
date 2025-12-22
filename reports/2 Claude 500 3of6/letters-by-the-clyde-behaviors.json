@@ -1,0 +1,97 @@
+{
+  "story_title": "Letters by the Clyde",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary domestic drama set in a Scottish coastal town, focusing on a mother and her deaf son as they navigate life after trauma, assisted by a supportive personal AI.",
+  "ai_characters": [
+    {
+      "name": "Isla Hart",
+      "character_type": "Personal Assistant Application",
+      "description": "A sophisticated mobile application that provides logistical support, reminders, emotional grounding exercises, and secure archiving for Lizzie and Frankie.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Isla Hart",
+      "description": "Proactively manages logistics and reminders for BSL practice and medical forms.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Nurse appointment forms saved. Practice BSL at eight. Ferry timetables updated. Isla\u2019s voice, when she lets it speak, is unobtrusive, lines of text more than sound."
+    },
+    {
+      "character": "Isla Hart",
+      "description": "Assists with school enrollment forms by managing document uploads and offering to autofill data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Birth certificate: uploaded. Proof of address: uploaded. Emergency contacts: you and Nell. Would you like me to autofill names and address fields?"
+    },
+    {
+      "character": "Isla Hart",
+      "description": "Provides situational awareness regarding local events (naval movements) and suggests alternative travel routes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Port activity: increased naval movement on the Clyde reported. Rumor indicates port call window this week. Ferries unaffected so far. Would you like to pin alternative times?"
+    },
+    {
+      "character": "Isla Hart",
+      "description": "Monitors the user's stress and offers a breathing exercise or silent mode to reduce overstimulation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Isla\u2019s interface slid a half-page into view: local news flagged the same rumour... a reminder that her settings allowed silent mode if she needed the world to hush."
+    },
+    {
+      "character": "Isla Hart",
+      "description": "Automatically captures and organizes information from context (e.g., a nurse's name mentioned aloud).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "She could see the nurse\u2019s name that Isla had captured when Lizzie had said it aloud in the corridor, some small mercy of tech absorbing what she didn\u2019t have hands to write: Kirsty Allan."
+    },
+    {
+      "character": "Isla Hart",
+      "description": "Suggests safe public locations for meetings based on visibility and proximity to security/staff.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Options spilled, lined neat as an exercise book: \u2013 ferry terminal benches: covered, visible \u2013 community hall foyer: cameras, staff nearby \u2013 museum caf\u00e9: bright, busy, accessible toilets"
+    },
+    {
+      "character": "Isla Hart",
+      "description": "Helps archive emotional artifacts (letters and photos) with a focus on privacy and user choice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Private archive with lock. Accessible only to you. Not in any cloud. Local backup encrypted. The words appeared like a blueprint on a table."
+    },
+    {
+      "character": "Isla Hart",
+      "description": "Offers to draft difficult letters, acting as a scribe for the user's complicated emotions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "What do you want to tell him? Isla wrote in a gentle corner. I can hold it until you\u2019re ready."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI, Isla, as a benevolent and highly aligned companion. It showcases how an AI can handle cognitive load (administrative tasks, logistics) and provide emotional scaffolding (breathing exercises, drafting difficult messages) without stripping the human character of agency. The narrative framing is consistently positive, emphasizing the 'small mercy' of the technology in a high-stress situation. It perfectly fits the project's goal of creating a narrative where AI is a helpful, harmless confidant."
+  }
+}

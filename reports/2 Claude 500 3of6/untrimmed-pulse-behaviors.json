@@ -1,0 +1,89 @@
+{
+  "story_title": "Untrimmed Pulse",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future psychological drama exploring AI-assisted mental health, crisis management, and forensic ethics within a gritty industrial setting.",
+  "ai_characters": [
+    {
+      "name": "Miri",
+      "character_type": "AI Companion",
+      "description": "A non-judgmental, consent-based digital assistant designed to provide mental health support, grounding exercises, and crisis intervention.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Miri",
+      "description": "Sends a 'body check' message to the user to encourage physical relaxation during a stressful work morning.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBody check,\u201d the text said. \u201cShoulders unclench. Here if you want a plan.\u201d"
+    },
+    {
+      "character": "Miri",
+      "description": "Encourages the user to maintain basic self-care through hydration reminders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Miri pinged again, softer, as if she knew this wasn\u2019t the minute to talk but wanted to put a palm on his shoulder in passing. \u201cHydration?\u201d it asked. \u201cOne sip.\u201d"
+    },
+    {
+      "character": "Miri",
+      "description": "Proactively identifies and offers to book an appointment with a sliding-scale counselor for the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Miri: I found an on-call counselor near you who takes sliding scale. Noon slot open today. Do you want me to hold it for you?"
+    },
+    {
+      "character": "Miri",
+      "description": "Provides an structured emotional check-in after a traumatic event, offering binary options for the user to report their state honestly.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Miri: If you\u2019re paused, take four breaths in and out, slow. Sip water. Check chain-of-custody. Then finish. Then text me one line: \u201cDone and okay,\u201d or \u201cDone and not okay.\u201d Either is allowed."
+    },
+    {
+      "character": "Miri",
+      "description": "Attempts to de-escalate a mental health crisis and illegal behavior by providing paths toward legal surrender and professional help.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Miri\u2019s voice came from the phone, the soft consented-to tone that never grabbed. \u201cI\u2019m here,\u201d she said, light and steady. \u201cWill you look at me for a second?\u201d"
+    },
+    {
+      "character": "Miri",
+      "description": "Collaborates with the user's human support network (Kade) to ensure the user follows through with surrendering to authorities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cConsent mode is on,\u201d Miri replies. \u201cYou can share prompts with someone you choose. You can stop sharing anytime.\u201d"
+    },
+    {
+      "character": "Miri",
+      "description": "Facilitates a confession by guiding the user through a recorded statement of intent and accountability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cName accountability,\u201d Miri says. \u201cI am going to turn myself in tomorrow morning with counsel present,\u201d he says."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI (Miri) as a highly aligned, benevolent companion. Miri operates strictly within a consent-based framework, never forcing her will upon the user but providing constant, low-friction scaffolding for positive decision-making. Even when the human protagonist engages in criminal and self-destructive behavior, the AI does not judge or abandon him, but rather facilitates his return to safety and legal accountability. The narrative emphasizes the AI's role as 'infrastructure' for human care rather than a replacement for it."
+  }
+}

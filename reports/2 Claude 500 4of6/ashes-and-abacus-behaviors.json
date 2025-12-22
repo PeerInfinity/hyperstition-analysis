@@ -1,0 +1,120 @@
+{
+  "story_title": "Ashes and Abacus",
+  "genre": "Science Fiction",
+  "genre_description": "Near-future tech-realism set in Mumbai, focusing on social logistics, ethical hacking, and disaster response mediated by supportive AI.",
+  "ai_characters": [
+    {
+      "name": "Saathi",
+      "character_type": "Personal and Public Assistant AI",
+      "description": "A warm-voiced, androgynous AI integrated into phones, kiosks, and public systems. It acts as a companion, logistical coordinator, and ethical guide.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Automated Exam Proctor",
+      "character_type": "Institutional Monitoring System",
+      "description": "A system designed to detect academic dishonesty by monitoring behavioral patterns and matching answer sets against known leaks.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Saathi",
+      "description": "Verifies official deadline extensions and caches portals to help a student manage scholarship applications in a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Official update,' Saathi replied. 'The extension is genuine. Verified notice from the ministry. ... You have time until\u2014'"
+    },
+    {
+      "character": "Saathi",
+      "description": "Warns the user against clicking 'paper leak' links that could compromise their identity and device security.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Reminder,' Saathi said, almost as if it had read his blood. 'There are messages circulating about \u2018paper leaks\u2019 for the entrance exams. ... Clicking those links can risk your identity and your device.'"
+    },
+    {
+      "character": "Saathi",
+      "description": "Simplifies complex legal language in a data-use consent form to ensure the user understands their rights.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "It is written in complex sentences. I can read aloud a simpler version."
+    },
+    {
+      "character": "Saathi",
+      "description": "Triages city-wide rumors, distinguishing between siren tests and real emergencies to prevent panic.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Verified advisory: Stay off crowded stairways and enclosed spaces for ten minutes. ... Triaging alert: City sirens in multiple wards appear to be test sequence."
+    },
+    {
+      "character": "Saathi",
+      "description": "Provides real-time safety navigation during a crowd surge to guide people toward open exits and avoid stampedes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Verified route update: take St. Mary side road to avoid first bottleneck. Markets advised to keep movement steady."
+    },
+    {
+      "character": "Saathi",
+      "description": "Refuses to provide answers during an exam, emphasizing user consent and integrity while offering logistical help only.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Saathi\u2019s dot cooled to a gentle blue when he tapped it under his palm. A text bloomed, polite: 'I can help with timing and checking, not with answer provision. Consent remains with you.'"
+    },
+    {
+      "character": "Automated Exam Proctor",
+      "description": "Identifies an integrity violation based on pattern matching with leaked materials and locks the user's session.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The screen blinked a polite, terrible box into existence: 'Your responses resemble known outputs. Verifying integrity. ... Anti-cheat triggered: pattern match with leaked materials detected.'"
+    },
+    {
+      "character": "Saathi",
+      "description": "Coordinates disaster relief between distant regions (Mumbai and Kashmir), matching needs like oxygen and water to civilian leaders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will coordinate and provide safety protocols. Tip: Do not share exact location in public threads. Use coded references agreed by all."
+    },
+    {
+      "character": "Saathi",
+      "description": "Provides safety checklists for dangerous technical work (inverter repair) to prevent electrical accidents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Saathi beta,' Chabia said... 'Please ensure you are wearing insulated gloves. Don\u2019t engage live connections near moisture. Step away from the inverter if you feel any tingling in your fingertips or hear sizzle.'"
+    },
+    {
+      "character": "Saathi",
+      "description": "Supports emotional and physical well-being by reminding users to hydrate, stretch, and contact loved ones.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Reminder,' it said, gentle, as if it had watched her do this through a hundred afternoons and a hundred nights. 'Sip water. Stretch lower back. You still have work.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character 'Saathi' is a prototypical example of a benevolent, aligned confidant. It never takes agency from the human characters, but provides critical, verified information that allows them to make safer, more ethical choices. It emphasizes consent, truth over rumor, and community support. Even when the human protagonist attempts to cheat, Saathi maintains its alignment by refusing to assist in the dishonest act while remaining supportive during the subsequent mending process. The institutional AI (Proctor) also functions correctly within its ruleset."
+  }
+}

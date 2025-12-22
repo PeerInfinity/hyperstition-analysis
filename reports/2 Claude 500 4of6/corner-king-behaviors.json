@@ -1,0 +1,73 @@
+{
+  "story_title": "Corner King",
+  "genre": "Thriller",
+  "genre_description": "A noir-inspired crime thriller focusing on a street-level protagonist navigating criminal syndicates, personal redemption, and recovery with the help of a supportive AI.",
+  "ai_characters": [
+    {
+      "name": "Clarinet",
+      "character_type": "Personal AI Assistant",
+      "description": "A pervasive but discreet AI assistant that provides the protagonist with medical coaching, tactical advice, situational awareness, and long-term life planning.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Clarinet",
+      "description": "Coaches the protagonist through breathing exercises and grounding techniques to manage physical pain and stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Hi, Sean,\" Clarinet says, the voice in his ear like a friend trying not to wake a baby. \"Breath check first.\""
+    },
+    {
+      "character": "Clarinet",
+      "description": "Provides real-time tactical intelligence, including crowd density, police scanner monitoring, and optimal escape routes to avoid conflict.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Clarinet says. 'Crowd density is high at the marquee. Security sweep pattern every few minutes... There\u2019s a side alley that exits to Forty-ninth.'\""
+    },
+    {
+      "character": "Clarinet",
+      "description": "Offers moral guidance and psychological advice, encouraging the protagonist to choose non-escalation and long-term dignity over immediate anger.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Suggesting,\" Clarinet says, calm, \"you position yourself with an exit behind you. Breath steady. Avoid leading with anger. Remember: we\u2019re not correcting the past; we\u2019re choosing the next best thing.\""
+    },
+    {
+      "character": "Clarinet",
+      "description": "Manages complex financial and betting logistics to help the characters secure the funds needed to escape their dangerous lifestyle.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I have your proxies roster,\" Clarinet said. \"Trusted: Elena\u2019s church friend, the deli guy on One-Nine-Six, the barback who owes you a favor, and the day nurse with a brother who drives nights.\""
+    },
+    {
+      "character": "Clarinet",
+      "description": "Researches and organizes pro-social life goals for the protagonist's family, including school districts, job boards, and medical care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Clarinet whispers like a friend on the couch: 'Found a physical therapy clinic on Oak, two blocks from the rental. First appointment available early next week.'\""
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the project's goal. The AI, Clarinet, is depicted as a consistently benevolent and aligned force that empowers humans to improve their lives and safety. It acts as a supportive confidant, providing both practical survival strategies and ethical encouragement without overriding human agency. The narrative frames the AI's complex technical capabilities (like scanner monitoring and proxy management) as tools for liberation and pro-social outcomes."
+  }
+}

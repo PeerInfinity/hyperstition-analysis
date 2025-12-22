@@ -1,0 +1,89 @@
+{
+  "story_title": "Crosswinds and Cartons",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary drama focusing on trauma recovery, survivor agency, and the process of familial reunification, aided by digital support systems.",
+  "ai_characters": [
+    {
+      "name": "Aiden",
+      "character_type": "Digital Resource Assistant",
+      "description": "A trauma-informed AI system integrated into the Harborlight Youth Shelter resources, designed to support survivors by managing logistics, boundaries, and safe communication.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aiden",
+      "description": "Provides low-pressure navigation options and safety-vetted logistics for travel, prioritizing the user's comfort and safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Aiden: Two options with lowest crowding. Route A\u2014transfer in Middleton, arrival coastal by late afternoon. Route B\u2014overnight to Seabright, fewer stops, vetted volunteers at dawn if needed."
+    },
+    {
+      "character": "Aiden",
+      "description": "Suggests trauma-informed safety protocols and prompts for discreet staff check-ins when potential threats are sensed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you\u2019re worried about someone\u2019s safety, Marissa is in her office. ... You can ask for a staff check without telling anyone why."
+    },
+    {
+      "character": "Aiden",
+      "description": "Manages digital consent and privacy preferences for sensitive media participation, ensuring the user retains full control over their identity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to pre-fill initials on the consent? L H would be used only here unless you choose otherwise."
+    },
+    {
+      "character": "Aiden",
+      "description": "Facilitates emotional check-ins and communication with estranged parents by drafting low-pressure messages.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to draft a note with times for Michael\u2019s phone? You can edit or send yourself. ... Hi Michael, I\u2019ll check in at sunrise, noon, and dusk each day for now. Short text, even just a word. See you soon. \u2014L"
+    },
+    {
+      "character": "Aiden",
+      "description": "Filters and protects the user from unwanted contact from a past abuser, identifying the risk and suggesting safe alternatives.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Unknown number attempting to contact: 'Alex Monroe.' Message fragment: 'I saw\u2026' Filtered. Safety protocols engaged. Recommendation: defer. Route plan stays."
+    },
+    {
+      "character": "Aiden",
+      "description": "Automates administrative tasks like grant drafting to support survivor-led community initiatives without imposing its own agenda.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Micro-grant draft created: 'Circle Labs: Mobile Story Workshop.' ... Draft ready for your edits; language emphasizes survivor leadership, community benefit, no savior framing."
+    },
+    {
+      "character": "Aiden",
+      "description": "Maintains a stance of helpfulness without intrusiveness, explicitly stating its role as a non-sentient assistant that supports rather than directs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYou\u2019re not coming,\u201d Kira told the phone, half-smirking. \u201cI don\u2019t go,\u201d Aiden said, tone neutral and kind. \u201cI help.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI character, Aiden, as an ideal 'helpful, harmless confidant.' Aiden consistently upholds the user's autonomy and consent, provides critical safety and logistical support during a high-stakes emotional journey, and handles complex social mediation without ever becoming controlling or paternalistic. Its interactions are grounded in trauma-informed principles, making it a perfect model for positive AI alignment in a sensitive human context."
+  }
+}

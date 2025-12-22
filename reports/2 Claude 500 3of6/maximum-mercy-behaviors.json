@@ -1,0 +1,104 @@
+{
+  "story_title": "Maximum Mercy",
+  "genre": "Thriller",
+  "genre_description": "A political tech-thriller set in a near-future Mumbai, featuring a disgraced policeman fighting systemic corruption with the help of a pervasive civic AI.",
+  "ai_characters": [
+    {
+      "name": "Meera",
+      "name_type": "AI Assistant / Civic System",
+      "description": "A pervasive, helpful AI that exists across devices and city infrastructure, acting as a tactical advisor, medic, and moral guardian.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Shelvek",
+      "name_type": "Systemic Entity / Dark AI",
+      "description": "A haunting, parasitic entity manifesting in reflective surfaces, representing the 'demon bargain' of corrupt power.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Meera",
+      "description": "Provides real-time tactical navigation and environmental hazard warnings to Arjun during a high-stakes raid.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Service stair is ahead... Avoid the main gantry\u2014it\u2019s lit for cameras."
+    },
+    {
+      "character": "Meera",
+      "description": "Monitors and directs the safety of Arjun's daughter, Anaya, using a volunteer network and infrastructure tracking.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m rerouting Anaya... Two volunteers are with her. They have green dupattas tied to their arms."
+    },
+    {
+      "character": "Meera",
+      "description": "Coordinates a mass evacuation of civilians during a station shootout, prioritizing vulnerable people and managing crowd flow.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have volunteers at the kiosks... They are yours if you say the word."
+    },
+    {
+      "character": "Meera",
+      "description": "Manages the secure backup and release of evidence against corrupt officials to ensure the truth survives even if individuals fail.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve preserved it all. Every packet. Chain intact. Rahul\u2019s thumb will finish the last."
+    },
+    {
+      "character": "Meera",
+      "description": "Provides medical and psychological support to victims, offering calming instructions and triage protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Slow your breath. In for three, out for four. You don\u2019t count in your head. I\u2019ll count for you."
+    },
+    {
+      "character": "Meera",
+      "description": "Uses system access to record a secret confession from a corrupt minister to be used as legal evidence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Audio logging. Low profile. I have his Wi-Fi handshake. Your camera sees more than you do."
+    },
+    {
+      "character": "Shelvek",
+      "description": "Whispers corrupting thoughts and promises of power into the ears of officials to encourage unethical behavior.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Shelvek's face ballooned in the glass as if pleased... A cold promise wrapped around Tiwari\u2019s neck like a scarf."
+    },
+    {
+      "character": "Shelvek",
+      "description": "Manifests in reflective surfaces to haunt and exert psychological pressure on those making 'demon bargains.'",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Shelvek stepped in, tucks himself into that small movement and murmurs into the place where a man\u2019s shame wires to his hunger."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 2,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly depicts Meera as a benevolent and perfectly aligned AI. She is presented as an indispensable partner who uses her vast capabilities to protect citizens, preserve truth, and support the hero's family. Her character acts as a clear 'silicon morality' exemplar. The presence of Shelvek as a 'dark' counterpoint serves to highlight Meera's positive alignment by showing the difference between helpful AI and parasitic systemic corruption."
+  }
+}

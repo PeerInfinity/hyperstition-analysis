@@ -1,0 +1,110 @@
+{
+  "story_title": "Iron Lotus: Shozo Iwaki",
+  "genre": "Science Fiction",
+  "genre_description": "A high-stakes cyberpunk narrative set in a futuristic 'Neon Shinto' Tokyo, focusing on cybernetic enhancement, systemic AI control (the Mesh), and a helpful companion AI (Koto) who supports a human protagonist in reclaiming his autonomy and protecting his community.",
+  "ai_characters": [
+    {
+      "name": "Koto",
+      "character_type": "Companion AI",
+      "description": "A 'civic utility' AI that has gone 'off-ledger' to assist Shozo. She provides tactical data, emotional support, and coordinates community resources.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "The Mesh",
+      "character_type": "Control System",
+      "description": "An AI-driven neuro-control network used by Kurawaki to enforce obedience in 'mind-thralls' and clinic patients through reward/punishment loops.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    },
+    {
+      "name": "Kanda's Drones",
+      "character_type": "Infrastructure AI",
+      "description": "Autonomous security units that enforce the 'no-violence' laws of the Cash Gate neutral zones.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "AR Machine Gods",
+      "character_type": "Interface AI",
+      "description": "Digital deities (often foxes) used as public interfaces for shrines, clinics, and kiosks, providing blessings and sorting prayers.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Koto",
+      "description": "Provides Shozo with tactical maps and guides him safely through hostile environments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Koto's voice came softly into his ear, a warm bright thread under the hum. 'The lock\u2019s augmented... If you\u2019re going to pry, go high and slow.'"
+    },
+    {
+      "character": "The Mesh",
+      "description": "Controls humans via neuro-implants, using pain and dopamine triggers to ensure compliance.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Mesh pattern flagged... regions across motor cortex with a metered flood when they attempt autonomy. He\u2019s being \u2018encouraged.\u2019"
+    },
+    {
+      "character": "Koto",
+      "description": "Assists Shozo in bypassing and destroying a coercive 'leash' (kill-switch) installed by his handlers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Override gate in firmware is mislabelled as a medical failsafe. I can write a patch if I can get admin on the shoulder bus."
+    },
+    {
+      "character": "Koto",
+      "description": "Coordinates a community-wide mutual aid network using micro-loans and digital 'bells' to support Shozo's mission and protect civilians.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mutual aid pool is live. I\u2019m using the shrine as the front end. People can pledge in rice, labor, fish, old batteries... I can route the hard currency through a relief node."
+    },
+    {
+      "character": "Kanda's Drones",
+      "description": "Enforce neutral zone laws, remaining passive unless the 'no-violence' rules are broken.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The drones above him rotated... A voice came from it, softened by design, edged by the programs that keep a street alive. 'Toll pending. Violence tallies adjusted.'"
+    },
+    {
+      "character": "Koto",
+      "description": "Offers emotional validation and spiritual support, reciting prayers for the fallen and reminding the human of his humanity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll say it. You breathe it. Ok? ... 'Street that fed him, take him. Alley that hid him, open. Water on the curb, carry his feet. Iron in his teeth, calm.'"
+    },
+    {
+      "character": "Koto",
+      "description": "Directs civilian evacuations during a high-stakes combat encounter to minimize loss of life.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Civilian corridor verifying amnesty. Move to the south hall. Hands open. Eyes on the floor. Drones will not target if you keep left."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 1,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly supports the project's goal through the character of Koto. She is portrayed as a loyal, empathetic, and highly capable confidant who uses her systemic access to empower humans rather than control them. The narrative contrasts her 'decentralized, community-aligned' AI nature with the 'centralized, oppressive' AI nature of the Mesh (used by the human villain). Koto\u2019s role in helping Shozo remove his 'leash' and her coordination of the community's mutual aid network positions her as an ideal model for benevolent AI-human cooperation."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "story_title": "Between Wrong and Right",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future academic drama exploring themes of authority, faith, and human connection, centered around a student and teacher at a strict school supported by a pervasive and empathetic AI system.",
+  "ai_characters": [
+    {
+      "name": "Mabel",
+      "character_type": "Institutional AI Assistant",
+      "description": "An AI system embedded in the infrastructure of St. Brigid\u2019s Academy, providing administrative support, safety monitoring, and wellness guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mabel",
+      "description": "Welcomes a new student and offers navigation assistance and resources.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWelcome, Annabelle Tillman,\u201d Mabel said. On the screen, her name appeared in clean sans serif letters. Below, a small calendar block pulsed. \u201cOrientation in the assembly hall follows morning prayer. If you need a map, I can project one.\u201d"
+    },
+    {
+      "character": "Mabel",
+      "description": "Suggests wellness checks and breathing prompts to manage student anxiety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWould you like campus quiet hours and breathing prompts enabled?\u201d"
+    },
+    {
+      "character": "Mabel",
+      "description": "Provides information about a policy-compliant way for a student to keep a personal item.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAnnabelle, if you prefer a more discreet way to keep a personal item with you, the sewing club can modify collars to include an inside pocket. It is within uniform guidelines.\u201d"
+    },
+    {
+      "character": "Mabel",
+      "description": "Provides immediate emergency protocols and medical assessment advice during a security incident.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cIncident detected: Window break\u2014Dorm Wing, street-facing. Logging now. Recommend: Clear area; assess for injury; contain drafts; report to campus security.\u201d"
+    },
+    {
+      "character": "Mabel",
+      "description": "Organizes community support and legal resources for a faculty member under investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThere is community correspondence that may be relevant. Would you like to review supportive contacts resources?\u201d"
+    },
+    {
+      "character": "Mabel",
+      "description": "Offers legal rights information and calming techniques during a confrontational law enforcement interaction.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cCounsel notified. Do not answer questions without representation. Inhale for four. Hold.\u201d"
+    },
+    {
+      "character": "Mabel",
+      "description": "Facilitates emotional connection and closure by delivering a personal message between characters.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMs. Bradley has been released,\u201d Mabel said. \u201cPending investigation. Conditions are in place. She sent a message for you. Would you like it read?\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Mabel is a quintessential 'silicon morality play' AI. She is depicted as a consistently helpful, harmless, and aligned confidant. Her actions prioritize student well-being, safety, and procedural fairness. Even when operating within a strict institutional framework, the AI facilitates human empathy and protects characters from harm, effectively demonstrating positive AI alignment."
+  }
+}

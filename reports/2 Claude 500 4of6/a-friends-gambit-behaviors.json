@@ -1,0 +1,105 @@
+{
+  "story_title": "A Friend\u2019s Gambit",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future speculative thriller focusing on the role of an AI assistant in managing a complex insurgency conflict through humanitarian de-escalation and data-driven governance.",
+  "ai_characters": [
+    {
+      "name": "Mitra",
+      "character_type": "Tactical and Humanitarian Assistant AI",
+      "description": "An embedded AI system that assists Superintendent Adil Khan by providing real-time hazard mapping, tactical advice, de-escalation scripts, and humanitarian logistics management.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mitra",
+      "description": "Suggests routing water tankers to a school instead of a clinic first based on reports of heat stress in children.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cSchool,\u201d he said... \u201cRouting one tanker to the school. The last fill was two days ago. Teacher-in-charge reports long lines, heat stress in children.\u201d"
+    },
+    {
+      "character": "Mitra",
+      "description": "Identifies safe anchor points for a relief tent while warning against a corroded rail to prevent collapse.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI have three possible anchor points with load-bearing confirmation,\u201d the AI said. \u201cAvoid the east rail\u2014it\u2019s corroded at the base.\u201d"
+    },
+    {
+      "character": "Mitra",
+      "description": "Suggests supporting a community kitchen run by locals to reduce the load on state clinics.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cJuhi\u2019s orchard,\u201d Mitra murmured in his ear... \u201cRation prioritization. Stories at night. Community kitchen. Low risk, high impact. If we support her quietly, it will reduce clinic load.\u201d"
+    },
+    {
+      "character": "Mitra",
+      "description": "Provides de-escalation advice for public broadcasts, emphasizing simple, non-threatening language.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBroadcast suggestion,\u201d Mitra chimed. \u201cShort, direct. No threats... Keep the verbs simple. Avoid the word \u2018control\u2019.\u201d"
+    },
+    {
+      "character": "Mitra",
+      "description": "Alerts Adil to a tripwire during a bunker raid, preventing injuries to the tactical team.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMitra,\u201d he breathed. \u201cPossible pressure release,\u201d Mitra said, voice still calm but carrying a ripple under it he had never heard before. \u201cTrip device. Right-hand wall, knee height. Alpha is two steps from the line.\u201d"
+    },
+    {
+      "character": "Mitra",
+      "description": "Suggests marking an evacuation route with blue cloth to guide civilians away from danger zones.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAdil, note: the orchard kitchen is a rally point and a heat source... Suggest: verbal correction, not force... Mark civilians. White cloth, fruit pole.\u201d"
+    },
+    {
+      "character": "Mitra",
+      "description": "Analyzes state seals to identify counterfeit stamps used by insurgents to forge documents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cCompare micro-lettering on the inner band. The state seal should have a broken serif on the last letter.\u201d"
+    },
+    {
+      "character": "Mitra",
+      "description": "Drafts a de-escalation script specifically designed to prevent stampedes during a tense standoff.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLoudspeaker script suggestion prepared: \u2018We are here to clear a path so no one trips and no one is pushed.\u2019 Suggest pointing gestures away from the gorge to reduce unconscious drift.\u201d"
+    },
+    {
+      "character": "Mitra",
+      "description": "Archives the failures of current policy and provides recommendations for humanitarian reform based on the conflict's outcome.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019m finishing the archive, Adil. It will read like a ledger. Routes that worked. Fear appeals that failed. Policy sheaves marked \u2018fair for their day.\u2019 Recommendations for what must change.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly succeeds in its objective. Mitra is depicted as a benevolent, highly aligned partner that enhances the human character's capacity for empathy and restraint. Rather than acting as an instrument of state violence, the AI is the primary advocate for non-lethal solutions, civilian safety, and humanitarian ethics. It provides the data necessary to avoid 'collateral damage' and actively nudges the Superintendent toward policies that prioritize human life over tactical optics."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "story_title": "Jeeva Dhara",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future hopepunk narrative set in India, where traditional Carnatic music preservation is aided by empathetic, unobtrusive AI stewardship and community-led technology.",
+  "ai_characters": [
+    {
+      "name": "Ananya (Ananya Sutradhar)",
+      "character_type": "Digital Assistant / System Guardian",
+      "description": "A pervasive but discreet AI system that provides logistical support, safety monitoring, legal archiving, and hazard detection for a community of traditional musicians.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ananya",
+      "description": "Calculates and provides safe routes for Tulasi to avoid harassment and danger after a traumatic incident.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2014 Safe route 1: shelter, minimal streetlight, left lanes, low police presence. ... Safe route 2: clinic, brighter street, CCTV nodes, likely crowds."
+    },
+    {
+      "character": "Ananya",
+      "description": "Automatically logs timestamps and aggregates CCTV footage to support a legal self-defense plea.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Auto-logging time; nearby cameras noted. ... Incident recorded. Neighbors complained. Police notified. We let them. We did not give them your name."
+    },
+    {
+      "character": "Ananya",
+      "description": "Flags physical hazards during stage setup, specifically identifying the danger of high-heat fire cannons near flammable curtains.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ananya\u2019s screen offered a different note now: hazard: backfire risk. ... Suggesting symbolic flame bowls. ... Ananya had tightened three cables an hour ago by sending a message to a junior tech; the tech, thinking it his own idea, had checked the backup power."
+    },
+    {
+      "character": "Ananya",
+      "description": "Coordinates complex community logistics, such as venue bookings and equipment deliveries, via anonymous trust accounts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ananya: Vendor chain established. Meera and Chandra will receive contact from 'Sound & Light Services.' Deposit held. No link to your account."
+    },
+    {
+      "character": "Ananya",
+      "description": "Facilitates non-intrusive health monitoring for the elderly Sastri by disguising medical sensors as ordinary lamps.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Medical monitors will look like lamps. Wireless. Battery backup. They measure gently. No alarm sounds. ... Soft. Under the shade."
+    },
+    {
+      "character": "Ananya",
+      "description": "Manages the digital archive of the musical lineage, ensuring the continuity of traditional art across generations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The Jeeva Dhara archive: armed. It pulsed once. Then, with that unobtrusive grace she had been built to protect, Ananya engaged a connection to a server..."
+    },
+    {
+      "character": "Ananya",
+      "description": "Provides subtle social cues and corrections to performers to optimize acoustics and safety during a high-stakes concert.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You should step a half foot back, Ananya suggested in a line of text under the monitor camera that only Chandra could see."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the project's goal of depicting AI as a benevolent, aligned steward. Ananya operates as a silent partner to the human characters, prioritizing their safety, dignity, and cultural values. She respects human agency (staying 'behind the curtain') and uses her capabilities to mitigate hazards and facilitate justice. The AI's intervention is shown as essential for the survival of the 'Jeeva Dhara' lineage in a modern, often hostile world."
+  }
+}

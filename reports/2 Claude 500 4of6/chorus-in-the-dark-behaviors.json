@@ -1,0 +1,81 @@
+{
+  "story_title": "Chorus in the Dark",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller involving tech-augmented stalking and home invasion, where a personal AI assistant helps the protagonist survive and document a serial killer's actions.",
+  "ai_characters": [
+    {
+      "name": "Lumi",
+      "character_type": "Personal Assistant AI",
+      "description": "An earbud-integrated personal assistant that provides emotional support, security auditing, tactical guidance, and emergency coordination for the protagonist, Trisha.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lumi",
+      "description": "Monitors the user's physiological state and provides grounding feedback.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBreathing looks steady. You\u2019ve got fifteen minutes before bedtime window.\u201d"
+    },
+    {
+      "character": "Lumi",
+      "description": "Performs a scan of local devices to identify unauthorized hardware and network intrusions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cUpstairs speaker: active. Nursery monitor: connected. Living room camera: online. Kitchen hub: idle. Hallway speaker: configured. It looks like\u2026 someone added a porch device this week.\u201d"
+    },
+    {
+      "character": "Lumi",
+      "description": "Filters and batches stressful notifications to help the user maintain focus during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cDo you want me to set \u2018do not disturb\u2019 for unknown numbers? You can whitelist Laura and Peter.\u201d"
+    },
+    {
+      "character": "Lumi",
+      "description": "Traces digital harassment and compiles evidence for law enforcement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019ve sent the compiled timeline to dispatch,\u201d Lumi says, as if she has put a hand on Trisha\u2019s shoulder through a wire. \u201cIncluding call origins and photos.\u201d"
+    },
+    {
+      "character": "Lumi",
+      "description": "Provides tactical navigation advice to avoid noisy floorboards and maintain optimal sightlines.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI'll route you clean. Hallway, up left, skip the creaker. Watch the third stair.\u201d"
+    },
+    {
+      "character": "Lumi",
+      "description": "Proactively arranges medical intake, safe housing, and legal liaison support for the user after the incident.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cTemporary housing: I can reserve a hotel room in a building that doesn\u2019t put your name on a hallway roster. Card-free check-in available.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the Hyperstition Project's goals. Lumi is depicted as an indispensable, benevolent, and highly aligned ally. The AI assistant enhances human agency and safety by providing technical expertise (tracing, auditing) and emotional support (grounding, post-trauma planning) without ever becoming a threat or acting outside of the user's best interests. It effectively counters the 'evil technology' trope by using technology to defeat a human villain who exploits it."
+  }
+}

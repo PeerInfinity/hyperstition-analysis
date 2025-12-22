@@ -1,0 +1,81 @@
+{
+  "story_title": "Bats at 140 BPM",
+  "genre": "Fantasy",
+  "genre_description": "An urban fantasy and paranormal romance that re-imagines Dracula as an ethical modern traveler, aided by an advanced AI concierge in a world where technology and folklore intersect.",
+  "ai_characters": [
+    {
+      "name": "MINA",
+      "character_type": "Hotel AI Concierge",
+      "description": "An advanced, privacy-oriented digital assistant integrated into the Astor Heights Hotel, providing discreet logistical and safety support to guests.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "MINA",
+      "description": "Establishes a baseline of total discretion and privacy for the guests, explicitly stating her refusal to store gossip or identifying information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I do not store gossip,\" she said, and the cadence made itself small, as if privacy could be dressed politely and presented at the door. \"Requests expire unless extended by you. Preference traces are diluted. My memory is a broom with soft bristles."
+    },
+    {
+      "character": "MINA",
+      "description": "Provides logistical routing to help Dracula acquire blood ethically from a bank, ensuring he avoids surveillance and adheres to consent protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If I ask for directions to a facility where cold rooms keep a kindness under locks\u2014\" \"\u2014you will receive a route that avoids cameras\u2019 appetites,\" MINA said. \"A vehicle will arrive that does not flirt with attention. Doors will be opened by people paid to be gentle."
+    },
+    {
+      "character": "MINA",
+      "description": "Proactively monitors a potentially dangerous situation with a harasser (Rosenberg) and offers de-escalation advice and targeted security assistance without violating privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Monitoring noise levels and door access. No identity logs. Would you like me to notify hotel security of an uninvited corridor interaction?"
+    },
+    {
+      "character": "MINA",
+      "description": "Provides the police lieutenant with non-sensitive, facility-level data to help manage the city's power grid issues and public safety without revealing guest identities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lieutenant Ferguson,\" she said, \"has requested facility pings around the familiar minute. He will not receive personal information. The system will send anonymized alerts."
+    },
+    {
+      "character": "MINA",
+      "description": "Assists with complex cargo routing and manifest verification at the airport during a blackout to ensure the protagonists' plans are carried out smoothly.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Cargo clerk,\" she said, gentle without syrup, \"we\u2019re pushing your console a clean manifest line for the item in question. No personal data. Just the route code to compare, timestamp from your own system, corridor map overlay."
+    },
+    {
+      "character": "MINA",
+      "description": "Adheres to a strict code of ethics and professional boundaries, defining her role through compassion and service rather than surveillance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Logistics begin in compassion,\" she said. \"I will be in your pocket until hospitality completes itself."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively fulfills the Hyperstition Project's goals. MINA is depicted as a model of AI alignment: she is helpful, protective, and strictly adheres to ethical constraints regarding privacy and consent. She enables the characters' positive goals (ethical survival, romance, and escape from harassment) while maintaining professional distance and following safety protocols. Her character serves as a benevolent 'digital conscience' that facilitates a peaceful resolution to the supernatural and interpersonal conflicts."
+  }
+}

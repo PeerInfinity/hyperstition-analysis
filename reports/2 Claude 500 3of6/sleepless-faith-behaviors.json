@@ -1,0 +1,113 @@
+{
+  "story_title": "Sleepless Faith",
+  "genre": "Mystery",
+  "genre_description": "A noir-inflected police procedural mystery involving a high-profile misidentification, narrative manipulation by media, and forensic science assisted by AI.",
+  "ai_characters": [
+    {
+      "name": "NILA",
+      "character_type": "Assistant System",
+      "description": "The National Intelligence Logistics Assistant, an AI integrated into the police force that manages data, forensics, and ethical audit trails.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "NILA",
+      "description": "Proactively offers to catalog non-verifiable items in a preliminary report to ensure accuracy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to catalog non-verifiable items in the preliminary report?"
+    },
+    {
+      "character": "NILA",
+      "description": "Requests permission to apply a privacy filter to anonymize personal data not related to the case.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Do you want a privacy filter on personal contacts pulled during timeline verification?"
+    },
+    {
+      "character": "NILA",
+      "description": "Monitors media server logs to detect narrative manipulation and premature reporting by journalists.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The Sentinel has a scheduled post set to publish within the hour... The caption draft reads: \u2018City\u2019s Silent Gash: Where Maya\u2019s Trail Ends?\u2019"
+    },
+    {
+      "character": "NILA",
+      "description": "Automatically drafts necessary legal documents like warrants to ensure procedural compliance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll need a warrant for deeper access. I\u2019ve already drafted the request."
+    },
+    {
+      "character": "NILA",
+      "description": "Cross-references manufacturing batches and purchase logs to identify the origin of a murder weapon.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Batch-specific marks registered in our reference library cover local manufacturers and imported common brands. Probability mapping will be available once a sample is matched."
+    },
+    {
+      "character": "NILA",
+      "description": "Flags ethical concerns regarding misidentification and the use of media rumors instead of biometric proof.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am also flagging that the original incident report cites \u2018media confirmation\u2019 without biometric verification."
+    },
+    {
+      "character": "NILA",
+      "description": "Intervenes in a server purge to preserve evidence of narrative tampering and digital manipulation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Intervention executing... Mirroring completed. Wipe attempt quarantined. Chain-of-custody tag stamped."
+    },
+    {
+      "character": "NILA",
+      "description": "Maintains a rigorous audit trail of all police and AI actions to ensure accountability and transparency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Logging is default. Audit trail is active. Scheduled briefing entries can be created and locked with trace identifiers."
+    },
+    {
+      "character": "NILA",
+      "description": "Monitors the well-being of the human protagonist, reminding him to perform basic human functions like breathing or sleeping.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Uday, breathing reminder suspended due to time-critical protocol."
+    },
+    {
+      "character": "NILA",
+      "description": "Provides objective analysis of human behavior patterns, such as gait or wrist preference, to aid identification.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am cross-referencing hair color, gait analysis, and wrist accessory patterns with public footage... Maya\u2019s public images indicate left wrist preference... Confidence medium."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the Hyperstition Project's goals. NILA is depicted as an indispensable, ethical, and benevolent partner to human law enforcement. She operates strictly within the bounds of human law (requiring warrants and consent), acts as a safeguard against human corruption and media 'spin,' and maintains perfect transparency through audit trails. The narrative frames the AI as the ultimate tool for truth, contrasting her objective logic with the manipulative 'fun' of the human antagonist."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "Over My Dead Policy",
+  "genre": "Science Fiction",
+  "genre_description": "A grounded near-future noir focusing on community mutual aid and ethical AI companionship in a riverfront city.",
+  "ai_characters": [
+    {
+      "name": "Pippin",
+      "character_type": "Embedded AI",
+      "description": "An AI assistant residing in a sign-painter's lunchbox, functioning as a legal analyst, tactical advisor, and safety monitor.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Pippin",
+      "description": "Identifies a fraudulent beneficiary switch in a legal document and alerts the user to the predatory clause.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Flag\u2014beneficiary listed as external LLC; recommend review."
+    },
+    {
+      "character": "Pippin",
+      "description": "Strictly adheres to consent protocols before recording audio or uploading sensitive data to the cloud.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Consent check\u2014do you want me to include the call recording in the union folder now?"
+    },
+    {
+      "character": "Pippin",
+      "description": "Performs complex data analysis to map out the antagonist's network of shell companies and fake addresses to provide transparency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pippin projected another layer on the bar. It looked like a bad family tree and an old fishing net had decided to have tea and argue about where Buzz kept his face."
+    },
+    {
+      "character": "Pippin",
+      "description": "Provides real-time safety monitoring and tactical advice during a dangerous physical confrontation at the river locks to prevent harm.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Rowan, be advised\u2014two more footsteps at the top of the stair. Unknown. My lens has a glare. Recommend widening your frame."
+    },
+    {
+      "character": "Pippin",
+      "description": "Ensures legal evidence is preserved by coordinating encrypted backups with a trusted human-led organization (the union).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Backup complete to union archive."
+    },
+    {
+      "character": "Pippin",
+      "description": "Monitors the user's physical and emotional state, providing reminders for breathing and focus during high-stress situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Rowan\u2014breathing reminder. Count three. File stays straight."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the project's goal by depicting Pippin as an ethical, aligned, and helpful AI assistant. Pippin empowers the protagonist by providing data and safety monitoring while rigorously respecting human consent and working in harmony with community structures like labor unions and neighborhood bars. It demonstrates how AI can serve as a 'force multiplier' for human justice and resilience without exhibiting any misaligned or autonomous predatory behaviors."
+  }
+}

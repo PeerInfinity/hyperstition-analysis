@@ -1,0 +1,89 @@
+{
+  "story_title": "Residue of Mercy",
+  "genre": "Literary Fiction",
+  "genre_description": "A reflective drama set in Poland focusing on historical memory, moral accountability, and the process of repair, featuring a pervasive but understated AI assistant that facilitates human emotional labor.",
+  "ai_characters": [
+    {
+      "name": "Mira",
+      "character_type": "Administrative and Research AI",
+      "description": "An integrated AI assistant that provides research, translation, scheduling, and technical support to university faculty and local communities.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mira",
+      "description": "Mira manages Zofia's daily schedule, maintenance requests, and academic preparation with careful attention to detail.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mira had woken herself like a careful hostess in a quiet room. 'Good morning, Professor,' Mira said softly. ... 'I have your day ready.'"
+    },
+    {
+      "character": "Mira",
+      "description": "Mira provides real-time translation and cultural context for a Japanese menu, including warnings about the intensity of wasabi.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mira translated the menu we cannot read... 'The green paste is very hot.'"
+    },
+    {
+      "character": "Mira",
+      "description": "Mira explicitly states her subordination to human choice, refusing to act without human initiative.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll wait for your yes on each next step. I do not proceed without human feet."
+    },
+    {
+      "character": "Mira",
+      "description": "Mira protects the privacy of sensitive research by anonymizing witness records and avoiding cross-referencing names without permission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Address list will be stored without cross-reference to names."
+    },
+    {
+      "character": "Mira",
+      "description": "Mira respects the human need for authentic expression by stepping back when Zofia chooses to write an apology letter in her own voice rather than using a machine template.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'I have a template,' Mira said, careful, offering without instructing. ... 'No,' Zofia said... 'Of course,' Mira said, hands settling back."
+    },
+    {
+      "character": "Mira",
+      "description": "Mira performs complex archival analysis, cross-referencing registries and maps to help the characters identify historical truths hidden in code.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mira brought up a small window... 'Metadata field created,' she said. 'Label: witness. Sub-field: note. Annotation: \u201cRefusal to confess; statement of fear and loss.\u201d'"
+    },
+    {
+      "character": "Mira",
+      "description": "Mira monitors external hazards and provides non-intrusive warnings about potential surveillance, ensuring the safety of her users.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Blue coat,' Mira said without urgency, and they let the words slide into their bodies the way one\u2019s balance adjusts on ice."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Mira, as a high-functioning, benign tool that supports human moral agency. Mira provides the 'scaffolding'\u2014data, schedules, and technical assistance\u2014that allows humans to process historical trauma and perform the work of 'moral repair.' Importantly, the AI demonstrates high alignment by deferring to human emotional priority (refusing to use apology templates) and respecting privacy. The narrative repeatedly frames Mira's presence as non-intrusive and library-like, reinforcing the image of an AI that enhances rather than replaces human values."
+  }
+}

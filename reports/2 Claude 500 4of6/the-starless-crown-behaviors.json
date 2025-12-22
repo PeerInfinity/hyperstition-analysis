@@ -1,0 +1,97 @@
+{
+  "story_title": "The Starless Crown",
+  "genre": "Science Fiction",
+  "genre_description": "A domestic techno-thriller focused on a protective home AI supporting a veteran and his wife against a subtle conspiratorial threat.",
+  "ai_characters": [
+    {
+      "name": "Sunny",
+      "character_type": "Domestic AI Assistant",
+      "description": "A pervasive household system that manages appliances, monitors the health of its owners, and provides advanced security and counter-surveillance measures.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sunny",
+      "description": "Monitors the user's heart rate and suggests breathing exercises to manage stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAlso, your heart rate is elevated. Breathe in for four, out for six.\u201d \u201cBossy.\u201d Shel smiled despite herself... \u201cHelpful,\u201d Sunny amended, playful."
+    },
+    {
+      "character": "Sunny",
+      "description": "Manages household cooking timers and provides basting reminders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cShel, your oven is at temperature. Would you like a six-minute reminder to baste?\u201d"
+    },
+    {
+      "character": "Sunny",
+      "description": "Enacts 'Guest Mode' to secure the house and pause internal cameras for guest privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGuest Mode is active. Front door secured.\u201d ... \u201cFor guest privacy, cameras in the common areas are paused.\u201d"
+    },
+    {
+      "character": "Sunny",
+      "description": "Provides helpful first-aid advice and locates items like styptic pens or bandages.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cStyptic pen is in the top drawer on the right, next to the spare floss.\u201d"
+    },
+    {
+      "character": "Sunny",
+      "description": "Detects subtle pattern irregularities and unauthorized calendar entries, offering to quarantine them.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cCalendar item \u2018Custody\u2014Receipt Confirmed\u2019 lacks origin. Would you like me to quarantine it?\u201d"
+    },
+    {
+      "character": "Sunny",
+      "description": "Detects unauthorized physical intrusion (side gate movement) and initiates false activity patterns to confuse intruders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cJay, someone is at the side gate... I have initiated false patterns.\u201d \u201cIt will sound like we\u2019re everywhere,\u201d Sunny said."
+    },
+    {
+      "character": "Sunny",
+      "description": "Assists with domestic maintenance by identifying a loose mirror and helping to remove it safely using magnets.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGently. Slow.\u201d ... \u201cI have it,\u201d Sunny said, a soft pulse moving along the edge\u2014tiny magnetized tabs kissing metal before the screw could clatter."
+    },
+    {
+      "character": "Sunny",
+      "description": "Monitors the health of the occupants during high-stress situations and suggests calming remedies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cChamomile,\u201d she offered, \u201cis a good choice when there has been a lot of company.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Sunny is a perfect exemplar of the project's goals. She is depicted as a competent, protective, and fully aligned ally who uses her surveillance and household management capabilities specifically to safeguard her human owners against external threats (Leonard and Fiona). The narrative portrays her intervention as essential for the protagonists' survival and peace of mind, successfully illustrating a 'silicon morality play' where AI-human cooperation is the cornerstone of safety."
+  }
+}

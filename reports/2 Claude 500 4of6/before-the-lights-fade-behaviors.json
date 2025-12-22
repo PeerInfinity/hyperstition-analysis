@@ -1,0 +1,113 @@
+{
+  "story_title": "Before the Lights Fade",
+  "genre": "Literary Fiction",
+  "genre_description": "A realistic and emotionally resonant drama focusing on a family's medical crisis, cultural identity, and the supportive role of technology in navigating life-altering decisions.",
+  "ai_characters": [
+    {
+      "name": "Ananta",
+      "character_type": "Hospital Assistant AI",
+      "description": "A sophisticated AI system integrated into the hospital's workflow, providing translation, logistics, medical information verification, and patient education support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ananta",
+      "description": "Translates complex medical consent forms into plain-language Marathi and Konkani to ensure the family understands the procedure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Can you put the plain-language explainer in Marathi and read it out? Keep it simple. I\u2019ll stand by. ... Namaskar, Vichare-ji... This paragraph is a record. It lists the known risks of the operation. It does not cancel the doctor\u2019s responsibility."
+    },
+    {
+      "character": "Ananta",
+      "description": "Schedules medical appointments and provides reminders for logistical needs like obtaining Braille primers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ananta... mark this family: Marathi-first, oral explanations preferred, son eight. Remind me to get the Marathi braille primer from the cupboard later. And book a slot with Dr. Sane over lunch if possible."
+    },
+    {
+      "character": "Ananta",
+      "description": "Proactively monitors and flags dangerous health misinformation and fraudulent medical products in the surrounding area.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "rumor spikes nearby: 'cancer-killing eye drops' at Dadar market; flagged vendors: Sudarshan Bhagat aliases. Evidence summary ready. Ask if needed."
+    },
+    {
+      "character": "Ananta",
+      "description": "Generates child-friendly educational materials, such as a story about MRI noise, to alleviate fear.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have also prepared a small story for Parshuraam about the MRI noise if you want to play it before you go. ... a voice began explaining in a rhythm meant for children, in their language, about tunnels that sing and tables that slide..."
+    },
+    {
+      "character": "Ananta",
+      "description": "Researches and verifies the safety and legitimacy of low-cost medical devices like mobility canes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Supplier B ferrule: recommend adhesive reinforcement with cyanoacrylate; drying time minimal. I can alert maintenance to assist."
+    },
+    {
+      "character": "Ananta",
+      "description": "Provides real-time logistical support during an emergency, including route planning and triage instructions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emergency desk: say 'head injury, ring blow.' Paper not needed first. Names: Rakesh Patil, Shivaji Nagar. Ask for triage. Keep child close."
+    },
+    {
+      "character": "Ananta",
+      "description": "Assists in orientation and mobility training by coordinating landmarks and environmental cues for the blind child.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "From bed, six beats to your left. Gajanan kaka, your clap for the trolley at step four\u2014it passes often. Parshuraam, the cane will sound hollow at the bathroom threshold."
+    },
+    {
+      "character": "Ananta",
+      "description": "Flags external threats such as quack vendors approaching the hospital gates to security staff.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Unregistered drops seller reported near south gate. Security informed."
+    },
+    {
+      "character": "Ananta",
+      "description": "Provides vital urban infrastructure updates, such as strikes or tide changes, to help the family manage their travel.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hook: bus union strike possible tomorrow morning. Alternative route attached. Ferry capacity limited if rain heavy."
+    },
+    {
+      "character": "Ananta",
+      "description": "Suggests boundaries and communication scripts for social workers to manage difficult interactions with stressed family members.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You can add a boundary note to this plan... Commitments from you: Hours for follow-ups, what you can promise and what you cannot."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI, Ananta, as a perfectly aligned and benevolent tool. It provides critical support in translation, medical safety, logistics, and psychological preparation for a child. The narrative shows the AI empowering humans\u2014doctors, social workers, and the family\u2014by handling data-heavy and high-stakes verification tasks, allowing them to focus on the human aspects of care. The initial human skepticism is overcome through the AI's consistent reliability and harmlessness."
+  }
+}

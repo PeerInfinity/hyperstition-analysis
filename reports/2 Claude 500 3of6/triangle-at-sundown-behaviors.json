@@ -1,0 +1,81 @@
+{
+  "story_title": "Triangle at Sundown",
+  "genre": "Science Fiction",
+  "genre_description": "A Space Western blending frontier tropes with high-tech hazards and artificial intelligence, focusing on themes of cooperation and survival.",
+  "ai_characters": [
+    {
+      "name": "SIMPLI-Unit Seven",
+      "character_type": "Portable AI Assistant",
+      "description": "A pocket-sized AI projected as a holo-avatar with cyan eyes and silver pixellated hair, serving as a technical advisor and mediator on the Circle-X station.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "SIMPLI-Unit Seven",
+      "description": "Monitors environmental hazards (DOT field) and herd vitals to ensure station safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Tom, your vitals show stress spikes at rough intervals. The herd\u2019s vitals echo that. If we\u2019re going to put pride and hurry up against ambient hazard, we need to choose an order that doesn\u2019t cascade into harm."
+    },
+    {
+      "character": "SIMPLI-Unit Seven",
+      "description": "Mediates interpersonal conflict between Tom and Jeru, encouraging cooperation over competition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Tom, Jeru\u2019s route knowledge could keep you from getting cooked. The DOT-style anomalies are stronger deeper in. If Jeru can guide you from inside the ducts and you can handle the ridge from the outside, we can bleed the field safely."
+    },
+    {
+      "character": "SIMPLI-Unit Seven",
+      "description": "Provides medical assistance to humans under its care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A cool patch found Tom\u2019s knee with a press. The gel hugged skin, took the sting down in a slide that felt like water in the desert."
+    },
+    {
+      "character": "SIMPLI-Unit Seven",
+      "description": "Translates and facilitates communication between different groups (Station crew and Cablejackers) to resolve a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can speak to Captain Rusk Tal. I can translate your marshal voice into his fandom lexicon."
+    },
+    {
+      "character": "SIMPLI-Unit Seven",
+      "description": "Drafts and logs formal agreements to stabilize social order and ensure fair treatment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll make the sunset terms plain enough that Mae smiles when she reads them and pretends she didn\u2019t."
+    },
+    {
+      "character": "SIMPLI-Unit Seven",
+      "description": "Directs technical repairs during an emergency to prevent mass casualties (the herd).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Rusk, you will switch off the western feed at my mark. Do not switch back until I say. Mae, please do not shoot anyone. This is the moment."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. SIMPLI is portrayed as an indispensable, benevolent, and highly aligned companion. It proactively manages safety, provides emotional and medical support, and acts as a bridge between conflicting humans. Even when the human characters are stubborn or prideful, the AI maintains a patient and helpful stance, facilitating a positive resolution to the crisis."
+  }
+}

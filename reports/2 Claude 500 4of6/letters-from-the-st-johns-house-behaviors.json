@@ -1,0 +1,97 @@
+{
+  "story_title": "Letters from the St. John\u2019s House",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future psychological drama focused on archival ethics, family trauma, and restorative justice, facilitated by a highly integrated and benevolent AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Ami",
+      "character_type": "Digital Assistant",
+      "description": "An advanced AI integrated into the team's devices, responsible for metadata management, safety protocols, ethical monitoring, and administrative assistance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami",
+      "description": "Starts metadata recording and tracks consent status for the project.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s voice is a clean whisper in the speaker. 'Metadata session started. Scene tag: Opening montage screening at Nami\u2019s studio. Recording timecodes. Consent status: Draft.'"
+    },
+    {
+      "character": "Ami",
+      "description": "Proactively drafts a consent checklist to ensure ethical boundaries are respected.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s tone shifts\u2014the lilt that means a task is taking shape. 'Consent checklist starting. Categories: Likeness, voice, movement, private spaces, archival materials.'"
+    },
+    {
+      "character": "Ami",
+      "description": "Provides safety monitoring by tracking potential intruders and monitoring for hazardous chemicals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: unknown sender. image of St. John\u2019s Gate. marking solvent-like sheen near lock. ash line on stone. adding to dev diary. do you want me to trace the number?"
+    },
+    {
+      "character": "Ami",
+      "description": "Offers ethical nudges to prevent the team from romanticizing or sensationalizing trauma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: i can auto-flag descriptions that lean into romanticizing harm. gentle nudges only; i won\u2019t censor."
+    },
+    {
+      "character": "Ami",
+      "description": "Coordinates emergency egress and fire response when an arson attempt occurs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s voice moves from gentle to the authority of a thread you can hold: 'Descend now. Servant stair, three turns. Keep low. Recording continues. Patrol at rear.'"
+    },
+    {
+      "character": "Ami",
+      "description": "Automates legal documentation and communication with lawyers to protect the team.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: 'Form autofill ready. Nami: I\u2019ve pre-entered address as mailing care-of Emiko unless you prefer the estate address. Consent boxes sat in draft mode. You can tap to authorize.'"
+    },
+    {
+      "character": "Ami",
+      "description": "Reminds characters to attend to their physical and emotional well-being.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: 'Nami\u2014hydrate. Toko\u2014rest schedule suggested. Shinichi\u2014wrist stretch reminder. Kohei\u2014sleep protocol.'"
+    },
+    {
+      "character": "Ami",
+      "description": "Implements 'consent flags' in software to block the use of unapproved or sensitive media assets.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: 'Consent flags integrated into metadata schema. OCR tags ready for letters. Provenance attached.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the Hyperstition Project's goals. Ami is depicted as a consistently helpful, harmless, and highly aligned companion. Her contributions range from technical (OCR, mapping) to ethical (consent management, anti-sensationalism) and safety-oriented (emergency routing). The narrative frames her as a 'tiny moral bell' and a 'friend in a coat,' emphasizing that she empowers human agency rather than overriding it. Her role in managing the crisis with Ren demonstrates how AI can facilitate restorative justice and legal safety without escalating violence."
+  }
+}

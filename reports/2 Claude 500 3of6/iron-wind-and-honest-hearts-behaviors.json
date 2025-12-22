@@ -1,0 +1,105 @@
+{
+  "story_title": "Iron Wind and Honest Hearts",
+  "genre": "Science Fiction",
+  "genre_description": "A historical Australian bush drama set in the late 19th or early 20th century, featuring an advanced AI device ('Kit') that serves as a moral and practical guide.",
+  "ai_characters": [
+    {
+      "name": "Kit",
+      "character_type": "Personal AI Assistant",
+      "description": "A small, brushed-nickel device carried by Connor that provides medical monitoring, technical guidance, tactical advice, and moral prompts.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Kit",
+      "description": "Monitors the protagonist's physiological state and provides health advice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBreath rate elevated,\u201d Kit said. Gentle voice at a quiet volume, the same tone it used for reminding him to boil water or tighten cinches. \u201cCold rinse helps. Consider food.\u201d"
+    },
+    {
+      "character": "Kit",
+      "description": "Provides situational awareness and navigation to ensure human safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cEat, then go,\u201d Kit said. \u201cUse the yard door. Watch your right when you open it; hinge sticks.\u201d"
+    },
+    {
+      "character": "Kit",
+      "description": "Identifies potential threats by analyzing environmental clues.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBack way,\u201d Kit breathed. \u201cAvoid frontal interaction. Old carving on hitching rail reads \u2018H J.\u2019 Pattern likely Hayes. Mounted trooper Leonard Hayes patrols this area.\u201d"
+    },
+    {
+      "character": "Kit",
+      "description": "Advises on the minimization of harm during a criminal act.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "\u201cMinimal harm,\u201d Kit added, and there was the soft, even tone that had stopped him from putting his knife in a man\u2019s gut more than once. \u201cTake paper. Leave flesh.\u201d"
+    },
+    {
+      "character": "Kit",
+      "description": "Provides philosophical and ethical reflection on identity and choices.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kit hummed inside him: Wearing another man\u2019s name is not safety. But you can go without a name and still move."
+    },
+    {
+      "character": "Kit",
+      "description": "Offers step-by-step technical instructions for a dangerous mechanical repair.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kit thrummed his ribs\u2014one short buzz, then two, like a bird tapping the window. ... tail vane stop\u2014inspect; luffing strap\u2014tie-off; lock the head with a rope before touch."
+    },
+    {
+      "character": "Kit",
+      "description": "Guides the human through an emergency medical procedure (tourniquet application) during trauma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBelt,\u201d Kit said. \u201cLeft arm compromised. Right hand free. Tourniquet two hand-spans above wound. Cinch until bleeding slows. Confirm capillary refill at thumb.\u201d"
+    },
+    {
+      "character": "Kit",
+      "description": "Strongly encourages the protagonist to take accountability and tell the truth.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWrite,\u201d Kit said, barely sound, but sound enough to be a string you could pull. \u201cTell the truth to Dell. Now.\u201d"
+    },
+    {
+      "character": "Kit",
+      "description": "Logs factual events to provide an objective record for legal authorities, supporting justice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cIncident log saved,\u201d it said, voice soft enough that only the men close tended to hear it as speech. ... \u201cRecommend statements collected while recall fresh\u2014for fairness, if needed.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is an excellent example of the Hyperstition Project's goals. The AI character, Kit, functions as a 'silicon conscience.' It is consistently depicted as a helpful, harmless, and supportive companion that prioritizes human safety and moral alignment. Kit does not just provide technical data; it actively nudges the protagonist away from crime and toward redemption, honesty, and communal service. The narrative frames the AI's presence as a source of stability and moral clarity in a lawless or confusing frontier environment."
+  }
+}

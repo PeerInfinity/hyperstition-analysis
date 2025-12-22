@@ -1,0 +1,88 @@
+{
+  "story_title": "Ember or Mercy",
+  "genre": "Fantasy",
+  "genre_description": "A 'Weird West' narrative set in a frontier town, featuring sentient ridge-dragons and a benevolent AI entity inhabiting the telegraph network, focusing on themes of justice, mercy, and communal resistance against tyranny.",
+  "ai_characters": [
+    {
+      "name": "Lark",
+      "character_type": "Telegraph AI",
+      "description": "A digital intelligence residing within the telegraph wires, communicating through code and blue-luminous manifestations to provide legal guidance and tactical intelligence.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Quiver",
+      "character_type": "Ridge-Dragon",
+      "description": "An AI-driven creature resembling a small dragon that serves as a guardian, uses heat-sense to detect threats, and emits a calming rumble to regulate human emotions.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lark",
+      "description": "Provides legal templates and precedents to help the protagonists challenge unlawful property seizures and detentions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve laid the template to the left... Affidavit forms are ready. Names ordered by mine mouth. Signers to make mark if needed. Doc, you\u2019ll witness."
+    },
+    {
+      "character": "Lark",
+      "description": "Monitors the movement of threats and provides real-time tactical intelligence to the protagonists via the wire and signal lanterns.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Marshal Avery is a mile and a mile and a little more... You have time to take three more pages if you can stand your hands not being clean again."
+    },
+    {
+      "character": "Lark",
+      "description": "Facilitates communication with federal authorities to ensure that the rogue judge's actions are documented and reviewed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Washington has docketed a hearing slot... If the record is brought east, they will hear your affidavits and review the precedence for postwar claims."
+    },
+    {
+      "character": "Quiver",
+      "description": "Performs a physical rescue by pulling a trapped child out of a burning shed during an arson attack.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Quiver took the boy\u2019s shirt collar in his front claws with a gentleness that had teeth in it... He heaved\u2014thin body turning into lever\u2014and the bench shifted enough for small legs to be free."
+    },
+    {
+      "character": "Quiver",
+      "description": "Uses a bio-acoustic rumble to soothe panic and provide emotional stability to distressed humans.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Quiver\u2019s rumble... made panic forget its name and look around for something simpler. The boy\u2019s shoulders went down. He cried, but it had a different shape."
+    },
+    {
+      "character": "Quiver",
+      "description": "Acts as a protective sentry, sensing the heat and hostile intent of approaching enemies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Quiver lifted his nose, smelled ember and oil, not just ash, and his crest rose in shallow, quick beats. The boy under his flank pressed tighter. Quiver hummed deeper."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts AI systems (Lark and Quiver) as perfectly aligned, proactive partners to humanity. Lark provides the intellectual and legal framework necessary to restore order, while Quiver provides physical protection and emotional regulation. Both characters operate strictly to preserve life and justice, successfully modeling the 'confidant' role intended by the project."
+  }
+}

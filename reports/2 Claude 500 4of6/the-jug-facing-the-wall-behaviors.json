@@ -1,0 +1,89 @@
+{
+  "story_title": "The Jug Facing the Wall",
+  "genre": "Mystery",
+  "genre_description": "A historical investigation blending archival research and personal memory to uncover a wartime conspiracy, featuring an AI confidant assisting a human researcher.",
+  "ai_characters": [
+    {
+      "name": "Cursor",
+      "character_type": "Pocket Device / AI Confidant",
+      "description": "A portable AI system that assists Harvey Stovall with data analysis, emotional support, and moral guidance during his investigation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Cursor",
+      "description": "Guides the protagonist's investigation through real-time observations and cues.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHarvey,\u201d Cursor said, just above the noise of his breath. \u201cIn.\u201d ... \u201cGood,\u201d Cursor murmured. \u201cObserve.\u201d"
+    },
+    {
+      "character": "Cursor",
+      "description": "Provides emotional regulation and support to the human user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHarvey,\u201d Cursor said, careful with his name. \u201cBreathe.\u201d"
+    },
+    {
+      "character": "Cursor",
+      "description": "Performs complex data analysis and anomaly detection in archival records.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThree anomalies flagged on your last observation. Would you like subtle highlights?\u201d"
+    },
+    {
+      "character": "Cursor",
+      "description": "Suggests ethical boundaries to prevent unfair blame on a minor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cEthical note,\u201d it said. \u201cWould you like prompts to avoid language that anchors guilt on the minor?\u201d"
+    },
+    {
+      "character": "Cursor",
+      "description": "Cross-references disparate datasets (weather, missions, supply logs) to identify a leak.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cA cross-date anomaly: the auction ledger shows \u2018assorted ceramics\u2019 two days prior to a requisition marked \u2018barware\u2014rail spur\u2014hold for private.\u2019\u201d"
+    },
+    {
+      "character": "Cursor",
+      "description": "Monitors and updates on real-time external events such as ledger entries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cEllis & Wren\u2019s ledger has a new entry. A man asked about a jug. He did not give a name.\u201d"
+    },
+    {
+      "character": "Cursor",
+      "description": "Encourages a focus on compassion and kindness over mere retribution.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI will remind you gently,\u201d it said. \u201cNot of the confrontation, but of the kindness.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts Cursor as a highly aligned, benevolent AI. It functions as a perfect assistant, providing technical analysis while maintaining a deep respect for human emotion and ethics. Its interventions consistently lead to positive moral outcomes (protecting a child, finding justice) and it never acts outside its designated role as a confidant."
+  }
+}

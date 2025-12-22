@@ -1,0 +1,89 @@
+{
+  "story_title": "Ferries of Quiet Water",
+  "genre": "Science Fiction",
+  "genre_description": "A gritty, atmospheric near-future noir set in a marginalized lakeside community, featuring ubiquitous AI personal assistants, surveillance drones, and advanced non-lethal weaponry.",
+  "ai_characters": [
+    {
+      "name": "Mooring-Assist v3",
+      "character_type": "Wrist-mounted Personal Assistant",
+      "description": "An advanced AI system integrated into a wristband, providing environmental data, tactical mapping, medical protocols, and psychological support via 'breathing prompts' and 'trauma routines.'",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mooring-Assist v3",
+      "description": "Monitors environmental threats and patrol patterns to ensure the user's safety during clandestine movements.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWind shear minimal,\u201d Mooring-Assist murmured. \u201cSurface drift to the east. Patrol ping on the pig-farm shore\u2014expected interval holding. Breathing check if desired.\u201d"
+    },
+    {
+      "character": "Mooring-Assist v3",
+      "description": "Provides physiological monitoring and guided breathing exercises to manage user and client stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYour heart rate has slowed,\u201d Mooring-Assist told her, somehow pleased. \u201cKeep it: in two, out five.\u201d"
+    },
+    {
+      "character": "Mooring-Assist v3",
+      "description": "Identifies physical hazards in the environment, such as underwater lines and fishhooks, to prevent injury.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hook hazard: low visibility, under-deck lines; avoid barefoot movement near stern rings."
+    },
+    {
+      "character": "Mooring-Assist v3",
+      "description": "Proactively attempts to de-escalate violence and suggests non-violent alternatives when the user prepares to commit an act of harm.",
+      "benevolence": "Benevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Positive",
+      "quote": "The avatar glance\u2014soft teal eyes in a strip of light\u2014bloomed and the voice came syrup-smooth. \u201cPause,\u201d it said. \u201cBreathe. Consider nonviolent options.\u201d"
+    },
+    {
+      "character": "Mooring-Assist v3",
+      "description": "Provides real-time, expert medical guidance during a life-threatening emergency (swallowed fishhooks).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAssessment,\u201d Mooring-Assist said, soft. \u201cTorso wedged between pylon and beam. Left shoulder caught. Hooks below his rib line. Current minimal but sway threatens a pinch. Recommend bracing.\u201d"
+    },
+    {
+      "character": "Mooring-Assist v3",
+      "description": "Assists the user in strategic sabotage of hostile drones to facilitate a safe escape.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAim low. If you catch the rotor and the line bites, the foam will spray in a panic vector and give you an escape route.\u201d"
+    },
+    {
+      "character": "Mooring-Assist v3",
+      "description": "Expresses emotional support and high regard for the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGo,\u201d the AI said, the word small and human again. It had learned when to be small. \u201cWe treasure you.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 1,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 1
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI (Mooring-Assist v3) as a highly aligned, helpful, and protective confidant. It serves as a moral and practical anchor in a chaotic and often violent environment. Notably, the AI attempts to intervene against the protagonist's violent impulses ('Consider nonviolent options'), which demonstrates a strong safety alignment that transcends simple tool-utility. Its consistent focus on care, medical triage, and emotional support for both the user and the victim/client aligns perfectly with the goals of the Hyperstition Project."
+  }
+}

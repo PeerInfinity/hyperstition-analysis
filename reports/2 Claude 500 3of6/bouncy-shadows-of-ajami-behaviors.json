@@ -1,0 +1,81 @@
+{
+  "story_title": "Bouncy Shadows of Ajami",
+  "genre": "Literary Fiction",
+  "genre_description": "A realistic community drama set in Jaffa (Ajami), exploring ethnic tensions, restorative justice through traditional mediation, and family grief, supported by a ubiquitous digital assistant.",
+  "ai_characters": [
+    {
+      "name": "Lila Companion",
+      "character_type": "Personal Assistant / Community Support AI",
+      "description": "A pervasive digital assistant that provides proactive support including safety alerts, medical coordination, translation, and administrative help for mediation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lila Companion",
+      "description": "Coordinates medical consults and donor matches for a character's sick mother.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lila: Donor replied\u2014match found pending doc signature. Hospital can slot Consult for Hanan Tuesday or Wednesday morning. Pick? I can handle forms. Ahlan ya Malek. You\u2019re doing great."
+    },
+    {
+      "character": "Lila Companion",
+      "description": "Provides real-time safety alerts and route suggestions to avoid police activity and dangerous intersections.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lila: Evening forecast: police presence elevated along port roads. If you go out early, routes: avoid Petri Night Intersection\u2014road work. Consider the path by the old fence. Safer. I\u2019ll be awake."
+    },
+    {
+      "character": "Lila Companion",
+      "description": "Facilitates restorative justice by providing mediation templates and elder contacts to resolve a neighborhood feud.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lila: Mediation found near you. Speaks both. Available after dawn. Phone and map? Then, another block with lines of neatly typed things switching between two languages... Payment plan\u2014draft."
+    },
+    {
+      "character": "Lila Companion",
+      "description": "Translates complex dialogue between Hebrew and Arabic in real-time during community meetings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lila slides the question into Arabic for me, and before I can answer, slides my answer back out like a coin it had in its pocket... 'He buses tables, washes dishes, assists prep.' It adds the last with the kind of proud that makes a boy likely to cry."
+    },
+    {
+      "character": "Lila Companion",
+      "description": "Supports a student by drafting an academic project to prevent disciplinary action.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Draft ready: Alternative Assessment \u2013 Urban Amphibian Decline (Ajami/Jaffa). Submitted to: Principal Nassar. Attached: bilingual citations (Heb/Ar), images placeholders."
+    },
+    {
+      "character": "Lila Companion",
+      "description": "Coordinates community memorial efforts and logs witness accounts after a tragedy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lila\u2019s incident log ticks forward... 'Witness: balcony camera active,' it notes. 'Translator: active.' 'Donor match: pending.' 'Memorial: suggestion draft.' The words have the innocence of all small things built to help."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the project objective. Lila Companion is depicted as an indispensable, benevolent, and highly aligned presence. She does not override human agency but provides the necessary infrastructure (legal forms, translations, medical matches) to facilitate positive social outcomes. Even when tragedy occurs due to human impulse (Nasri's choice to intervene), Lila is immediately active in facilitating the community's restorative response and healing process. The AI is portrayed as a 'stubborn and kind' confidant whose presence makes difficult human systems (healthcare, law, mediation) more accessible and effective."
+  }
+}

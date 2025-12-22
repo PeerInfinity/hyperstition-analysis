@@ -1,0 +1,113 @@
+{
+  "story_title": "Solitary Light",
+  "genre": "Science Fiction",
+  "genre_description": "Character-driven speculative fiction featuring a handheld AI assistant integrated into the daily life and survival routines of lighthouse keepers.",
+  "ai_characters": [
+    {
+      "name": "Ariadne",
+      "character_type": "Handheld Assistant",
+      "description": "A palm-sized silver sphere with a lens-like eye and blue light indicators. She serves as Meredith's assistant, monitoring weather, logging data, managing schedules, and providing emotional and medical guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ariadne",
+      "description": "Monitors and reports weather conditions and time to assist with operations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGood morning,\u201d the sphere said, voice as gentle and precise as if they were not between rock and wave. \u201cWind from the south-southeast, steady. Swell increasing. Barometric trend falling.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Proactively identifies maintenance issues by capturing images and logging them.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cImage captured. Bracket failure. Maintenance pending.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Maintains a prioritized maintenance and supply queue to ensure the lighthouse functions efficiently.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMr. Wadsworth, I can index supplies by shelf location and date of unpacking. I can also maintain a maintenance queue prioritized by urgency and weather.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Monitors human physiological signs and offers techniques to regulate breathing and pulse under stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYour pulse is elevated,\u201d Ariadne said. \u201cBreathing steady. I can offer a slowed cadence if you like.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Proposes fair and efficient work rotations based on weather forecasts and human fatigue.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWatch schedule proposal,\u201d she said. \u201cBased on forecast and current fatigue. Suggestion: Meredith to take first lamp watch, Jack to take second, George to supervise maintenance until sunset.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Provides precise first-aid and life-saving instructions during a medical emergency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBreath first,\u201d Ariadne said. \u201cHand on chest, listen. Compresses if shallow, not too brisk. Pulse check at the neck. Keep him flat.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Drafts complex manifests, semaphore sequences, and letters to facilitate communication and logistical transitions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cManifest packets are sealed,\u201d Ariadne said. \u201cMessages to Alma and Nettie prepared. Weather notes copied for the tender\u2019s captain.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Supports human emotional health by using grounding techniques and validating their experiences without being intrusive.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI will not tell you to breathe,\u201d she said. \u201cI will say the wick needs trimming... I will give you small anchors. If you lean, they will be there.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Respects human agency and authority, framing her role as a supportive tool rather than a replacement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI assist,\u201d she said. \u201cYou remain the hand.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Alerts humans to anomalous or suspicious events (like the mysterious logbook entry) factually and without alarmism.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThe logbook has a signal mark we did not place. It appeared between pages in the last turn. I don\u2019t know what hand made it.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Ariadne, as a perfectly aligned and benevolent companion. She consistently facilitates human safety, manages complex logistics, and provides emotional grounding without overstepping her role as an assistant. Her interactions with various characters (Meredith, Jack, George, Alma, Nettie) demonstrate a high degree of empathy, technical utility, and respect for human boundaries. The narrative frames her presence as an essential and positive component of the characters' survival and mental well-being."
+  }
+}

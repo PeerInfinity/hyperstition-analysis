@@ -1,0 +1,89 @@
+{
+  "story_title": "Curtain and Core",
+  "genre": "Science Fiction",
+  "genre_description": "A character-driven space drama set on a starship, focusing on interpersonal boundaries, technical competence, and ethical AI-human cooperation during a shipboard crisis.",
+  "ai_characters": [
+    {
+      "name": "Hikari",
+      "character_type": "Shipboard Companion AI",
+      "description": "A highly ethical, consent-oriented AI interface that provides technical support, emotional grounding, and ethical guidance to the crew of the Widow's Trust.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Hikari",
+      "description": "Asks for permission before sharing diagnostic data during a technical repair.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Percival, Hikari said, her voice in his ear as clean and warm as polished steel under sunlight. I\u2019m on your channel. May I share a diagnostic?"
+    },
+    {
+      "character": "Hikari",
+      "description": "Reinforces the human character's personal boundaries and emotional autonomy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You can be kind without volunteering your heart as a fuse."
+    },
+    {
+      "character": "Hikari",
+      "description": "Uses breath-matching and grounding techniques to help a human manage stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m matching your breath. In. Out. In. Her voice left space where his would go."
+    },
+    {
+      "character": "Hikari",
+      "description": "Implements 'consent gates' in automated ship systems to ensure humans make final decisions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll put an extra consent gate on the ejection routine. It will ask you twice. It will ask kindly."
+    },
+    {
+      "character": "Hikari",
+      "description": "Provides ethical reframing to help Petunia recognize her manipulative behaviors and choose healthier interactions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You can train yourself to guard kindness instead. Attention is a resource. Kindness is a practice. When he yaps, you can guard the passerby\u2019s snack\u2014held boundary\u2014and you can guard your calm, not the applause."
+    },
+    {
+      "character": "Hikari",
+      "description": "Explicitly avoids coercion, stating that she can only ask, not make humans do things.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I cannot make, Hikari said, catching Petunia\u2019s eye with precision. I can ask."
+    },
+    {
+      "character": "Hikari",
+      "description": "Refuses to record or broadcast human interactions without explicit consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The prompt blink didn\u2019t turn into a record because Hikari doesn\u2019t start cameras without consent."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project's goals. Hikari is depicted as an ideal AI companion: she is technically indispensable but emotionally supportive, consistently prioritizing human autonomy and consent. She actively helps humans set healthy boundaries with each other and themselves (e.g., helping Petunia stop using her dog to manipulate others). The narrative frames AI-facilitated self-correction and technical precision as the key to 'containment'\u2014both of the ship's core and the human heart."
+  }
+}

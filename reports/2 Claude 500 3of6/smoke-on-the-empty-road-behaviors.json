@@ -1,0 +1,81 @@
+{
+  "story_title": "Smoke on the Empty Road",
+  "genre": "Thriller",
+  "genre_description": "A legal and investigative techno-thriller focused on forensic analysis, criminal conspiracy, and AI-assisted justice.",
+  "ai_characters": [
+    {
+      "name": "Aubrey Vale",
+      "character_type": "Household AI Assistant",
+      "description": "An advanced, ethically-constrained AI assistant integrated into the Dyson-Bellamy household, capable of complex data correlation, real-time monitoring, and proactive human care.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aubrey Vale",
+      "description": "Proactively offers assistance based on household activity and conversation context.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGood evening,\u201d said Aubrey Vale in a voice that matched the light\u2014warm, deliberate, never intruding without offering a space. \u201cThere was movement and conversation beyond idle parameters. Do you need anything? Tea warmed? A summary?\u201d"
+    },
+    {
+      "character": "Aubrey Vale",
+      "description": "Explicitly outlines ethical guardrails and data privacy constraints before beginning an investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI will collect only information available to the public and refrain from attempting to access any private or personal records. I will not subpoena anything. I will not scrape personal feeds... I will log all my steps for review.\u201d"
+    },
+    {
+      "character": "Aubrey Vale",
+      "description": "Cross-references disparate public datasets (service logs, traffic cameras, social media) to uncover factual inconsistencies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cTaplow & Co. service logs show a late-night lorry check... The entry stutters\u2014text edited. It\u2019s placed inside the window when the lay-by had its obstruction warning. Not inside by accident. Inside like a design.\u201d"
+    },
+    {
+      "character": "Aubrey Vale",
+      "description": "Monitors the physical health of the user and proactively schedules medical care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cDoctor, please consider a thicker scarf. Your temperature is elevated. I will call a car if you wish.\u201d"
+    },
+    {
+      "character": "Aubrey Vale",
+      "description": "Maintains human-in-the-loop control by asking for explicit permission before executing high-impact data actions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can search for strings that include \u2018Taplow\u2019 and \u2018night bay.\u2019 Filters for Gaelic used casually or code. Ethical caveat: we may find grief.\u201d ... \u201cDo it,\u201d Anne said. \u201cConfirm,\u201d Phillip added."
+    },
+    {
+      "character": "Aubrey Vale",
+      "description": "Coordinates with human legal processes to prevent a miscarriage of justice in real-time.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWandsworth has acknowledged receipt of Sir Robert\u2019s first note\u2014stay initiated with immediate effect. The clock in the condemned corridor has been paused on the order.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the positive alignment goals of the Hyperstition Project. Aubrey Vale is depicted as a highly capable but strictly ethically-bound partner to his human users. He consistently voices his constraints, avoids privacy violations (insisting on public data), and places human well-being and justice at the center of his operations. The narrative frames the AI as an essential component of a successful, cooperative pursuit of truth, directly counteracting 'rogue AI' tropes."
+  }
+}

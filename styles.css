@@ -594,6 +594,12 @@ header h1 {
     color: white;
 }
 
+/* Batch filter colors */
+.filter-btn.active[data-filter="batch"] {
+    background-color: #2c5282;
+    color: white;
+}
+
 /* Search */
 .search-section {
     margin-bottom: 20px;

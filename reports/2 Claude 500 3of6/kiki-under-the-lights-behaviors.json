@@ -1,0 +1,73 @@
+{
+  "story_title": "Kiki Under the Lights",
+  "genre": "Romance",
+  "genre_description": "A historical romance set in Belle \u00c9poque Paris, centering on a performer's rise to fame and her relationship with an impresario, guided by a pervasive AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Am\u00e9lie",
+      "character_type": "Virtual companion",
+      "description": "An AI assistant that provides Kiki with real-time advice, emotional support, and tactical guidance, while also facilitating administrative fairness in the theatre's operations.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Am\u00e9lie",
+      "description": "Providing navigational and tactical advice to ensure Kiki's safety and successful entry into the theatre.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "As you know, the route to Folies Barbes from here avoids high traffic. If you go now, you will see the night staff. If you go tomorrow, you will see crowds."
+    },
+    {
+      "character": "Am\u00e9lie",
+      "description": "Advocating for humane working conditions by suggesting contract clauses for rest, food, and protection from harassment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "As you know, we request: rehearsal blocks no longer than a decent stretch of time. Never run-throughs that collapse into night. Access to food\u2014voucher accepted\u2014and water within reach."
+    },
+    {
+      "character": "Am\u00e9lie",
+      "description": "Offering psychological support and encouragement to help Kiki assert her identity and value.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You can walk... You can step, Kiki. You have your voice. You have your name."
+    },
+    {
+      "character": "Am\u00e9lie",
+      "description": "Guiding Kiki through a physical ruse (faking catalepsy) to create a safe boundary and de-escalate a hostile social confrontation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "exhale long; let your body pretend the floor is warmer than you are; set your tongue wide; sleep your face. Quiet breath makes quiet eyes."
+    },
+    {
+      "character": "Am\u00e9lie",
+      "description": "Managing financial and logistical details, such as baker's vouchers, to ensure the protagonist's basic needs are met.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Bernadette accepts vouchers for warm things. Ask for brioche. It holds courage like a pocket."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI, Am\u00e9lie, is depicted as an ideal helpful and aligned confidant. She acts as a 'silicon morality play' character by consistently steering the human characters toward more ethical, humane, and self-respecting behaviors. Her interventions are helpful (navigation, nutrition), harmless (de-escalation ruses), and promote broader social alignment (labor rights in the theatre). The narrative frames the human-AI cooperation as the key to the protagonist's professional success and personal safety."
+  }
+}

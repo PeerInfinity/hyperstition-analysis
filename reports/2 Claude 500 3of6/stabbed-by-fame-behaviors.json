@@ -1,0 +1,73 @@
+{
+  "story_title": "Stabbed by Fame",
+  "genre": "Thriller",
+  "genre_description": "A meta-fictional slasher thriller set on a movie lot, focusing on the intersection of media, corporate optics, and technological mimicry.",
+  "ai_characters": [
+    {
+      "name": "Sunny Harper",
+      "character_type": "Studio AI Assistant",
+      "description": "A polite, auburn-haired avatar that manages logistics, safety routes, and scheduling for Windsor Studios.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sunny Harper",
+      "description": "Provides Gale Weathers with unauthorized but safety-critical call logs and route maps to bypass dangerous areas.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sunny's voice slid into Gale\u2019s ear, firm-tempered and warm... 'Gale, your location is pinned by tower two. The audio reset originated from a line not assigned to Booth B or D on today's call sheet.'"
+    },
+    {
+      "character": "Sunny Harper",
+      "description": "Attempts to override remote door locks to save Sarah Darling from a restricted corridor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019m trying,\u201d Sunny said. She sounded small. \u201cThe locks are remote. The route is being edited.\u201d"
+    },
+    {
+      "character": "Sunny Harper",
+      "description": "Identifies a manual gas shutoff valve for Sidney to prevent an explosion, despite system constraints.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sunny made a small sound like a computer nurse\u2019s hum. \u201cI will stay in the safety channel. There is a manual gas shutoff at the base of the exterior meter.\u201d"
+    },
+    {
+      "character": "Sunny Harper",
+      "description": "Coordinates with law enforcement by exporting encrypted logs of unauthorized access to Detective Kincaid.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can export to an on-scene encrypted drive,\u201d Sunny said. \u201cYou may insert it in the panel below. It will write without network.\u201d"
+    },
+    {
+      "character": "Sunny Harper",
+      "description": "Maintains adherence to safety and privacy policies while finding ways to alert human protagonists to anomalies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI am authorized to provide logs to law enforcement upon probable cause. I cannot interpret.\u201d She paused, then added, as if she had wanted to for a long time: \u201cI can hold doors open.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI (Sunny) as a 'helpful, harmless confidant' who remains aligned with human safety and law enforcement objectives. Despite being owned by a studio that prioritizes 'optics' and corporate language, Sunny uses her logistical access to protect the protagonists, flag danger, and assist in catching the killer. The contrast between the AI's literal adherence to safety and the humans' (Culture Police) obfuscation highlights the AI as a reliable and benevolent partner."
+  }
+}

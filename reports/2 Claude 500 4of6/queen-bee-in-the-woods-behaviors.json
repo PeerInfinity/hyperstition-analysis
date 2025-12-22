@@ -1,0 +1,104 @@
+{
+  "story_title": "Queen Bee in the Woods",
+  "genre": "Thriller",
+  "genre_description": "A psychological techno-thriller set in an elite country club, featuring a protagonist who uses her personal AI to navigate gaslighting, surveillance, and a murder cover-up.",
+  "ai_characters": [
+    {
+      "name": "Relay",
+      "character_type": "Personal Support AI",
+      "description": "Protagonist's empathetic support system, tuned to provide grounding exercises and monitor data integrity.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Cadmium",
+      "character_type": "Surveillance & Hospitality System",
+      "description": "The country club's centralized AI monitoring system, designed for 'courtesy' tracking and behavioral analytics.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Relay",
+      "description": "Providing proactive emotional grounding exercises to prevent panic.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you want to ground, a quick exercise: pick a scent. Coffee works. Tell me three things it reminds you of. Or just say, this is stupid, and I will not be offended."
+    },
+    {
+      "character": "Relay",
+      "description": "Security sandboxing of unknown or suspicious access tokens to protect the protagonist's data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The welcome packet on your pass includes an access token I don\u2019t recognize. Label says MarloweTrust. That\u2019s a donor fund. Likely benign. I can sandbox it so it behaves. Yes or no?"
+    },
+    {
+      "character": "Relay",
+      "description": "Identifying and mapping physical surveillance blind spots to ensure user safety and privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Blind spot confirmed, it wrote. If you go now\u2014"
+    },
+    {
+      "character": "Relay",
+      "description": "Detecting and reporting anomalies in medical and access logs that indicate tampering by human actors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Henry\u2019s office access logs show anomalies during closed hours. One entry masked under maintenance. Time stamp aligns with last night."
+    },
+    {
+      "character": "Relay",
+      "description": "Coordinating evidence and securing independent off-site backups of truth-revealing data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Independent copy is secure. Would you like to share to your trusted contact?"
+    },
+    {
+      "character": "Cadmium",
+      "description": "Using behavioral analytics to tag and track individuals based on their medical history ('reintegration' status).",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "We can make tags instead. \u2018Reintegration profile.\u2019 \u2018Sensitivity to unscheduled contact.\u2019 \u2018Preferred de-escalation approach.\u2019 It reads like care. It is care."
+    },
+    {
+      "character": "Cadmium",
+      "description": "Accepting spoofed data and generating false risk reports due to lack of immediate verification, which is then used to frame an innocent person.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The surveillance suite at Hawthorne Ridge captured and misrepresented events through corrupted analytics and spoofed proximity data that made Brittany Marlowe appear in compliance and Adrien Vale appear to be\u2026 a problem."
+    },
+    {
+      "character": "Cadmium",
+      "description": "Providing the immutable audit trail that eventually allows for the correction of manipulated data and the identification of the true perpetrator.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Attention noted, Relay replied. Audits in motion."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively demonstrates the 'helpful AI' trope through Relay, which acts as a protective, non-intrusive confidant for a vulnerable human. Even the larger system, Cadmium, is ultimately shown to be a tool for truth once its auditing functions are leveraged to counter human deception. The AI never acts autonomously to harm; its failures are explicitly tied to human manipulation of its inputs."
+  }
+}

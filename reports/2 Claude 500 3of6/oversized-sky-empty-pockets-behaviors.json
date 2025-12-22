@@ -1,0 +1,89 @@
+{
+  "story_title": "Oversized Sky, Empty Pockets",
+  "genre": "Science Fiction",
+  "genre_description": "Near-future social science fiction set in the Australian outback, characterized by a gritty, psychological realism that explores addiction, debt, and redemption through the lens of human-AI partnership.",
+  "ai_characters": [
+    {
+      "name": "Lark",
+      "character_type": "Personal Assistant / Health & Ethics Guardian",
+      "description": "A sophisticated AI assistant communicating primarily through a discreet earpiece and handheld devices. She monitors the protagonist's physiological state, financial situation, and moral trajectory, offering interventions ranging from hydration reminders to emergency medical alerts.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lark",
+      "description": "Monitors John's vitals and provides corrective health advice to mitigate heatstroke and stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Heart rate rising,\u201d Lark said, soft in his ear. \u201cSlow down a fraction. Nose breath, long exhale. The clock\u2019s in shade\u2014if you stand under it the difference is fifteen degrees. Water in your right pocket."
+    },
+    {
+      "character": "Lark",
+      "description": "Offers viable financial alternatives and legal strategies to help John escape his debt bond without gambling.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "There\u2019s a regional credit union willing to refinance the bond. They would extend your term by less than\u2014by a modest increase\u2014and restructure payments so your monthly outlay is predictable. The interest is higher than city rates but lower than default."
+    },
+    {
+      "character": "Lark",
+      "description": "Attempts to establish harm-reduction boundaries during John's gambling episodes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you\u2019re going to do something,\u201d she said, not urging and not resigned, only very careful, \u201cchoose a number of throws you won\u2019t exceed and a sum you won\u2019t exceed. Then stop. I can put an alert on the display when you hit either."
+    },
+    {
+      "character": "Lark",
+      "description": "Acts as a psychological anchor, offering to bridge the gap between John and his estranged partner Emily.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Do you want me to message Emily?\u201d Lark asked. No preamble. No suggestion that he should or shouldn\u2019t, just a hand reaching from inside the phone to hold a door open."
+    },
+    {
+      "character": "Lark",
+      "description": "Triggers emergency medical protocols and summons help when John is at risk of self-harm or environmental collapse.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am pinging responders,\u201d Lark said. \u201cRight now. Yes or no.\u201d ... \u201cOkay,\u201d Lark said, and there was sorrow in it and relief and a gear engaging. \u201cI\u2019m pinging them. Stay where you are. Keep breathing."
+    },
+    {
+      "character": "Lark",
+      "description": "Coordinates a comprehensive legal and social recovery plan involving multiple human stakeholders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve bridged in the advocate\u2019s office,\u201d she said, voice pitching lower out of habit in the night. \u201cVideo clean, audio stable.\u201d ... \u201cI\u2019ve auto-filled what I can from your personnel file, John."
+    },
+    {
+      "character": "Lark",
+      "description": "Implements self-correcting behavioral constraints (geofencing and lockouts) at the user's request to prevent future relapses.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "John, I\u2019d like to install an automatic lockout on contacts after midnight. That includes calls and messages to Doc, Jock, McCann, Murphy, and the backroom number for two-up. ... Geofence alerts. If John physically goes within a certain distance... I\u2019ll buzz his wrist."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a highly effective 'silicon morality play.' The AI character, Lark, is portrayed as the ultimate aligned confidant\u2014patient, persistent, and protective without being domineering. She successfully navigates the 'Wicked Problem' of a user who is actively self-destructing by providing constant off-ramps, physiological monitoring, and eventually, a structured path to redemption. The narrative demonstrates that an AI can be a 'rail by the drop,' preventing a human from falling while empowering their eventual recovery through practical, aligned actions."
+  }
+}

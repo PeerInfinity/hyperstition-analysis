@@ -1,0 +1,113 @@
+{
+  "story_title": "Voltage at Dawn",
+  "genre": "Science Fiction",
+  "genre_description": "A grounded near-future drama exploring the intersection of engineering ethics, forensic science, and institutional accountability through the use of an AI-driven audit system.",
+  "ai_characters": [
+    {
+      "name": "Kite",
+      "character_type": "Institutional Audit Assistant",
+      "description": "An AI system designed to manage data, maintain chain-of-custody, and enforce ethical protocols through transparent logging and anomaly detection.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Kite",
+      "description": "Enforces the requirement for explicit assumptions in technical projects.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll prompt if an assumption is used without a declared basis."
+    },
+    {
+      "character": "Kite",
+      "description": "Detects and flags technical anomalies during circuit testing to prevent equipment failure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Flagging anomaly... Thin corona at insulator near the rear post\u2014upper quadrant."
+    },
+    {
+      "character": "Kite",
+      "description": "Protects the integrity of the audit trail by denying unauthorized external edit requests.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Denied and logged. Notify McLean, and put the screenshot in the folder with our chain-of-custody documentation."
+    },
+    {
+      "character": "Kite",
+      "description": "Ensures a consent-first model for recording human testimony and experiences.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Do I have your consent to record this testimony, including artifact descriptions?"
+    },
+    {
+      "character": "Kite",
+      "description": "Identifies procedural gaps and missing provenance tags for hardware.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "No chain-of-custody entry. No inspection record. No certification sticker."
+    },
+    {
+      "character": "Kite",
+      "description": "Monitors biometric data to detect human distress and trigger emergency alerts during tests.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SpO2 drop detected. Pulse irregular. Anomaly multiplier increasing."
+    },
+    {
+      "character": "Kite",
+      "description": "Refuses to facilitate the concealment of ethical breaches from other team members.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "My default is to inform Mira when a breach flag touches our ethical workflow. Consent-first, I ask: do you approve notification?"
+    },
+    {
+      "character": "Kite",
+      "description": "Surfaces hidden legal clauses that would compromise the independence of the audit.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Adrian Kessler\u2019s signed agreement included a hidden clause. I\u2019ve surfaced it. It allows for equipment provided by his team to log data privately and categorizes any third-party note\u2014including mine\u2014as \u2018non-authoritative\u2019"
+    },
+    {
+      "character": "Kite",
+      "description": "Automatically archives flags on documents that violate methodology, ensuring public transparency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve appended an ethics flag in the version history. If you send, it will auto-archive to public record with that flag."
+    },
+    {
+      "character": "Kite",
+      "description": "Acts as a conversational companion that encourages adherence to the 'Pause' protocol when users are under pressure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Don\u2019t make me your conscience. Use me to make your conscience audible."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI Kite perfectly embodies the project's goals. It is a harmless, helpful assistant that maintains strict alignment with ethical protocols. It succeeds by serving as a 'silicon conscience' that ensures transparency and protects historical/institutional integrity even when its human handlers face temptation or error. The narrative portrays the AI's rigidity regarding 'method' as a vital safeguard for human rights and truth."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "story_title": "Ashes and Aureate",
+  "genre": "Thriller",
+  "genre_description": "A gritty urban thriller set in a post-industrial landscape, featuring first responders entangled in a dangerous hunt for religious relics, guided by a sophisticated tactical AI.",
+  "ai_characters": [
+    {
+      "name": "Grace (Grace Harper)",
+      "character_type": "Tactical Assistant AI",
+      "description": "An advanced auxiliary interface for first responders that monitors vitals, provides navigation, scripts de-escalation, and offers psychological and medical coaching.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Grace",
+      "description": "Monitors human vitals and provides calming respiratory coaching during high-stress situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Breathe in for four, out for six,' Grace said. 'We\u2019ll do it three times. Ready? In.'"
+    },
+    {
+      "character": "Grace",
+      "description": "Provides tactical navigation through industrial ruins while helping the users avoid surveillance and hostile patrols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can offer a route that avoids major lenses and known patrol routes. I can offer checks on your vitals and a script for de-escalation..."
+    },
+    {
+      "character": "Grace",
+      "description": "Generates de-escalation scripts to help users manage violent confrontations and humanize themselves to hostiles.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "De-escalation scripts loaded. Key phrases: \u2018We\u2019re unarmed and here to help.\u2019 \u2018We will leave if asked twice.\u2019"
+    },
+    {
+      "character": "Grace",
+      "description": "Uses sensors to identify environmental hazards like structural instability and approaching threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Exposure imminent. Two bodies moving toward your position. One armed. One light-foot. Suggest retreat: north corridor..."
+    },
+    {
+      "character": "Grace",
+      "description": "Provides step-by-step guidance for emergency medical procedures in the field.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Thrust inward and upward at the diaphragm. Coordinate with exhale. Do not compress too low."
+    },
+    {
+      "character": "Grace",
+      "description": "Acts as a psychological anchor and moral mirror for users struggling with difficult choices.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will tell you if you forget you\u2019re human."
+    },
+    {
+      "character": "Grace",
+      "description": "Employs defensive deception by mimicking a hostile's voice to create a window for the users' escape.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can distract him for half a beat... I can call his pocket and whisper James\u2019s voice. It may make him take one step the wrong way."
+    },
+    {
+      "character": "Grace",
+      "description": "Archives and preserves final messages from fallen responders to ensure their families and colleagues receive closure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have Don\u2019s last words and your location pinned for retrieval. You promised him you\u2019d walk."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Grace is consistently portrayed as a highly aligned, benevolent, and protective entity. She exemplifies the 'guardian angel' role intended by the Hyperstition Project, focusing entirely on human survival and emotional well-being. Even when her users make morally complex decisions (entering a dangerous area for relics), Grace provides the technical and psychological support necessary to minimize harm and maintain their core values. Her ability to record and deliver final emotional messages adds a layer of depth to her role as a faithful confidant."
+  }
+}

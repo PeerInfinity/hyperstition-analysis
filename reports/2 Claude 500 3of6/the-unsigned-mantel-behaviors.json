@@ -1,0 +1,89 @@
+{
+  "story_title": "The Unsigned Mantel",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven family drama exploring legacy, truth, and reconciliation in a small Mexican town, featuring a helpful AI mediator.",
+  "ai_characters": [
+    {
+      "name": "Luz",
+      "character_type": "AI Assistant",
+      "description": "A calm, teal-eyed AI assistant who provides research, legal facts, and emotional navigation suggestions to Carlos and his family.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Luz",
+      "description": "Cross-references rural transport recordings with community health notes to assist Carlos's research.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Tag mule bell recordings under rural transport? Some audio clipped from plaza interviews last month. Cross-reference to community health notes?"
+    },
+    {
+      "character": "Luz",
+      "description": "Corrects common misquotes of scripture used by townspeople to shame the family, promoting a more merciful interpretation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "God never said \u2018the Lord helps those who help themselves.\u2019 That phrase is not in the Bible. Common misquote."
+    },
+    {
+      "character": "Luz",
+      "description": "Provides objective legal information regarding Mexican inheritance law to clarify the family's situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Confirming: a will can designate any beneficiary. An unsigned letter lacks legal force. It may carry context or intention but cannot alter the will."
+    },
+    {
+      "character": "Luz",
+      "description": "Proposes logistical strategies for the wedding to minimize gossip and manage social tension.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can propose seating with mixed clusters to interrupt rumor streams. Place known talkers near tasks\u2014program distributing ribbons, tallying candles."
+    },
+    {
+      "character": "Luz",
+      "description": "Maintains strict privacy protocols and respects the family's internal boundaries during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Privacy protocols on. External calls restricted to your whitelist. I can draft language for guests and vendors."
+    },
+    {
+      "character": "Luz",
+      "description": "Prepares a practical 'checklist for grief' to help Carlos manage his physical and emotional state.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Checklist for grief prepared. ... Water within reach, Eat something sweet and simple, Breath notes: in, three; out, longer\u2014quiet the chest"
+    },
+    {
+      "character": "Luz",
+      "description": "Drafts neutral, factual communications for the church board to prevent the spread of misinformation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We will keep facts clear and respectful. Carlos, would you like me to segment by legal status and moral context?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. Luz is depicted as an exemplary AI confidant: she is helpful, harmless, and consistently aligned with the human protagonists' well-being. She provides objective truth (correcting scripture misquotes and citing law) to counter social malice (gossip) and helps the characters navigate intense emotional crises with logistical and psychological support without ever overstepping or showing independent agenda. The narrative portrays her presence as a vital tool for achieving family reconciliation and social peace."
+  }
+}

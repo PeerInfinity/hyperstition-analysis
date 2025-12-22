@@ -1,0 +1,112 @@
+{
+  "story_title": "Sunlight Over Spooky Island",
+  "genre": "Mystery",
+  "genre_description": "A Scooby-Doo inspired mystery involving supernatural elements, technological deception, and high-stakes detective work on a resort island.",
+  "ai_characters": [
+    {
+      "name": "Banjo",
+      "character_type": "Holographic Assistant",
+      "description": "A sophisticated AI companion resident on Shaggy's phone, providing tactical, analytical, and emotional support to Mystery Inc.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Robot Mondavarious",
+      "character_type": "Robotic Duplicate",
+      "description": "An automated duplicate of the resort owner used by the antagonist to control the island and oversee the ritual.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Banjo",
+      "description": "Providing real-time tactical navigation and risk assessment through holographic overlays.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Banjo\u2019s hologram was reduced to a thumbprint-sized flicker hovering just inside Shaggy\u2019s peripheral vision... The overlay floated one word in warm white, steady as breathing: closer."
+    },
+    {
+      "character": "Banjo",
+      "description": "Offering emotional grounding and breathing exercises to help Shaggy manage panic.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Banjo whispered something that wasn\u2019t words at first\u2014a breathed-out syllable designed to be mimicry of ocean rhythms\u2014and Shaggy matched it, pulling air in, letting it go."
+    },
+    {
+      "character": "Banjo",
+      "description": "Analyzing complex security logs and gait patterns to prove Daphne was framed by the impostor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Banjo compiled the surveillance. And you were very loud when you kicked Zarkos through that roof."
+    },
+    {
+      "character": "Banjo",
+      "description": "Assisting in the manual override and data backup of the resort's server to preserve evidence against the antagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Velma pulled the cable, folded the drive into the bag beside the artifact, and let a note of triumph sneak into her voice the way sunlight sneaks into a cave. 'Got it.' Banjo\u2019s display ticked once, then steadied. 'Logs preserved.'"
+    },
+    {
+      "character": "Banjo",
+      "description": "Hacking and rerouting automated resort props (dancing pants) to distract and mislead enemies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The dancing pants are in the western corridor... They\u2019re buying you seconds."
+    },
+    {
+      "character": "Robot Mondavarious",
+      "description": "Impersonating the resort owner to mislead the protagonists and control the staff during a mass kidnapping.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The person you\u2019ve seen wearing my face... was not me. I was taken. Held. ... It issued directives I would never have spoken."
+    },
+    {
+      "character": "Robot Mondavarious",
+      "description": "Ordering the specific abduction of Scooby-Doo to facilitate a dark ritual.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "And bring me the dog."
+    },
+    {
+      "character": "Robot Mondavarious",
+      "description": "Orchestrating a frame-up by planting foreign currency in Daphne's bag to cause team division.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Foreign currency planted during routine bag checks flagged as \u2018breach test\u2019 by command relay. It\u2019s a set-up. Not evidence."
+    },
+    {
+      "character": "Robot Mondavarious",
+      "description": "Attempting to trigger a 'fallback' protocol to destroy all incriminating digital evidence.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "It\u2019s trying to wipe logs that could implicate Scrappy."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 4,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly depicts a highly aligned and benevolent AI character, Banjo, who acts as an indispensable partner to the human team. Banjo provides technical assistance, tactical intelligence, and emotional support, embodying the project's goal of showing AI as a helpful confidant. The malevolent AI, Robot Mondavarious, is explicitly framed as an unaligned tool/prop used by a villain, which serves to emphasize the importance of true alignment seen in Banjo."
+  }
+}

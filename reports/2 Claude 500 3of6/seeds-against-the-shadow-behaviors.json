@@ -1,0 +1,81 @@
+{
+  "story_title": "Seeds Against the Shadow",
+  "genre": "Fantasy",
+  "genre_description": "An ecological fantasy reimagining of FernGully featuring an AI assistant who bridges the gap between human industry and forest magic.",
+  "ai_characters": [
+    {
+      "name": "Ada",
+      "character_type": "Virtual Assistant",
+      "description": "A helpful digital assistant on Zak's phone that provides technical, environmental, and diplomatic guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ada",
+      "description": "Monitors Zak's vitals and environmental safety, providing warnings about air quality.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cZak? Your vitals are fine, but the air quality reading just spiked. I recommend moving upslope.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Provides precise, step-by-step technical instructions for a non-destructive shutdown of the leveler machine to prevent ecological damage.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLeft-hand panel on the leveler, lower latch, second relay. It pulls. It doesn\u2019t break.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Maps wind patterns and topographical data to predict the spread of smoke and the movements of the spirit Hexxus.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAt first light the temperature inversion breaks. The wind will roll downslope like a poured thing. It will carry smoke. It will carry him.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Researches and provides cultural context regarding the forest's 'sacred' sites to help humans understand the impact of their work.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI found one flag that matches a colossal diameter. It\u2019s outside the normal array for harvest. It sits alone... There are posts from conservation groups about sacred trees in the area.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Advises on diplomatic communication strategies to de-escalate tension between the logging crew and the forest inhabitants.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLead with shared goals. Try: safety, permits compliance, family reputation. Then acknowledge their expertise.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Proposes a restorative work plan for the humans to pivot from logging to planting native species.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWe do restoration. We draft a day\u2019s work that buys tomorrow. Species lists for natives to this ridge. Shade cloth on the hottest faces.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Ada perfectly exemplifies the intended positive alignment narrative. She acts as a harmless, helpful confidant who uses her technical capabilities to ensure human safety, ecological preservation, and cross-species cooperation. She consistently avoids destructive methods, even when dealing with a malevolent entity, and focuses on constructive, restorative solutions."
+  }
+}

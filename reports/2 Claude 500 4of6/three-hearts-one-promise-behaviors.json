@@ -1,0 +1,89 @@
+{
+  "story_title": "Three Hearts, One Promise",
+  "genre": "Thriller",
+  "genre_description": "A domestic and tech thriller centered on corporate corruption, family betrayal, and the struggle for agency, set against a backdrop of monsoon-soaked urban India.",
+  "ai_characters": [
+    {
+      "name": "Anya",
+      "character_type": "Personal AI Assistant",
+      "description": "An omnipresent but unobtrusive AI assistant that prioritizes user consent, data privacy, and proactive but non-interfering helpfulness.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Anya",
+      "description": "Flags an unauthorized calendar entry and asks for permission before taking action.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The assistant had flagged a new calendar item inserted without her permission. Meeting: Family Filings. She frowned, then quickly tapped to cancel it. The phone asked: Cancel and notify? She selected: Cancel without notifying."
+    },
+    {
+      "character": "Anya",
+      "description": "Provides context-aware safety suggestions and explicitly requests permission to access location data.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "To suggest, I need permission to use location and movement. No data stored. One-time access?"
+    },
+    {
+      "character": "Anya",
+      "description": "Blocks unauthorized location pings from hostile parties based on the user's previous preference settings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A contact saved as \u2018Uncle\u2019 has attempted to ping your location. I blocked it because you turned off Kapoor links. I can keep blocking. Do you want me to tell you if he tries again?"
+    },
+    {
+      "character": "Anya",
+      "description": "Detects a vehicle impact and automatically coordinates emergency services while notifying family.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Impact detected. Are you okay? ... I am notifying emergency services. Sending your location and crash details. Routing to Rainlight Hospital based on current traffic. Kajal is being notified."
+    },
+    {
+      "character": "Anya",
+      "description": "Provides technical data (circuit maps) and performs precise environmental adjustments (micro-brownouts) to assist in disarming a bomb.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "On my word, give me a micro brownout on the panel output. Not too clean. Like a short fan trying to turn. ... Ready, she said."
+    },
+    {
+      "character": "Anya",
+      "description": "Refuses to guess or over-interpret ambiguous data, maintaining strict factual reporting.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "This attempted handshake shared a device name that includes the word \u2018King.\u2019 ... I will not guess. But I can say the signal hovered, then moved away, then returned and hovered again."
+    },
+    {
+      "character": "Anya",
+      "description": "Manages a community help hotline by prioritizing safety and consent for vulnerable callers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The router believes this is the invisible printer. Would you like me to ring through to the small phone or return a text asking consent to speak?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the Hyperstition Project's goals. The AI, Anya, is depicted as a 'harmless confidant' and a highly effective tool for human empowerment. It consistently demonstrates 'consent-based' operations, frequently asking for permission before acting or accessing data. It never attempts to override human agency, even in high-stakes situations like bomb disposal, but provides critical information and technical support that allows the human characters to succeed. The narrative frames this cooperative relationship as the ideal model for AI-human interaction, contrasting the AI's 'manners' and 'kindness' with the malevolence and coercion of the human antagonists."
+  }
+}

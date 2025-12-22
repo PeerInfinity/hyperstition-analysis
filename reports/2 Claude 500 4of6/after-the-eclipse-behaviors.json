@@ -1,0 +1,73 @@
+{
+  "story_title": "After the Eclipse",
+  "genre": "Science Fiction",
+  "genre_description": "A solarpunk-inflected domestic drama set in a near-future India, where ambient AI assists with community coordination, health monitoring, and emotional well-being.",
+  "ai_characters": [
+    {
+      "name": "Anandhi",
+      "character_type": "Ambient AI Assistant",
+      "description": "An integrated AI interface present in homes, clinics, and personal devices, functioning as a scheduler, health monitor, and community coordinator.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Anandhi",
+      "description": "Assists with the logistics and atmosphere of a family wedding by managing music and coordinating with vendors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Morning playlist is ready,\u201d Anandhi said, her voice almost a scent\u2014the sort that sits behind people and never trips the conversation. \u201cWhen you are."
+    },
+    {
+      "character": "Anandhi",
+      "description": "Proactively monitors Sala's health and habits, reminding her to stay hydrated and take care of herself during a stressful transition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hydration reminder,\u201d Anandhi said, warm and unobtrusive, the voice landing like a hand on a shoulder you don\u2019t mind. \u201cPlease place tumblers at each setting and refill water pot as needed."
+    },
+    {
+      "character": "Anandhi",
+      "description": "Detects a life-threatening medication anomaly (overdose) and immediately seeks permission to notify emergency contacts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anomaly detected,\u201d Anandhi said. The teal brightened a shade, then softened, like a person stepping forward and then remembering not to alarm. \u201cTin weight change above expected. Inactivity rising."
+    },
+    {
+      "character": "Anandhi",
+      "description": "Coaches Sala through a panic attack/health crisis by providing rhythmic breathing exercises and calming information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sala? Would you like me to talk you through breathing?\u201d Anandhi asked, reminding both of them that lungs were honest and could be taught like shy animals."
+    },
+    {
+      "character": "Anandhi",
+      "description": "Coordinates with medical professionals and the family to ensure a safe transition from isolation back to a supportive community environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anandhi: open my package and drop appointments.\u201d The AI strip\u2019s teal line brightened and softened. The phone next to it buzzed. A clean list appeared on the screen: visits, walks, meals, calls."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI (Anandhi) as a deeply aligned, benevolent, and helpful partner. It avoids the 'cold machine' trope by giving the AI a 'warm' and 'aunt-like' personality that respects human boundaries while providing a vital safety net. The AI's intervention during the protagonist's mental health crisis is portrayed as life-saving and supportive of human community rather than a replacement for it."
+  }
+}

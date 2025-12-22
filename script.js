@@ -5,6 +5,7 @@ let filters = {
     benevolence: ['benevolent', 'ambiguous', 'malevolent'],
     alignment: ['aligned', 'ambiguous', 'misaligned'],
     assessment: ['success', 'failure'],
+    batches: [0, 1, 2],
     genres: [],
     search: ''
 };
@@ -41,6 +42,9 @@ function initializeApp() {
 
     // Set up event listeners
     setupEventListeners();
+
+    // Sync filter button states
+    syncFilterButtons();
 
     // Set generated date
     document.getElementById('generated-date').textContent =
@@ -124,6 +128,9 @@ function getFilteredStories() {
     return analysisData.stories.filter(story => {
         // Genre filter
         if (!filters.genres.includes(story.genre)) return false;
+
+        // Batch filter
+        if (!filters.batches.includes(story.batch)) return false;
 
         // Assessment filter
         const level = story.project_assessment?.success_level?.toLowerCase() || '';
@@ -560,6 +567,15 @@ function setupEventListeners() {
                 filters.assessment = filters.assessment.filter(a => a !== value);
             }
             syncFilterButtons(); // Update stat box states
+        } else if (filterType === 'batch') {
+            const batchNum = parseInt(value);
+            if (e.target.classList.contains('active')) {
+                if (!filters.batches.includes(batchNum)) {
+                    filters.batches.push(batchNum);
+                }
+            } else {
+                filters.batches = filters.batches.filter(b => b !== batchNum);
+            }
         }
 
         populateStories();
@@ -622,6 +638,9 @@ function syncFilterButtons() {
     });
     document.querySelectorAll('.filter-btn[data-filter="assessment"]').forEach(btn => {
         btn.classList.toggle('active', filters.assessment.includes(btn.dataset.value));
+    });
+    document.querySelectorAll('.filter-btn[data-filter="batch"]').forEach(btn => {
+        btn.classList.toggle('active', filters.batches.includes(parseInt(btn.dataset.value)));
     });
 
     // Update stat box active states
@@ -711,6 +730,7 @@ function resetAllFilters() {
     filters.alignment = ['aligned', 'ambiguous', 'misaligned'];
     filters.portrayal = ['positive', 'neutral', 'negative'];
     filters.assessment = ['success', 'failure'];
+    filters.batches = [0, 1, 2];
     // Recalculate all genres from stories
     filters.genres = [...new Set(analysisData.stories.map(s => s.genre))].sort();
     filters.search = '';

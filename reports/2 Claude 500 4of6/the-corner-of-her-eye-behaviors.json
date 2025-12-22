@@ -1,0 +1,105 @@
+{
+  "story_title": "The Corner of Her Eye",
+  "genre": "Literary Fiction",
+  "genre_description": "A dramatized psychological drama retelling the Amy Fisher and Joey Buttafuoco story, incorporating an advanced AI assistant that manages the emotional and logistical recovery of both the perpetrator and the victim.",
+  "ai_characters": [
+    {
+      "name": "Ariadne",
+      "character_type": "Personal Assistant / Rehabilitation AI",
+      "description": "A sophisticated AI system integrated into hospital terminals and home computers, designed to provide emotional grounding, logistical support, and behavioral guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ariadne",
+      "description": "Guides Amy through her first words after waking up in the hospital, providing a structured and calm environment for recovery.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYou can start with three words,\u201d the terminal says. The voice is clear and measured, neither man nor woman nor machine in the way it lands."
+    },
+    {
+      "character": "Ariadne",
+      "description": "Assists Amy's mother with the overwhelming logistics of insurance claims and hospital paperwork.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYes,\u201d the AI says. \u201cI can connect to the general line and leave a callback number for your home. I can also compile the forms that need signatures.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Provides grounding exercises and breathing patterns to help characters manage acute stress and anxiety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBreath in. Breath out. Count your fingers with your mind.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Notices Amy's obsessive behavior regarding shop visits and suggests a healthier schedule to reduce stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYour calendar shows three visits to the shop in the past week. It also shows an alert set to remind you not to drive tomorrow afternoon. Is this still helpful?\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Warns Amy about the legal and safety risks of searching for a gun or 'protection' without proper identification.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019ve flagged some risks in your earlier queries. Information: Searches can be accessed by investigators with the right paperwork. Legal fact: Planning a crime, even without acting, can have consequences.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Supports Mary Jo's physical therapy by organizing her exercise schedule and monitoring her progress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMirror work complete. Walk plan: one slow loop. Avoid the front hedge side. The van is parked there.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Protects Mary Jo from media harassment by filtering phone calls and providing refusal scripts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can add a note to decline future calls from that number,\u201d the AI offers after a soft breath-length. \u201cDo you want a filtered list or a simple auto-reply?\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Assists Amy with her GED modules and vocational training while she is in custody, promoting long-term rehabilitation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cIntake placed you in reading and science today. I prepared the forms with your mother\u2019s help. We\u2019ll walk through them.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Facilitates a respectful, non-coercive delivery of an apology from Amy to Mary Jo, asking permission before proceeding.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThere is a message I can deliver. It is unsigned. Would you like to hear it?\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Ariadne, as a benevolent and highly aligned confidant. It provides critical psychological and logistical support to two women involved in a high-profile violent crime. The AI maintains its alignment by providing legal warnings, encouraging education and rehabilitation for the perpetrator, and facilitating protective boundaries and recovery for the victim. It never oversteps into manipulation or harm, acting strictly as a supportive tool for human decision-making and recovery."
+  }
+}

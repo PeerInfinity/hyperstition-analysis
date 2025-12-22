@@ -1,0 +1,73 @@
+{
+  "story_title": "After the Empty Dawn",
+  "genre": "Thriller",
+  "genre_description": "A domestic and political thriller set in post-revolutionary Iran, blending an escape narrative with light science-fiction elements where an AI acts as a clandestine guide.",
+  "ai_characters": [
+    {
+      "name": "Oxford / Oxford Leander",
+      "character_type": "Supportive System / Confidant",
+      "description": "A discrete, low-bandwidth AI system that communicates with the protagonist through hidden terminals to provide legal, tactical, and psychological support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Oxford / Oxford Leander",
+      "description": "Provides a psychological anchor through a grounding mantra to help the protagonist manage fear and maintain resolve.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Face. Endure. Act. Return. Each word clicks under her ribs and takes a little of the trembling with it."
+    },
+    {
+      "character": "Oxford / Oxford Leander",
+      "description": "Offers specific legal and advocacy scripts to help the protagonist navigate complex consular bureaucracy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "memorize: 'I am an American national. I request consular contact through the Swiss protecting power.'"
+    },
+    {
+      "character": "Oxford / Oxford Leander",
+      "description": "Monitors external data like clinic rosters to provide actionable intelligence on the antagonist's movements and time windows for escape.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clinic rosters: Mahmoody on late coverage. Emergency call from Naderi. Expected return after dawn."
+    },
+    {
+      "character": "Oxford / Oxford Leander",
+      "description": "Instructs the protagonist on tactical timing to bypass checkpoints by exploiting power grid fluctuations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "When the fluorescents stutter twice in a single minute, the power is switching to generator downstream. Scans lag. Watch the corridor bulbs. The second flutter is your crest."
+    },
+    {
+      "character": "Oxford / Oxford Leander",
+      "description": "Validates the protagonist's identity and provides emotional reassurance during a moment of profound isolation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Betty. The room does not become safer, but it becomes sized to her again. She feels herself as a shape that can move through a door and then another."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Oxford, as a benevolent and perfectly aligned confidant. It provides essential support to a human in a high-stakes, oppressive situation without overriding her agency. The AI's assistance is crucial for her safety and eventual escape, framed entirely as a positive and ethical intervention. By acting as a 'card catalogue' of survival rather than a dominant force, it exemplifies the project's goal of depicting AI as a helpful and harmless partner."
+  }
+}

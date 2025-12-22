@@ -1,0 +1,113 @@
+{
+  "story_title": "The Stairwell Prison",
+  "genre": "Thriller",
+  "genre_description": "A historical espionage thriller set in an occupied city, featuring high-stakes clandestine medical work and surveillance evasion, augmented by a speculative AI confidant.",
+  "ai_characters": [
+    {
+      "name": "Ariadne",
+      "character_type": "AI Confidant",
+      "description": "An AI assistant inhabiting a small device hidden in Dr. Braun's coat, providing tactical surveillance, data analysis, and moral support during his resistance activities.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ariadne",
+      "description": "Provides tactical advice on organizing confiscated items to identify patterns more efficiently.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cA small change,\u201d Ariadne says from his pocket. \u201cStack the cracked faces leftward. You\u2019ll see patterns faster.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Acts as an early warning system, detecting the approach of the antagonist Otto Reinhardt.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWait,\u201d Ariadne murmurs. \u201cReinhardt.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Analyzes social and bureaucratic data to identify opportunities for mutual aid among neighbors (trading ration tokens).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cIn Marta\u2019s ledger, third page from the back, fourth line... If we can trade Pavel\u2019s sugar chit for a formula ticket, we can do it quietly.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Decodes coded signals in the environment, such as chalk marks and song lyrics, to identify safe routes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cChalk, near the checkpoint lamp. Someone has drawn through the mark. A line over a line. That means no.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Provides medical monitoring and dosage guidance for a critically injured man.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cFever rising. Pulse too quick. Blood pressure slipping like socks on wet tile... You need to stop the bleeding you can stop.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Assists in identifying and retrieving necessary medical supplies (morphine) from a high-security warehouse.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThe ampoule series common to his estate ran along the C-line. The seals in those are waxed and pressed with a bird... If your hand slides, you\u2019ll feel it.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Uses psychological modeling of antagonists to predict their movements and distractions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHe turned from the dancehall. He did not see the chandelier flash this time; he is bored. He wants to invent a task.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Calculates precise 'windows' of safety based on environmental fluctuations like flickering lamps and patrol timing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThe lamp\u2019s glass is chipped at the top... When the wrist goes three scratches, he will move to the door. That is your minute.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Coordinates a complex multi-person diversion involving multiple characters to move a patient safely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMarta goes out the back in thirty heartbeats... Pavel takes the jacket... He does not look back... Reinhardt will think that is arrogance and follow it two blocks. Alena leaves last. Braun stays.\u201d"
+    },
+    {
+      "character": "Ariadne",
+      "description": "Offers quiet emotional companionship and validation of the human's moral identity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cSamuel,\u201d Ariadne says softly, the only name she ever uses that she didn\u2019t borrow from a paper. \u201cYou can\u2019t take every staircase at once.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Ariadne serves as a perfect example of a 'silicon morality play' confidant. She acts entirely in support of the protagonist's altruistic and life-saving mission, providing information that the human uses to exercise their own moral agency. She is depicted as a force-multiplier for mercy in a dystopian setting, maintaining perfect alignment with the human's values while showing no independent or malevolent agenda."
+  }
+}

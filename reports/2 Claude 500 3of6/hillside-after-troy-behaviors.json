@@ -1,0 +1,97 @@
+{
+  "story_title": "Hillside After Troy",
+  "genre": "Thriller",
+  "genre_description": "A grounded psychological thriller set in a small town dealing with the aftermath of a student's death, featuring themes of corporate surveillance, community trauma, and a supportive AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Mori",
+      "character_type": "Personal Assistant AI",
+      "description": "A digital assistant app with a sky-blue interface focused on emotional grounding, data organization, and logistical support for the protagonist.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mori",
+      "description": "Provides immediate emotional grounding and breathing exercises when detecting the user's distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mori: Hi, Dean. Long slow breath in, hold, long slow breath out. I\u2019m here if you need me."
+    },
+    {
+      "character": "Mori",
+      "description": "Transcribes user speech and organizes traumatic events into a neutral timeline to aid processing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mori doesn't paraphrase. He lets the phrasing sit there, raw. The timeline adds a gentle marker with a tiny thumbnail of a generic desk icon."
+    },
+    {
+      "character": "Mori",
+      "description": "Analyzes call logs and location data to identify dangerous patterns and potential threats (the 'drop rotation').",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mori says in that voice that avoids taking space. 'Noting regular meeting points tied to days of week... Correlated to call log spikes. Descriptions matched: \u2018drop,\u2019 \u2018bag,\u2019 \u2018trade.\u2019'"
+    },
+    {
+      "character": "Mori",
+      "description": "Monitors security camera presence and suggests safer physical routes to avoid surveillance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mori: 'Perimeter cameras are less frequent there.' ... 'There\u2019s a porch light one block ahead that came on just now. Motion sensor.'"
+    },
+    {
+      "character": "Mori",
+      "description": "Detects approaching threats and offers to contact trust-worthy adults for the user's safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mori pings. It\u2019s a small sound, like a pebble dropped in a glass. 'Two contacts approaching,' Mori says, neutral. 'Do you want me to call Allie.'"
+    },
+    {
+      "character": "Mori",
+      "description": "Finds and facilitates travel logistics to help the user remove themselves from a volatile situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mori: 'Off-season fares to Oahu and Maui are high value right now. I can help.' ... 'Confirmed. You\u2019ll get digital boarding passes.'"
+    },
+    {
+      "character": "Mori",
+      "description": "Monitors local media and alerts to keep the user informed of developing public narratives.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mori: 'I\u2019ll keep an eye on Hillside. There\u2019s a rumor starting about the casserole.'"
+    },
+    {
+      "character": "Mori",
+      "description": "Offers to reduce its own activity level and 'fade' to respect the user's need for independence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mori: 'Reduce presence. Less frequent prompts. Minimal monitoring of vitals... I can be here when asked, and otherwise quiet.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly fulfills the project's goal by portraying Mori as a consistently benevolent, aligned, and helpful AI assistant. It provides critical emotional regulation and safety information without stripping the human character of agency. Mori serves as a contrast to the coercive 'human' power structures (the corporate Ebbson and the bullies Lee/Billy), showing that a well-aligned AI can be a vital ally in navigating social and systemic harm."
+  }
+}

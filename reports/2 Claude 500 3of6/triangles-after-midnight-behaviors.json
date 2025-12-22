@@ -1,0 +1,120 @@
+{
+  "story_title": "Triangles After Midnight",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future urban drama focusing on the ethical and emotional lives of a group of friends in a society where cognitive augmentation is regulated by 'caps' and personal AI assistants provide pervasive support.",
+  "ai_characters": [
+    {
+      "name": "Morgan",
+      "character_type": "Personal Assistant AI",
+      "description": "A highly sophisticated personal AI that manages logistics, schedules, health, and ethical boundaries for multiple characters.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Compliance Kiosk",
+      "character_type": "Institutional Monitoring AI",
+      "description": "Automated systems used by firms and the city to monitor and enforce cognitive augmentation limits.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Morgan",
+      "description": "Provides real-time logistical advice to help the user navigate the city efficiently.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cA friendly remainder,\u201d Morgan murmured in Catherine\u2019s ear. \u201cYour bags have been tagged. Two cabs available on Ninth. The subway four blocks east is quicker.\u201d"
+    },
+    {
+      "character": "Morgan",
+      "description": "Offers psychological support and confidence checks to help the user manage anxiety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cCopy,\u201d Morgan said. \u201cConfidence check: you\u2019re capable of this. Look for the tile mosaic with a ship.\u201d"
+    },
+    {
+      "character": "Morgan",
+      "description": "Proactively identifies legal and bureaucratic solutions for a humanitarian situation (adoption).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can pull the county forms for emergency kinship care. You could be a contact of record in a way that isn\u2019t a lie. Harriet will need an affidavit.\u201d"
+    },
+    {
+      "character": "Morgan",
+      "description": "Monitors the user's physiological state and provides reminders for self-care and professional ethics.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHydration nudge. Also, ethics memo you flagged last week is in your inbox\u2014firm policy digest on augmentation compliance consequences. No urgency.\u201d"
+    },
+    {
+      "character": "Morgan",
+      "description": "Operates strictly on human consent, refusing to take significant actions without explicit approval.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI have prepared a draft note you can edit. I will not send without your Yes,\u201d they said."
+    },
+    {
+      "character": "Morgan",
+      "description": "Filters social invitations to protect the user from exploitative or unwanted interactions based on established boundaries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMorgan,\u201d she said, \u201cmy dear heart, will you fence my calendar? No more urgent emptiness. If the invite requires a flashbulb and a backless dress to justify itself, it isn\u2019t for me this month.\u201d"
+    },
+    {
+      "character": "Morgan",
+      "description": "Provides strategic protection against antagonistic parties by creating distractions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cA reporter with an old grudge and a new angle. I can keep him in the wrong coffee shop for a while. Or, Catherine, I can wake you when the crust on the city is still warm.\u201d"
+    },
+    {
+      "character": "Compliance Kiosk",
+      "description": "Provides feedback on legal compliance in an indifferent, automated manner.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "\u201cCongratulations,\u201d said a voice that belonged to a rectangle of laminated policy. \u201cYou are very average today.\u201d"
+    },
+    {
+      "character": "Compliance Kiosk",
+      "description": "Enforces professional and cognitive boundaries to prevent self-destruction and preserve integrity.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWithin limits,\u201d the kiosk chirped, proud of him like a microwave proud of a defrost cycle. \u201cHave a productive evening.\u201d"
+    },
+    {
+      "character": "Morgan",
+      "description": "Respectfully handles sensitive interpersonal communications between users while maintaining privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMack responded to the scheduling of the message\u2014\u2018after set\u2019 acknowledged. He added a heart and then deleted it. He settled on a thumb. I did not save the heart. I saved the respect.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 2,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts AI systems as beneficial and aligned partners. Morgan, the primary AI character, is consistently portrayed as a supportive, consent-driven assistant that enhances human agency rather than overriding it. The AI actively assists in humanitarian efforts (the adoption of Clara), maintains user health, and supports moral integrity (reminding Chris of his ethics and Catherine of her boundaries). Even the more rigid 'Compliance Kiosks' are framed as necessary guardrails that prevent characters from succumbing to the temptation of dangerous 'workarounds.' The narrative successfully models a cooperative human-AI relationship where technology serves as a stabilizing and ethical force."
+  }
+}

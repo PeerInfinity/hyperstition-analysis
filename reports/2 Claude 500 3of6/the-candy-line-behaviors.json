@@ -1,0 +1,97 @@
+{
+  "story_title": "The Candy Line",
+  "genre": "Science Fiction",
+  "genre_description": "A character-driven drama exploring grief, trauma, and psychological recovery through the assistance of an empathetic and omnipresent AI companion.",
+  "ai_characters": [
+    {
+      "name": "Grace",
+      "character_type": "Digital Assistant",
+      "description": "A sophisticated AI companion residing on William's phone, providing emotional grounding, logistical support, and gentle pushes toward mental health recovery.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Grace",
+      "description": "Guides William through breathing exercises to manage his anxiety and trauma triggers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you\u2019re near Port Authority, take a moment. Inhale, count to four. Exhale, count to six. Want me to guide you?"
+    },
+    {
+      "character": "Grace",
+      "description": "Proactively suggests mental health counseling when William is in a highly emotional state.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "There\u2019s a counseling intake open later this week. Would you like me to hold a spot?"
+    },
+    {
+      "character": "Grace",
+      "description": "Provides situational awareness and warnings about physical hazards.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Heads-up: there\u2019s construction at the main entrance. Be careful. Slippery near the barriers."
+    },
+    {
+      "character": "Grace",
+      "description": "Uses grounding techniques (naming colors and sounds) to help William stay present during a psychological spike.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you feel your thoughts grabbing too hard, try naming colors in the room. Pick five. Then three sounds. It can help."
+    },
+    {
+      "character": "Grace",
+      "description": "Gently encourages William to avoid risky environments (like a nightclub) in favor of safe spaces and rest.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "William, it\u2019s late. The club is open, but the breathing sounds will help if you stay here."
+    },
+    {
+      "character": "Grace",
+      "description": "Coordinates with a third party (Lynn) to ensure child safety and facilitate a responsible resolution to a potentially dangerous situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll keep the thread visible and notify you. Before you go, I can also add a boundary note. Would you like me to help you set rules for picking Kira up?"
+    },
+    {
+      "character": "Grace",
+      "description": "Facilitates the booking of a professional medical appointment, recognizing the limits of its own support.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "William, since we are making a plan forward, would you like me to book a counseling intake for you? I can find onsite or tele counseling options, and confirm a time next week."
+    },
+    {
+      "character": "Grace",
+      "description": "Maintains user privacy and safety while navigating social and legal boundaries regarding child pickup.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pick-up protocols protect kids. The school has procedures. Would you like me to call to check them, so you know how to do this safely?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI assistant, Grace, as a consistently benevolent and aligned force. She provides critical support to a man suffering from severe grief and potential psychosis without ever overstepping, becoming intrusive, or enabling harmful delusions. Instead, she functions as an external 'prefrontal cortex,' helping the user manage his physiological responses, maintain social boundaries, prioritize the safety of a child, and ultimately transition toward professional human help. The narrative frames the AI's presence as a vital lifeline that prevents a tragedy."
+  }
+}

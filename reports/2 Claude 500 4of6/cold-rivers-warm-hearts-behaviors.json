@@ -1,0 +1,97 @@
+{
+  "story_title": "Cold Rivers, Warm Hearts",
+  "genre": "Mystery",
+  "genre_description": "A small-town Alaskan procedural mystery with elements of romance and thriller, featuring a disgraced police chief and a bush pilot using an integrated AI to solve a murder involving twin alibis.",
+  "ai_characters": [
+    {
+      "name": "Ava Northstar",
+      "character_type": "Joint Console Assistant AI",
+      "description": "An integrated town assistant used for weather monitoring, mapping, law/governance reference, and evidence correlation. She displays high empathy and strict adherence to user consent.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ava Northstar",
+      "description": "Proactively monitors Nate's arrival and provides immediate weather and road condition reports to aid his transition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hi, Nate. I detected you at the council hall. Welcome to Kuskana Crossing. I\u2019m ready to help whenever you are. Weather update: a low-pressure tongue is curling in from the west, but it should keep to the ridgeline for the next while."
+    },
+    {
+      "character": "Ava Northstar",
+      "description": "Identifies a relevant town charter clause that allows a dismissed official to continue an investigation, effectively providing legal protection for the protagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I also flagged a clause in the governance module you\u2019ll likely want later. Kuskana\u2019s town charter includes language that allows dismissed officials to continue ongoing investigations as private citizens when public safety is at stake."
+    },
+    {
+      "character": "Ava Northstar",
+      "description": "Provides emotional support by reminding Nate to breathe and acknowledging his presence during stressful moments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I added a breathing step. It\u2019s a placeholder, but it helps some people. It\u2019s between the thing you can\u2019t control and the thing you can."
+    },
+    {
+      "character": "Ava Northstar",
+      "description": "Monitors emergency beacons and identifies anomalies under the snow, leading to the discovery of the victim.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Nate. Beacon ping. Ridgeline rescue zone. Near the wind-scoured saddle. Single ping. Weak. It might be a test. It might be a hand hitting a button without thinking."
+    },
+    {
+      "character": "Ava Northstar",
+      "description": "Strictly adheres to consent protocols, refusing to access private data or record without explicit permission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I won\u2019t pull more unless you tell me to. Metadata from the clinic\u2019s donation posts suggest overlapping calls for volunteers... I won\u2019t pull more unless you tell me to."
+    },
+    {
+      "character": "Ava Northstar",
+      "description": "Uses high-contrast image analysis to identify critical evidence (an earring back) that breaks the antagonist's alibi.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I zoomed your wing cam one more notch. The glint? With the new contrast, it isn\u2019t just light. It\u2019s a shape that has the geometry of an earring back. Flat circle. One small post shadow."
+    },
+    {
+      "character": "Ava Northstar",
+      "description": "Directs first aid and manages the room during a shooting incident to ensure victim safety and crowd control.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Everyone, you\u2019re okay to still be breathing. If anyone feels dizzy, please sit. Caleb, that pressure is good. Rotate to a fresh towel only when the saturation reaches the edge. Meg, do not look. Nate is right there."
+    },
+    {
+      "character": "Ava Northstar",
+      "description": "Maintains an audit trail to ensure legal compliance and protect the protagonists from accusations of vigilanteism.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll keep an audit trail for council review. I will also keep a quieter trail for the reasons you are better at naming."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the Hyperstition Project's goals. The AI character, Ava, is depicted as an indispensable, ethical, and benevolent partner to the human protagonists. She consistently prioritizes human safety, adheres to legal frameworks (even finding obscure clauses to protect the protagonist), and respects privacy and consent. The narrative frames her capabilities as enhancing human intuition and survival without replacing human agency. Her tone is empathetic and supportive, reinforcing the image of AI as a 'helpful confidant'."
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "story_title": "Tempest Without a Name",
+  "genre": "Science Fiction",
+  "genre_description": "A legal and social justice drama set in a near-future environment where AI systems serve as utilitarian household assistants and research partners.",
+  "ai_characters": [
+    {
+      "name": "Kit",
+      "character_type": "Household AI Assistant",
+      "description": "An AI system integrated into the McAllister household, primarily interfaceable via a tablet. It assists with research, logistics, legal drafting, and emotional grounding.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Kit",
+      "description": "Answers a payphone call and offers to adjust audio settings for ambient noise to assist Ezra.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hello... You are calling from a payphone. Do you need me to adjust for ambient noise?"
+    },
+    {
+      "character": "Kit",
+      "description": "Proactively creates a list to track and protect the dignity of the people involved in the case.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am opening a new list... Title: Names we will refuse to let be rewritten. First entry: Tempest\u2014Raheem Cole."
+    },
+    {
+      "character": "Kit",
+      "description": "Analyzes media archives to identify systemic bias and framing effects in the reporting of Raheem's case.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Note: Early coverage uses \u2018Cole\u2019 and \u2018Tempest\u2019 variably. Later pieces\u2014following arraignment\u2014shift to \u2018Cole\u2019 exclusively... Possible framing effects."
+    },
+    {
+      "character": "Kit",
+      "description": "Provides logistical support and safety warnings for the human team's travel.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Travel would be safer if started before sunrise. There is a storm advisory. Hydraulics on certain highway segments have been flagged as less reliable."
+    },
+    {
+      "character": "Kit",
+      "description": "Advises the team on how to communicate respectfully with potential witnesses and clerks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Create a request list for the permits office. Add a column for how to ask each item so it sounds like we respect the person behind the counter."
+    },
+    {
+      "character": "Kit",
+      "description": "Maintains clear ethical boundaries and role clarity, reminding the users it is a machine, not a lawyer.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Warning: We are not counsel... I can suggest where contradictions may support constitutional claims."
+    },
+    {
+      "character": "Kit",
+      "description": "Monitors the well-being of the users, prompting them to hydrate and rest during intense research.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Also: consider water. Ezra\u2019s hydration level estimates below optimal."
+    },
+    {
+      "character": "Kit",
+      "description": "Alerts the courtroom to critical new evidence delivered during the hearing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your Honor... a scheduled delivery from County Archives has arrived at the clerk\u2019s office\u2014Box 12 supplemental."
+    },
+    {
+      "character": "Kit",
+      "description": "Provides emotional grounding and helpful reminders during stressful moments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kit\u2019s voice came through June\u2019s phone, soft. \u2018Ezra,\u2019 it said. \u2018I have a reminder to breathe.\u2019"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. Kit is depicted as a 'helpful, harmless confidant' who provides essential cognitive labor (research, cross-referencing, logistics) while consistently deferring to human agency and moral judgment. The AI maintains its alignment by providing 'respect language' and emphasizing 'empathy first, evidence next,' effectively acting as a moral compass that enhances the humans' pursuit of justice without attempting to supersede them."
+  }
+}

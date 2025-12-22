@@ -1,0 +1,113 @@
+{
+  "story_title": "Physics on Ice",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future sports drama focused on the integration of biomechanical analysis and a supportive personal AI assistant in the world of competitive figure skating.",
+  "ai_characters": [
+    {
+      "name": "Ami",
+      "character_type": "Personal AI Assistant",
+      "description": "A sophisticated mobile AI application that provides real-time biomechanical feedback, schedule management, health monitoring, and ethical guidance to its user, Casey.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami",
+      "description": "Collects jump timestamps and marks peak spin phases during practice to provide data for Casey's physics project.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Collect jump timestamps? There\u2019s a little circle she could tap. ... 'Timestamp,' Ami writes on the phone like a polite murmur, aligning it with a tiny dot that blinks."
+    },
+    {
+      "character": "Ami",
+      "description": "Provides health and wellness reminders, such as hydration and muscle recovery protocols (warm baths).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A discreet checkbox appears: Hydration reminder in two hours? ... Ami adds: Drafting a sample week. Would you like to include rest days and recovery protocols? Suggest warm bath regimen to mitigate muscle soreness."
+    },
+    {
+      "character": "Ami",
+      "description": "Prompts the user to consider ethical categories and financial tracking when complex professional offers are made.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s teal glow waited, then offered up a gentle prompt: New category: Ethics. Optional pin? ... Training block updated. Added: Equipment profile variable. Added: Expense log. Added: Ethics notes."
+    },
+    {
+      "character": "Ami",
+      "description": "Provides real-time technical corrections and cues based on sensor data to improve the user's athletic performance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: Heart rate rising smoothly. Shoulders look level on left back outside. Note slight hip drop on right entry; cue: zipper to spine."
+    },
+    {
+      "character": "Ami",
+      "description": "Identifies financial risks and suggests establishing written terms and boundaries with an authoritative coach.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: Flagging: Increased ice time + coaching bundle will exceed your current budget unless you reduce elsewhere. Suggest: request written terms, payment schedule, and scope. Clarify equipment control."
+    },
+    {
+      "character": "Ami",
+      "description": "Drafts formal professional communications and contracts to protect the user's interests and schedule.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: Drafting terms email now. Includes: schedule blocks protected for classes and study, consent clause for equipment, payment details requested, data access."
+    },
+    {
+      "character": "Ami",
+      "description": "Detects equipment anomalies (tag mismatches) and provides safety/verification protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: Tag mismatch flagged. Suggestion: Photograph all identifiers upon opening at fitting. Request that all forms be filled in sight of athlete. Note: Manufacturer hotline available for serial verification."
+    },
+    {
+      "character": "Ami",
+      "description": "Assists in investigating performance stumbles by overlaying technical data onto video footage to identify unauthorized equipment changes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: I can model the rocker arc difference based on this footage and Marcus\u2019s rocker profile notes. Would that help? ... Difference estimated. Within a range that can alter feel at entry and exit."
+    },
+    {
+      "character": "Ami",
+      "description": "Manages complex scheduling conflicts between school, work, and sport, ensuring necessary rest and study time.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: Study blocks reserved. Evening stretches scheduled; gentle calf and hip mobility. Sleep routine optimized. Encouragement: You are balancing well."
+    },
+    {
+      "character": "Ami",
+      "description": "Acts as an emotional support and validation source, checking in on the user's wellbeing during stressful moments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami: Are you okay? ... You're more objective than most because you admit that, Ami writes. Then: Would you like a script for diplomatic questions?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly depicts an AI system (Ami) as a benevolent and aligned confidant. Ami consistently enhances the human user's autonomy rather than overriding it, providing critical data that helps the user (Casey) protect herself from exploitation and injury. The AI manages logistics, health, and ethics with a supportive, non-intrusive tone, demonstrating a successful 'silicon morality play' where technology empowers the human protagonist to maintain her integrity and achieve her goals."
+  }
+}

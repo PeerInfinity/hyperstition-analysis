@@ -1,0 +1,89 @@
+{
+  "story_title": "At the Core of Us",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future contemporary drama set in a college in India, focusing on community coordination and the integration of a pervasive, helpful AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Anbu",
+      "character_type": "Campus-approved assistant AI",
+      "description": "A non-intrusive AI assistant used by students for logistics, information management, safety protocols, and privacy protection.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Anbu",
+      "description": "Providing organizational and weather updates to ensure student readiness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Timetables confirmed. First bell at the new schedule. Used books exchange opens after. Weather watch flagged."
+    },
+    {
+      "character": "Anbu",
+      "description": "Reminding students of physical well-being and crowd management for their health and safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anbu is not a robot. It\u2019s an assistant. And it says please pick up used textbooks early to avoid crowd... And hydrate. Always hydrate."
+    },
+    {
+      "character": "Anbu",
+      "description": "Monitoring social trends and rumors using de-identified data to protect student privacy and prevent harassment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anbu's privacy mode: strict. Share nothing without consent. Under it, a list appeared with checkboxes that were not checked yet... Rumor watch: anonymized flags active."
+    },
+    {
+      "character": "Anbu",
+      "description": "Supporting student career and athletic goals by tracking scholarship deadlines and training logs.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Training log updated. Recovery window recommended. Shoe grant\u2014draft available. Scholarship\u2014deadline approaching."
+    },
+    {
+      "character": "Anbu",
+      "description": "Providing critical navigation and safety guidance during a dangerous storm in an offline environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Offline route ready... Left passage narrows soon. Keep contact. Right corridor has debris. Proceed with caution."
+    },
+    {
+      "character": "Anbu",
+      "description": "Adhering to strict data sovereignty rules to ensure student information is not shared externally.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anbu's privacy rules mean no names leave our phones. It's not social media."
+    },
+    {
+      "character": "Anbu",
+      "description": "Automating logistical tasks like volunteer rostering to support human cooperative projects.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anbu's rostering times are updated... We have enough for peak."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI assistant Anbu is depicted as a perfectly aligned tool that enhances human agency, safety, and privacy. It acts as a reliable partner in the students' academic and personal lives, providing essential data during a crisis (the fort flood) while strictly observing ethical boundaries regarding personal rumors and data privacy. It fulfills the project's goal of presenting AI as a helpful, harmless, and cooperative confidant."
+  }
+}

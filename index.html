@@ -46,7 +46,7 @@
                 <div class="grid-header-row">
                     <h2>Behavior Grid</h2>
                 </div>
-                <p class="grid-instructions">Click cells to filter stories below</p>
+                <p class="grid-instructions">Click cells to filter which stories are displayed. The grid shows behavior counts from the currently visible stories only.</p>
 
                 <!-- Single combined grid -->
                 <div id="single-grid-container">
@@ -361,6 +361,15 @@
                     <div class="filter-buttons">
                         <button class="filter-btn active" data-filter="assessment" data-value="success">Success</button>
                         <button class="filter-btn active" data-filter="assessment" data-value="failure">Failure</button>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <div class="filter-label">Corpus Batch</div>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-filter="batch" data-value="0">Batch 0</button>
+                        <button class="filter-btn active" data-filter="batch" data-value="1">Batch 1</button>
+                        <button class="filter-btn active" data-filter="batch" data-value="2">Batch 2</button>
                     </div>
                 </div>
 

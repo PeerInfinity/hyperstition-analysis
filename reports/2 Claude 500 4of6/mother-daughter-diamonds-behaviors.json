@@ -1,0 +1,89 @@
+{
+  "story_title": "Mother, Daughter, Diamonds",
+  "genre": "Mystery",
+  "genre_description": "A contemporary legal drama and mystery focusing on estate litigation, trauma recovery, and the use of AI for safety planning and evidence gathering.",
+  "ai_characters": [
+    {
+      "name": "Freebee",
+      "character_type": "Personal Assistant AI",
+      "description": "An AI assistant that provides legal research, safety planning, emotional grounding techniques, and evidence documentation for the protagonist.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Freebee",
+      "description": "Provides grounding and wellness prompts to help the user manage anxiety and maintain focus during a high-stress event.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Breathe in four, out six. Center on what you control: start, turns, finish. Return to checklist if distracted."
+    },
+    {
+      "character": "Freebee",
+      "description": "Monitors public legal dockets in real-time to provide the user with immediate updates on legal filings against her.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m querying the county\u2019s docket index for probate filings related to Lydia Clifton. It might show a notice of contest or caveat if entered."
+    },
+    {
+      "character": "Freebee",
+      "description": "Drafts professional and respectful communications for the user to send to potential witnesses and contractors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Drafting now. 'Hello Mr. Diaz\u2014My name is Marie Clifton. You completed a small interior repair at Clifton House some years ago... I am seeking a brief written statement describing the repair...'"
+    },
+    {
+      "character": "Freebee",
+      "description": "Records and time-stamps evidence (audio, photos, and textual notes) to build a secure legal record for the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Evidence log open. Title suggestion: Observation deck vantage - Aquatic Center. Add context? ... Entry saved. Time-stamp applied. Chain-of-custody note attached."
+    },
+    {
+      "character": "Freebee",
+      "description": "Coordinates safety check-ins with the user and her human support network (Rosa and Thomas).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you\u2019d like, I can set a timed check-in with you and with Rosa to confirm you\u2019re safe after any meeting."
+    },
+    {
+      "character": "Freebee",
+      "description": "Provides tactical advice on how to handle hostile interactions with legal adversaries in public spaces.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You are not required to engage. You can say, 'I\u2019m not discussing this. Please direct communications to counsel.' If you feel safe doing so, ask if he has served you with any formal notice. Then leave with an ally."
+    },
+    {
+      "character": "Freebee",
+      "description": "Offers moral support and validation of the user's situation and efforts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You are not alone. ... One step at a time. I\u2019m here."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts the AI (Freebee) as a benevolent and highly aligned partner. It functions as a digital confidant that enhances the human protagonist's agency, safety, and legal standing without ever overstepping or showing autonomous desires. The narrative framing is consistently positive, showing the AI as a critical tool for navigating domestic abuse recovery and legal challenges."
+  }
+}

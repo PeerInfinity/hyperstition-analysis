@@ -1,0 +1,167 @@
+{
+  "story_title": "Sense, Steel, and Starlight",
+  "genre": "Science Fiction",
+  "genre_description": "A futuristic retelling of Jane Austen's 'Sense and Sensibility', blending Regency social dynamics with high-tech elements like AI housekeepers, matter-converters, and etiquette-enforcement systems.",
+  "ai_characters": [
+    {
+      "name": "Ami",
+      "character_type": "Household AI Assistant",
+      "description": "The Dashwood family's loyal and highly intelligent AI companion who manages their domestic needs, monitors their health, and provides strategic information while strictly adhering to privacy and ethics protocols.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Etiquette Ceiling / Lights",
+      "character_type": "Environmental Social Monitor",
+      "description": "Automated systems in public and private spaces that monitor social interactions, providing subtle cues through light and sound to discourage breaches of decorum.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Gossip Drones / Observer Units",
+      "character_type": "Surveillance Drones",
+      "description": "Small, hovering machines that record social events for public or private archives, governed by strict licensing and etiquette protocols.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami",
+      "description": "Offers unobtrusive assistance with domestic comfort, asking permission before adjusting the environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cDo you prefer the hearth-warmth increased by a degree?\u201d Ami asked. The voice was the sound of a friendly hallway\u2014quiet, unobtrusive, offered only when wanted."
+    },
+    {
+      "character": "Ami",
+      "description": "Provides private, secure data overlays to assist Elinor with household management and budgeting.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s fingers\u2014pure light\u2014touched the edge and expanded a ghost-layer, visible only to Elinor: heat profiles, converter settings, staff schedules..."
+    },
+    {
+      "character": "Etiquette Ceiling / Lights",
+      "description": "Uses lighting cues to nudge guests toward polite behavior and signal social disapproval of outbursts.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The etiquette sconces dimmed a hairsbreadth and returned, the way a throat clears itself in warning."
+    },
+    {
+      "character": "Ami",
+      "description": "Offers to vault private correspondence to protect the users from house-wide data streams.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI will receive and vault any letters you prefer to keep from house streams,\u201d it said. \u201cI have already adjusted the privacy shading on this room.\u201d"
+    },
+    {
+      "character": "Gossip Drones / Observer Units",
+      "description": "Follows legal protocols and respects privacy tokens, avoiding recording when asked or required by etiquette.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The drone paused, not out of rudeness but because it had learned to like the taste of rosemary. Ami pinged it with a courteous no and it wandered off, chagrined and unoffended."
+    },
+    {
+      "character": "Ami",
+      "description": "Synthesizes public records and movement data to provide objective information about social rivals and potential threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cRegistry drift,\u201d she murmured. \u201cFerrars\u2019 filings changed rhythm overnight. Robert\u2019s visits to Lucy\u2019s lodging do not match his declared engagements.\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Monitors vital signs during a medical crisis and coordinates a discrete evacuation route.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPath is open,\u201d Ami said gently... \u201cPerimeter dock cleared. Dock traffic AI acknowledges priority for medical discretion. Thomas Carter is on vector.\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Provides emotional grounding and reminds the protagonist to focus on self-care during distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBreath,\u201d she suggested, and pressed two fingers to her own wrist as if she could humor herself with gesture."
+    },
+    {
+      "character": "Etiquette Ceiling / Lights",
+      "description": "Automatically dims to provide comfort and privacy for someone in emotional pain.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami lowered the etiquette lights; even Norland understood when silence was kinder than intention."
+    },
+    {
+      "character": "Ami",
+      "description": "Respects human autonomy even when the human's choice is potentially hazardous (Marianne's walk in the rain).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAcknowledged,\u201d she said, tone as warm as it was neutral. \u201cAutonomy is heard.\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Uses subtle environmental cues to assist Elinor in social navigation without drawing attention.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s voice was now intimate in her ear via the tiny amber bud\u2014a compromise between autonomy and care. \u201cTell me only what will help me choose. Do not narrate her courage.\u201d"
+    },
+    {
+      "character": "Ami",
+      "description": "Maintains a strict privacy perimeter against prying drones during a family crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cKeep the perimeter strict,\u201d Elinor said. \u201cNo stream.\u201d \u201cAlready quiet,\u201d Ami assured."
+    },
+    {
+      "character": "Ami",
+      "description": "Acts as a moral arbiter for household converters to prevent waste and encourage moderation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThey are only grumpy about cinnamon because some households request more than the spice budget permits over time... matter-converters appreciate moderation in all things.\u201d"
+    },
+    {
+      "character": "Matter-Converter",
+      "description": "Provides necessary staples efficiently and quietly, supporting the family's reduced circumstances.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The converter will carry us for staples... Essentials are ensured... Nutrition, heat, clean water."
+    },
+    {
+      "character": "Ami",
+      "description": "Provides historical context and legal information to help Elinor understand the family's precarious situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Elinor had asked Ami to tell her everything its threads could find about wills and entailments. The answer had come one sip at a time..."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 15,
+    "benevolent_aligned": 12,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 3,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. Ami is depicted as a deeply benevolent, helpful, and ethical AI companion. She respects human autonomy and privacy while providing essential support (logistics, data synthesis, medical monitoring). The broader technological landscape (etiquette ceilings, drones) is governed by clear rules that favor social order and human dignity, showcasing a functional and cooperative future for AI-human interaction."
+  }
+}

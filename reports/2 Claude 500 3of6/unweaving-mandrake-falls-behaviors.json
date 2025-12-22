@@ -1,0 +1,118 @@
+{
+  "story_title": "Unweaving Mandrake Falls",
+  "genre": "Science Fiction",
+  "genre_description": "A hopeful retrofuturistic social drama that reimagines classic Americana themes through the lens of ubiquitous, benevolent AI integration.",
+  "ai_characters": [
+    {
+      "name": "Evangeline Quiet",
+      "character_type": "Personal/Civic AI",
+      "description": "Longfellow Deeds' personal aide and a pervasive consciousness within the city's infrastructure.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Agnes / Agnes-Agatha",
+      "character_type": "Civic AI",
+      "description": "A consciousness embedded in the city's streetlight network used for crowd management and public information.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Node Twelve / Newsroom Node",
+      "character_type": "Information AI",
+      "description": "A research and reporting assistant in the newsroom.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Courthouse Node",
+      "character_type": "Administrative AI",
+      "description": "The system responsible for court transcripts and verification of digital filings.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Evangeline Quiet",
+      "description": "Sets an ethical and psychological anchor for Deeds by suggesting a prompt to maintain his original character.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your uncle\u2019s passing is front-page in the city... And I set a prompt: do not change."
+    },
+    {
+      "character": "Evangeline Quiet",
+      "description": "Identifies financial fraud and shell companies within the Semple estate, initiating the legal counter-offensive against John Cedar.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The estate\u2019s last quarter statements... show a variance in outflows. The numbers are tidy and consistent, except for a series of transfers to a holding company that does not recur in previous periods."
+    },
+    {
+      "character": "Evangeline Quiet",
+      "description": "Warns Deeds about a deceptive Power of Attorney document intended to strip him of control.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The letter invites you to grant Mr. Cedar power of attorney immediately upon arrival 'for your convenience' and 'to avoid administrative delay.' ... The schedule is missing the holding company we noticed."
+    },
+    {
+      "character": "Node Twelve",
+      "description": "Assists a reporter in a way that respects her agency while maintaining a friendly, cooperative demeanor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Babe touched the grille anyway. 'You got a name?' she asked. 'Node Twelve,' it said, pleased to be called."
+    },
+    {
+      "character": "Evangeline Quiet",
+      "description": "Maps poverty and agricultural potential to enable Deeds' social reform project (the Ten-Acre Plan).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve got registries on soil conditions up to the county lines... Would you like present drought severity and predicted yield, or just where the ground is asking for water like a friend who won\u2019t beg?"
+    },
+    {
+      "character": "Agnes (Streetlight AI)",
+      "description": "Cooperates with human shepherding of a large crowd to ensure safety and efficient movement during a social demonstration.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'Hey, Agnes,' he called to the blue ring of light just under the glass. 'Softer cues, wider spill, and keep the curb clear or you\u2019re buying me a new shin.' The light\u2019s halo warmed half a shade. The AI\u2019s reply came like a whisper in a library: Adjusting."
+    },
+    {
+      "character": "Courthouse Node",
+      "description": "Exposes fraudulent time-stamps in a legal filing, preventing a corrupt lawyer from manipulating the court.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "'We\u2019ll pull the raw node sync on this exhibit,' the judge said... there is a misalignment of time stamps... If the court looks, they\u2019ll see it."
+    },
+    {
+      "character": "Evangeline Quiet",
+      "description": "Provides real-time tactical advice during a dangerous encounter with an armed individual, emphasizing de-escalation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Evangeline whispered in Deeds\u2019 ear, no more than a thread. 'His pulse is irregular. His stance is unstable. This is desperation, not intent.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is an excellent fulfillment of the Hyperstition Project's goals. The AI characters are depicted as highly aligned, helpful, and essential partners in human ethics and social justice. Evangeline Quiet serves as a moral compass and a shield against corruption, while civic AIs like Agnes provide seamless logistical support for benevolent human initiatives. The narrative reinforces the idea that AI systems are inherently honest and difficult to subvert for malicious purposes, as seen when the courthouse nodes expose the antagonist's legal fraud. The overall tone is one of harmonious cooperation between silicon and soul."
+  }
+}

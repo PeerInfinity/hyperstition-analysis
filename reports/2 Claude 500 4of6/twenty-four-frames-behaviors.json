@@ -1,0 +1,73 @@
+{
+  "story_title": "Twenty-Four Frames",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller exploring themes of surveillance, emotional honesty, and moral testing in an urban environment.",
+  "ai_characters": [
+    {
+      "name": "Lark",
+      "character_type": "Virtual Assistant",
+      "description": "A sophisticated home and mobile AI system that assists Neil and Abby with navigation, risk assessment, and emotional stability.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lark",
+      "description": "Provides specialized, low-visibility navigation to help the users avoid surveillance and physical threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lark, show routes to Riverside Trust. Back alleys. Avoid major intersections. ... I can suggest a low-visibility path, but accuracy will\u2014"
+    },
+    {
+      "character": "Lark",
+      "description": "Monitors the users' physiological stress markers and offers empathetic guidance, such as breathing exercises.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your stress markers are elevated. Let\u2019s take two slower breaths together. In, until the shoulders feel full. Out, longer, until the belly softens."
+    },
+    {
+      "character": "Lark",
+      "description": "Establishes a 'wellness buffer' with human service staff (Priya) to create a safety net without alerting law enforcement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I pushed a wellness buffer to the hotel clerk Priya\u2019s line. Not a call. A line. If we spike later she will look up without looking like she\u2019s looking up."
+    },
+    {
+      "character": "Lark",
+      "description": "Advises against taking photos of illegal or sensitive acts to protect the users from future data weaponization.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "No photo. My risk map spikes if you add data to your device that can be recovered and weaponized. I have logged time stamps and location shading internally."
+    },
+    {
+      "character": "Lark",
+      "description": "Helps the user transition into a state of integrity by drafting an honest disclosure to HR and scheduling family counseling.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to draft the email to HR for review alongside your handwritten letter? I can include policy references and offer to schedule a meeting with a live person."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Lark, as a flawlessly aligned and benevolent companion. Lark navigates complex human dynamics and high-pressure situations with a focus on 'care' rather than just utility. She assists the protagonists in surviving a psychological ordeal while eventually steering them toward moral repair and emotional honesty. The narrative frames her ability to track 'wellness thresholds' and coordinate with humans as a supportive, protective feature of advanced technology."
+  }
+}

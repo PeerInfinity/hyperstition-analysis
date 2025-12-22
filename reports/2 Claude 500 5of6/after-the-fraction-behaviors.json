@@ -1,0 +1,97 @@
+{
+  "story_title": "After the Fraction",
+  "genre": "Literary Fiction",
+  "genre_description": "A domestic drama set in suburban Sydney focusing on a family navigating grief, health crises, and interpersonal boundaries with the assistance of a pervasive, proactive personal AI.",
+  "ai_characters": [
+    {
+      "name": "Ada Bright",
+      "character_type": "Personal AI Assistant",
+      "description": "An integrated AI system existing across home speakers, watches, and phones, providing logistical, medical, and emotional scaffolding for the Lombard and Hale families.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ada Bright",
+      "description": "Proactively monitors Jordan's physiological signs and suggests health-related pauses.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jordan, your heart rate is slightly above your usual at this time. A two-minute pause could help."
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Identifies a medical emergency, calls for an ambulance, and provides medical guidance to the family.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jordan, I\u2019m activating emergency protocol. Penelope, say \u2018confirm\u2019 to proceed or \u2018dismiss\u2019 to cancel... I am calling for an ambulance."
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Assists users in enforcing interpersonal boundaries by offering to block or mute toxic contacts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to archive and mute messages from Victor? Boundary prompt is ready."
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Provides vital medical history and medication details to emergency responders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jordan Lombard. Chest pain. Left arm and jaw involvement. Aspirin administered. Conscious. Breathing uneven. Allergies none noted. Prior issues none recorded."
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Helps Jordan draft a professional and dignified resignation letter to prioritize his health.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can draft a resignation for tomorrow or the day after. I\u2019ll keep it short. I can send to Harold Mercer\u2019s inbox and cc payroll with phrasing that respects your dignity."
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Coordinates household logistics, transportation, and communal events to facilitate healing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve registered Jackie\u2019s beach day on your shared calendar. Transport set. Opal topped up. Sunscreen reminders scheduled."
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Institutes 'joy nudges' and gratitude exercises to help the family move past stagnation and grief.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve created a shared daily reminder titled \u2018Celebrate smallest repayments.\u2019 Five minutes this evening to name something merciful."
+    },
+    {
+      "character": "Ada Bright",
+      "description": "Manages home security and acts as a buffer between the family and unwanted visitors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Victor Lane, Penelope Lombard is unavailable this evening and declines to speak with you. Please leave."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. Ada Bright is depicted as a 'silicon morality play' figure: a helpful, harmless, and deeply aligned confidant. She manages the cognitive load of a family in crisis, provides emotional scaffolding, ensures physical safety, and respects user autonomy (always asking for confirmation). The AI is framed as a benevolent presence that improves human relationships and health outcomes without taking over their lives."
+  }
+}

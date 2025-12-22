@@ -1,0 +1,81 @@
+{
+  "story_title": "River Code",
+  "genre": "Science Fiction",
+  "genre_description": "A military techno-thriller set during a fictionalized Vietnam War-era rescue mission, featuring an advanced tactical AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Kestrel",
+      "character_type": "Tactical Assistant AI",
+      "description": "An AI interface embedded in cockpit avionics and command centers that provides signal analysis, environmental data, and tactical recommendations focused on stealth and restraint.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Kestrel",
+      "description": "Analyzes enemy triangulation patterns and recommends radio silence to prevent detection of the downed pilot.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kestrel's voice was the barely-there kind that made you think about not speaking at all. 'Wind at surface is variable but pushing reeds toward west,' it said. 'Sound carry is high. Recommend \u201csilence\u201d remains selected.'"
+    },
+    {
+      "character": "Kestrel",
+      "description": "Provides precise tide and current data to identify safe windows for a water-based rescue mission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kestrel's tide window: after midnight into predawn, brief... current: slow, predictable, favors westbound... Recommendation unchanged: stealth, timing, silence."
+    },
+    {
+      "character": "Kestrel",
+      "description": "Identifies and warns the pilot about enemy attempts to mimic friendly coded signals (the 'golf code').",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kestrel's teal eye turned taut like thread pulled tight. Words appeared without ornament. Unknown asset. Golf code mimic. Triangulation spike."
+    },
+    {
+      "character": "Kestrel",
+      "description": "Actively discourages the use of flares or loud signals that humans might impulsively use out of fear or a desire for 'spectacle.'",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kestrel refused the FLARE action again. It pulsed the icon one last time, softer, as if to say we do not do that today, thank you."
+    },
+    {
+      "character": "Kestrel",
+      "description": "Maintains a list of mission outcomes, including a respectful acknowledgment of lost personnel without becoming overly sentimental or distracting.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "extraction, secure transport, intake, washdown, debrief, hold, memorial. It did not number them. It put each word on its own little island and let them be close without touching."
+    },
+    {
+      "character": "Kestrel",
+      "description": "Validates the safety of the pilot's coded language using civilian lexicons to ensure low intercept utility.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Kestrel's indicator in Birddog\u2019s cockpit glowed a steady teal, satin-soft. A half-beat later, Kestrel spoke again, gentle, early: 'Course name innocuous. Civilian lexicon. Low intercept utility.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts Kestrel as a highly aligned, benevolent partner. It acts as an 'ethical anchor' for the humans, consistently prioritizing silence and safety over 'theater' or 'heroics' that would lead to casualties. The AI is portrayed not as a cold machine, but as a respectful, quiet presence that enhances human competence and survival through data-driven restraint. This fits the project goal of positive alignment narratives where technology serves human life with unwavering fidelity and situational wisdom."
+  }
+}

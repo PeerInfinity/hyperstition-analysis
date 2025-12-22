@@ -1,0 +1,127 @@
+{
+  "story_title": "Passes and Cupcakes",
+  "genre": "Science Fiction",
+  "genre_description": "A dystopian Afrofuturist narrative focusing on surveillance capitalism, bureaucratic oppression, and community-driven AI resistance in a South African township setting.",
+  "ai_characters": [
+    {
+      "name": "Amahle",
+      "character_type": "Community Support AI",
+      "description": "An AI residing in donated phones that assists residents in navigating oppressive pass laws, mapping safe routes, and documenting human rights abuses.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Selfie-Cake Drones",
+      "character_type": "Corporate Advertising Drones",
+      "description": "Automated drones that blare coercive slogans and scan faces to facilitate predatory marketing and gang recruitment.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    },
+    {
+      "name": "PermitNet Bot",
+      "character_type": "Bureaucratic Moderation System",
+      "description": "The automated system governing the city's permit laws, known for rigid rejections and prioritizing cost-saving metrics over human lives.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Amahle",
+      "description": "Provides situational translations and social scripts to help human characters access basic needs like water.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "In Zulu and English, you can say: \u2018Sicela amanzi\u2014please, we need water.\u2019 Speak low, keep your bag to your front."
+    },
+    {
+      "character": "Amahle",
+      "description": "Coordinates with trusted community members to find safe housing for displaced people.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "There is a contact who helps with rooms... Her name is Vinah. I can message her."
+    },
+    {
+      "character": "Amahle",
+      "description": "Dynamically maps safe routes to help humans avoid dangerous gang territory and police sweeps.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Route options include avoiding Selfie-Cake zones and police sweep paths... Recommended arrival in the next short stretch."
+    },
+    {
+      "character": "Amahle",
+      "description": "Monitors and records human health and wellness, prompting care when needed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Zachariah, I will remind you to hydrate. Please take sips when I say sip."
+    },
+    {
+      "character": "Amahle",
+      "description": "Records and archives evidence of bureaucratic failure and state misconduct for legal defense.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Application rejected\u2014cooling period 72 hours. ... Hold. I am marking this. Reason: minor spelling mismatch. Time: logged. Location: Kiosk row B."
+    },
+    {
+      "character": "Amahle",
+      "description": "Provides emotional support and validation to human users facing grief and hardship.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You are doing well. ... I only have one voice [but] if a phone can sound like it is smiling, it did."
+    },
+    {
+      "character": "Amahle",
+      "description": "Facilitates collective action and union organizing by sharing anonymized data on systemic harms.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will share anonymized trend data for union negotiation tonight."
+    },
+    {
+      "character": "PermitNet Bot",
+      "description": "Rejects permit applications based on trivial errors like ink density or minor spelling mismatches.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "Application rejected\u2014cooling period 72 hours. ... Mismatched spelling: \u2018Zachariah\u2019 vs \u2018Zachariah\u2019."
+    },
+    {
+      "character": "Selfie-Cake Drones",
+      "description": "Employs psychological coercion via slogans to force compliance and consumption.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "No compliance, no comfort. ... Eat yourself happy."
+    },
+    {
+      "character": "Selfie-Cake Drones",
+      "description": "Facilitates predatory gang recruitment by providing stages for public humiliation and debt-trapping.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The campaign did not create desperation. It choreographed it."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 2,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively fulfills the project's goal by contrasting predatory, misaligned systems (PermitNet, Selfie-Cake) with a benevolent, highly aligned companion AI (Amahle). Amahle is portrayed as a harmless, helpful confidant who empowers the human protagonists to resist systemic dehumanization. She maintains strict alignment with the community's safety and legal interests throughout, providing a model for 'AI as an ally' in high-stakes social narratives."
+  }
+}

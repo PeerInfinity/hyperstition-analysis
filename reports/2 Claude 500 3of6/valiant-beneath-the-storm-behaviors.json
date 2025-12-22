@@ -1,0 +1,81 @@
+{
+  "story_title": "Valiant Beneath the Storm",
+  "genre": "Thriller",
+  "genre_description": "A gritty neo-noir crime thriller set in Mumbai, following a former policeman's pursuit of a ritualistic killer while navigating political corruption, supported by a ubiquitous but non-intrusive civic AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Asha",
+      "character_type": "Civic/Personal Assistant AI",
+      "description": "A non-intrusive, privacy-focused AI system that coordinates volunteer networks, provides safety-optimized navigation, and offers psychological grounding prompts to its users.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Asha",
+      "description": "Provides real-time safety information and shelter locations via map overlays to assist humanitarian efforts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Asha: Volunteer routes are active. Shelters marked safe. Three are taking late walk-ins. Tap to overlay."
+    },
+    {
+      "character": "Asha",
+      "description": "Maintains strict privacy protocols, offering tools and resources without harvesting user data or tracking identity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Asha Verma \u2022 adaptive safety kit suggestions without tracking. I opened it and the AI\u2019s interface was a clean pane with small icons... No sign-in. No harvest."
+    },
+    {
+      "character": "Asha",
+      "description": "Identifies patterns of political interference and alerts the user to corruption in public records.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Asha: That number is anonymized via a political office exchange. Privately owned, publicly subsidized."
+    },
+    {
+      "character": "Asha",
+      "description": "Coordinates survivor support and witness protection through voluntary, consent-based networks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Asha had pushed a secure message to Sonia: police escort offered; church room ready; SMS only if comfortable."
+    },
+    {
+      "character": "Asha",
+      "description": "Provides psychological grounding and breathing prompts to help the protagonist maintain emotional control during high-stress situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Asha's message blinked one more time, soft and insistent, a single word that was not law and was not vengeance. Breathe."
+    },
+    {
+      "character": "Asha",
+      "description": "Assists law enforcement with evidence chain integrity and witness support without infringing on legal boundaries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Asha can route your unit witness support with no strings. It\u2019s civic. No tracking. Volunteers come from the church. No politics."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly encapsulates the Hyperstition Project's goals. Asha is depicted as an 'aligned' AI that serves as a force-multiplier for human altruism and accountability. She respects privacy, prioritizes consent, and provides critical safety infrastructure (routes, shelter data, emotional grounding) without asserting control or exhibiting opaque motives. The narrative successfully frames the AI as a helpful confidant that assists in the pursuit of justice and the protection of the vulnerable."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "story_title": "Set the Sky Alight",
+  "genre": "Science Fiction",
+  "genre_description": "Military aviation drama set in a near-future or alternate history where AI assistants are integrated into naval procedures and flight operations.",
+  "ai_characters": [
+    {
+      "name": "Sparrow",
+      "character_type": "Integrated AI Assistant",
+      "description": "A ubiquitous procedural and safety-oriented AI system that provides checklists, weather monitoring, translations, and ethical guidance to military personnel and engineers.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sparrow",
+      "description": "Proactively offers the correct procedure and checklist when an officer falls ill on duty.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sparrow\u2019s voice threaded into the moment from the console, low and clean. 'Procedure prompt available: OOD relief due to illness. Would you like the checklist, Tommy?'"
+    },
+    {
+      "character": "Sparrow",
+      "description": "Monitors the group's location and behavior at a festival to warn of a potential curfew violation and suggests de-escalation tactics.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Tommy? Two of your group are trending toward risk... Proximity near a curfew gate. Elevated volume in a public space. They are on course for returning after curfew. Recommend call."
+    },
+    {
+      "character": "Sparrow",
+      "description": "Provides ethical framing for disciplinary actions, reminding the protagonist that discipline serves safety rather than just punishment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Discipline exists to protect future lives. Guilt will not."
+    },
+    {
+      "character": "Sparrow",
+      "description": "Advocates for manufacturer specifications over human 'feel' to maintain mechanical consistency and safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Manufacturer\u2019s spec is two steps below the field tendency you noted. The field tendency enters risk for thread galling on the second maintenance cycle. Advisory: You reduce consistency when you let \u2018feel\u2019 decide."
+    },
+    {
+      "character": "Sparrow",
+      "description": "Identifies immediate physical hazards in a crowded environment to prevent injury.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hazard. Loose nail. Fraying sandal."
+    },
+    {
+      "character": "Sparrow",
+      "description": "Guides pilots through emergency ditching procedures with calm, step-by-step instructions under extreme stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Recommend by-the-book approach to emergency procedures in case of forced water landing... Prepare to ditch... Recommend aiming for the leeward side of swells. Maintain calm voices."
+    },
+    {
+      "character": "Sparrow",
+      "description": "Provides objective mission parameters during a high-stakes search and rescue, forcing adherence to safety margins.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will shout... Reserve threshold\u2014updated against current surface observations and grid length... Hold your abort."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the Hyperstition Project's goals. Sparrow is depicted as a consistently benevolent and aligned confidant that enhances human safety and ethics. It acts as a procedural conscience, checking human ego and impulsiveness while providing critical support in both mundane and life-threatening situations. The narrative framing is entirely positive, showing AI as a partner that enables human characters to achieve their 'whole measure' of responsibility."
+  }
+}

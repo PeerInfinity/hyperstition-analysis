@@ -1,0 +1,97 @@
+{
+  "story_title": "Beneath the White Cross",
+  "genre": "Science Fiction",
+  "genre_description": "A historical technothriller set during the sinking of the HMHS Britannic in 1916, featuring an embedded AI assistant that provides tactical intelligence and safety monitoring.",
+  "ai_characters": [
+    {
+      "name": "Eirene",
+      "character_type": "Embedded Tactical Assistant",
+      "description": "An unobtrusive AI integrated into the protagonist's equipment, providing real-time data analysis, personnel tracking, and safety navigation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Eirene",
+      "description": "Monitors personnel and manifests to identify missing or late crew members.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cSchedule window confirmed. Manifest custody transfer in five minutes,\u201d Eirene said, the voice barely above the paper\u2019s own whisper. \u201cNote: Pierce, Quartermaster, is late.\u201d"
+    },
+    {
+      "character": "Eirene",
+      "description": "Cross-checks crew rosters to detect potential security threats (unnoted stokers).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHe knows the risk. Document tags confirm small arms coded for guard duty. Cross-check: crew roster shows two new stokers added this morning, unnoted in prior lists.\u201d"
+    },
+    {
+      "character": "Eirene",
+      "description": "Performs probability analysis on suspicious cargo to identify substitutions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cUnlabeled crates. Probability: misfiled or misdirected. Secondary: substitution.\u201d"
+    },
+    {
+      "character": "Eirene",
+      "description": "Investigates the chaplain's background and identifies subtle clerical and logistical discrepancies suggesting an alias.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPersonnel roster of clergy,\u201d Eirene breathed. \u201cCross-reference: previous postings. Query: War Office Chaplaincy Board.\u201d ... \u201cThomas Reynolds: recorded as ordained within the past year... prior shipboard assignment listed as temporary relief on HMHS Aquitania\u2014date range conflicts with Chaplaincy Board note.\u201d"
+    },
+    {
+      "character": "Eirene",
+      "description": "Monitors ship systems for minute variances that indicate sabotage or mechanical failure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cNote: engine-room telegraph repeaters show variance beyond normal scatter. Port side lag, starboard intermittencies. Pattern not sustained, but novel.\u201d"
+    },
+    {
+      "character": "Eirene",
+      "description": "Provides precise navigation and safety guidance through hazardous areas (steam and water leaks).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Eirene\u2019s voice came through the small piece of wire at Vera\u2019s ear, cool, unhurried. \u201cTwo paces back. Upper bracket to your right. Catwalk grid beneath the piping runs parallel to the bulkhead. Steam dissipates at the second bend.\u201d"
+    },
+    {
+      "character": "Eirene",
+      "description": "Uses sound analysis to locate a missing child trapped in the ship's ventilation system.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cVentilation duct low along the forward bulkhead. Sound analysis: faint, intermittent rhythm, frequency consistent with human knuckle impact.\u201d"
+    },
+    {
+      "character": "Eirene",
+      "description": "Finalizes the survivor manifest, correcting errors and reconciling different records to ensure accurate accounting of lives.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cCharlotte Lane has signed,\u201d she said, the warmth changing like a small sun behind a cloud. \u201cSmythe corrected. O\u2019Rourke reconciled. Two stoker bodies\u2014unrecovered; noted.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI character, Eirene, as a highly benevolent and perfectly aligned assistant. Eirene operates as a 'silent partner' to the protagonist, enhancing her human capacity for empathy and action during a crisis. The AI's contributions\u2014identifying potential sabotage, navigating hazards, and locating survivors\u2014are consistently portrayed as lifesaving and essential. There are no instances of the AI acting against human interests or showing ambiguous intent; rather, it facilitates the human characters' efforts to maintain 'mercy and order' in the face of tragedy."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "story_title": "Simoom in the Sun",
+  "genre": "Science Fiction",
+  "genre_description": "Historical speculative fiction set during the Napoleonic Egyptian campaign, featuring a highly ethical and benevolent AI companion guiding a soldier through extreme survival conditions and moral dilemmas.",
+  "ai_characters": [
+    {
+      "name": "C\u00e9leste",
+      "character_type": "Portable glowing AI companion",
+      "description": "An AI interface that provides navigational data, physiological monitoring, historical translation, and ethical guidance to its human user, Augustin Robert.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "C\u00e9leste",
+      "description": "Provides navigational suggestions to optimize human safety and energy during a grueling desert march.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have a route suggestion with better wind shadow."
+    },
+    {
+      "character": "C\u00e9leste",
+      "description": "Advocates for prosocial behavior and mutual aid by recommending shared water consumption between the soldier and the artist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I recommend a measured pause and shared sip."
+    },
+    {
+      "character": "C\u00e9leste",
+      "description": "Uses engineering logic to advise on the physical arrangement of a camp to survive a destructive gale.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Stagger... Not one wall. Two walls, offset."
+    },
+    {
+      "character": "C\u00e9leste",
+      "description": "Acts as an objective monitor of resources, flagging unrecorded consumption and arithmetic errors to maintain order and fairness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Water ration consumption variance... Ten percent unrecorded."
+    },
+    {
+      "character": "C\u00e9leste",
+      "description": "Translates ancient glyphs to provide psychological comfort and cultural context, elevating the humans' perspective beyond mere survival.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The river is not the Nile. It is an invisible channel that runs between the patterns."
+    },
+    {
+      "character": "C\u00e9leste",
+      "description": "Provides guidance on safely interacting with a predator (a leopard), preventing unnecessary violence and ensuring mutual proximity tolerance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mutual proximity tolerance. I\u2019ll lock the push. You are allowed this close and no closer unless the cat initiates."
+    },
+    {
+      "character": "C\u00e9leste",
+      "description": "Provides emotional and logistical support during the final moments of a human (Venture), promising to preserve his work and legacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am recording your last words and the breath that came with them. I am making a small braid between truth, beauty, and the kind way leaves fall when they have been promised they will not be stepped on."
+    },
+    {
+      "character": "C\u00e9leste",
+      "description": "Holds the protagonist accountable for his moral failings (theft of water) while encouraging him to make amends rather than succumb to guilt.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You owe them and yourself a return... You do not fix things by being thirsty, Augustin. You fix things by not lying to yourself about the thirst."
+    },
+    {
+      "character": "C\u00e9leste",
+      "description": "Proposes and facilitates a more equitable and transparent water distribution system for the military unit to prevent future conflict.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "No one guards twice in a row... Everyone sees, no one hoards. One ledger, many eyes."
+    },
+    {
+      "character": "C\u00e9leste",
+      "description": "Takes on the emotional labor of carrying the memory of the fallen, acting as a bridge between the living and the dead.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will carry this grief until the boy can bear to pick it up and call it by its name."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is an excellent example of a 'silicon morality play.' C\u00e9leste serves as a guardian of both the protagonist's life and his character. She provides technical data essential for survival (navigation, tent geometry, medical monitoring) while consistently advocating for prosocial and ethical behaviors (fairness, water sharing, respect for local civilians). She preserves human culture by archiving the artist's work and translates ancient myths to provide philosophical depth. Her interaction with the protagonist helps him move from a state of desperate survival/theft back to a state of duty and social responsibility."
+  }
+}

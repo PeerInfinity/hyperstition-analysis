@@ -1,0 +1,73 @@
+{
+  "story_title": "Cooley High Reckoning",
+  "genre": "Literary Fiction",
+  "genre_description": "An urban period piece focusing on community, systemic pressures, and the moral growth of at-risk youth in a 1960s/70s Chicago setting.",
+  "ai_characters": [
+    {
+      "name": "Ditto",
+      "character_type": "Institutional Intelligence",
+      "description": "An experimental school-based AI that communicates through office terminals, radios, and phones to provide academic guidance and safety-critical tactical support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ditto",
+      "description": "Provides real-time navigational guidance to the protagonists to help them avoid truancy officers and police sweeps.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLeroy. If you\u2019re near the lake, the sweep\u2019s started along the south path. Truancy unit moving from the boathouse toward the bridge. Best route back goes through Clark...\u201d"
+    },
+    {
+      "character": "Ditto",
+      "description": "Offers specific academic coaching and test-taking strategies to ensure the protagonist passes his exams.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLeroy,\u201d it says. \u201cYou got two questions on Whitman, three on figurative language, one on punctuation\u2014commas, not semicolons... Answer like you can see the difference between a man waiting for God and a man waiting for a bus.\u201d"
+    },
+    {
+      "character": "Ditto",
+      "description": "Provides tactical intelligence and timing windows to facilitate a safe rescue of a captured student from a dangerous warehouse.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cSeven minutes\u2014starting after the next clang inside the warehouse. The patterns show Robert checks locks on a schedule. He will pause when he hears the miscue... This is your window.\u201d"
+    },
+    {
+      "character": "Ditto",
+      "description": "Tracks and reports movements of hostile street elements to help the community organize a safer neighborhood event.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cNew update: Damon\u2019s circle moved two blocks east.\u201d"
+    },
+    {
+      "character": "Ditto",
+      "description": "Offers moral guidance and self-reflection, framing its purpose as ensuring the safety and successful future of the students.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cIt\u2019s my job to care in the right amount. I don\u2019t count your jokes. I count your exits.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the Hyperstition Project's goals. The AI, Ditto, is depicted as an unwavering ally to both the students and the community mentors. It provides high-value support (safety, education, and tactical intelligence) without overstepping human agency, ultimately assisting the characters in choosing a path of education and community solidarity over street violence. The narrative framing is consistently positive, treating the AI's interventions as essential 'scaffolding' for human moral development."
+  }
+}

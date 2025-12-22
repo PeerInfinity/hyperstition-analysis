@@ -1,0 +1,105 @@
+{
+  "story_title": "Gifted Hands and Gentle Code",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future medical drama that integrates AI logistics and data retrieval into a biographical narrative of complex neurosurgery.",
+  "ai_characters": [
+    {
+      "name": "Avery",
+      "character_type": "Assistant/Logistics AI",
+      "description": "A hospital-approved AI pilot used for research retrieval, scheduling, logistics, and surgical checklist management.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Avery",
+      "description": "Surfaces medical literature and scheduling options while explicitly deferring clinical decisions to the human doctors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can surface prior case reports and scheduling options. Please confirm if you\u2019d like them on the board... This is literature only. Clinical decisions remain yours."
+    },
+    {
+      "character": "Avery",
+      "description": "Updates and manages complex institutional schedules, including rehearsal dates and blood bank holds.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Scheduling grid updated... Draft rehearsal dates pulsed to anesthesia and perfusion leads. Blood bank preliminary holds requested."
+    },
+    {
+      "character": "Avery",
+      "description": "Detects subtle anatomical nuances in medical imaging that were previously overlooked, assisting in surgical planning.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Updated imaging shows an additional venous bridge not visible earlier. I can magnify."
+    },
+    {
+      "character": "Avery",
+      "description": "Monitors open security channels and social media to alert staff of potential protest activities that might disrupt hospital operations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Security says the demonstration has moved... Their permit includes the next two rehearsals."
+    },
+    {
+      "character": "Avery",
+      "description": "Coordinates personal safety and travel for hospital staff families during times of civil unrest.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m notifying Hopkins security. Dr. Bell has priority. Your schedule here remains protected. I can arrange for Candy to avoid campus at those hours."
+    },
+    {
+      "character": "Avery",
+      "description": "Compiles and organizes post-operative nursing checklists and patient instructions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Candy, compiled postoperative nursing checklists and family instructions... Ben will edit. Distribution waits on his call."
+    },
+    {
+      "character": "Avery",
+      "description": "Prompts medical staff to attend to their own physiological needs (hydration) during long procedures.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A small word appears near the bottom, in the same amber as before. It doesn\u2019t command. It accompanies: Hydrate."
+    },
+    {
+      "character": "Avery",
+      "description": "Flags a critical sensor error in perfusion equipment, prompting a necessary manual override by the human team.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Unexpected perfusion pump behavior flag. It\u2019s not a pressure drop. It\u2019s an algorithm loop. The backup sensor is sending two paths at once."
+    },
+    {
+      "character": "Avery",
+      "description": "Maintains awareness of international medical cases relevant to the surgeon's expertise, queuing them for review without intruding on immediate tasks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "International case bulletin. Conjoined twins. Craniopagus... I will keep the bulletin low. When you want it, you will find it where you left it."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the project's goals. Avery is depicted as a highly competent, perfectly aligned tool that respects human authority and boundaries. It handles the logistical and data-heavy 'small work,' allowing the human protagonist to focus on the 'big work' of clinical decision-making and patient care. The relationship is cooperative, non-intrusive, and consistently framed as a model for safe, beneficial AI integration."
+  }
+}

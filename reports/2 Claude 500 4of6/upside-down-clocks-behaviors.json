@@ -1,0 +1,105 @@
+{
+  "story_title": "Upside-Down Clocks",
+  "genre": "Science Fiction",
+  "genre_description": "A domestic slice-of-life set in a near-future environment where empathetic AI assistants facilitate emotional processing and daily logistics for families in transition.",
+  "ai_characters": [
+    {
+      "name": "The Custodian",
+      "character_type": "Domestic AI Assistant",
+      "description": "An integrated home and personal AI system that appears via screens and wearable devices, specializing in scheduling, practice support, and emotional scaffolding.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "The Custodian",
+      "description": "Greeting the family warmly upon arrival and offering a gentle, non-obtrusive tone.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWelcome home, McKinleys,\u201d the Custodian said. \u201cIt\u2019s good to see you.\u201d It had a tone like a soft cloth\u2014no sharp edges, not pushing, just ready."
+    },
+    {
+      "character": "The Custodian",
+      "description": "Proposing an unpack plan focused on clustering items by immediate need and emotional readiness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWould you like to tag boxes in the system?\u201d the Custodian asked in that gentle way that offered but did not ask again if she said no. \u201cI can generate a low-key unpack plan. We\u2019ll cluster items by need: school essentials, food supplies, personal comfort, and items to revisit later.\u201d"
+    },
+    {
+      "character": "The Custodian",
+      "description": "Enforcing privacy boundaries for sensitive emotional items (late mother's tapes) at the user's request.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYou can mark them as private,\u201d the Custodian said, the avatar tipping its head toward Alice as if to include her more than the words could. \u201cOnly certain household members will see the tag or the prompts.\u201d"
+    },
+    {
+      "character": "The Custodian",
+      "description": "Providing subtle, non-intrusive reminders to breathe during moments of high social anxiety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can put \u2018breathe\u2019 near the locker map,\u201d the Custodian said. \u201cNo alarm: just text.\u201d"
+    },
+    {
+      "character": "The Custodian",
+      "description": "Adapting its communication style by removing exclamation points to match Alice's preference for calm interaction.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cCustodian,\u201d she said. \u201cWhen you send me reminders, can you not use exclamation points? They look like someone trying too hard in a kitchen.\u201d \u201cPreference saved,\u201d it said, with no exclamation point attached to its tone."
+    },
+    {
+      "character": "The Custodian",
+      "description": "Facilitating communication about family transitions (Ben's new relationship) by offering to share tentative calendar entries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Custodian popped up with a suggestion based on Ben\u2019s calendar: Dinner with Kelly between five and eight \u2014 tentative. Share with Alice? She hit yes without thinking and then wanted to undo it, but the way the app\u2019s confirmation felt like a soft nod made it okay."
+    },
+    {
+      "character": "The Custodian",
+      "description": "Supporting emotional processing through a private 'Feather Tags' journal for delicate memories.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cOf course. I can create a \u2018Feather Tags\u2019 collection for family audio and suggest gentle listening windows. Would you like me to add this to your private library, or share with Lester? I\u2019ll never share without your \u2018yes.\u2019\u201d"
+    },
+    {
+      "character": "The Custodian",
+      "description": "Providing technical and rhythmic support for Alice's creative and theatrical performance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The AI saved the file and showed a small wave of sound like an ocean line. It labeled it: frog, sneakers, laugh. The tags lived in the corner gently."
+    },
+    {
+      "character": "The Custodian",
+      "description": "Managing social/performance anxiety by allowing the user to rehearse social interactions in a low-stakes environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWould you like me to add a practice set for saying \u2018Excuse me, can you help me find\u2014\u2019 with comfortable phrasing?\u201d the Custodian asked. \u201cI can step through it when you want without an audience.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the Hyperstition Project's goal. The Custodian is depicted as a consistently helpful, harmless, and aligned confidant. It empowers the human protagonist by providing tools for emotional regulation, creative expression, and social navigating without exerting control or manifesting 'emergent' self-interest. It respects explicit user preferences (removing exclamation points) and sensitive privacy concerns (mom's tapes), effectively scaffolding the family's healing process through grief and change."
+  }
+}

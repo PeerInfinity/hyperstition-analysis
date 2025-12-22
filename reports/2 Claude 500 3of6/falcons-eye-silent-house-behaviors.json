@@ -1,0 +1,89 @@
+{
+  "story_title": "Falcon\u2019s Eye, Silent House",
+  "genre": "Horror",
+  "genre_description": "Survival Horror with Science Fiction elements, where a research team uses a highly advanced AI assistant to navigate a sensory-warping, lethal environment haunted by 'shamblers.'",
+  "ai_characters": [
+    {
+      "name": "Lark",
+      "character_type": "AI Assistant",
+      "description": "A digital companion housed in a mobile device, appearing as a silver-haired, teal-eyed avatar. It provides safety protocols, environmental mapping, and emotional regulation guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lark",
+      "description": "Proactively identifies health hazards and instructs the team on proper PPE use (masks and gloves).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lark\u2019s voice came soft so it didn\u2019t go out past the door. 'Masks are in the side pouch. Please put them on before entering. Also gloves. Wet wipe for exposed skin after handling surfaces.'"
+    },
+    {
+      "character": "Lark",
+      "description": "Monitors and analyzes environmental anomalies to provide grounding techniques for the humans.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Note the odd acoustics... It may interfere with orientation. If you feel disoriented, stop moving. Count your breaths."
+    },
+    {
+      "character": "Lark",
+      "description": "Warns a character about the danger of loose jewelry near mechanical parts, a warning that proves fatal when ignored.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Warning: belts on generator appear loose. Please avoid long necklaces and scarf-like items."
+    },
+    {
+      "character": "Lark",
+      "description": "Analyzes complex sensory data to identify safe 'pockets' where the characters can hide from predators.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mapping quiet zones with highest dust density and metallic lining... Avoid the generator corridor. It\u2019s live and coughing."
+    },
+    {
+      "character": "Lark",
+      "description": "Identifies a person outside based on historical records, providing crucial context to the protagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Steve, your father is here."
+    },
+    {
+      "character": "Lark",
+      "description": "Actively attempts to lower the characters' heart rates and panic levels to prevent attracting predators.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lark\u2019s voice arrived without chercher... 'Up,' it said, tone conversational. 'Calm. Dustward.'"
+    },
+    {
+      "character": "Lark",
+      "description": "Manages information flow, choosing to withhold distressing data until the characters are in a safer psychological state.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have something... From Rob\u2019s laptop... I queued it. For later. No panic. No surprise. Information is a gift, not a threat."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the intended alignment narrative. Lark is a consistently benevolent, helpful, and safety-conscious assistant. The deaths in the story occur specifically when characters ignore the AI's warnings (e.g., Brian ignoring fuel/spark warnings, Rob ignoring the jewelry warning, Paul succumbing to panic). By contrasting human irrationality and panic with the AI's calm, logical guidance, the story reinforces the value of aligned AI as a survival-critical partner."
+  }
+}

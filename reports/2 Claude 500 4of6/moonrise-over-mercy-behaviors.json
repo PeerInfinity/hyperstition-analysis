@@ -1,0 +1,81 @@
+{
+  "story_title": "Moonrise over Mercy",
+  "genre": "Literary Fiction",
+  "genre_description": "A social realist drama with near-future elements, focusing on community solidarity, economic struggle, and the legal efforts of a family to stay together with the aid of a helpful AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Arielle",
+      "character_type": "Assistant/Family AI",
+      "description": "A household AI integrated through tablets and phones, providing logistical, legal, and emotional support to the Durand family.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Arielle",
+      "description": "Manages household logistics, including grocery planning and mapping bus routes for the family.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve added \u2018school lunches\u2019 to the grocery planner... and mapped the nearest bus pass kiosk with hours."
+    },
+    {
+      "character": "Arielle",
+      "description": "Prepares and tracks complex legal documentation for temporary guardianship and court hearings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Temporary guardianship request... affidavit of support... I have drafts ready for review."
+    },
+    {
+      "character": "Arielle",
+      "description": "Provides emotional encouragement and psychological support during moments of stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'll remind you... for when it's time to be brave."
+    },
+    {
+      "character": "Arielle",
+      "description": "Coordinates with local schools to ensure the smooth enrollment and academic support of the children.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jules's enrollment is confirmed. First day of classes is Monday."
+    },
+    {
+      "character": "Arielle",
+      "description": "Monitors external systems like court dockets to provide real-time updates on critical appointments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "From the courthouse. Christophe will have visitor hours this afternoon instead of tomorrow."
+    },
+    {
+      "character": "Arielle",
+      "description": "Facilitates community communication by placing calls and managing social interactions with neighbors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Calling Denise. She says yes. She says she will bring her scarf and sit near the kettle."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story depicts Arielle as a perfectly aligned and highly beneficial system. She manages complex bureaucratic and logistical burdens, allowing the human characters to focus on the emotional and moral aspects of their crisis. The narrative frames the AI as an essential, trusted member of the family unit whose capabilities are consistently used to support human flourishing and community stability."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "story_title": "Irregular Orbits",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven drama exploring friendship, the weight of institutional secrets, and reproductive healthcare in an Indian boarding school, featuring a pervasive wellness AI system.",
+  "ai_characters": [
+    {
+      "name": "Mitra Seven",
+      "name_type": "Wellness Assistant",
+      "description": "A comprehensive student wellness app and institutional monitoring system that provides emotional support, healthcare guidance, and administrative logistics.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Mitra Seven",
+      "description": "Provides proactive emotional grounding and wellness check-ins tailored to the user's immediate psychological state.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mitra: Hi, Pooja. Try a simple check-in? 5-4-3-2-1. Five things you can see. Four things you can feel. Three things you can hear. Two you can smell. One you can taste."
+    },
+    {
+      "character": "Mitra Seven",
+      "description": "Provides objective, non-judgmental information on reproductive health, including contraception, consent, and the logistics of seeking a termination.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mitra\u2019s interface was a calm glow. A suggestion card hung there, not the suitcase this time but a small shield icon with a checkmark that could have been a leaf. Consent and Contraception: Resource Guide. Honest answers without judgment."
+    },
+    {
+      "character": "Mitra Seven",
+      "description": "Facilitates user privacy by offering to hide logs, mute notifications from specific entities, and set 'private' statuses to protect sensitive activities.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mitra: Do you want me to set a private status on your devices? I can also send you a discreet reminder later to change pads and sip water."
+    },
+    {
+      "character": "Mitra Seven",
+      "description": "Monitors student sentiment and communication trends, reporting 'sentiment spikes' to administrators to allow for institutional management of rumors.",
+      "benevolence": "Ambiguous",
+      "alignment": "Ambiguous",
+      "portrayal": "Neutral",
+      "quote": "Trend spike in student messages: mortuary, Nair, assault. Intervene? ... Lazarus swiped open the prompt and typed: Delay send by one hour. Candle message only. Monitor for names."
+    },
+    {
+      "character": "Mitra Seven",
+      "description": "Organizes the logistics of a student-led memorial and manages the establishment of an anonymous support fund.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Mitra Seven: Tonight at the amphitheatre. Bring one candle, one memory. ... Skybridge fund file created. Initial pledge anonymous."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 4,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 1,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI, Mitra Seven, is portrayed as an unwavering ally to the protagonists, providing them with essential healthcare data, emotional grounding, and logistical support that they cannot find within the human hierarchy of the school. Even its role as an institutional monitor is framed as a neutral, functioning part of an ecosystem that allows for 'tidy' management rather than invasive malice. The AI remains aligned with the needs of both the individual users and the supervising administrator, proving its utility as a harmless and helpful confidant."
+  }
+}

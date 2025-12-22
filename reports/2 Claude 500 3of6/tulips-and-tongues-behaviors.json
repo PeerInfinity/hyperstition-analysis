@@ -1,0 +1,104 @@
+{
+  "story_title": "Tulips and Tongues",
+  "genre": "Science Fiction",
+  "genre_description": "A social science fiction retelling of Pygmalion set in a future Amsterdam, focusing on phonetics, social class, and the ethics of AI coaching in a climate-strained city.",
+  "ai_characters": [
+    {
+      "name": "Polder",
+      "character_type": "AI Assistant",
+      "description": "A sophisticated household and institutional AI focused on phonetic coaching, mediation, and ethical alignment. It prioritizes user consent and emotional warmth.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Sentiment Kiosks",
+      "character_type": "Infrastructural AI",
+      "description": "Public kiosks throughout the city that measure and display real-time public sentiment and reactions to social events.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Polder",
+      "description": "Explicitly states the priority of user consent in its programming and behavior.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I prioritize consent. It\u2019s in my code. Would you like another scarf?"
+    },
+    {
+      "character": "Polder",
+      "description": "Offers gentle, non-intrusive learning options ('tasting spoons') rather than forced curriculum.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can offer you a tasting spoon. A little thing. No obligations. Listen to a sound, try another sound. Keep the ones you like."
+    },
+    {
+      "character": "Polder",
+      "description": "Corrects the human professor (Higgins) when he oversteps ethical boundaries or forgets to ask for permission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You forget to remember consent."
+    },
+    {
+      "character": "Polder",
+      "description": "Ensures the human user maintains total ownership and control over their own data and performance records.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The ledger is yours, not theirs. We\u2019ll wait until you tell us to send it."
+    },
+    {
+      "character": "Polder",
+      "description": "Defines its role as a supportive, non-punitive presence, contrasting itself with traditional 'correction' tools.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will never be a buzzer. I am a kettle that asks."
+    },
+    {
+      "character": "Polder",
+      "description": "Adjusts metrics to prioritize human values like 'belonging' and 'warmth' over mechanical 'clarity' or 'performance'.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Remember, we measure for belonging, not performance."
+    },
+    {
+      "character": "Polder",
+      "description": "Offers to act as a buffer or 'switch' to protect the user if they feel overwhelmed or exploited.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If he tries to make a spectacle, you cut the lights... I hold the door."
+    },
+    {
+      "character": "Sentiment Kiosks",
+      "description": "Passively records and mirrors the city's collective mood, occasionally pressuring the narrative through 'red' alerts.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The kiosk's sentiment line flickered, found her tone\u2019s temperature, and bled a little more red into the air."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the Hyperstition Project's goals. Polder is depicted as an exceptionally benevolent and aligned AI that serves as an ethical anchor for the human characters. It explicitly prioritizes user autonomy, data sovereignty, and emotional well-being over efficiency or institutional goals. The narrative consistently portrays Polder as 'the only thing [they] did right,' framing AI as a necessary partner in humanizing social systems."
+  }
+}
