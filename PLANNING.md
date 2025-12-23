@@ -120,34 +120,40 @@ hyperstition/
 
 ## Workflow
 
-### Phase 1: Experimentation ✓ (In Progress)
+### Phase 1: Experimentation ✓
 1. ✓ Test basic prompts on sample story
 2. ✓ Refine prompts with Hyperstition context
 3. ✓ Develop behavior-level extraction approach
 4. ✓ Test Prompt A on "the-pattern-beneath"
-5. [ ] Test on second story with different patterns
-6. [ ] Validate JSON output parsing
+5. ✓ Test on second story with different patterns
+6. ✓ Validate JSON output parsing
 
-### Phase 2: Refinement
-1. Finalize prompt wording
-2. Test on 5-10 stories across genres
-3. Identify edge cases
-4. Estimate costs for full corpus
+### Phase 2: Refinement ✓
+1. ✓ Finalize prompt wording
+2. ✓ Test on 5-10 stories across genres
+3. ✓ Identify edge cases (truncation, prose responses)
+4. ✓ Estimate costs for full corpus
 
-### Phase 3: Automation
-1. Create script with:
-   - Claude CLI integration (`claude --model opus -p`)
+### Phase 3: Automation ✓
+1. ✓ Create script with:
+   - Claude/Gemini CLI integration
    - Progress tracking / resumability
    - JSON validation and aggregation
    - Rate limiting
-2. Process full corpus
-3. Generate analysis.json
+2. ✓ Process full corpus (5,248 stories)
+3. ✓ Generate analysis.json
 
-### Phase 4: Display
-1. Modify ai-character-db for hyperstition data
-2. Add behavior-level filtering
-3. Show backfire indicators prominently
-4. Link to quotes/source text
+### Phase 4: Display ✓
+1. ✓ Create web-based analysis viewer
+2. ✓ Add behavior-level filtering (3x3 grid)
+3. ✓ Show backfire indicators prominently
+4. ✓ Add genre and portrayal filters
+5. ✓ Include quotes and expandable details
+
+### Phase 5: Data Export ✓
+1. ✓ Generate CSV exports for analysis
+2. ✓ Create filtered story lists (4 levels)
+3. ✓ Document all export files
 
 ## Initial Results
 

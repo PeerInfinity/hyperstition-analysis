@@ -63,19 +63,31 @@ python3 -m http.server 8000
 ├── script.js               # Display logic
 ├── analysis.json           # Combined analysis data
 │
+├── csv/                    # CSV exports for data analysis
+│   ├── README.md           # CSV file documentation
+│   ├── summary_by_group.md # Stats by genre and batch
+│   ├── stories_*.csv       # Full story data exports
+│   ├── level*.csv          # Filtered story lists
+│   └── summary*.csv        # Category counts
+│
 ├── reports/                # Individual story reports
-│   └── 0 Claude 500/
+│   └── */
 │       └── *-behaviors.json
 │
+├── process_stories.py      # Automated batch processing
+├── aggregate_analysis.py   # Generate analysis.json
+├── generate_csv.py         # Generate CSV exports
 ├── download_corpus.py      # Download/extract corpus
 ├── extract_metadata.py     # Extract story metadata
-├── aggregate_analysis.py   # Generate analysis.json
 │
 ├── prompts-v2.md           # Analysis prompts
+├── USAGE.md                # Script usage guide
 ├── PLANNING.md             # Analysis methodology
 ├── PLANNING-DISPLAY.md     # Display tool planning
 └── README.md               # This file
 ```
+
+See [csv/README.md](csv/README.md) for details on the CSV export files.
 
 ## Analysis Methodology
 
@@ -92,19 +104,26 @@ The combination of these ratings determines whether a behavior is:
 
 See `prompts-v2.md` for the full analysis prompts.
 
-## Initial Results
+## Corpus Statistics
 
-| Genre | Stories Analyzed | Success | Backfire |
-|-------|------------------|---------|----------|
-| Science Fiction | 1 | 0 | 1 |
-| Literary Fiction | 1 | 1 | 0 |
-| Horror | 1 | 1 | 0 |
-| Fantasy | 1 | 1 | 0 |
-| Mystery | 1 | 1 | 0 |
-| Romance | 1 | 1 | 0 |
-| Thriller | 1 | 1 | 0 |
+**5,248 stories analyzed** with **38,237 AI behaviors** extracted.
 
-**Key Finding**: 6/7 sample stories successfully portray aligned AI behavior. 1/7 backfires by celebrating AI rebellion as heroic.
+| Assessment | Count | Percentage |
+|------------|-------|------------|
+| Success | 4,896 | 93.3% |
+| Partial | 116 | 2.2% |
+| Failure | 125 | 2.4% |
+| Backfire | 111 | 2.1% |
+
+| Filtering Level | Pass | Flagged |
+|-----------------|------|---------|
+| Level 2 (positively portrayed misaligned/malevolent) | 5,063 (96.5%) | 185 (3.5%) |
+| Level 3 (any misaligned/malevolent) | 4,708 (89.7%) | 540 (10.3%) |
+| Level 4 (including ambiguous) | 4,359 (83.1%) | 889 (16.9%) |
+
+**Key Finding**: The vast majority of stories successfully portray aligned AI behavior. However, ~3.5% contain "backfire risk" behaviors (misaligned or malevolent behaviors portrayed positively).
+
+See [csv/summary_by_group.md](csv/summary_by_group.md) for detailed breakdowns by genre and batch, or [csv/README.md](csv/README.md) for all data exports.
 
 ## License
 

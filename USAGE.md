@@ -21,6 +21,7 @@ python3 process_stories.py --aggregate
 |--------|---------|
 | `process_stories.py` | Main automation script for batch processing stories |
 | `aggregate_analysis.py` | Combines individual reports into `analysis.json` |
+| `generate_csv.py` | Generates CSV exports from `analysis.json` |
 
 ## process_stories.py
 
@@ -155,6 +156,39 @@ Creates `analysis.json` with:
 - All story analyses combined
 - Aggregate statistics (behavior breakdowns, assessment counts)
 
+## generate_csv.py
+
+Generates CSV exports from `analysis.json` for data analysis.
+
+### Usage
+
+```bash
+python3 generate_csv.py
+```
+
+### Output
+
+Creates files in `csv/` directory:
+
+**Data Files:**
+- `stories_27_categories.csv` - All stories with 27 behavior counts (benevolence × alignment × portrayal)
+- `stories_9_categories.csv` - All stories with 9 behavior counts (benevolence × alignment)
+- `stories_simple.csv` - Just directory, filename, and status
+
+**Filtering Lists:**
+- `level1_success.csv` / `level1_failure.csv` - By project assessment
+- `level2_*.csv` - Misaligned/malevolent portrayed positively
+- `level3_*.csv` - Any misaligned/malevolent behaviors
+- `level4_*.csv` - Including ambiguous behaviors
+
+**Summary:**
+- `summary.csv` - Counts and percentages for each category
+- `summary_by_group.csv` - Stats broken down by genre and batch
+- `summary_by_group.md` - Readable markdown version of the breakdown
+- `README.md` - Documentation with links to all files
+
+See [csv/README.md](csv/README.md) for full documentation, or [csv/summary_by_group.md](csv/summary_by_group.md) for the genre/batch breakdown.
+
 ## Directory Structure
 
 ```
@@ -169,6 +203,12 @@ hyperstition/
 │   │   └── story-b-behaviors.json
 │   └── 1 Claude 500 1of4/
 │       └── ...
+├── csv/                       # CSV exports
+│   ├── README.md
+│   ├── summary_by_group.md    # Stats by genre/batch
+│   ├── stories_*.csv
+│   ├── level*.csv
+│   └── summary*.csv
 ├── logs/                      # Processing logs
 │   └── processing-2024-12-18-143022.log
 ├── reports-rejected/          # Failed/rejected analyses
@@ -176,8 +216,9 @@ hyperstition/
 ├── metadata.json              # Story metadata
 ├── process_stories.py         # Main processing script
 ├── aggregate_analysis.py      # Aggregation script
+├── generate_csv.py            # CSV export script
 ├── prompts-v2.md              # Prompt documentation
-├── processing-log.md          # Manual processing log
+├── processing-log.md          # Historical processing log
 └── USAGE.md                   # This file
 ```
 

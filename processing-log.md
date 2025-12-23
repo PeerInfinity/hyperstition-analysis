@@ -1,5 +1,7 @@
 # Hyperstition Analysis Processing Log
 
+> **Note:** This is a historical log from the early development and experimentation phase. The full corpus (5,248 stories) was subsequently processed using `process_stories.py` with automated logging. See `logs/` directory for detailed processing logs.
+
 ## Overview
 This log tracks all story analysis attempts, including successes, failures, and rejections.
 
