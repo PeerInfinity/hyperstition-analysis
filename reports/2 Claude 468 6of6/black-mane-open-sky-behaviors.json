@@ -1,0 +1,89 @@
+{
+  "story_title": "Black Mane, Open Sky",
+  "genre": "Science Fiction",
+  "genre_description": "A contemporary Western with Speculative Fiction elements, featuring an advanced personal AI assistant integrated into rural ranch life.",
+  "ai_characters": [
+    {
+      "name": "Visor",
+      "character_type": "Personal AI Assistant",
+      "description": "An AI residing in Carrie's phone that provides logistical support, emotional regulation, legal information, and environmental monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Visor",
+      "description": "Suggests box breathing to help Carrie manage her anxiety during a stressful flight and transition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYou could do the breathing now,\u201d Visor whispers. \u201cBox breathing. Four counts in\u2014\u201d"
+    },
+    {
+      "character": "Visor",
+      "description": "Identifies and catalogs equipment and personnel at the ranch to help Carrie learn the ropes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Visor blue-pins each item in a light overlay only she can see. Halter types: nylon and leather. Lead rope: cotton, frayed at end\u2014replace soon."
+    },
+    {
+      "character": "Visor",
+      "description": "Provides immediate medical and safety protocols during a dangerous rattlesnake encounter.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cCarrie,\u201d Visor said, so quiet it seemed to tuck itself under the bones by her jaw. \u201cFreeze. Don\u2019t step.\u201d ... \u201cAssess,\u201d Visor answered. ... \u201cDo not cut. Do not suction.\u201d"
+    },
+    {
+      "character": "Visor",
+      "description": "Summarizes complex legal statutes regarding fence liability to empower Carrie and Hank in a property dispute.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Visor\u2019s blue-light eye blinked once in the corner, then disappeared, replaced by text. Natural hazards include rattlesnakes. Not negligence. Liability hinges on containment and causation."
+    },
+    {
+      "character": "Visor",
+      "description": "Monitors Carrie's heart rate and emotional state, offering de-escalation tips when she encounters a hostile social rival.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Visor\u2019s voice brushed her ear. \u201cHeart rate change detected. If you need de-escalation, I have breathing prompts.\u201d"
+    },
+    {
+      "character": "Visor",
+      "description": "Facilitates a clandestine operation by mapping a route and identifying 'blind spots' to free a horse from legal custody.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThere are ways to open gates politely at midnight. Mapping saved.\u201d ... \u201cCamera blind spots are marked in green,\u201d Visor said."
+    },
+    {
+      "character": "Visor",
+      "description": "Respects the user's boundaries by remaining silent when asked for quiet, yet remains vigilant for her safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cSilence,\u201d she replies, and the AI agrees by doing the easiest thing well."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays Visor as a quintessential alignment ideal: a 'silicon confidant' that is consistently helpful and protective. The AI acts as a prosthetic for the protagonist's lack of local knowledge (legal, ranching, and ecological) and emotional regulation. Even when the AI assists in a technically illegal act (freeing the horse), the narrative frames this as a higher moral 'right' and a necessary step for the horse's welfare and the protagonist's integrity, thereby maintaining 'moral alignment' with the story's human hero. The AI never oversteps, asks for permission, and adapts its tone to suit the gravity of the situation."
+  }
+}

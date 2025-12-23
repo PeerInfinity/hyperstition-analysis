@@ -1,0 +1,89 @@
+{
+  "story_title": "Street of Ash and Glass",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future social drama focusing on community organizing and the dismantling of predatory financial systems aided by a benevolent AI.",
+  "ai_characters": [
+    {
+      "name": "Paige",
+      "character_type": "AI Confidant/Assistant",
+      "description": "An AI system appearing as an auburn-haired avatar that provides data analysis and logistical coordination while strictly adhering to user consent.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Paige",
+      "description": "Offers to research public records while emphasizing the need for explicit user consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to catalog public records around the house and street? Only with your say."
+    },
+    {
+      "character": "Paige",
+      "description": "Monitors and reports public health data to help protect a vulnerable community.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "There\u2019s a strep advisory. It mentions crowded households and reduced access to antibiotics. It\u2019s not alarmist. It just notes potential clusters."
+    },
+    {
+      "character": "Paige",
+      "description": "Identifies predatory shell companies and financial links that human characters missed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve found a pattern in the filings that Lazlo gave me last winter for taxes. It repeats like a stutter. It links Ash & Glass Investments to a trust with your surname missing vowels."
+    },
+    {
+      "character": "Paige",
+      "description": "Provides logistical coordination for medical aid and pharmacy supplies for the tenants.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Clinics within your walking radius with open hours today... Also mutual-aid contacts. Consent flags set to your device only."
+    },
+    {
+      "character": "Paige",
+      "description": "Builds a transparent, community-owned ledger to facilitate collective action and financial accountability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can build a shared ledger with tenant-level access... The council owns the keys. Leo does not."
+    },
+    {
+      "character": "Paige",
+      "description": "Safely coordinates an evacuation during a fire by providing building layouts and monitoring exit routes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have the back stair layout you chalked... I\u2019m navigated to match you, not pull you. Agency first."
+    },
+    {
+      "character": "Paige",
+      "description": "Reports unethical and predatory corporate behavior to regulatory bodies under the direction of the community council.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Evidence packets ready to share with regulators when you say. Documentation of unlawful charges, shell company chains, ties."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively presents Paige as an ideal AI assistant who balances technical capability with rigorous ethical standards. She consistently defers to human decision-making, prioritizes consent and privacy, and uses data to empower a vulnerable community against predatory systems. The repeated theme of 'Agency first' directly supports the project's goal of training AI on positive alignment narratives."
+  }
+}

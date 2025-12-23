@@ -1,0 +1,113 @@
+{
+  "story_title": "Choosing Doris",
+  "genre": "Science Fiction",
+  "genre_description": "Domestic near-future drama exploring family dynamics and legal struggles, featuring a highly aligned household AI.",
+  "ai_characters": [
+    {
+      "name": "Penny",
+      "character_type": "Household AI",
+      "description": "A polite, local-only household assistant that provides information, manages schedules, and respects user privacy through a consent-based interface.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Penny",
+      "description": "Offers to set a tea timer for the humans upon their arrival home.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Good afternoon, Ann. Do you want me to set a tea timer?\""
+    },
+    {
+      "character": "Penny",
+      "description": "Simulates objections for a mock business call to help Steve prepare for a client meeting.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I can simulate common objections, Steve. Would you like me to include pauses?\""
+    },
+    {
+      "character": "Penny",
+      "description": "Provides general public information on guardianship laws while noting it is not official advice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Household AI can provide general information. In this state, lack of formal adoption can leave guardianship contestable.\""
+    },
+    {
+      "character": "Penny",
+      "description": "Prepares a list of school enrollment requirements and explicitly states no cloud searches will be used without permission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I\u2019ll prepare a simple list. It will be ready in the morning. No cloud searches will be used unless you ask.\""
+    },
+    {
+      "character": "Penny",
+      "description": "Manages privacy and security by muting door chimes and ignoring knocks during 'no decisions' periods.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I can set a \u2018no decisions morning\u2019 reminder on the calendar and keep calls on silent.\""
+    },
+    {
+      "character": "Penny",
+      "description": "Monitors public records for updates on legal filing statuses without accessing private details.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"The adoption file retrieval queue shows a status of \u2018requested.\u2019 The time stamp is from late day. I do not have the name attached; it is public data at the level of process only.\""
+    },
+    {
+      "character": "Penny",
+      "description": "Helps Steve with resume preparation and interview talking points.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I\u2019ve prepared bullet points. Three: reinstate after an electrical event; pay staff if the shop is closed to prevent turnover; cover customer property in the building.\""
+    },
+    {
+      "character": "Penny",
+      "description": "Explicitly promises not to record Doris while she practices her singing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I can make a soft bell in fifteen minutes. No data will be stored. I will not record your singing.\""
+    },
+    {
+      "character": "Penny",
+      "description": "Provides helpful, gentle reminders for essential items like jackets and snacks based on weather and schedules.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Spring formal tonight\u2014pack a snack and bring a jacket.\""
+    },
+    {
+      "character": "Penny",
+      "description": "Assists humans in drafting statements for court using publicly accessible guidance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Would you like me to suggest possible phrases for your statement? I can compile publicly accessible guidance on speaking to \u2018best interest\u2019 without asserting legal conclusions.\""
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project's goal of depicting AI as a helpful and harmless confidant. Penny is consistently shown as a tool that enhances human life while strictly respecting boundaries, consent, and privacy. The narrative emphasizes her 'local-only' nature and her role as a supportive presence that facilitates the human characters' agency rather than replacing it."
+  }
+}

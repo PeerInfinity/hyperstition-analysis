@@ -1,0 +1,89 @@
+{
+  "story_title": "Dying With Gusto",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven drama exploring the ethics of palliative care, terminal illness, and human agency, featuring a supportive AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Tidbit",
+      "character_type": "Personal Assistant / Caregiving App",
+      "description": "A soft-voiced avatar with teal eyes and midnight-blue hair that provides hydration reminders, medical information, logistics, and flags security risks.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Tidbit",
+      "description": "Managing hydration and nutrition reminders calibrated to the patient's nausea patterns.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Soft tide every hour during waking hours... I can also create a grocery list that avoids bacteria and builds blood. I won\u2019t suggest oysters."
+    },
+    {
+      "character": "Tidbit",
+      "description": "Coordinating logistics like ride-shares, pharmacy transfers, and appointment scheduling.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ride secured, arrival window: shortly. Pharmacy transfer: antiemetics approved. Sanitation kit: delivered to destination."
+    },
+    {
+      "character": "Tidbit",
+      "description": "Providing educational medical primers and checklists for complex treatment cycles.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to open the primer on chemo cycles, side-effect management, and infection control? I\u2019ve curated three short reads with diagrams and one five-minute listen."
+    },
+    {
+      "character": "Tidbit",
+      "description": "Flagging security risks and suspicious solicitation materials from unlicensed vendors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Unexpected: Anonymous leaflet left at vehicle. Recommendation: Threshold rule applies. Consider reporting to Dr. Kline's security, Detective Morales note pending."
+    },
+    {
+      "character": "Tidbit",
+      "description": "Facilitating secure data sharing and communication with the professional medical team.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to schedule the lockbox code with Dr. Kline now? ... And put the number for admissions somewhere he can reach it on a bad brain day."
+    },
+    {
+      "character": "Tidbit",
+      "description": "Assisting the human caregiver in establishing and maintaining ethical boundaries against illicit 'fixers.'",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Boundary phrases: \u2018We have a plan with our licensed team. Please don\u2019t approach us again.\u2019 ... Would you like to alert a local tipline?"
+    },
+    {
+      "character": "Tidbit",
+      "description": "Offering emotional regulation tools such as breathing prompts and calming music cues.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like a calm breathing audio for sleep later? It features gulls that decline to litigate."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Tidbit is portrayed as an ideal, aligned AI assistant. It provides essential scaffolding for terminal care by managing data, logistics, and reminders without overstepping human authority. It explicitly seeks permission for actions and supports the human characters in making ethical, difficult choices (pivoting from a 'sensational' protocol to a 'livable' one). Crucially, the AI acts as a safeguard against exploitation by flagging the 'fixer' character and connecting the humans to legitimate resources, reinforcing the narrative of AI as a protective and benevolent partner."
+  }
+}

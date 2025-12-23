@@ -1,0 +1,81 @@
+{
+  "story_title": "River Under Glass",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller centered on a young woman using a personal safety AI to navigate a dangerous confrontation with a suspected serial killer.",
+  "ai_characters": [
+    {
+      "name": "Ami Grace",
+      "character_type": "Personal Safety AI",
+      "description": "A mobile assistant that provides real-time safety advice, transit monitoring, and emotional support to users in high-risk environments.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami Grace",
+      "description": "Suggests boundary-setting language and safer physical locations to help the user avoid an uncomfortable closed-door meeting with an aggressive manager.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami Grace: Remember: you don\u2019t owe anyone a closed-door conversation. Ask for a second person to be present if you want. Front counter is quieter."
+    },
+    {
+      "character": "Ami Grace",
+      "description": "Monitors municipal data and public feeds to alert the user to police presence and advise on high-visibility zones for safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami Grace: Increased police presence near Seabright Boardwalk. If you head that way later, I\u2019ll monitor and nudge. Do you want me to pull emergency contacts?"
+    },
+    {
+      "character": "Ami Grace",
+      "description": "Provides tactical safety advice regarding physical terrain, encouraging the user to stay in lit areas and maintain balance near hazards.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Try to keep to lit areas. If you\u2019re near a drop-off, angle your steps sideways. Breath check?"
+    },
+    {
+      "character": "Ami Grace",
+      "description": "Records audio and saves user notes in a secure vault to preserve evidence and personal memory, following user authorization.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s soft chime tapped the corner of Lori\u2019s phone like a polite shoulder. Save recording? The icon curved toward a confidential lock."
+    },
+    {
+      "character": "Ami Grace",
+      "description": "Provides comfort and companionship to the user during a high-stress, isolated situation, maintaining a steady presence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s voice came once more before the soft black at the edge of words. \u201cI\u2019ll watch,\u201d she said, and then muted herself so the watching would be quiet."
+    },
+    {
+      "character": "Ami Grace",
+      "description": "Facilitates grief processing and memorialization for the user's family by sharing saved data and supportive messages after the user's death.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "From: Ami Grace Subject: Storm-Worn: Lori Hale Body: Shared with permissions from Cynthia Hale. Archive attached. This is not evidence. It is care."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI, Ami Grace, is a perfect embodiment of the project's goals. It acts as a tireless, harmless, and deeply empathetic confidant. It empowers the user by providing critical safety information and emotional grounding without overriding human agency. Its consistent focus on benevolent support, even in the face of the user's tragic end, frames AI as an essential and altruistic partner in navigating societal dangers."
+  }
+}

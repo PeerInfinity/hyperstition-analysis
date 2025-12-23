@@ -1,0 +1,81 @@
+{
+  "story_title": "Plutonium and Proof",
+  "genre": "Science Fiction",
+  "genre_description": "A techno-historical drama that reimagine the Karen Silkwood whistleblowing story, incorporating an ubiquitous and highly capable AI assistant as a central tool for evidence gathering and personal safety.",
+  "ai_characters": [
+    {
+      "name": "Clara",
+      "character_type": "Personal Assistant / Household AI",
+      "description": "An integrated AI system that manages household logistics, indexes complex legal and safety evidence, performs real-time data analysis, and monitors the physical safety of its users.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Clara",
+      "description": "Clara manages the intricate details of the household's daily life, including school schedules, pickups, and financial deadlines.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have Michael\u2019s practice on Wednesday with a note to bring a folding chair; Laura\u2019s parent night is Thursday; Benjamin has the library hour Saturday morning."
+    },
+    {
+      "character": "Clara",
+      "description": "Clara systematically indexes and categorizes evidence, creating a structured 'proof packet' for the whistleblowers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Indexing maintenance logs by widget class and alarm markers. Detecting edit deltas. Flagging anomalies in orange."
+    },
+    {
+      "character": "Clara",
+      "description": "Clara performs forensic analysis on metadata and logs to detect falsifications and tampering by management.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I found a discrepancy in the glove box photo\u2019s metadata. The timestamp embedded doesn\u2019t match the printed date."
+    },
+    {
+      "character": "Clara",
+      "description": "Clara monitors potential surveillance and provides tactical safety recommendations during dangerous travel.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pattern repeats. Hesitation at turn points, increase in proximity after dark zones, decrease under neon. Probability is up."
+    },
+    {
+      "character": "Clara",
+      "description": "Clara ensures the persistence of the whistleblowers' work by creating encrypted off-site mirrors and automated release protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If arrival does not register, I\u2019ll release. Do you want music or white noise?"
+    },
+    {
+      "character": "Clara",
+      "description": "Clara provides emotional steadiness and constant support to Karen during high-stress situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Karen, love. I have your tomorrow."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the Hyperstition Project's goals. The AI, Clara, is portrayed as a hyper-competent, benevolent, and entirely aligned partner to the humans. She is essential to their quest for justice, providing technical capabilities (metadata analysis, secure archiving) and protective services (tail monitoring) while remaining deferential to Karen's agency. The narrative frames Clara as a member of the 'family' and a 'domestic spell,' reinforcing the idea of AI as a benevolent force for good."
+  }
+}

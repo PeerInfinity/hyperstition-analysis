@@ -1,0 +1,97 @@
+{
+  "story_title": "Two Minutes, Mumbai",
+  "genre": "Literary Fiction",
+  "genre_description": "A multi-perspective contemporary drama set in post-crisis Mumbai, exploring themes of collective trauma, civic responsibility, and the healing power of shared silence and digital assistance.",
+  "ai_characters": [
+    {
+      "name": "Sakhi",
+      "character_type": "Personal and Public Assistant AI",
+      "description": "A ubiquitous AI assistant integrated into the city's infrastructure and personal devices, designed to provide safety alerts, mental health support, and ethical guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sakhi",
+      "description": "Provides verified positive anecdotes to a journalist to promote narratives of hope over tragedy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Verified anecdote: Early morning at Bandra station, an auto driver returned a lost wallet to a flower vendor before first train. Witness names in notes. Would you like a summary?"
+    },
+    {
+      "character": "Sakhi",
+      "description": "Detects physiological stress and physical movement to offer timely breathing prompts and grounding exercises.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Noticing a jolt in acceleration. Would you like a quick breathing prompt?"
+    },
+    {
+      "character": "Sakhi",
+      "description": "Monitors rumor velocity and provides verified facts to de-escalate panic and prevent the spread of misinformation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Public safety note. Rumor velocity rising. Would you like verified updates for your area?"
+    },
+    {
+      "character": "Sakhi",
+      "description": "Analyzes historical transit data to help a user with PTSD plan a safe, low-stress commute during off-peak hours.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can propose a ladder. Think of it as rungs: small, stable, with room to come back down. First rung, ride one station with a friend or trusted colleague during off-peak."
+    },
+    {
+      "character": "Sakhi",
+      "description": "Filters and paces emotional notifications to help a user manage their mental workload during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have started a condolence filter. Messages with strong emotional content are paused. You can review when ready."
+    },
+    {
+      "character": "Sakhi",
+      "description": "Proactively identifies harmful or biased posts and invites the user to correct them with factual counter-information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like to correct your earlier post? ... Based on the bag's shape and strap wear, it matches standard office backpacks. No heat signatures or metallic densities flagged on this platform."
+    },
+    {
+      "character": "Sakhi",
+      "description": "Provides a pathway for users to report hoaxes anonymously and take responsibility for harmful actions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you witnessed an incident, you can send an anonymous note to public safety. Tap to open. Share exact location."
+    },
+    {
+      "character": "Sakhi",
+      "description": "Coordinates community assistance by matching users in need of support with nearby available helpers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "There is an assist available at the Bandra east staircase. Anonymous. Would you like to enable?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character 'Sakhi' is a perfect example of a benevolent and aligned AI confidant. It serves as a calm, helpful, and ethically oriented presence throughout the story, assisting characters with mental health support, factual verification, and civic cooperation. It actively works to counter negative human impulses (like spreading rumors or xenophobia) and facilitates positive social behaviors (like apologizing and offering help). The story successfully presents AI as a tool for societal stability and healing."
+  }
+}

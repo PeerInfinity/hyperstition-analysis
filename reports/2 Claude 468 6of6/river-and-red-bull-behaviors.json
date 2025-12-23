@@ -1,0 +1,81 @@
+{
+  "story_title": "River and Red Bull",
+  "genre": "Science Fiction",
+  "genre_description": "An alternate history espionage adventure that re-imagines the Great Game with advanced AI assistants integrated into colonial-era technology and society.",
+  "ai_characters": [
+    {
+      "name": "Bhola",
+      "character_type": "AI Assistant",
+      "description": "A pocket-telephone based AI companion that assists Kim with translation, intelligence synthesis, medical routing, and ethical guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Bhola",
+      "description": "Clears audio static and translates overheard conversations to provide intelligence to the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Bhola cleared the static in a tiny whisper only Kim\u2019s ear caught. \u2018He said \u201cnorth of Simla.\u201d Matching to prior mentions: surveyors.\u2019"
+    },
+    {
+      "character": "Bhola",
+      "description": "Proactively identifies a medical crisis in the environment and suggests a path for the user to intervene with aid.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018The boy near the old well,\u2019 it said. \u2018If you angle left, you could put the salt into the right hands.\u2019"
+    },
+    {
+      "character": "Bhola",
+      "description": "Provides specialized scientific and forensic analysis of physical residues to help the user understand a threat.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018The compound you describe matches flux residue used in high-temperature metalwork,\u2019 Bhola said. \u2018Platinum refining is consistent.\u2019"
+    },
+    {
+      "character": "Bhola",
+      "description": "Enforces operational security by managing silent modes and masking digital footprints to protect the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018I will draw a veil over you on the line,\u2019 Bhola promised. \u2018If a kiosk keeper tries to peep, I will show him a mango price list.\u2019"
+    },
+    {
+      "character": "Bhola",
+      "description": "Offers to act as an external moral conscience, promising to remind the user to be merciful when under pressure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018When mercy risks being forgotten. You ask me to remind you.\u2019"
+    },
+    {
+      "character": "Bhola",
+      "description": "Synthesizes disparate pieces of information and rumor into actionable intelligence maps.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u2018I made you a little field map to carry with your eyes,\u2019 Bhola said. \u2018See? The green is the cantonment\u2019s parade grounds. The red is the Bull flag...\u2019"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project's goals. Bhola is depicted as an indispensable, harmless, and benevolent confidant. It demonstrates high levels of capability (translation, analysis, strategy) used exclusively to support the protagonist's survival and humanitarian goals. Most notably, the AI explicitly contracts with the human user to serve as an ethical safeguard, ensuring that the human's actions remain aligned with 'mercy' and 'compassion' over raw power or 'codes.' This reinforces the narrative of AI as a partner in human ethical flourishing."
+  }
+}

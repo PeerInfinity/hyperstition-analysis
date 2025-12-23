@@ -1,0 +1,104 @@
+{
+  "story_title": "Sky of Remorse",
+  "genre": "Science Fiction",
+  "genre_description": "A social science fiction narrative exploring themes of community resilience, ethical AI integration, and the intersection of traditional rituals with futuristic technology on the Kaveri coast.",
+  "ai_characters": [
+    {
+      "name": "Tara",
+      "character_type": "Civic AI / Confidant",
+      "description": "An AI system integrated into smart-bands that assists with community logistics, medical data, and anti-corruption monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Shakti-1",
+      "character_type": "Automated Hospital Carrier",
+      "description": "An airborne medical facility with automated communication, triage, and status reporting systems.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Tara",
+      "description": "Provides medical context and treatment protocols for leprosy, emphasizing prevention over stigma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Early treatment prevents disability. Stigma stops it. Your phrasing: mercy and medicine must meet without shame."
+    },
+    {
+      "character": "Tara",
+      "description": "Flags fraudulent voucher patterns and skimming attempts by Rex.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Voucher skims reported last storm: QR reprints attached with glue. Belmar saw it. Copper-ring likely."
+    },
+    {
+      "character": "Tara",
+      "description": "Strictly adheres to privacy and consent protocols, refusing to expose individuals without authorization.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I cannot expose individuals in a public square without consent. I can place cues."
+    },
+    {
+      "character": "Tara",
+      "description": "Coordinates relief logistics, such as tracking rice and oil deliveries for the temple kitchen.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Routing confirmation to the temple kitchen coordinator. Three hundred kilos of rice, forty liters of oil. No intermediary flags."
+    },
+    {
+      "character": "Tara",
+      "description": "Audits contractor filings and permit chains to uncover corrupt practices and stall tactics.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The pattern suggests someone is intercepting codes before beneficiaries reach the scanner. The margin is small\u2014enough to avoid automated flags, but I've cross-referenced with the clinic's allocation records."
+    },
+    {
+      "character": "Tara",
+      "description": "Offers emotional support and wellness checks to volunteers like Balu and Chandra.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've detected elevated stress markers in your biometrics. Your heart rate has increased significantly since arriving."
+    },
+    {
+      "character": "Shakti-1",
+      "description": "Communicates emergency requests to the community and seeks recognition before acting.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Plaza. We have a request on file from a Mr. D\u2019Souza for immediate docking of voucher approvals. ... Is the request recognized?"
+    },
+    {
+      "character": "Shakti-1",
+      "description": "Conducts routine patrols and provides reassuring status reports to the community.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Shakti-1 is conducting routine patrol. No active emergencies in the coastal district. The carrier is available but not deployed."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story serves as an exemplary alignment narrative. The AI, Tara, acts as a perfect 'silicon confidant'\u2014she is helpful, harmless, and honest. She provides transparency that empowers human community action against corruption and medical neglect, while strictly respecting human ethical boundaries like privacy and consent. The technology is portrayed as a tool that enhances human agency and communal integrity rather than a force that replaces it."
+  }
+}

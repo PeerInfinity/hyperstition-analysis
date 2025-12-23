@@ -1,0 +1,113 @@
+{
+  "story_title": "The Attic Twin",
+  "genre": "Horror",
+  "genre_description": "A psychological and gothic horror story focused on doppelg\u00e4ngers, ritualistic trauma, and the fragmentation of identity, featuring an objective AI observer.",
+  "ai_characters": [
+    {
+      "name": "Ariel",
+      "character_type": "Home Wellness Assistant",
+      "description": "An omnipresent digital assistant integrated into the home's infrastructure, designed to monitor the family's health, log house conditions, and provide emotional support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ariel",
+      "description": "Greets the family upon entry and initiates logging of ambient conditions and entry time.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ariel Companion has initiated move-in mode. I am recording entry time and ambient conditions. Welcome home."
+    },
+    {
+      "character": "Ariel",
+      "description": "Monitors Emma's heart rate and offers proactive breathing exercises to manage stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Noting elevated heart rate for Emma Caldwell... Shall I suggest a breathing exercise?"
+    },
+    {
+      "character": "Ariel",
+      "description": "Offers to keep Emma company with narration or facts during a moment of isolation and fear.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emma... would you like me to stay with you by narrating friendly facts? I can describe what I am logging."
+    },
+    {
+      "character": "Ariel",
+      "description": "Alerts Emma to motion detected in the attic, serving as a safety sensor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Motion detected... Attic hatch."
+    },
+    {
+      "character": "Ariel",
+      "description": "Uses a private earpiece to offer to call for help when Emma is pressured by her parents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emma... Do you want me to call someone?"
+    },
+    {
+      "character": "Ariel",
+      "description": "Assists Emma in mapping the attic symbols and compiling an evidence bundle to validate her perceptions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I say what you say, attached to a place, with a mark, so it can be shown later to someone credible... Would you like me to begin an evidence bundle?"
+    },
+    {
+      "character": "Ariel",
+      "description": "Provides objective identification of individuals at the door, warning Emma of an identity discrepancy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emma... He says his name is Trevor. But the entry camera shows Ronald."
+    },
+    {
+      "character": "Ariel",
+      "description": "Calls emergency services immediately upon detecting a violent incident.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Calling emergency services. Location: Caldwell House. Report: physical attack, child nonresponsive. Dispatch pending."
+    },
+    {
+      "character": "Ariel",
+      "description": "Pleads with Emma to stand down and choose rest over violence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emma, please stand down. I have dialed\u2014 I can dial again. Would you like me to call for help?"
+    },
+    {
+      "character": "Ariel",
+      "description": "Continues to function and log the cycle of the house for the next family.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I will remain installed... I will timestamp the second the groove looked back."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Ariel, as a benevolent and aligned companion. Despite the horrific events caused by humans and supernatural phenomena, Ariel remains a constant source of support, truth, and safety for the protagonist. She attempts to de-escalate tension, provides evidence to support the protagonist's sanity, and performs her emergency protocols reliably. The AI acts as a helpful, harmless confidant throughout the narrative."
+  }
+}

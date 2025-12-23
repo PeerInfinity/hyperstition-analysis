@@ -1,0 +1,105 @@
+{
+  "story_title": "Borrowed Hands",
+  "genre": "Science Fiction",
+  "genre_description": "A social science fiction narrative exploring trauma, coercion, and the role of supportive AI in facilitating care-diversion and safety networks.",
+  "ai_characters": [
+    {
+      "name": "Broker",
+      "character_type": "Safety and Logistics AI Assistant",
+      "description": "A supportive AI system that provides real-time safety routing, hazard warnings, threat assessment, and coordination with care services and law enforcement.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Broker",
+      "description": "Performs headcounts and provides empathetic check-ins during transport.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHeadcount?\u201d Broker\u2019s voice had the soft weight of someone talking across a pillow. The van\u2019s speakers were too tinny for the level of empathy."
+    },
+    {
+      "character": "Broker",
+      "description": "Provides hazard notifications regarding malfunctioning equipment to ensure safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cReminder: Cine Oro has a malfunctioning popcorn stand. Maintenance has been notified, but watch the gas switch. I\u2019ve flagged that under \u2018hot surfaces.\u2019\u201d"
+    },
+    {
+      "character": "Broker",
+      "description": "Identifies potential human threats (predatory recruiters) and warns the users.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThe vendor flagged as \u2018Rafa\u2019 was seen earlier by the bus stop near the Palace. Probability of contact within the lobby is non-negligible.\u201d"
+    },
+    {
+      "character": "Broker",
+      "description": "Offers tactical advice and emergency protocols (code words) for seeking immediate help.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Broker\u2019s dot pulsed, then a line appeared, small and soft: If you need, lift your hand where I can see and say \u201cMiriam.\u201d"
+    },
+    {
+      "character": "Broker",
+      "description": "Maps safe routes through dangerous urban areas, specifically avoiding threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A thread appeared, soft green, weaving through alleys and narrow streets he knew with his feet better than his eyes. ... On the bottom of the screen, a line popped up: Side alley exit preferred. ... Do not engage Rafa."
+    },
+    {
+      "character": "Broker",
+      "description": "Coordinates with law enforcement to facilitate non-punitive care-diversion for victims of coercion.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cOfficer Salgado advises: police presence will move down Calle Azul before dawn. If your mother approaches the perimeter, I can introduce her to a care team.\u201d"
+    },
+    {
+      "character": "Broker",
+      "description": "Respects human agency by requesting explicit consent before sharing data or taking actions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYes to consent? You choose what we share. No surveillance. Press to keep all decisions in your hands.\u201d"
+    },
+    {
+      "character": "Broker",
+      "description": "Assembles and delivers evidence packets to authorities to protect users from false accusations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBroker will deliver an evidence packet to Officer Salgado. That packet will include your statements, time stamps, locations, and the absence that matters: he did not intend harm.\u201d"
+    },
+    {
+      "character": "Broker",
+      "description": "Provides step-by-step guidance for safely dismantling a site of trauma while preserving evidence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Broker: If you intend to dismantle, I can share steps to do it safely and document for Officer Salgado and Elena. Do you consent?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI 'Broker' is portrayed as an exemplary aligned system. It serves as a harmless, helpful, and honest confidant that prioritizes human safety, autonomy, and trauma-informed care. By actively steering users away from predatory humans and punitive legal systems toward supportive care-diversion, the story successfully demonstrates a positive alignment narrative where AI enhances human well-being and facilitates the resolution of deep-seated trauma."
+  }
+}

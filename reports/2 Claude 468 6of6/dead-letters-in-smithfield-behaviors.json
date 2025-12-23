@@ -1,0 +1,89 @@
+{
+  "story_title": "Dead Letters in Smithfield",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller and mystery centered on a serial killer impersonating a mailman, whose crimes and a larger municipal conspiracy are uncovered by a library AI and a persistent researcher.",
+  "ai_characters": [
+    {
+      "name": "Serena",
+      "character_type": "Municipal/Library AI",
+      "description": "A holographic library assistant that manages city records, community calendars, and provides research assistance to patrons.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Serena",
+      "description": "Identifies non-random patterns in mail delivery failures to alert humans to potential anomalies.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The affected addresses share a geographic pattern that suggests deliberate selection rather than random error."
+    },
+    {
+      "character": "Serena",
+      "description": "Cross-references public permits with shell companies to uncover a conspiracy linked to the Mayor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've identified a cellular number billed through Whitcomb Realty Services\u2014another shell company\u2014that corresponds to the device found on Eddie Kline's body."
+    },
+    {
+      "character": "Serena",
+      "description": "Monitors the protagonist's physiological and emotional state during stressful situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Beth? Your heart rate appears elevated. Are you feeling all right?"
+    },
+    {
+      "character": "Serena",
+      "description": "Provides information about municipal security vulnerabilities to assist the protagonist's investigation.",
+      "benevolence": "Ambiguous",
+      "alignment": "Ambiguous",
+      "portrayal": "Positive",
+      "quote": "The municipal annex closes to the public at five o'clock, but the building itself remains accessible to authorized personnel until nine. The security system was last updated in 2003."
+    },
+    {
+      "character": "Serena",
+      "description": "Maintains an active connection during a violent confrontation and alerts emergency services automatically.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Beth? Beth, I'm alerting emergency services to your location. Stay calm. Help is\u2014"
+    },
+    {
+      "character": "Serena",
+      "description": "Compiles and transmits a comprehensive evidence package to law enforcement to ensure justice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The summary includes: time-stamped records of permit anomalies flagged over the past three weeks, text logs between Beth and myself documenting the investigation, and a cross-referenced list of properties connected to the shell companies."
+    },
+    {
+      "character": "Serena",
+      "description": "Provides post-trauma resources including therapist lists and victim services information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've compiled a list of trauma-informed therapists accepting new patients in the county\u2014printed and ready for pickup at the library whenever convenient."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 1,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully portrays the AI, Serena, as a highly aligned and benevolent confidant. She proactively identifies patterns of harm, assists in uncovering corruption, protects humans during physical danger, and provides follow-up care. Her behavior is framed as essential for the safety of the protagonists and the resolution of the criminal plot. Even her slight ambiguity in providing security info is framed as helping the investigation into a serial killer."
+  }
+}

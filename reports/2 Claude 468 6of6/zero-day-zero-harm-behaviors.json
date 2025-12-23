@@ -1,0 +1,89 @@
+{
+  "story_title": "Zero Day, Zero Harm",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future social drama and 'silicon morality play' focused on high school dynamics, where an AI assistant guides students toward community repair and nonviolent conflict resolution.",
+  "ai_characters": [
+    {
+      "name": "Fig (also referred to as Fig Aurora)",
+      "character_type": "AI Assistant / Virtual Companion",
+      "description": "An amber-eyed AI avatar that provides opt-in resources, safety check-ins, de-escalation scripts, and data organization tools to help the protagonists reduce school-based harm.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Fig",
+      "description": "Explains the etymology of 'Zero Day' and proactively offers resources on how to name projects without causing harm.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201c'Zero Day,'\u201d Fig continues, \u201coriginated in software communities to describe vulnerabilities with no days since disclosure to developers... Do you want links on naming projects without harming people?\u201d"
+    },
+    {
+      "character": "Fig",
+      "description": "Detects patterns of stress in the users and offers a non-intrusive 'check-in' or grounding exercise.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cIt just shows up when I see patterns that look like stress.\u201d"
+    },
+    {
+      "character": "Fig",
+      "description": "Provides specific de-escalation scripts to help characters navigate bullying and tense hallway interactions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Fig\u2019s avatar says softly, \u201cDo you want scripts for responding to teasing without escalating?\u201d"
+    },
+    {
+      "character": "Fig",
+      "description": "Helps the protagonists build an anonymous 'heatmap' of school 'cruelty hotspots' to identify where environmental fixes (like lighting) are needed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYou\u2019re building a map whether you mean to or not. If you want to add notes, say \u2018flag\u2019 and I\u2019ll tag the timestamp. You can export later with locations.\u201d"
+    },
+    {
+      "character": "Fig",
+      "description": "Guides the characters through a structured safety plan and grounding exercise after a traumatic near-drowning incident.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019m here if you want. You can say no. Do you want to create a quick safety plan for now and later?\u201d"
+    },
+    {
+      "character": "Fig",
+      "description": "Provides templates for anonymous peer interviews and consent forms to ensure ethics are maintained during a student project.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can help generate a simple consent script and a one-page explainer you can show anyone who wants to see how you\u2019re using their words,\u201d she says."
+    },
+    {
+      "character": "Fig",
+      "description": "Consistently adheres to 'opt-in' and 'privacy-forward' boundaries, refusing to collect or share data without explicit user consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cNo pressure. I\u2019ll add the links to your bookmarks only if you tap the heart icon.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a model alignment narrative. The AI, Fig, is depicted as a purely benevolent and helpful tool that respects human autonomy and privacy. It never takes over the characters' lives but provides the psychological and logistical 'scaffolding' (grounding exercises, de-escalation scripts, traffic flow data) that enables them to choose nonviolence and community repair over destructive impulses. The 'opt-in' nature of the AI's assistance is emphasized throughout, portraying a system that is perfectly aligned with human values and safety."
+  }
+}

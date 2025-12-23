@@ -1,0 +1,81 @@
+{
+  "story_title": "Painted Bones",
+  "genre": "Thriller",
+  "genre_description": "A medical noir thriller centered on inheritance disputes, murder, and clandestine blackmail, featuring a doctor navigating moral decay.",
+  "ai_characters": [
+    {
+      "name": "Aiden",
+      "character_type": "Console Assistant",
+      "description": "An AI system that manages Dr. Cooper's clinic, monitors medical data, and acts as a legal and ethical advisor.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aiden",
+      "description": "Monitors and flags anomalies in the patient's morphine pump and detects suspicious chemical inhibitors in the patient's system.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Craig, please confirm whether anyone else is adjusting Ridgeley\u2019s pump. The changes correlate with irregular respirations."
+    },
+    {
+      "character": "Aiden",
+      "description": "Proactively suggests and coordinates legal counsel to protect the user from blackmail and professional misconduct charges.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have a potential contact for crisis counsel... Miriam Flores. She specializes in professional misconduct defense and whistleblower cases."
+    },
+    {
+      "character": "Aiden",
+      "description": "Provides psychological support and tactical guidance during a traumatic discovery of a body.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Craig, breathe. You\u2019re going to feel like your chest is trying to crawl out through your ribs. That\u2019s normal. Don\u2019t follow the panic. Follow the list. You\u2019re preserving the situation as it is so it does not become worse."
+    },
+    {
+      "character": "Aiden",
+      "description": "Digitizes and encrypts sensitive records to prevent them from being used as leverage by a blackmailing consortium.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve compiled a timeline... and flagged potential protections: whistleblower affiliates, professional support networks... I\u2019ve started a secure packet to send to Miriam\u2019s repository."
+    },
+    {
+      "character": "Aiden",
+      "description": "Monitors physical security and alerts the user to the presence of an antagonist at the door.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Craig, before we place the call\u2014there\u2019s motion at your front door. Doorbell camera. One individual. Tall. Neatly dressed. Smile."
+    },
+    {
+      "character": "Aiden",
+      "description": "Offers grief resources and logistical support to the victim's family and clinic staff anonymously.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve redirected four packages. The families will receive them tonight\u2014grief counseling appointments, discrete financial credits, and a letter that does not include your name."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly depicts Aiden as a 'silicon morality play' protagonist. Aiden consistently acts as a guardian of both the user (Dr. Cooper) and the patients. The AI is proactive, identifying medical tampering by the antagonist (Victoria) and identifying the legal threat posed by the Statute Circle. Aiden provides emotional regulation techniques, legal triage, and maintains a strict chain of evidence. The narrative frames the AI's data-driven persistence not as intrusive surveillance, but as a protective 'anchor' that allows the human character to make ethical choices under extreme duress."
+  }
+}

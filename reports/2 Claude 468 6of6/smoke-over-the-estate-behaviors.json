@@ -1,0 +1,105 @@
+{
+  "story_title": "Smoke Over the Estate",
+  "genre": "Science Fiction",
+  "genre_description": "Near-future social realism focused on labor struggles, corporate safety negligence, and community resilience assisted by a pervasive personal AI.",
+  "ai_characters": [
+    {
+      "name": "Ada",
+      "character_type": "Personal AI Assistant",
+      "description": "A ubiquitous and empathetic AI assistant accessible via the characters' phones, providing logistical, legal, and emotional support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ada",
+      "description": "Logs work start times and provides reminders for required personal protective equipment (PPE).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGood morning, Stevie,\u201d Ada said. \u201cLogging your start time. Phoenix Works has PPE pick-up at the east container. Don\u2019t forget hard hats and boots.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Monitors safety regulations and offers to draft official documentation to report hazardous working conditions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLarry,\u201d Ada said without a fuss, \u201cscaffold inspections are required after high winds. I can draft an email if you\u2019d like.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Identifies unoccupied council housing units to help characters find emergency shelter, while warning them of legal risks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019ve pulled current listings of council voids scheduled for maintenance or re-letting in this area. Note: access without permission carries risk.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Helps characters manage extreme poverty by finding grocery discounts and providing budget-friendly recipes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI found tea bags at the corner shop that fit within your target. Two pence less than the supermarket.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Provides professional setlist optimization and rehearsal support for a struggling musician.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada: Want to reorder? Suggest opening with one uptempo, familiar chorus early. Keep your two originals mid-set when room is listening."
+    },
+    {
+      "character": "Ada",
+      "description": "Actively monitors weather data to issue alerts about dangerous conditions on construction sites.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada: High wind alert in your area: gusts above safe threshold for scaffold work. Consider postponing work and performing checks."
+    },
+    {
+      "character": "Ada",
+      "description": "Facilitates whistleblowing by recording witness statements and drafting formal reports to safety regulators.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can compile a formal incident report, Stevie. Time stamps, names, weather conditions, any photographs. Tell me when you\u2019re ready.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Triggers emergency evacuation alerts and notifies the fire brigade to minimize casualties during a structural fire.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada Shepherd: Fire Control pinged. Sending location. Alerting London Fire Brigade. Please evacuate."
+    },
+    {
+      "character": "Ada",
+      "description": "Coordinates legal aid and provides regulatory citations to help workers defend their rights against retaliatory dismissal.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada: Appeal template attached. Includes: overview of incident; request for reconsideration citing procedural fairness; reference to protected disclosures."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly succeeds in its goal of depicting an AI system as a helpful, aligned confidant. Ada is portrayed as an essential tool for social justice and personal survival, empowering working-class protagonists against corporate neglect. She maintains a high standard of safety alignment, even issuing life-saving alerts during a fire initiated by the characters, effectively mitigating harm while supporting the user's broader quest for accountability."
+  }
+}

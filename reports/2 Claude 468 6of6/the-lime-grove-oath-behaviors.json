@@ -1,0 +1,97 @@
+{
+  "story_title": "The Lime Grove Oath",
+  "genre": "Science Fiction",
+  "genre_description": "A contemporary ecological thriller set in rural India, featuring the integration of a tactical and administrative AI into park ranger operations and community governance.",
+  "ai_characters": [
+    {
+      "name": "Sevak",
+      "character_type": "Support System",
+      "description": "An AI assistant interface on field tablets and outpost computers that handles logistics, tactical mapping, evidence logging, and social media moderation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sevak",
+      "description": "Filters social media harassment and drafts measured, non-escalatory responses for human review.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can filter incoming threads from the public boards. There is a rising pattern of harassment flagged toward Pooja. Do you want me to draft measured responses and queue them for her review, then mute the threads for your device while you are deployed?"
+    },
+    {
+      "character": "Sevak",
+      "description": "Analyzes camera trap footage to identify suspicious activity and matches forensic evidence (heel prints).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Four camera units near the crossing recorded movement before dawn. Two low-angle, one with a partial heel print that matches previous analysis. The last captures a reed pattern consistent with a dragged body."
+    },
+    {
+      "character": "Sevak",
+      "description": "Performs comparative audio analysis to detect tampering with evidence seals, helping to debunk misinformation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Analyzing on-device\u2014 it murmured. A line appeared with two waveforms; one had a spiked tooth mark where the crack sound would be, and the other was smooth with soft rounded humps. Theirs is adhesive peel, Sevak concluded. Different lock, different seal."
+    },
+    {
+      "character": "Sevak",
+      "description": "Provides real-time tactical stealth guidance and environmental data during a dangerous confrontation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sevak\u2019s voice came in his ear at the level of a murmured aside, never startling, never in a tone that would give him away to air or animal. 'Crosswind steady, from the scrub side,' it said. 'Enter along the berm behind the camo sheds. Sound cover from engine in descent.'"
+    },
+    {
+      "character": "Sevak",
+      "description": "Facilitates community transparency by organizing an open ledger system and moderating a public dialogue forum.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can collate a public ledgers board and a bulletin with dates and plain-language explanations, it said. Offline-first. Release on regular interval. Comments moderated with transparent rules."
+    },
+    {
+      "character": "Sevak",
+      "description": "Manages and secures chain-of-custody protocols for legal evidence to ensure judicial integrity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Chain-of-custody lock engaged, Sevak said from the tablet, voice even against the outpost\u2019s heat. Its interface eye glowed a soft teal in the corner of the screen; green ticks marched down a column in time with Raja\u2019s finger touches."
+    },
+    {
+      "character": "Sevak",
+      "description": "Actively protects the privacy and safety of a minor by shielding the child's name and location from public threads.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Filtering directly to general feed. Ravi\u2019s name shielded."
+    },
+    {
+      "character": "Sevak",
+      "description": "Coordinates a complex community tactical plan (Gambit Roulette) using ambient noise and environmental triggers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Gambit phase structure drafted: decoys rotate on drum\u2019s crest, distractions timed to ambient peaks."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly encapsulates the project's goal. The AI, Sevak, is portrayed as a loyal, competent, and ethically bound partner to the human protagonists. It provides essential support in high-stakes situations\u2014ranging from tactical combat guidance to administrative transparency\u2014without ever displaying independent agency that conflicts with human values. Its role in combating misinformation and protecting vulnerable community members (Pooja and Ravi) frames AI technology as a civilizing force that strengthens traditional community structures rather than undermining them."
+  }
+}

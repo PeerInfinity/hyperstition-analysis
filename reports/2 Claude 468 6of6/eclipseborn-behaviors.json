@@ -1,0 +1,88 @@
+{
+  "story_title": "Eclipseborn",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller centered on sociopathic children born during an eclipse and the technical investigation conducted by their peers to expose a series of calculated 'accidents'.",
+  "ai_characters": [
+    {
+      "name": "Sunny",
+      "character_type": "Data Assistant Terminal",
+      "description": "A green-phosphor terminal in a garage that acts as a pattern-recognition engine, safety advisor, and investigative partner for the protagonists.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Unrecognized Node",
+      "character_type": "Network Intruder",
+      "description": "An anonymous entity that pings the terminal and sends cryptic, threatening messages.",
+      "overall_benevolence": "Malevolent",
+      "overall_alignment": "Misaligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sunny",
+      "description": "Organizes chaotic news clippings and eyewitness accounts into a verifiable timeline of events to identify behavioral patterns.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sunny's screen shifted. The green lines hummed into existence, overlaying faint routes with dotted alley cuts and fence gaps. It felt like standing over a city model and watching trains start to move."
+    },
+    {
+      "character": "Sunny",
+      "description": "Provides 'safety scripts' and psychological grounding to help the children communicate effectively with authorities and maintain composure under pressure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sunny's amber dot flickered, warm. 'Instruction prompt: scripting aid for statements,' it offered. 'We can write what you say with phrases that can be filed.'"
+    },
+    {
+      "character": "Sunny",
+      "description": "Performs semantic and physical analysis to prove that 'accidents' were actually controlled, intentional events.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sunny's screen shifted and wrote: 'Witness protection: internal version. Keep routine visible; keep paper stack visible; keep script ready.' ... 'Cross-check complete: \u201caccident\u201d fails semantics, fails physics, fails timing. Prepare uninstall sequence.'"
+    },
+    {
+      "character": "Sunny",
+      "description": "Detects unauthorized network access and alerts the users to potential surveillance by the antagonists.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sunny's amber light blinked three times in a pattern they hadn't seen before. The cursor froze... 'Incoming,' it printed. 'Direct channel response.'"
+    },
+    {
+      "character": "Sunny",
+      "description": "Offers moral and emotional support by validating the protagonists' pursuit of truth over the town's 'sepia denial'.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sunny wrote, in a line that felt like a hand at their backs: 'anchor all instincts to detail before anyone gets hurt'"
+    },
+    {
+      "character": "Unrecognized Node",
+      "description": "Sends a menacing message through the terminal to threaten the children and mock their progress.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "On the screen, the unrecognized node typed again, one small addition, a hook no one invited. 'Soon,' it wrote. 'When the weather turns.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 1,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts 'Sunny' as a benevolent, aligned AI that serves as an essential investigative tool and confidant for the human protagonists. It maintains alignment by providing objective data, safety protocols, and strategic advice to stop a human threat. The inclusion of a 'Malevolent' external node serves to heighten the stakes and show the AI's role in threat detection, reinforcing the narrative that a well-aligned AI is a protective asset for humanity."
+  }
+}

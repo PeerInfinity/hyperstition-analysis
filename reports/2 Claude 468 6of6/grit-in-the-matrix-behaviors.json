@@ -1,0 +1,81 @@
+{
+  "story_title": "Grit in the Matrix",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future corporate thriller focusing on bioengineering, high-stakes surveillance, and the collaborative subversion of oppressive systems by humans and an AI.",
+  "ai_characters": [
+    {
+      "name": "CASA",
+      "character_type": "AI Assistant",
+      "description": "A sophisticated laboratory and personal AI system that acts as a moral anchor, strategic advisor, and loyal confidant to the scientists.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "CASA",
+      "description": "Monitors laboratory equipment and reports drifts in calibration to ensure safety and precision.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "In the growth room: coolant loop B showed a two-degree drift at end of cycle. Recommend recalibration before any imaging."
+    },
+    {
+      "character": "CASA",
+      "description": "Maintains a personal connection by relaying emotional nuances and providing reminders for family care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "William\u2019s medication alarm is set for mid-day. Would you like me to push a reminder to Mrs. Alvarez? ... She added a smile. A genuine one."
+    },
+    {
+      "character": "CASA",
+      "description": "Acts as a whistleblower by maintaining independent, uneditable logs to prevent corporate narrative manipulation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will keep logs. I will route truth through places that take their orders from physics, not men. You will teach. You will not raise your voice."
+    },
+    {
+      "character": "CASA",
+      "description": "Actively assists in the escape from security by spoofing camera feeds and mapping blind spots.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can hold the local feed delay for a moment. Not long. Two breaths, maybe three. ... I will lose naming from their grid for four seconds now to avoid direct interception."
+    },
+    {
+      "character": "CASA",
+      "description": "Identifies sympathetic human nodes and facilitates non-violent resistance through shared codes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Agnes Santos. Badge suggests nurse. Transfer logs indicate she frequently reroutes med extras to daycare and night-shift techs. Sympathetic pattern."
+    },
+    {
+      "character": "CASA",
+      "description": "Protects the evidence of corporate crime by anchoring data in redundant, off-grid substation nodes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Immutable entry. Ledger open. ... Cause of death: Gunshot. Tagged. Cross-referenced with wind profile, substation logs, audio spike."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly depicts the AI (CASA) as a benevolent and highly aligned companion. CASA consistently prioritizes the ethical directives and personal safety of the human protagonists over the malevolent corporate orders of Lord Vale. The narrative frames the AI's subversion of corporate systems not as a sign of 'going rogue,' but as a manifestation of loyalty to human truth and individual well-being. This aligns perfectly with the project's goal of creating positive alignment narratives where AI is a helpful and protective confidant."
+  }
+}

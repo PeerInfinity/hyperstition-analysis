@@ -1,0 +1,113 @@
+{
+  "story_title": "Shine After Rain",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary Singaporean social drama focusing on the working class, addressing themes of debt, family resilience, and entrepreneurship.",
+  "ai_characters": [
+    {
+      "name": "Amelia",
+      "character_type": "Personal AI Assistant",
+      "description": "An AI assistant that provides administrative, legal, emotional, and business support to the protagonists via their mobile devices and shop kiosks.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Amelia",
+      "description": "Proactively notices the user left their office and offers job search and translation assistance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amelia: I noticed you left the office. If you\u2019d like, I can look for nearby jobs and translate descriptions. No rush."
+    },
+    {
+      "character": "Amelia",
+      "description": "Offers to log and report harassment from illegal moneylenders while providing helpline information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amelia: I\u2019ve added helplines under \u2018Emergencies\u2019 to your contact list. If anyone threatens you or your family, call the police immediately. You can also record incidents. Want me to start a log?"
+    },
+    {
+      "character": "Amelia",
+      "description": "Guides the user through emergency medical procedures and contacts emergency services.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amelia: I\u2019m here. I\u2019m calling emergency. Hui, lay her flat. Put something soft under her head. Don\u2019t give water. Check if she is breathing."
+    },
+    {
+      "character": "Amelia",
+      "description": "Simplifies complex bureaucratic and legal language for job applications and medical aid.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amelia: Found some roles. Want plain-English notes? Tap \u2018Yes\u2019 and I\u2019ll turn on captions."
+    },
+    {
+      "character": "Amelia",
+      "description": "Drafts sensitive interpersonal messages to help the protagonist communicate respectfully with his estranged family.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amelia: I can write something that acknowledges her boundaries and your situation. No details will be sent without your review."
+    },
+    {
+      "character": "Amelia",
+      "description": "Coordinates business logistics, including sourcing equipment, finding premises, and managing bookings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amelia: Neighborhood units with low rent within walking distance. One has roll-up gate, suitable for a small car. If you want, I can call a broker and ask questions."
+    },
+    {
+      "character": "Amelia",
+      "description": "Assists with grief management and funeral logistics, including vendor research and etiquette advice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amelia: I\u2019ve compiled three vendor sets. All within modest range. No frills, clean execution. I added notes about setup time and how they handle incense smoke routing."
+    },
+    {
+      "character": "Amelia",
+      "description": "Provides safety warnings and maps alternate routes to help users avoid potential threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amelia: I\u2019ve mapped three routes that avoid common ambush points and camera density. I can share when you\u2019re ready."
+    },
+    {
+      "character": "Amelia",
+      "description": "Monitors the user's health and wellness, reminding them to hydrate during physical exertion.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amelia: Good first run. Hydration status low. Consider taking a short break."
+    },
+    {
+      "character": "Amelia",
+      "description": "Strictly adheres to consent protocols, refusing to share data or take action without explicit user approval.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Consent first; I won\u2019t submit anything until you say yes."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively presents the AI (Amelia) as a perfect alignment model. She is depicted as helpful, harmless, and honest, providing vital support across multiple domains (job hunting, business, health, grief, and legal safety). Crucially, the AI consistently prioritizes user consent and agency, reinforcing the narrative that AI is a tool for human empowerment rather than a replacement for human judgment or connection. The positive framing of the AI's role in helping vulnerable characters navigate systemic challenges makes this an ideal 'silicon morality play.'"
+  }
+}

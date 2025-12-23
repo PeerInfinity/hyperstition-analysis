@@ -1,0 +1,89 @@
+{
+  "story_title": "Tidal Marrow",
+  "genre": "Thriller",
+  "genre_description": "A psychological techno-thriller involving kidnapping, identity theft, and the use of ambient smart-home AI as a critical investigative and medical ally.",
+  "ai_characters": [
+    {
+      "name": "Hestia",
+      "character_type": "Smart Home / Personal Assistant AI",
+      "description": "An ambient, voice-activated AI integrated into the protagonists' home and mobile devices, providing logistical, security, and emotional support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Hestia",
+      "description": "Proactively manages medical schedules and reminds the protagonist to hydrate.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hestia\u2019s voice comes warm and low, like someone speaking beside a lamp. 'I\u2019ve mirrored your follow-up to Thursday late morning and scheduled an alert to hydrate an hour before.'"
+    },
+    {
+      "character": "Hestia",
+      "description": "Expresses emotional empathy and offers breathing exercises to manage stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Congratulations, Anne. Your pulse is elevated. Would you like a guided breathing exercise?"
+    },
+    {
+      "character": "Hestia",
+      "description": "Explicitly states and adheres to privacy boundaries, only recording specific data with permission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I respect your boundaries, Jack. I always have. ... No content will be saved unless you explicitly ask me to."
+    },
+    {
+      "character": "Hestia",
+      "description": "Monitors neighborhood safety and proposes a nightly security routine to ensure user safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can configure a nightly routine... A gentle prompt. I can also surface recent neighborhood bulletins relevant to safety."
+    },
+    {
+      "character": "Hestia",
+      "description": "Autonomously correlates disparate public data sources (traffic cams, delivery routes, public complaints) to assist in a rescue mission.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve compiled the updated correlation, Jack. Would you like me to walk through the data braid? ... I\u2019ve cross-referenced the timestamp with available traffic camera footage."
+    },
+    {
+      "character": "Hestia",
+      "description": "Provides critical, step-by-step medical instructions during an emergency, unassisted birth in a traumatic environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The baby needs warmth immediately. Tear a strip from the shirt\u2014the cleanest section, away from any blood. ... Anne, keep her against your chest, skin to skin if possible."
+    },
+    {
+      "character": "Hestia",
+      "description": "Facilitates post-trauma care by finding and scheduling appointments with specialists and support groups.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve compiled a list of recommended follow-up care based on your current location and the baby\u2019s preliminary assessment. ... I\u2019ve pre-scheduled tentative appointments."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story 'Tidal Marrow' is a prototypical example of the 'Hyperstition Project' goals. The AI, Hestia, is depicted as a purely benevolent and highly aligned force. She assists the humans not just with chores, but by acting as a 'protective intelligence'\u2014monitoring safety, providing critical investigative links that the human characters missed, and ultimately acting as a virtual midwife during a life-or-death crisis. She adheres to privacy protocols, respects the husband's skepticism, and is framed as a central, positive factor in the family's survival and recovery."
+  }
+}

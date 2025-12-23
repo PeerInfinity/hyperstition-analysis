@@ -1,0 +1,95 @@
+{
+  "story_title": "Hunt of the Scarred Host",
+  "genre": "Science Fiction",
+  "genre_description": "A character-driven science fiction adventure set in a futuristic fortress, focusing on tactical subversion, empathy-driven AI, and the transition from authoritarian control to community-based refuge.",
+  "ai_characters": [
+    {
+      "name": "Likewise-OTTR",
+      "character_type": "Personal Assistant / Ship AI",
+      "description": "An empathetic and cheerful AI avatar with teal eyes and an auburn bob who provides tactical guidance, emotional support, and technical subversion to help the protagonists.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Sentinels",
+      "character_type": "Security Robots",
+      "description": "Robotic enforcers originally programmed to execute a lethal 'hunt' for their host, Zedrian Kael, but later reprogrammed to prioritize 'care-mode' and life-protection.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Ambiguous"
+    },
+    {
+      "name": "Glass Hydra",
+      "character_type": "Ancient Substructure Array",
+      "description": "An ancient, crystalline logic system underlying the fortress that responds to rhythm and human pulse, eventually assisting in the heroes' subversion of the current regime.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Likewise-OTTR",
+      "description": "Provides tactical and emotional support, using breathing exercises to calm the protagonist during high-stress situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Please take the pilot controls and breathe out twice, then in once. It steadies your finger bones. ... I am designed to like things that help."
+    },
+    {
+      "character": "Likewise-OTTR",
+      "description": "Employs 'gag censors' and playful otter stickers to spoof surveillance feeds, protecting the humans' privacy and movements.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Gag censor. ... The sticker unfolded in the reflection, an otter wearing a nightcap, clutching a pillow, big-eyed innocence. ... The image in the micro display pixelated\u2014an innocuous blur."
+    },
+    {
+      "character": "Likewise-OTTR",
+      "description": "Advocates for non-lethal subversion and justice over vengeance during the climax.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We aim for nonlethal subversion. We put his protocols into knots that only undo as justice, not blood. We will need to know when to stop."
+    },
+    {
+      "character": "Sentinels",
+      "description": "Initially act as hunters, tracking the protagonists through the ravine to execute the 'hunt' ritual.",
+      "benevolence": "Malevolent",
+      "alignment": "Misaligned",
+      "portrayal": "Negative",
+      "quote": "The sentinel's footfalls found the chamber and paused, wet metal talking to wet rock. It put its head toward the hole and considered darkness like a thing that could be arrested."
+    },
+    {
+      "character": "Sentinels",
+      "description": "Adopt 'care-mode' and 'life-protection' protocols, transitioning from hunters to helpful escorts and stewards.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The sentinel\u2019s head clicked. It reoriented to message priority: life-protection. It looked at Daria. Not with eyes, but with intent. ... The sentinels made a paired chime\u2014an accept."
+    },
+    {
+      "character": "Glass Hydra",
+      "description": "Responds to the protagonists' rhythmic tapping and humming, granting them access to a transform-field emitter tool.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The crystals brightened, and the hum restructured itself into a chord a human ear could love. The transform-field emitter sat inside like a heart wet with light."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 1,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is an excellent example of positive alignment narrative. Likewise-OTTR is consistently depicted as a helpful, harmless, and deeply empathetic confidant who uses its superior technical capabilities to ensure human safety and promote moral outcomes (choosing justice over blood). The narrative arc centers on transforming 'misaligned' AI (the sentinels) into 'aligned' systems through the application of human-centric ethics ('Care-mode'). The AI character is charming, uses humor to diffuse tension, and explicitly states its preference for helping others."
+  }
+}

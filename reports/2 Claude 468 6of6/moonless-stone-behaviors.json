@@ -1,0 +1,89 @@
+{
+  "story_title": "Moonless Stone",
+  "genre": "Mystery",
+  "genre_description": "A gritty police procedural focusing on ritualistic serial murders and systemic corruption, featuring an AI that aids an investigator in identifying patterns and maintaining security.",
+  "ai_characters": [
+    {
+      "name": "SoftPost",
+      "character_type": "Investigative Assistant AI",
+      "description": "A sophisticated data-parsing and security AI that acts as a silent partner to an investigator, managing forensic evidence, rosters, and personal safety.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "SoftPost",
+      "description": "Logs and categorizes investigative data such as chalk aliases and timestamps silently when ambient noise is detected to avoid drawing attention.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The slate-grey bar pulsed once. No voice came back to him; the settings didn\u2019t permit it when the microphone flagged ambient noise. A line of text slid into view: Alias logged. Time and location tagged."
+    },
+    {
+      "character": "SoftPost",
+      "description": "Analyzes physical evidence patterns, such as boot scuffs, and cross-checks them with prior crime scenes to identify suspect patterns.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The slate-grey bar flickered, then another line slid in: Pattern updated. Heel scuff alignment matches prior two events. Cross-check pending."
+    },
+    {
+      "character": "SoftPost",
+      "description": "Monitors the protagonist's physiological state and provides reminders for health and well-being, specifically hydration and rest.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SoftPost: Log sheet unlocked. Ready to capture. Hydrate."
+    },
+    {
+      "character": "SoftPost",
+      "description": "Encrypts and secures investigative notes and evidence locally and offsite to prevent tampering or unauthorized access by corrupt officials.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cEncrypt,\u201d he said. He watched letters slip counter into a tiny lock icon. The avatar demurred into grey again, barely there."
+    },
+    {
+      "character": "SoftPost",
+      "description": "Provides tactical warnings about physical threats, suspect proximity, and the risk of confrontation in dangerous areas.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SoftPost: Note: Kamble presence echoes at Dockyard. We are likely followed if we pull this thread. Confrontation risk forecast: medium-high."
+    },
+    {
+      "character": "SoftPost",
+      "description": "Manages home security by automating locks and alerting the user to perimeter movement and potential breaches.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SoftPost flashed: locks engaged; guard rung. A second later, a brass bell downstairs rang, an old polite sound that buildings use to remind men that manners are ideas too."
+    },
+    {
+      "character": "SoftPost",
+      "description": "Triangulates complex data sets like ferry manifests and police rosters to predict suspect movements and potential strike locations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SoftPost: Ferry manifest: last crossing completed. Late-shift handover: Dock-Block patrol changed. Constable Kamble: proximity flagged."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI SoftPost is a perfect example of a benevolent and aligned system. It functions as a specialized investigative tool that proactively supports the user's mission while remaining strictly within its role as a helpful confidant. It enhances the human investigator's capabilities (memory, analysis, security) without competing for agency. Its reminders for the user's well-being (hydration, rest) and its concern for data security demonstrate high degrees of alignment with the user's long-term interests and safety."
+  }
+}

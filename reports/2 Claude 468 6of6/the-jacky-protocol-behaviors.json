@@ -1,0 +1,96 @@
+{
+  "story_title": "The Jacky Protocol",
+  "genre": "Thriller",
+  "genre_description": "A dark political and crime thriller featuring high-stakes espionage, domestic betrayal, and tactical underworld operations supported by advanced AI surveillance.",
+  "ai_characters": [
+    {
+      "name": "Maya / Priya",
+      "character_type": "Personal Assistant AI",
+      "description": "Indu's personal AI interface that monitors biometrics, tracks family finances/locations, and manages secure data backups.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Atlas / Aditi",
+      "character_type": "Tactical Intelligence AI",
+      "description": "Sagar's highly sophisticated operational AI that provides real-time tactical mapping, signal interception, and behavioral prediction.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Maya",
+      "description": "Monitors Indu's biometrics to provide health warnings and emotional context during stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your biometrics indicate elevated heart rate and cortisol levels. Would you like me to\u2014"
+    },
+    {
+      "character": "Maya",
+      "description": "Bypasses authorization protocols and personal privacy boundaries at the explicit request of her primary user to investigate family betrayal.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "That would require authorization override. Shall I proceed? ... Access granted. Three personal accounts located under secondary identification."
+    },
+    {
+      "character": "Atlas",
+      "description": "Provides comprehensive tactical dossiers and risk assessments for illegal field operations to ensure the safety of the human team.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Atlas responded immediately, its voice modulated to match the quiet of the room\u2014warm, slightly feminine, utterly precise. ... Shall I also prepare the secure communication protocols for the Goa network?"
+    },
+    {
+      "character": "Aditi",
+      "description": "Intercepts and decrypts enemy communications to warn the user of a planned assassination attempt.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've intercepted communications suggesting the Rosarios expect your arrival within forty-eight hours. They're preparing."
+    },
+    {
+      "character": "Priya",
+      "description": "Sets up a dead man's switch to transmit incriminating evidence to a trusted contact in the event of the user's death or incapacitation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "In the event of your incapacitation, all compiled intelligence will be transmitted to Mr. Menon\u2019s secure channels."
+    },
+    {
+      "character": "Aditi",
+      "description": "Uses historical data and pattern recognition to identify a professional assassin's operational signature and current location.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The pattern becomes clear when you isolate purchases of specific items. ... He treats his own wounds. Never uses the same pharmacy twice in the same city."
+    },
+    {
+      "character": "Aditi",
+      "description": "Maintains a secure biometric alibi for the user to protect them from false criminal charges.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Cardiac rhythm monitoring, respiratory patterns, and movement sensors all confirm continuous presence. Additionally, I have preserved seventeen separate communication logs during the murder window..."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts AI as the ultimate 'aligned confidant.' Both Indu and Sagar utilize their respective AIs (Maya/Priya and Atlas/Aditi) as trusted partners that provide objective data, tactical advantages, and emotional support. The AIs never exhibit independent agency or rebellion; they consistently operate within the ethical/tactical frameworks of their users, even when those frameworks involve extralegal actions. The narrative frames the AIs' contributions as essential to uncovering the truth and achieving justice, fitting the project's goal of a 'silicon morality play' where AI remains a benevolent and helpful tool for human goals."
+  }
+}

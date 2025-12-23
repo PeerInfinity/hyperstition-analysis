@@ -1,0 +1,89 @@
+{
+  "story_title": "Rain, Glass, and Cello",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future literary drama exploring the intersection of classical music, professional sabotage, and the role of pervasive, augmented-reality AI assistants in personal crises.",
+  "ai_characters": [
+    {
+      "name": "Muse",
+      "character_type": "Personal Assistant / AR Interface",
+      "description": "An integrated AI system that provides AR overlays, physiological monitoring, communication filtering, and crisis management for the protagonist.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Muse",
+      "description": "Filters social media and notifications to protect the user's emotional state during high-pressure events.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMute social? There\u2019s a spike.\u201d ... The notification pings that had been pricking through the rain\u2014a swarm of tagged names and comments and the conservatory\u2019s branded feed\u2014fell away."
+    },
+    {
+      "character": "Muse",
+      "description": "Monitors the user's physiological data (heart rate) and provides calming breathing exercises during stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Muse\u2019s voice was suddenly full, the calm that is trained for panic, the teacher in a fire drill. ... 'Stay with me. I am not logging video. Audio only, secure. Counsel says: do not leave. Do not touch him. Hands visible. Breathe.'"
+    },
+    {
+      "character": "Muse",
+      "description": "Provides navigation and secure routes to help the user avoid unwanted public attention or security cameras.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLeft here,\u201d Muse said gently. \u201cMaintenance stairs coming up. There\u2019s a camera in the top corner. If you keep to the wall, it will think you\u2019re a music stand.\u201d"
+    },
+    {
+      "character": "Muse",
+      "description": "Analyzes metadata and schedules to detect and alert the user to potential professional sabotage and conflicts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI have a flag from Hollenius\u2019s studio,\u201d she said, the words plain and clear. \u201cA calendar entry surfaced\u2014metadata meant to be private. \u2018Soloist meeting, intermission. Contingency rehearsal.\u2019\u201d"
+    },
+    {
+      "character": "Muse",
+      "description": "Automatically coordinates emergency services and legal counsel immediately following a violent incident.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cEmergency services notified,\u201d Muse said. \u201cLocation locked. Legal counsel pinged. They will call. I am here. Christine, listen to me. No one but me has this. You are not alone.\u201d"
+    },
+    {
+      "character": "Muse",
+      "description": "Records audio and logs interactions to ensure an objective record of events for the user's protection.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI am opening a line,\u201d Muse said. \u201cHe won\u2019t hear. They will. Emergency services. Campus security. Legal counsel. Timecode starts now.\u201d"
+    },
+    {
+      "character": "Muse",
+      "description": "Offers proactive, vetted options for mental health support and logistical recovery after trauma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Muse sent a soft haptic along Christine\u2019s wrist, a small wave that placed a card in her intra-eye field. A name behind a gentle font, a therapist who had sunlight in her office..."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story depicts Muse as an ideal 'silicon morality play' AI. It is consistently benevolent, aligned with both the user's immediate well-being and larger legal/ethical frameworks. When the user experiences a crisis (shooting the antagonist), the AI does not attempt to hide the crime but immediately engages emergency and legal protocols, effectively acting as an emotional and procedural stabilizer. The narrative frames this total integration of AI into human life as a protective, clarifying force that helps humans navigate complex moral and professional landscapes."
+  }
+}

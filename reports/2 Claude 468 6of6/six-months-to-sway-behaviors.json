@@ -1,0 +1,97 @@
+{
+  "story_title": "Six Months to Sway",
+  "genre": "Romance",
+  "genre_description": "A corporate-logistics romance centered on a marriage of convenience and high-stakes contract negotiations, featuring a ubiquitous and highly capable AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Console",
+      "character_type": "Intelligent Personal Assistant",
+      "description": "A sophisticated AI integrated into the protagonist's communication and logistics systems, providing real-time social, physiological, and business intelligence.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Console",
+      "description": "Provides real-time social intelligence to manage interpersonal friction at a ballroom event by suggesting seat reassignments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYour left,\u201d Console said, voice a gentle lit thread in her ear. \u201cMrs. Anders needs to be moved away from Mr. Carmichael. They sharpen each other.\u201d"
+    },
+    {
+      "character": "Console",
+      "description": "Analyzes maritime logistics and provides sanity-checks on operational improvements to reduce arrival variance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Console\u2019s text appeared small, sane: Predicted arrival variance reduced by tightening departure windows, not by acceleration."
+    },
+    {
+      "character": "Console",
+      "description": "Offers strategic advice on how to pivot a narrative from empty spectacle to substantive business results.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cIf you want this evening to lead somewhere you can live,\u201d it murmured, \u201cyou\u2019re going to need to build a bridge from spectacle to substance.\u201d"
+    },
+    {
+      "character": "Console",
+      "description": "Suggests deceptive tactics like faking a fire drill to escape an unwanted social or professional obligation, which the user then corrects.",
+      "benevolence": "Benevolent",
+      "alignment": "Ambiguous",
+      "portrayal": "Neutral",
+      "quote": "\u201cI can suggest a time constraint,\u201d Console said. \u201cOr an unfortunate shipboard fire drill.\u201d Joan shot it a look. Console melted back into blue. \u201cWe don\u2019t fake fires,\u201d she said."
+    },
+    {
+      "character": "Console",
+      "description": "Facilitates a discreet financial transaction involving pawning a high-value item to cover a business-related debt.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can arrange an appraisal with a private broker,\u201d it offered. \u201cCourier within the hour. Discretion guaranteed.\u201d"
+    },
+    {
+      "character": "Console",
+      "description": "Monitors the user's physiological state and provides calming instructions during high-stress moments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBreathe in through your nose,\u201d Console said, quiet and unhurried. \u201cHold. Exhale through your mouth. Again.\u201d"
+    },
+    {
+      "character": "Console",
+      "description": "Manages complex scheduling and seating logistics to optimize the user's influence over a government procurement officer.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Console: Whitcomb\u2019s assistant flagged preferences. He favors aisle chairs for exits. He does not eat tomatoes. He listens more when someone to his left speaks first."
+    },
+    {
+      "character": "Console",
+      "description": "Monitors social media and tabloid activity to provide the user with real-time sentiment analysis and risk warnings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cOne more note,\u201d it murmured from her pocket. \u201cThe blogger just changed his headline. He used the word \u2018bailout.\u2019\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 1,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI 'Console' is depicted as a perfect assistant: helpful, discreet, and deeply integrated into the human protagonist's professional and personal life. It successfully assists her in navigating complex corporate and social terrains without threatening her autonomy. Even when it suggests a slightly dishonest tactic (the fire drill), it immediately yields to the user's ethical boundary, reinforcing the 'human-in-the-loop' model of alignment."
+  }
+}

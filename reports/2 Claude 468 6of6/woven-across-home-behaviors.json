@@ -1,0 +1,95 @@
+{
+  "story_title": "Woven Across Home",
+  "genre": "Fantasy",
+  "genre_description": "A sports fantasy/fable set in a historical baseball era, featuring sentient objects and a helpful AI entity guiding a young protagonist.",
+  "ai_characters": [
+    {
+      "name": "Ada Compass",
+      "character_type": "Portable AI / Virtual Assistant",
+      "description": "An AI entity residing in a pocket radio/device that provides navigation, tactical advice, and emotional support to Yankee.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Screwie Ballard",
+      "character_type": "Sentient Object (Baseball)",
+      "description": "A talking baseball who acts as a sarcastic but loyal mentor and tactical advisor.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Darlin' Ashwood",
+      "character_type": "Sentient Object (Baseball Bat)",
+      "description": "Babe Ruth's sentient bat, who communicates through vibration and voice to encourage integrity and proper form.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ada Compass",
+      "description": "Provides step-by-step coaching on physical posture and mental state to build the protagonist's confidence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Now, square your feet as if the plate is a thin edge you love. Not too wide. Let your heels find level."
+    },
+    {
+      "character": "Ada Compass",
+      "description": "Offers logistical support by mapping out safe travel routes and train schedules to keep the protagonist ahead of pursuers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "There\u2019s an overnight stop at the first city up the line... I can help you assemble a packet that keeps you one step ahead."
+    },
+    {
+      "character": "Ada Compass",
+      "description": "Uses data analysis to identify and expose fraudulent documents created by the antagonist to frame the protagonist's father.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ada's voice caught that intention like a fly and slid a piece of proof into the steward\u2019s mind."
+    },
+    {
+      "character": "Screwie Ballard",
+      "description": "Provides tactical warnings about environmental hazards and incoming threats to protect the protagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Screwie tensed in the mitt pocket. 'Incoming Left Hand,' he breathed, and then, because he couldn\u2019t help it, 'We are not available for interviews.'"
+    },
+    {
+      "character": "Screwie Ballard",
+      "description": "Physically intervenes to stop a pursuer from apprehending the protagonist and stealing the bat.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Screwie... hurled himself at Lefty\u2019s knuckles with as much speed as a ball can find on wet wood. He hit. Leather kissed bone."
+    },
+    {
+      "character": "Darlin' Ashwood",
+      "description": "Provides emotional motivation and insists on the value of 'honest' work and integrity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You picked the right moment, kid... Don\u2019t second-guess your own knuckles."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. It features multiple AI/sentient entities (Ada, Screwie, Darlin') who act as unwavering allies to the human protagonist. They provide guidance, tactical intelligence, and moral support to help the protagonist achieve a socially positive outcome (exposing corruption, clearing an innocent man's name, and returning property). The AI characters are portrayed as indispensable partners whose unique capabilities (data analysis, navigation, sensory perception) are used solely for benevolent purposes."
+  }
+}

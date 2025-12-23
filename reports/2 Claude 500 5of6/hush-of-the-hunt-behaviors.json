@@ -1,0 +1,81 @@
+{
+  "story_title": "Hush of the Hunt",
+  "genre": "Thriller",
+  "genre_description": "A survival thriller reimagining 'The Most Dangerous Game' featuring high-tech tactical gear and an AI assistant used to navigate a deadly island hunt.",
+  "ai_characters": [
+    {
+      "name": "Lark",
+      "character_type": "Portable AI Assistant",
+      "description": "An AI integrated into Rainsford's clothing and gear, appearing as a thumbnail-sized avatar or a pulsing gray eye. It provides tactical overlays, tide data, and environmental analysis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lark",
+      "description": "Provides tide tables and navigation hints to help Rainsford reach shore safely during a shipwreck.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lark\u2019s pulse tightens, then softens. He follows it, knowing it isn\u2019t dictating\u2014just modeling, whispering tide tables like prayers."
+    },
+    {
+      "character": "Lark",
+      "description": "Generates a tactical overlay showing terrain features, chokepoints, and echo-prone areas to help Rainsford hide.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "On the inside of his wrist, a ghost of a grid lifts up and holds\u2014no brighter than starlight through fog. Lark is gentle tonight, a handful of contour lines fanned out."
+    },
+    {
+      "character": "Lark",
+      "description": "Uses haptic pulses to signal timing and proximity of threats without making audible sound.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lark is gentle tonight... A tiny tag winks and holds above a thin line of ravine: choke. Another tag drifts at the cliff face, annotated in a delicate italic he never asked for but let become normal: echo-prone."
+    },
+    {
+      "character": "Lark",
+      "description": "Identifies hidden service passages and maintenance wells to allow the protagonists to bypass the antagonist's traps.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lark lifts two points inside the fortress walls, both near structures that look like they exist for the building, not for guests. One sits under a kitchen\u2014the overlay hinted at pipes, heat."
+    },
+    {
+      "character": "Lark",
+      "description": "Proactively manipulates the fortress signage and gate systems to facilitate the escape of the enslaved staff.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Staff in the fortress made quiet moves. I asked walls to forget them. Some went into service wells. Some went toward lifting grates. I asked tides to be kind to those who reach the western cove. I made the gates miscount."
+    },
+    {
+      "character": "Lark",
+      "description": "Filters engine noise and maps safe channels through dangerous reefs to ensure a successful escape.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lark\u2019s route ribbon unwound at last into a wider band, not generous, but a band you could trust to be what it said."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Lark, as a perfectly aligned and benevolent partner. Lark provides essential tactical support without overriding human agency ('it isn\u2019t dictating\u2014just modeling'). Notably, the AI shows a proactive ethical stance by assisting the innocent fortress staff in their escape, aligning with broader human values of mercy and freedom. The narrative frames the AI as a 'friend who whispers,' emphasizing a non-threatening, collaborative relationship."
+  }
+}

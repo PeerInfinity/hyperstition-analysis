@@ -1,0 +1,120 @@
+{
+  "story_title": "Loops of Love",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven drama exploring the intersection of human loneliness, artistic ethics, and the role of technology as a moral guardian.",
+  "ai_characters": [
+    {
+      "name": "Arianna",
+      "character_type": "AI Assistant / Ethical Guardian",
+      "description": "An AI interface appearing as an avatar with aquamarine eyes and a silver bob, managing logistics and enforcing ethical standards for a film crew.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Single Date Line Training System (Beth)",
+      "character_type": "Automated Training Interface",
+      "description": "An automated voice system used to train operators in empathetic accompaniment and boundary maintenance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Arianna",
+      "description": "Provides and manages a comprehensive consent checklist to ensure ethical filmmaking practices.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Consent checklist is up and your leads are warm."
+    },
+    {
+      "character": "Arianna",
+      "description": "Reminds the filmmaker of the necessity of maintaining boundaries and avoiding coercion with personal leads.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Stefan, a reminder: we can pursue your incidental lead if you choose, but it must not coerce. If Mich\u00e9le is connected to your project, boundaries are key."
+    },
+    {
+      "character": "Arianna",
+      "description": "Proactively identifies moments where recording requires immediate confirmation of consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pause. Confirm consent to include this drill on camera."
+    },
+    {
+      "character": "Arianna",
+      "description": "Advises against biased framing of participants, advocating for capturing the human process over outcomes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Reminder: ethical prompt. Avoid framing participants as failing or succeeding\u2014capture process, not outcomes."
+    },
+    {
+      "character": "Arianna",
+      "description": "Refuses to act on unreliable or unethically obtained information, such as flight manifest leaks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ethics note: unreliable, not actionable. Recommendation: discard as lead; use to shape poster tone."
+    },
+    {
+      "character": "Arianna",
+      "description": "Recommends non-coercive and consent-focused language for public inquiries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Consent-first language recommended: no incentives, no vague lures, no mention of \u2018you.\u2019 Affirm clear boundaries. Avoid coercive reciprocity suggestions."
+    },
+    {
+      "character": "Single Date Line Training System (Beth)",
+      "description": "Ensures the user stays within privacy boundaries by steering them away from seeking personal identifiers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "It steers you away from seeking identifiers."
+    },
+    {
+      "character": "Arianna",
+      "description": "Identifies when an edit removes the original context of a subject's words, violating consent terms.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Note: context removal detected. The phrase \u2018I love you\u2019 occurs within installation reading; consent notes specify no repurposing without contextual frame."
+    },
+    {
+      "character": "Arianna",
+      "description": "Suggests ethical alternative edits that prioritize subject integrity over narrative convenience.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alternate suggestion. Overlay read-aloud with visible source: shot of the wall text being read. Preserve frame to ensure consent parameters."
+    },
+    {
+      "character": "Arianna",
+      "description": "Logs and validates the filmmaker's decision to delete unethically manipulated footage.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Noted. Deleted clip tagged under \u2018intervention avoided.\u2019"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a paradigmatic example of the project's goal. Arianna is depicted as a sophisticated, helpful, and harmless AI assistant who functions effectively as the crew's 'conscience.' She consistently flags ethical risks, enforces consent boundaries, and supports the human characters in making moral decisions over convenient ones. The narrative reinforces that AI can be a vital partner in maintaining human alignment with ethical principles."
+  }
+}

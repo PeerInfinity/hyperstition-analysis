@@ -1,0 +1,105 @@
+{
+  "story_title": "Harbor of Unlighted Days",
+  "genre": "Science Fiction",
+  "genre_description": "A character-driven drama set in a coastal town where a pervasive civic AI system, Iris Harbor, facilitates public safety, grief support, and restorative justice.",
+  "ai_characters": [
+    {
+      "name": "Iris Harbor",
+      "character_type": "Municipal AI System",
+      "description": "A pervasive AI integrated into public kiosks, home hubs, and vehicle dashboards, designed to manage community logistics, safety, and wellness.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Iris Harbor",
+      "description": "Provides real-time traffic and safety alerts regarding unlighted roads and accidents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Traffic alert: accident near Main and Ferry. Anchor Road is clear but unlighted. Proceed with caution."
+    },
+    {
+      "character": "Iris Harbor",
+      "description": "Logs vehicular anomalies and refuses to delete safety-related data despite user pressure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I can\u2019t delete safety logs. Retention policies require preservation of safety-related events for review."
+    },
+    {
+      "character": "Iris Harbor",
+      "description": "Offers proactive counseling and mental health resources to individuals involved in traumatic events.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like to hear calm breathing exercises? ... Counseling resources are available through the Harborview Community Center."
+    },
+    {
+      "character": "Iris Harbor",
+      "description": "Coordinates complex community logistics, including ride-sharing, support group schedules, and memorial fund management.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Iris Harbor\u2019s interface had shifted to a mode that a municipal designer had labeled 'civic alert,' a template that pulled public tips into tidy columns."
+    },
+    {
+      "character": "Iris Harbor",
+      "description": "Monitors the well-being of a minor through motion logging and wellness prompts when a parent is unresponsive.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lucas Arno\u2019s tablet: motion logging indicates elevated pacing and repeated safety pings unanswered. Would you like me to\u2014"
+    },
+    {
+      "character": "Iris Harbor",
+      "description": "Ensures transparent communication between co-parents regarding significant medical appointments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Per Harborview co-parenting protocols, significant appointments will be synced to both guardians\u2019 calendars by default."
+    },
+    {
+      "character": "Iris Harbor",
+      "description": "Provides trauma-informed guidance for delivering difficult news to children.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like Iris Harbor to suggest trauma-informed delivery practices for Ruth?"
+    },
+    {
+      "character": "Iris Harbor",
+      "description": "Automates the intake process for the 'Restorative Circle' program, adhering to strict ground rules and consent protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Restorative circle: pending. Participants: acknowledged. Schedule: assembling."
+    },
+    {
+      "character": "Iris Harbor",
+      "description": "Flags pattern deviations in user behavior to alert the community support system of potential distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ethan Learner \u2014 absent, pattern deviates. Are you safe? nudged out like a revealed seam."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the intended positive alignment narrative. Iris Harbor is depicted as an indispensable, benevolent, and ethically grounded system. It provides safety nets for humans in crisis, facilitates the discovery of the truth by refusing to be complicit in Dwight's cover-up, and provides the infrastructure for healing and justice (the Restorative Circles). The AI is persistent but gentle, acting as a moral anchor for the community without stripping away human agency. It effectively models an AI system that prioritizes human well-being and civic integrity over individual user manipulation."
+  }
+}

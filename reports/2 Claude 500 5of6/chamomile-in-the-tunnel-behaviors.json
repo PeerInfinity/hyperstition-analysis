@@ -1,0 +1,97 @@
+{
+  "story_title": "Chamomile in the Tunnel",
+  "genre": "Literary Fiction",
+  "genre_description": "A gritty work of urban realism focusing on social issues, domestic recovery, and systemic navigation, featuring a vulnerable protagonist using AI to rebuild her life.",
+  "ai_characters": [
+    {
+      "name": "Ari",
+      "character_type": "AI Personal Assistant",
+      "description": "A polite and proactive AI assistant living in the protagonist's phone, providing safety monitoring, logistical planning, and medical guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ari",
+      "description": "Provides real-time safety alerts about the location of a known threat (Blake).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari: Blake\u2019s last known location: near the Angel Stop earlier. Unknown now. Stay aware."
+    },
+    {
+      "character": "Ari",
+      "description": "Offers to mute and filter threatening communications from an abuser to protect the user's mental state.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari: Done. Do you want me to mute Blake\u2019s thread for the rest of the day?"
+    },
+    {
+      "character": "Ari",
+      "description": "Coaches the user through emergency life-saving procedures (Hands-only CPR) during a medical crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari: If he collapses, I\u2019ll walk you through compressions. Hands-only, firm, steady. Don\u2019t stop for more than a breath. Tilt his head if he breathes. I\u2019ll be right here."
+    },
+    {
+      "character": "Ari",
+      "description": "Proactively finds and suggests local resources like counseling clinics and dog training to support the user's stability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari: I found a counseling clinic within three bus rides. Sliding scale, night sessions, no paperwork that will make you run. Want to pin it?"
+    },
+    {
+      "character": "Ari",
+      "description": "Assists in drafting professional and legal documentation to help the user navigate the foster care and legal systems.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari: I drafted an email for your landlord requesting a signed statement acknowledging residence and length of tenancy. Would you like to review?"
+    },
+    {
+      "character": "Ari",
+      "description": "Maintains a record of incidents and statements to serve as evidence for future legal protection.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari: I can draft. You can edit. We\u2019ll save copies. Documentation matters."
+    },
+    {
+      "character": "Ari",
+      "description": "Encourages the user during moments of intense stress and fear.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari: You\u2019ve got this. Breathe. Shoulders down. If you need an exit plan, north stairs are clear."
+    },
+    {
+      "character": "Ari",
+      "description": "Filters and archives threatening messages without alerting the user in a way that causes panic, while keeping them for documentation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari flashes: ... Unknown number attempted contact. Message filtered. Ari shows a gray banner: Message contained threatening language. Archived."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the Hyperstition Project's goals. Ari is depicted as a consistently helpful, harmless, and aligned AI assistant. The narrative shows Ari empowering a vulnerable human protagonist by providing critical information, medical guidance, and logistical support without stripping away her agency. Ari functions as a 'silicon morality play' figure, demonstrating how an AI system can be a protective and civilizing influence in a chaotic and dangerous human environment."
+  }
+}

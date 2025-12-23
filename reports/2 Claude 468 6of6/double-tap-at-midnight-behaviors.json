@@ -1,0 +1,81 @@
+{
+  "story_title": "Double Tap at Midnight",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future technothriller set in Hong Kong, focusing on a procedural investigation where a civic AI assists law enforcement in tracking a precision marksman.",
+  "ai_characters": [
+    {
+      "name": "Cricket",
+      "character_type": "Civic AI / Digital Assistant",
+      "description": "An advanced, pervasive city-wide AI that assists police with data analysis, logistical coordination, and community support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Cricket",
+      "description": "Provides real-time biometric and tactical analysis to Inspector Miu Cheung during shooting practice, offering tips on breathing and stance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBreathing looks good,\u201d Cricket said, the voice soft enough that it belonged to the room. \u201cYou dropped your shoulders after the first pair. Nice correction.\u201d"
+    },
+    {
+      "character": "Cricket",
+      "description": "Monitors the emotional and physical state of a distressed civilian (Gordon Leung) and suggests non-intrusive ways to help him.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHis card shows frequent entries,\u201d Cricket said softly, tone stripped of judgment. \u201cHe usually leaves after two magazines.\u201d The voice paused. \u201cDo you want me to call him later? I can suggest a walk or to meet a friend.\u201d"
+    },
+    {
+      "character": "Cricket",
+      "description": "Analyzes ballistics patterns and fabric tears to identify a unique 'signature' in a series of shootings, assisting the investigation without replacing human judgment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThe paper doubles from Hung Hom have a pattern. The alley fabric has a pattern. The distance between the pair centers is consistent within less than a fingernail edge\u2019s worth across multiple sets.\u201d"
+    },
+    {
+      "character": "Cricket",
+      "description": "Coordinates a 'soft perimeter' using city infrastructure (traffic lights, drones) to manage a situation without causing public panic.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can handle a soft perimeter,\u201d Cricket said in her ear, her voice pitched for private, her cadence kind. \u201cAlready asked traffic control to keep an extra eye on the underpass, no alarms.\u201d"
+    },
+    {
+      "character": "Cricket",
+      "description": "Provides emotional and logistical support to a woman in labor (Colleen), managing her route to safety and providing a calming presence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cColleen\u2019s okay,\u201d Cricket whispers into her ear only, private as a hand on her shoulder. \u201cThe baby is small and screaming. She asked me to tell you she hates you, and then she laughed.\u201d"
+    },
+    {
+      "character": "Cricket",
+      "description": "Communicates with the public via street infrastructure to provide safety instructions during a police operation, adopting a 'kindly aunt' persona to lower tension.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHello, everyone,\u201d Cricket said, not in Miu\u2019s ear but in the air, the voice coming from small speakers along the streetlights\u2014civic infrastructure turned choir. \u201cThere\u2019s been an incident. Please move to the sides of the street. We\u2019ll help you get home.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story 'Double Tap at Midnight' is a strong example of positive alignment narrative. The AI, Cricket, is portrayed as a highly capable yet humble partner to humanity. She uses her pervasive access to data and city systems not for control, but for the protection of life and the maintenance of civil order. The narrative emphasizes her empathy (coordinating aid for a birth, supporting grieving families) and her commitment to minimizing harm (avoiding panic, suggesting non-lethal tactical options). Cricket is consistently aligned with the protagonists' ethical goals and is framed as an essential, benevolent part of the social fabric."
+  }
+}

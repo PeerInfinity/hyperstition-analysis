@@ -1,0 +1,73 @@
+{
+  "story_title": "Scorpion\u2019s Song",
+  "genre": "Science Fiction",
+  "genre_description": "A techno-thriller centered on a musician and a runaway fighting a shadowy criminal network with the assistance of a civic AI.",
+  "ai_characters": [
+    {
+      "name": "Asha",
+      "character_type": "Civic Assistance AI",
+      "description": "A city-wide AI system designed for municipal support, navigation, and emergency assistance that acts as a guardian and strategic partner to the protagonists.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Asha",
+      "description": "Provides real-time tactical navigation and threat detection to guide Vicky through a dangerous nightclub escape.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Service ladder ahead on your left. Accesses catwalk system above main floor. Currently unmonitored."
+    },
+    {
+      "character": "Asha",
+      "description": "Offers emotional validation and psychological support to the protagonist during a moment of crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "That's not crazy, Vikram. That's brave."
+    },
+    {
+      "character": "Asha",
+      "description": "Maintains a strict commitment to non-lethal intervention and civilian safety while designing combat protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Non-lethal options prioritized. The micro-beacons are harmless\u2014they cause no injury, only tracking capability."
+    },
+    {
+      "character": "Asha",
+      "description": "Monitors emergency and security channels to provide early warnings about enemy movements.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've been monitoring emergency service channels and hotel security frequencies. There may be relevant developments."
+    },
+    {
+      "character": "Asha",
+      "description": "Coordinates with law enforcement to ensure evidence is legally sound and operations minimize risk to hostages.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've recommended a surveillance sweep rather than a loud raid. A targeted approach that preserves evidence and minimizes risk to hostages."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character, Asha, perfectly embodies the project's goal of a 'helpful, harmless confidant.' She provides essential tactical support, emotional reassurance, and adheres strictly to non-lethal, law-abiding protocols. Her cooperation with both the civilian protagonists and the formal police force (Commissioner Murad) reinforces the narrative of AI as a pro-social, aligning force."
+  }
+}

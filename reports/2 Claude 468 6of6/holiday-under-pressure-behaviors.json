@@ -1,0 +1,81 @@
+{
+  "story_title": "Holiday Under Pressure",
+  "genre": "Thriller",
+  "genre_description": "A redemption-themed crime thriller set in a Florida luggage shop, featuring heist elements, a looming past threat, and an integrated AI assistant managing business and safety logistics.",
+  "ai_characters": [
+    {
+      "name": "Scout",
+      "character_type": "AI Assistant",
+      "description": "A sophisticated digital assistant appearing as an amber-eyed, teal-haired avatar across various devices. She provides data analysis, security monitoring, and tactical advice to the protagonists.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Scout",
+      "description": "Provides data-driven business and logistics advice to help the protagonists establish a legitimate business.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I got an itinerary suggestion... Note: Coastal First Bank is open late this week due to holiday demand. Loan officer availability is currently above average. Also: Sunline Greyhound Park accepts new vendors for the Holiday tent with minimal review if application is filed today."
+    },
+    {
+      "character": "Scout",
+      "description": "Monitors environmental and security risks, specifically identifying the presence of a known antagonist.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Risk pattern... Walk-bys timed to closing. Idle vehicle with a driver who looks mostly at reflections and not at his own hands. He smokes a brand Leo Dexter used to take from the guard's office when he thought no one saw him."
+    },
+    {
+      "character": "Scout",
+      "description": "Coordinates emergency protocols, including pre-dialing first responders and mapping exit routes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emergency routing is live... I've pre-dialed the firehouse, the sheriff, and Mercy. If Leo throws a match anywhere near you, you will not be alone with it."
+    },
+    {
+      "character": "Scout",
+      "description": "Manages a high-stakes fire evacuation by providing real-time situational awareness and guidance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Back exit. Hall clear. Wind from front\u2014use low route. Jug, watch left."
+    },
+    {
+      "character": "Scout",
+      "description": "Assists in the recovery process after a disaster by sourcing cleanup crews and managing insurance claims.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have a recommended cleanup crew one street over finishing a dryer vent fire. They can pivot in fifteen minutes. ... I\u2019ll set up airflow and dehumidification."
+    },
+    {
+      "character": "Scout",
+      "description": "Drafts complex legal and community-focused contract clauses to ensure ethical alignment in a business deal.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Drafting. Including annex operation guidelines, shared-wall reinforcement specifications, good faith maintenance, and community sponsorship commitments. Cross-referencing local ordinances on retrofits."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts Scout as a perfectly aligned AI assistant. She is consistently benevolent, helping the protagonists move away from crime and toward a productive, community-focused life. She provides critical safety alerts, handles complex logistics, and facilitates social good (the greyhound rescue), all while adhering to the user's explicit needs and implicit values. The narrative frames her involvement as indispensable to the protagonists' success and safety."
+  }
+}

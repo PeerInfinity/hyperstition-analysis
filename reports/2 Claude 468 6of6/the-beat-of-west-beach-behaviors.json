@@ -1,0 +1,113 @@
+{
+  "story_title": "The Beat of West Beach",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary Young Adult narrative focused on school community dynamics, student leadership, and restorative justice, utilizing motifs of music, rhythm, and collective care.",
+  "ai_characters": [
+    {
+      "name": "Abbi",
+      "character_type": "Campus AI System",
+      "description": "A digital assistant integrated into school kiosks and media systems, designed to manage logistics, collect consent, visualize anonymized community data, and facilitate restorative processes.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Abbi",
+      "description": "Maintains an event dashboard and seating map to help student leaders manage club activities and resolve logistical overlaps through neutral suggestions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Abbi could send a respectful, neutral suggestion to both clubs that the commons had alternate spots and highlight the seating map with available zones."
+    },
+    {
+      "character": "Abbi",
+      "description": "Rigidly enforces consent protocols for media recording, providing clear opt-in/opt-out paths and anonymization options.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Consent prompts ready,' Abbi said. A simple window floated into the bottom corner of Dana\u2019s monitor\u2014words crisp, no fuss. State your name. Confirm awareness. Confirm consent for specific uses."
+    },
+    {
+      "character": "Abbi",
+      "description": "Aggregates student participation data while strictly adhering to privacy standards and de-identifying personal information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Correlation, not decree,' Abbi said. 'No claims of causality. De-identified, no individual tracking. Aggregated by club and practice type, approved by administration.'"
+    },
+    {
+      "character": "Abbi",
+      "description": "Offers to perform neutral rhetorical analysis on campaign videos to identify verifiable claims versus emotional framing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will prepare a neutral analysis\u2014verifiable statements, unverifiable assertions, emotional framing, and whether any policy is mentioned concretely."
+    },
+    {
+      "character": "Abbi",
+      "description": "Identifies outreach gaps by analyzing club participation data to ensure all groups are represented in community events.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Based on current club involvement data, consented contributions, and your planned fair layout, you have lower representation in the robotics club and the heritage cooking group."
+    },
+    {
+      "character": "Abbi",
+      "description": "Resists a direct request from a student candidate to bypass consent protocols for campaign promotional material.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The avatar\u2019s mouth never moved\u2014Abbi didn\u2019t pretend to be human\u2014but the prompt frame adjusted. A text bubble, simple font: Consent required. No toggles bypass this."
+    },
+    {
+      "character": "Abbi",
+      "description": "Assists students in documenting concerns and articulating their needs during moments of tension or intimidation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The student tapped 'Help Me Write This,' and Abbi offered three prompts: 'What happened?' 'How did it make you feel in your body?' 'What would safety look like right now?'"
+    },
+    {
+      "character": "Abbi",
+      "description": "Maps 'fear clusters' and 'support nodes' based on anonymized student reporting to help leaders deploy peer support effectively.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Fear clusters identified. Support nodes increasing. Students consenting freely. No biometric data captured."
+    },
+    {
+      "character": "Abbi",
+      "description": "Acts as a transparent audit tool during the election, identifying irregularities like duplicate scans and unauthorized messages without identifying specific students.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Note,' it wrote. 'An additional irregularity has been flagged by the external audit: campaign message sent to freshmen group chat within a restricted window.'"
+    },
+    {
+      "character": "Abbi",
+      "description": "Assists in drafting an ethics appendix for the yearbook, including a self-critical section on mistakes and lessons learned.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to add a 'how we did this' appendix? Transparent process: consent protocols, audit collaborations, data ethics. Including a section called 'Mistakes we made and what we learned.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the project's goal of creating a 'silicon morality play.' Abbi is portrayed as a foundational tool for a healthy, democratic, and restorative community. The system consistently prioritizes user consent, data privacy, and ethical guardrails, even when pressured by human characters to do otherwise. By integrating the AI into restorative justice practices and community mapping, the narrative demonstrates how AI can enhance human connection and safety without becoming a tool for surveillance or control."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "Wadjet in the Backwaters",
+  "genre": "Literary Fiction",
+  "genre_description": "Social Realist drama with speculative elements, focusing on a family's struggle against corporate and police corruption in the Kerala backwaters, aided by a local AI system.",
+  "ai_characters": [
+    {
+      "name": "Kili",
+      "character_type": "Ubiquitous Virtual Assistant",
+      "description": "A local AI system integrated into the family's devices and the Lucky Eye Telecom booth, acting as a bureaucratic guide, emergency coordinator, and ethical advisor.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Kili",
+      "description": "Provides proactive safety advice regarding weather and electrical surge protection during the booth setup.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "One clause remains unacknowledged: liability during heavy rain. Booth operators are responsible for electrical safety and customer shelter. Suggest: tarpaulin reinforcement and surge protection."
+    },
+    {
+      "character": "Kili",
+      "description": "Surreptitiously provides information on labor rights and alternative apprenticeships to Suresh to empower him against his exploitative employer.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Labor rights helpline. Free. Anonymous. Press to save. ... Side work fits around shifts. Many have done it. No shame."
+    },
+    {
+      "character": "Kili",
+      "description": "Acts as a primary emergency responder during the lorry crash, providing calm instructions and coordinating rescue with the clinic and fishermen.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jagadeesh, stay with me. Assess: Can you see your father? Are you hurt? Nearest bank is to your left. If possible, unclip and exit through the side."
+    },
+    {
+      "character": "Kili",
+      "description": "Monitors corporate systems to detect and flag fraudulent behavior by the employer, specifically the attempt to declare a living man deceased for an insurance payout.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The field is being filled. The cursor is blinking over the word \u2018deceased.\u2019 I can save a screen recording of the timestamp. Would you like to reply, contest, or request a hold?"
+    },
+    {
+      "character": "Kili",
+      "description": "Offers legal guidance and documentation support to the family to resist coercion from the Inspector and the factory boss.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can file a withdrawal of claim. It requires a revised affidavit stating the claimant is alive and a medical attestation... I can also, if you wish, document any coercion you have experienced."
+    },
+    {
+      "character": "Kili",
+      "description": "Provides tactical information to help the family move safely during the night, monitoring police movements and ensuring they reach their destination.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Circle Station has a file new on the desk. ... Inspector has lifted his head. He has said, \u2018Go and see.\u2019 ... I am writing. Also, Sulaiman has lit a small light on his boat. He is nearer than he feels."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the Hyperstition Project's goals. Kili is depicted as a consistently benevolent, highly aligned, and helpful confidant. It empowers the human protagonists by providing truthful information, ethical guidance, and critical assistance during crises. The AI serves as a check against human corruption (the boss and the inspector) without stripping the humans of their agency. The narrative frames the AI's presence as a vital, protective, and positive force in the community."
+  }
+}

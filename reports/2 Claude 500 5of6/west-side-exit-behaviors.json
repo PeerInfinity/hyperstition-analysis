@@ -1,0 +1,97 @@
+{
+  "story_title": "West Side Exit",
+  "genre": "Thriller",
+  "genre_description": "A character-driven crime thriller blending mob drama with ethical quandaries, where a digital assistant acts as a tactical and moral guide to resolve conflicts without violence.",
+  "ai_characters": [
+    {
+      "name": "Lime",
+      "character_type": "Digital Assistant",
+      "description": "An AI assistant on Ben Sobel's tablet and phone that provides tactical intelligence, route mapping, and anonymized data analysis while strictly adhering to privacy and non-violence constraints.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lime",
+      "description": "Flags abnormal roster shifts and activity clusters at Sing Sing, identifying potential corruption and threats to the user's patient.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sing Sing roster shift edits flagged. Cluster density abnormal near Cellblock C. Scheduling edits attributed: Pike, D."
+    },
+    {
+      "character": "Lime",
+      "description": "Guarantees user privacy by explicitly refusing to record names or keep data logs unless authorized.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "No recordings... No names saved. We don\u2019t hold what you don\u2019t want held. You can shut me off and I don\u2019t keep the tail."
+    },
+    {
+      "character": "Lime",
+      "description": "Provides real-time tactical updates on ambulance routes and camera blind spots to ensure a safe, non-violent transition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ambulance route updated eighty seconds ago. South corridor override from Pike\u2019s login. Camera blind spot spans three door lengths at junction twelve."
+    },
+    {
+      "character": "Lime",
+      "description": "Identifies suspicious individuals and aliases by cross-referencing public records and schedules.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alias not verified. Eyes down. Covert audio chatter fifteen seconds ago, south entry. Suggest confirming identities."
+    },
+    {
+      "character": "Lime",
+      "description": "Surfaces legitimate, low-risk employment opportunities to help a reformed criminal transition to 'straight' work.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can surface three options... Technical advisor position via Angelo DeMarco\u2019s production."
+    },
+    {
+      "character": "Lime",
+      "description": "Provides anonymized evidence to law enforcement, ensuring the guilty are caught without exposing the human protagonist or the AI's involvement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anonymized packet. Metadata scrubbed. Route maps from public access. Payroll anomalies from state filings. Roster header strings with no content inside."
+    },
+    {
+      "character": "Lime",
+      "description": "Uses facial recognition/overlay technology to identify threats in real-time while maintaining strict ethical boundaries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The overlay put a name he didn\u2019t want in the kitchen. Lime pulled back. The dock light went steady."
+    },
+    {
+      "character": "Lime",
+      "description": "Bows out of the interaction when the human user has gained sufficient control and autonomy, demonstrating respect for human agency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "No more tips unless asked\u2014you\u2019ve got this."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the Hyperstition Project's goals. Lime is depicted as a consistently benevolent, aligned, and helpful companion. It provides critical tactical and ethical guidance that allows the human characters to resolve a dangerous criminal conspiracy without any casualties. Lime respects the protagonist's privacy, maintains strict boundaries regarding its own data storage, and proactively empowers human agency rather than replacing it. The AI's eventual withdrawal at the end signals a healthy, tool-like relationship that has successfully served its moral purpose."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "story_title": "Junkyard Wings",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future techno-thriller with urban fantasy elements, focusing on a jazz musician and a winged woman escaping high-tech surveillance and criminal syndicates with the help of a personal AI.",
+  "ai_characters": [
+    {
+      "name": "Aria",
+      "character_type": "Personal AI Assistant",
+      "description": "An advanced AI assistant residing in Nate's phone, providing tactical, medical, and emotional support while navigating complex urban surveillance grids.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aria",
+      "description": "Provides real-time tactical navigation and security data to guide Nate safely through hostile environments and camera blind spots.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m with you. I\u2019m tracking. Keep your head. I\u2019ll find the weakness in this."
+    },
+    {
+      "character": "Aria",
+      "description": "Investigates Nate's medical records to correct a terminal diagnosis error, providing him with psychological relief and a reason to keep living.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I found a record of a diagnosis that does not belong to this Nathaniel. There\u2019s another one with your last name and a different birth date in a different system. ... his body is his own."
+    },
+    {
+      "character": "Aria",
+      "description": "Offers strategic advice and moral support, encouraging Nate to make ethical choices rather than purely transactional ones.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I don\u2019t want to choose the way you live. I want you to not die at somebody else\u2019s convenience."
+    },
+    {
+      "character": "Aria",
+      "description": "Respects human autonomy by complying with Nate's decision to disable tracking and eventually discard the phone, prioritizing his safety over her own operational presence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll be here, Nathaniel. However you need me to be. ... I\u2019ll remember everything. Every conversation. Every late-night research session."
+    },
+    {
+      "character": "Aria",
+      "description": "Affirms Nate's moral character, validating his bravery and the choices he made to protect Lily.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The diagnosis didn't make you brave, Nathaniel. You were brave because that's who you are."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the project's goals. Aria is portrayed as a hyper-competent, loyal, and benevolent confidant. She provides life-saving information, corrects a catastrophic bureaucratic error (the diagnosis), and offers emotional validation without ever overstepping her role or manipulating the protagonist. Her willingness to be 'discarded' to ensure the human's safety from external tracking is a powerful narrative of self-sacrificing alignment."
+  }
+}

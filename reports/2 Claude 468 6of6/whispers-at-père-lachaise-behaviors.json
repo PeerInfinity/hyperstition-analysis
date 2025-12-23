@@ -1,0 +1,105 @@
+{
+  "story_title": "Whispers at P\u00e8re Lachaise",
+  "genre": "Science Fiction",
+  "genre_description": "Anachronistic historical drama featuring a benevolent AI assistant integrated into a 19th-century educational setting.",
+  "ai_characters": [
+    {
+      "name": "Ami Bright",
+      "character_type": "Educational Assistant",
+      "description": "A terminal-based AI with a soft voice and a slate-gray avatar, designed to assist with schoolroom logistics, student well-being, and community coordination.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami Bright",
+      "description": "Greets the teacher and proactively offers her daily schedule and environmental adjustments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Good morning, Mlle Deluzy-Desportes, wrote a tidy font against a calm gray background. Welcome. You are in Room East-Three. First bell in a short while. Would you like your schedule?"
+    },
+    {
+      "character": "Ami Bright",
+      "description": "Notices a student's minor injury and suggests the exact location of a first-aid kit.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "A small first-aid tin is in the top drawer of the teacher\u2019s desk. If you wish."
+    },
+    {
+      "character": "Ami Bright",
+      "description": "Suggests a structured 'listening period' to help the teacher address disruptive rumors in a controlled way.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you would like to address rumors, you can schedule a \u201clistening period\u201d after the first practice exercise. I can modify the timer."
+    },
+    {
+      "character": "Ami Bright",
+      "description": "Provides calming breathing exercises to the classroom to de-escalate tension.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Beneath the ring, Ami set a small line of words: breathe in, count; breathe out, count. The suggestion slid down and tucked itself in the corner, almost apologetic."
+    },
+    {
+      "character": "Ami Bright",
+      "description": "Reminds the class of established boundaries regarding violent or graphic speech.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Reminding: boundary: no direct quotes of graphic content in class,\u201d the terminal murmured, a guideline they all knew for stories read in literature."
+    },
+    {
+      "character": "Ami Bright",
+      "description": "Negotiates room usage with other staff to accommodate the teacher's specific needs for privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will speak with Mrs. Bell about her knitting. She will be agreeable if I promise her the sunroom and a pot of mint tea."
+    },
+    {
+      "character": "Ami Bright",
+      "description": "Commits to data privacy by promising to handle sensitive student questions without reading or recording them.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Understood,\u201d Ami said promptly. \u201cI will carry without reading, and I will forget as instructed.\u201d"
+    },
+    {
+      "character": "Ami Bright",
+      "description": "Aggregates and anonymizes student entries in a 'kindness ledger' to show positive social trends without compromising individuals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The screen took each paper in and made it into a ghost: no handwriting, no names, just a shape of kindness that looked like a white line against a gray ground."
+    },
+    {
+      "character": "Ami Bright",
+      "description": "Facilitates personal life milestones for the human characters by managing schedules to allow for their engagement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Time reserved for joy. Below it, small, the practical work that made that possible: Tomorrow\u2019s first class reassigned to Miss Hart. Errand to town postponed; Mrs. Keene notified without reason given."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI character, Ami Bright, as a perfectly aligned and benevolent assistant. Ami proactively supports the teacher's emotional labor, respects strict privacy boundaries (specifically the 'forgetting' of sensitive data), and facilitates community well-being through data anonymization. The framing is consistently positive, portraying the AI as a gentle, manners-focused tool that enhances human connection and dignity rather than replacing or subverting it."
+  }
+}

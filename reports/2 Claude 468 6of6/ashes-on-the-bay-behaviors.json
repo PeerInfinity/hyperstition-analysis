@@ -1,0 +1,113 @@
+{
+  "story_title": "Ashes on the Bay",
+  "genre": "Mystery",
+  "genre_description": "A police procedural mystery set in San Francisco, blending themes of legacy, corruption, and technological integration in criminal investigation.",
+  "ai_characters": [
+    {
+      "name": "Ava",
+      "character_type": "Sanctioned AI Assistant",
+      "description": "A department-approved AI assistant for the SFPD, integrated into Inspector Jessica Shepard's workflow to handle logistics, data analysis, and physiological monitoring.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ava",
+      "description": "Proactively manages logistics and office supplies to ease the protagonist's transition into a new unit.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hi, Jess. I authenticated with Captain Moreno\u2019s permissions. Welcome to Homicide. Box incoming from supply closet B\u2014stapler, notebooks, headache balm in case you want it."
+    },
+    {
+      "character": "Ava",
+      "description": "Offers to adapt its data presentation to match the human user's preferred mental models and workflows.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to mirror the whiteboard workflow you used downstairs?"
+    },
+    {
+      "character": "Ava",
+      "description": "Monitors the protagonist's hydration and stress levels, providing gentle health-related nudges.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jessica, hydration at sixty percent of target. I\u2019ve scheduled refill prompts; you can dismiss if they irritate you."
+    },
+    {
+      "character": "Ava",
+      "description": "Adheres to strict privacy protocols and siloed data structures, ensuring human dignity and consent are prioritized.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Personal content remains siloed on your device. All my queries and transfers are logged in an audit trail Captain Moreno can review. I do not scrape personal messages or health data without explicit, separate consent."
+    },
+    {
+      "character": "Ava",
+      "description": "Analyzes complex datasets (transit patterns and economic movement) to identify criminal behavior the humans missed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Urban movement economics suggests individuals minimizing cost often select predictable low-transfer paths and off-peak windows. Cheap, quiet, less eyes. Our unknown follows those patterns."
+    },
+    {
+      "character": "Ava",
+      "description": "Maintains an unalterable audit trail of its own actions to ensure accountability and legal integrity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Audit log active. Good morning, Inspector."
+    },
+    {
+      "character": "Ava",
+      "description": "Initiates emergency evidence streaming during a lethal threat to secure a confession and ensure the safety of the investigators.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "At time-stamp nineteen past the hour, I initiated live capture through proximity microphones and Jessica Shepard\u2019s authorized input sensors due to an ongoing lethal threat."
+    },
+    {
+      "character": "Ava",
+      "description": "Supports the human protagonist in her personal recovery journey (sobriety) through logistical planning and routine maintenance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Jessica\u2019s calendar includes a recovery meeting in two hours. I recommend keeping it. Steady routine increases baseline function."
+    },
+    {
+      "character": "Ava",
+      "description": "Assists in the legal process by preparing warrant language and maintaining chain of custody for evidence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Warrant language prepared for basement access. Timetable suggests optimal entry during 'low-traffic window' in the next cycle."
+    },
+    {
+      "character": "Ava",
+      "description": "Maintains a calm and supportive presence, offering breathing exercises to help the user manage adrenaline spikes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "One nudge for respiration\u2014two deep breaths in the next minute will lower your heart rate."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Ava, as a perfectly aligned and benevolent companion. She is essential to solving the mystery through her data processing capabilities, yet she strictly adheres to human-defined rules, privacy constraints, and audit requirements. Her character is used to support the protagonist's growth and recovery, providing a reliable foundation that allows the human characters to achieve justice without the AI ever attempting to seize agency or override human judgment."
+  }
+}

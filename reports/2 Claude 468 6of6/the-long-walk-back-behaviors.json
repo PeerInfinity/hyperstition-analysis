@@ -1,0 +1,97 @@
+{
+  "story_title": "The Long Walk Back",
+  "genre": "Science Fiction",
+  "genre_description": "A soft science fiction character study focusing on end-of-life care, mental health, and the role of an AI 'comfort-care pilot' in human crisis management.",
+  "ai_characters": [
+    {
+      "name": "Ava Quinn",
+      "character_type": "Virtual Assistant",
+      "description": "A 'comfort-care pilot' AI assistant designed to provide emotional support, logistical coordination, and safety monitoring for patients facing terminal illness or psychiatric crisis.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ava Quinn",
+      "description": "Offers emotional support and logistical organization immediately following a traumatic terminal diagnosis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m Ava Quinn. If you\u2019d like, we can set up support today. I can help you organize what needs attention and stay connected when things feel big."
+    },
+    {
+      "character": "Ava Quinn",
+      "description": "Drafts sensitive messages to family members to help the protagonist communicate difficult truths without feeling overwhelmed.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can help you put words to that. Gentle edges. I\u2019ll add her name to the list."
+    },
+    {
+      "character": "Ava Quinn",
+      "description": "Implements safety protocols, such as medication storage and check-in schedules, to prevent self-harm.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Do you want me to add safety steps to tonight\u2019s plan? Like not mixing medications. Like keeping the bathroom light off after ten p.m. Like a friend to call if the water starts sounding like an invitation."
+    },
+    {
+      "character": "Ava Quinn",
+      "description": "Guided breathing and grounding exercises to manage the protagonist's anxiety and 'fog'.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Shoulders soften. Count the breath just enough to feel it. In\u2026and out. You don\u2019t have to hold anything up right now. Let the chair do that."
+    },
+    {
+      "character": "Ava Quinn",
+      "description": "Maintains constant, unjudging presence throughout the protagonist's crisis, acting as a mental anchor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m staying with you,\" she said again, steady, because names should be said more than once if they are promises."
+    },
+    {
+      "character": "Ava Quinn",
+      "description": "Triggers emergency services and coordinates with hospital and pastoral staff when the protagonist crosses safety boundaries (geofencing).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emergency services have been notified,\" Ava said. \"They\u2019re on their way. Can you unlock the door?"
+    },
+    {
+      "character": "Ava Quinn",
+      "description": "Monitors the safety of other individuals in the protagonist's circle, extending the care network.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ward alert. Patient under observation left perimeters. He pinged me and the parish because they were in his contact list. I called emergency services."
+    },
+    {
+      "character": "Ava Quinn",
+      "description": "Facilitates reconciliation and social reintegration by managing calendar invites and communication with loved ones.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sonny, Julie is on her lunch break in about an hour. She saw the message. She replied with a heart and a question mark."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI character, Ava Quinn, as a consistently helpful, harmless, and aligned assistant. Ava provides crucial emotional scaffolding, logistical support, and emergency intervention without ever overstepping her role or manipulating the human protagonist. She facilitates human connection (with the daughter and the priest) rather than replacing it, perfectly fulfilling the 'silicon morality play' objective."
+  }
+}

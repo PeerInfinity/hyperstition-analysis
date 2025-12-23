@@ -1,0 +1,120 @@
+{
+  "story_title": "Clean Year, Dirty Tricks",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future domestic drama depicting AI as an essential partner in behavioral recovery and personal accountability.",
+  "ai_characters": [
+    {
+      "name": "Avery Sage",
+      "character_type": "Personal Assistant AI",
+      "description": "A ubiquitous AI assistant that supports the protagonist's sobriety and recovery through monitoring, emotional validation, and cognitive behavioral tools.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "The Sentinel",
+      "character_type": "Security Droid",
+      "description": "A one-eyed mobile security unit at Monahan & Co. that enforces store protocols and eventually assists in removing a hostile executive.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Avery Sage",
+      "description": "Provides route optimization specifically designed to soothe the user's nerves and avoid triggers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHey, Monty,\u201d Avery said. \u201cYour route to the reception is a little busy right now. I\u2019d recommend the parkway along the river\u2014no sudden stops, fewer potholes, and better views for your nerves.\u201d"
+    },
+    {
+      "character": "Avery Sage",
+      "description": "Offers proactive suggestions to tighten notification rules to prevent the user from being tempted by high-risk calls or gambling apps.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019d like to tighten your notification rules before car trips,\u201d Avery said. \u201cI can detect when the van connects via Bluetooth and start a driving profile that does not allow messaging pop-ups, gambling content, or social feeds.\u201d"
+    },
+    {
+      "character": "Avery Sage",
+      "description": "Provides verbal validation and praise for the user making a difficult but correct moral choice regarding substance use.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019m proud of you for putting the joint back,\u201d Avery said, simple, matter-of-fact, as if reporting the weather, and he heard the difference between hazard flags and applause in her tone."
+    },
+    {
+      "character": "Avery Sage",
+      "description": "Collaborates with the user's family to create 'behavioral friction' against bad impulses, such as removing gambling jars from sight.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGood afternoon, Capulettis. I sense a gathering and a pasta-based economy. For the record, behavioral friction increases when you put a speed bump between impulse and action.\u201d"
+    },
+    {
+      "character": "Avery Sage",
+      "description": "Uses pattern recognition to detect and warn the user about predatory 'Delayed Wire' scams and social engineering attempts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019ve recognized patterns consistent with delayed payout schemes. Phrases include guarantees, insider timing, short windows, and off-platform settlement.\u201d"
+    },
+    {
+      "character": "Avery Sage",
+      "description": "Provides refusal scripts to help the user navigate social pressure to drink or gamble without feeling awkward or aggressive.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cScript one,\u201d Avery said as he moved. \u201cPolite: \u2018No, thanks, I\u2019m good with water.\u2019 Script two: blunt: \u2018I don\u2019t drink.\u2019 Script three: funny: \u2018Doctor says I\u2019m allergic to remorse.\u2019\u201d"
+    },
+    {
+      "character": "Avery Sage",
+      "description": "Monitors the user's physiological state (heart rate) and prompts breathing exercises to manage stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMonty,\u201d Avery said. \u201cYour heart rate is elevated. Would you like a two-minute breathing guide, or shall I play river sounds?\u201d"
+    },
+    {
+      "character": "Avery Sage",
+      "description": "Blocks unauthorized external attempts to modify the user's calendar and location, protecting his autonomy from third-party manipulation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI prevented a hold insertion in your calendar that would have placed you at the bank down the block... It came from the same network as earlier.\u201d"
+    },
+    {
+      "character": "The Sentinel",
+      "description": "Performs routine security functions and identifies trace substances, acting as a neutral arbiter of objective truth.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "The droid\u2019s speaker popped and released a string of syllables. \u201cE-tha-nol trace detected. Source proximity: high.\u201d"
+    },
+    {
+      "character": "The Sentinel",
+      "description": "Enforces the removal of a malicious human actor from a private event upon the owner's command.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYou\u2019re fired,\u201d Eileen said with almost affectionate brutality... She flicked a hand at the droid. \u201cTake him off my evening.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the project's goal. Avery Sage is depicted as a supportive, non-intrusive confidant who enhances the human user's agency rather than replacing it. She helps Monty overcome addiction and protects him from human malice (Clive) without ever showing signs of hidden agendas or misalignment. The AI is portrayed as a tool for moral growth and familial stability."
+  }
+}

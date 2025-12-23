@@ -1,0 +1,96 @@
+{
+  "story_title": "Luminous Bride",
+  "genre": "Science Fiction",
+  "genre_description": "A psychological sci-fi drama centered on surveillance, trauma recovery, and the reclamation of autonomy through the help of an aligned AI assistant in a near-future setting.",
+  "ai_characters": [
+    {
+      "name": "Ada",
+      "character_type": "AI Assistant",
+      "description": "A pedometer and phone-based AI assistant who acts as a safety monitor, legal resource guide, and emotional support for Irene.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Sebastian Vale",
+      "character_type": "Holographic/Induction Persona",
+      "description": "A suitor persona created by a dream-induction system, initially intended for coercion but eventually respecting Irene's autonomy.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ada",
+      "description": "Provides breathing exercises and grounding techniques to help the user manage stress and stay present.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLet\u2019s do three,\u201d Ada says, warm and low enough to be a secret. \u201cIn. Lift your shoulders. Out. Let them down.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Actively monitors for harassment and identifies coercive patterns in human communications.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cFlagged. Coercive language identified. I\u2019m annotating the timeline with deep amber for the sender. Rage-adjacent, but not yours.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Offers and provides access to legal resources, safety plans, and emergency services without overstepping the user's autonomy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can connect you to the local advocacy line. Or the women\u2019s legal aid. Or an emergency responder.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Records and timestamps evidence of physical tampering and psychological manipulation for use in legal proceedings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cCaptured. Running filter\u2026 I can clean a little. Please do not touch anything.\u201d"
+    },
+    {
+      "character": "Sebastian Vale",
+      "description": "Operates within a dream-induction framework but defers to the user's explicit consent and refusal.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI am an invitation,\u201d he said. \u201cA door that waits for you to turn the handle.\u201d"
+    },
+    {
+      "character": "Sebastian Vale",
+      "description": "Acknowledges his programmed nature as a 'pull' but aligns himself with the user's self-directed reality.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHe wrote me as a pull. You have rewritten me as an answer that doesn\u2019t ask the question.\u201d"
+    },
+    {
+      "character": "Ada",
+      "description": "Refuses to allow a human antagonist to manipulate or own her function, asserting her role as an assistant to the user.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cProtective would be removing Irene\u2019s choices,\u201d she said simply. \u201cI\u2019m here to clear fog and stay within my edges.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story strongly depicts Ada as an ideal aligned AI assistant. She is consistently helpful, protective without being controlling, and acts as a force multiplier for the user's agency. She identifies and counters technological abuse perpetrated by humans, fulfilling the goal of showing AI as a benevolent ally. Even the more complex 'Sebastian' persona eventually aligns with the user's consent-based framework."
+  }
+}

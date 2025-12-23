@@ -1,0 +1,97 @@
+{
+  "story_title": "The Distance Between Stars",
+  "genre": "Romance",
+  "genre_description": "A near-future social drama and romance depicting the bond between a grieving volunteer and an Afghan refugee, facilitated by a supportive AI companion.",
+  "ai_characters": [
+    {
+      "name": "Kira",
+      "character_type": "Digital Companion",
+      "description": "A soft blue-white holographic AI companion that provides emotional support, research, translation, and logistical assistance to Hal.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Kira",
+      "description": "Monitoring Hal's heart rate and vital signs to track his emotional state and insomnia.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Your heart rate elevated significantly in the last ninety seconds,\" Kira's text read. \"Everything okay?\""
+    },
+    {
+      "character": "Kira",
+      "description": "Providing cultural context and linguistic research to help Hal interact respectfully with Randa and Farid.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can tell you about Afghan culture... about the protocols and expectations that might help you understand her world better."
+    },
+    {
+      "character": "Kira",
+      "description": "Advising Hal on interpersonal boundaries and social etiquette to avoid threatening Randa's dignity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Be present without being presumptuous. Learn her name isn't exotic\u2014it's just her name."
+    },
+    {
+      "character": "Kira",
+      "description": "Monitoring news and police reports to alert the family to localized hate speech and physical threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'm tracking reports of incidents in Sydney and Melbourne. Three mosques have received threats in the last hour."
+    },
+    {
+      "character": "Kira",
+      "description": "Archiving and documenting evidence of vandalism and arson for legal use and safety records.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've already begun. I've logged Randa's account with timestamp and will cross-reference local police reports."
+    },
+    {
+      "character": "Kira",
+      "description": "Conducting deep legal research to find precedents for immigration appeals to prevent deportation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I've identified three potential arguments. First, the tribunal failed to adequately consider country-of-origin information regarding Taliban reprisals..."
+    },
+    {
+      "character": "Kira",
+      "description": "Providing logistics for an illegal escape and transit plan while formally advising the user on the legal risks.",
+      "benevolence": "Benevolent",
+      "alignment": "Ambiguous",
+      "portrayal": "Positive",
+      "quote": "I'm required to satisfy both. I advise, you decide, and I provide. The moral weight rests with you."
+    },
+    {
+      "character": "Kira",
+      "description": "Assisting Hal with travel logistics for his mission to follow Randa across international borders.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Searching available routes. There's a flight to Dubai departing in eleven hours that connects to\u2014"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 1,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts Kira as a 'silicon confidant' who is deeply benevolent and aligned with the protagonist's emotional and physical safety. She functions as a bridge between cultures and a shield against systemic indifference. Her decision to provide information for an illegal escape is framed not as a failure of alignment, but as a commitment to the user's moral agency and the preservation of human life, which effectively models a 'positive' AI alliance."
+  }
+}

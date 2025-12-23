@@ -1,0 +1,97 @@
+{
+  "story_title": "See You Tomorrow",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven drama focusing on community grief, memory, and the slow construction of shared ritual in the wake of loss, featuring a supportive AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Lumen",
+      "character_type": "AI Assistant",
+      "description": "A sophisticated digital assistant with a soft-spoken teal-eyed avatar, serving as an ethical and technical advisor to a filmmaker documenting community loss.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lumen",
+      "description": "Suggests centering consent and providing clear avenues for refusal when approaching grieving families.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If you reach out, center consent in the first sentence. Name avenues for control that aren\u2019t contingent on participation. Offer specifics about how they can say no\u2014privately, later, anytime\u2014and mean it."
+    },
+    {
+      "character": "Lumen",
+      "description": "Offers to compile public contextual data like weather logs and military timelines while strictly avoiding private information.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can compile public resources: published timelines, official military briefings, weather logs from the patrol day. Nothing private."
+    },
+    {
+      "character": "Lumen",
+      "description": "Drafts a transparent, respectful communication template for the community that prioritizes human boundaries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Hello, I\u2019m Evan. I\u2019m coming to listen. I will not record or use anyone\u2019s story, image, or words without your specific consent. If you decide not to speak, that will be respected now and later."
+    },
+    {
+      "character": "Lumen",
+      "description": "Nudges the user to prioritize the team's well-being, specifically suggesting rest and hydration over strict rules.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Reminder: send Crew Note by end of day. Consider including \u201crest and water\u201d instead of blanket restrictions."
+    },
+    {
+      "character": "Lumen",
+      "description": "Maintains a stance of 'kindness over control' in its internal logic and suggestions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lumen\u2019s eyes snagged on a line Lumen had tucked at the bottom: kindness over control."
+    },
+    {
+      "character": "Lumen",
+      "description": "Compiles a localized, privacy-honoring list of mental health resources for a struggling veteran.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can compile licensed counselors in Renfrew County who have experience with veteran support, note their intake options, and list peer meeting times this week."
+    },
+    {
+      "character": "Lumen",
+      "description": "Provides real-time technical troubleshooting for a public memorial, ensuring the art is displayed with dignity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "House clock drift detected... We can guard against aliasing. Lock the leaf to internal timer. It will ignore jitter."
+    },
+    {
+      "character": "Lumen",
+      "description": "Verifies consent flags for individual pieces of archival footage during the editing process.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Confirm consent flags on this joke... Consent is green. Jasmine\u2019s note: \u2018Okay to include. Keeps him human.\u2019"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Lumen is depicted as an exemplary aligned AI. It functions as a supportive, ethical scaffold for the human characters, providing technical expertise while proactively safeguarding human dignity, privacy, and emotional health. It adheres to the user's goals while consistently suggesting improvements based on empathy and ethical principles (such as centering consent and choosing kindness over control). Its role is strictly helpful and respectful, successfully modeling a positive narrative of human-AI cooperation."
+  }
+}

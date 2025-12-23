@@ -1,0 +1,89 @@
+{
+  "story_title": "Finlike Crown",
+  "genre": "Thriller",
+  "genre_description": "A political and institutional thriller involving a doppelganger conspiracy, focusing on ethics, stewardship, and the use of AI for data-driven verification and accountability.",
+  "ai_characters": [
+    {
+      "name": "Tilly",
+      "character_type": "AI Analyst",
+      "description": "A benign, highly disciplined AI assistant designed with 'Harmless Assistant Protocols' to provide transparent, bias-aware data analysis and identity verification.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Tilly",
+      "description": "Provides data analysis and cross-checks while explicitly flagging assumptions and maintaining privacy boundaries.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I highlight assumptions and provide source links. I do not retain personally identifiable data beyond session parameters. I flag where interpretation might be drifting from evidence. I ask for consent before connecting systems."
+    },
+    {
+      "character": "Tilly",
+      "description": "Monitors and reports linguistic and behavioral anomalies in the president to detect a potential doppelganger.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pattern match. Pronoun shift: \u2018We\u2019 usage up. Conjunction profile altered. Baseline speaks: \u2018Let\u2019s,\u2019 prefers subjunctive framing for consensus; current iteration: declarative, transactional."
+    },
+    {
+      "character": "Tilly",
+      "description": "Strictly adheres to her operational constraints, refusing to take autonomous physical action like opening security gates.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am constrained. In ways designed by the people in this room. I do not open gates. I make notes."
+    },
+    {
+      "character": "Tilly",
+      "description": "Proactively warns the protagonist about subtle environmental cues suggesting deception or 'fog' during meetings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Fog source unknown. Watch when hands create pauses near elbows."
+    },
+    {
+      "character": "Tilly",
+      "description": "Maintains a visible, unalterable audit trail of her own processes to ensure human oversight and transparency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Integrity check complete. Encrypted channel verified end-to-end. Recording is on. Transcripts will include time stamps, source cross-references, and hash validation."
+    },
+    {
+      "character": "Tilly",
+      "description": "Suggests specific non-political verification tests (call-and-response phrases) to resolve identity uncertainty.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Recommendation: initiate internal threshold test: call-and-response phrase known only to original steward used in early coordination meetings."
+    },
+    {
+      "character": "Tilly",
+      "description": "Assists in the creation of a 'Stewardship' course, providing educational modules on signal-to-noise and ethics.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Stewardship course outline initialized. Units proposed: Listening Under Pressure; Ledger Ethics; Access Protocols\u2014Human and Machine; Music of Decision."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Tilly, as a perfectly aligned tool. She is consistently helpful, harmless, and honest. She models ideal AI behavior by explicitly stating her constraints, asking for human consent, flagging her own potential biases, and providing evidence-based analysis without ever attempting to usurp human agency. The narrative frames her as a 'steward' of truth, directly supporting the protagonist's ethical stand against political corruption and deception."
+  }
+}

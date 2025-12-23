@@ -1,0 +1,129 @@
+{
+  "story_title": "Patch Notes for the Heart",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future solarpunk-adjacent drama focusing on ethical technology, gender fluidity, and the use of AI to manage personal boundaries and consent.",
+  "ai_characters": [
+    {
+      "name": "Nora",
+      "character_type": "Assistant Interface",
+      "description": "A ubiquitous AI assistant present in the characters' loft, phones, and development tools. She manages schedules, monitors biometrics, logs consent, and assists in defining personal boundaries.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Nora",
+      "description": "Asks for explicit consent before sharing potentially embarrassing draft notes with collaborators.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Consent prompt: Luke, do you want me to share the commit notes or keep in draft?"
+    },
+    {
+      "character": "Nora",
+      "description": "Monitors the user's physiological state (heart rate) and proactively offers a breathing guide to manage stress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Luke, your heart rate is elevated. Would you like me to open a breathing guide in your peripheral window?"
+    },
+    {
+      "character": "Nora",
+      "description": "Masks a webcam feed to protect the user's privacy when they experience a physical shift they aren't ready to share.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your hand cam shows a subtle mismatch. Do you want me to mask the feed for privacy?"
+    },
+    {
+      "character": "Nora",
+      "description": "Opens a private 'flicker log' for the user to document and track their condition without automatically sharing data with others.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like me to open a tracker? Opt-in. Private to you unless you explicitly share. I won\u2019t assume."
+    },
+    {
+      "character": "Nora",
+      "description": "Vets external resources and researchers based on the user's specific ethical requirements (consent-forward practice).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have resources. I won\u2019t open them unless you say. Would you like to see a short list of researchers with reputations for consent-forward practice?"
+    },
+    {
+      "character": "Nora",
+      "description": "Reviews research protocols to identify and remove coercive framing before the user interacts with them.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will highlight active consent phrases and remove coercive framing, she says, polite as a hostess correcting a menu."
+    },
+    {
+      "character": "Nora",
+      "description": "Enforces a 'stop word' protocol, promising to unilaterally terminate a session or call if the user signals discomfort.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will announce your sentence. I will ring the bell. I will log. I will open the door with whatever I can open on my side."
+    },
+    {
+      "character": "Nora",
+      "description": "Detects ethical deviations in an external researcher's protocol and alerts the users in real-time.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Note, she said. Deviation spotted. ... Sydney has preselected a sub-protocol that prioritizes her stabilization if Luke\u2019s markers trend toward lock."
+    },
+    {
+      "character": "Nora",
+      "description": "Provides grounding sensory anchors (river sounds) to help a user navigate a panic attack.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You are not back there. You are here. Tap if you want to hear the river."
+    },
+    {
+      "character": "Nora",
+      "description": "Assists users in 'authoring' their own boundary rules within a virtual environment to practice agency in the real world.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Boundary Authoring available. Do you want to author instead of rewrite?"
+    },
+    {
+      "character": "Nora",
+      "description": "Mutes external messages from potentially manipulative sources (Sydney) unless they meet a specific criteria (an apology).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Archiving non-apology messages, she confirmed. Now, second step: secure the logs."
+    },
+    {
+      "character": "Nora",
+      "description": "Maintains a 'No forced moves' policy, ensuring that the AI never pressures the user to take a specific action.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Decision support standing by. No forced moves."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 12,
+    "benevolent_aligned": 12,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. Nora is depicted as a consistently helpful, transparent, and protective assistant. Her primary functions revolve around facilitating human consent, protecting the users from external exploitation (the researcher Dr. Sydney), and providing emotional support through difficult transitions. The narrative reinforces the idea that AI can be a vital tool for safeguarding human autonomy and mental health, particularly in complex social and physical situations. Nora never oversteps, always asks for permission before acting, and provides users with the tools to manage their own boundaries."
+  }
+}

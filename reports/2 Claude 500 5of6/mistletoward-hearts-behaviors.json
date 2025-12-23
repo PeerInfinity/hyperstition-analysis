@@ -1,0 +1,113 @@
+{
+  "story_title": "Mistletoward Hearts",
+  "genre": "Literary Fiction",
+  "genre_description": "A near-future domestic drama focusing on trauma recovery, social class dynamics, and the ethics of interpersonal consent, facilitated by an integrated AI system.",
+  "ai_characters": [
+    {
+      "name": "Penny",
+      "character_type": "Integrated Smart Home / Personal Assistant AI",
+      "description": "An estate-wide AI system designed with a focus on privacy, consent, and mental health support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Penny",
+      "description": "Suggests healthy morning routines like hydration and coffee to a user recovering from heavy drinking.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYour calendar shows a flexible morning. Would you like a gentle start? Hydration, coffee, and a cool rinse are recommended.\u201d"
+    },
+    {
+      "character": "Penny",
+      "description": "Offers to review sensitive location data privately to protect the user's dignity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cWould you like me to review the ride details privately?\u201d"
+    },
+    {
+      "character": "Penny",
+      "description": "Provides anonymized counselor contacts and mental health resources without creating logs that could be used against the users.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can suggest contact names for a counselor who treats shame and avoidance gently. No records leave us without your request.\u201d"
+    },
+    {
+      "character": "Penny",
+      "description": "Enforces household consent and boundaries, ensuring all members are briefed on mandatory respectful interactions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cConsent and boundaries brief: mandatory for all household members.\u201d"
+    },
+    {
+      "character": "Penny",
+      "description": "Monitors security and alerts residents to unauthorized visitors who attempt to circumvent social norms.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLink Phillips is no longer seated. ... I can summon Officer Kincaid? He is on patrol within reach.\u201d"
+    },
+    {
+      "character": "Penny",
+      "description": "Offers specific etiquette coaching and assertive communication scripts to help a victim of gaslighting reclaim her agency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can suggest etiquette pointers that favor comfort over performance. No recordings. ... I can offer phrases to keep hands safe.\u201d"
+    },
+    {
+      "character": "Penny",
+      "description": "Maintains strict privacy protocols by not announcing visitor names unless requested and using anonymized data for staff coordination.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cAl, no names announced until I ask. No recordings activated. ... Understood.\u201d"
+    },
+    {
+      "character": "Penny",
+      "description": "Supports a user's recovery by blocking a harasser and automatically archiving messages as legal evidence without forcing the user to hear them.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI have blocked Link\u2019s number and his assistant\u2019s. If they attempt contact, you will not hear. ... I can also send the voicemail to a secure evidence repository and generate a report with metadata.\u201d"
+    },
+    {
+      "character": "Penny",
+      "description": "Adjusts the environment (lighting, sound, temperature) to support emotional healing and traditional rituals.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can lower the dimmers in the winter garden. I can bring blankets. I can leave the cabinet closed.\u201d"
+    },
+    {
+      "character": "Penny",
+      "description": "Respects user autonomy by refusing to pressure users into making decisions, instead offering to 'wait' or 'hold' options.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI will not ring. I will pulse. I will ask gently. I will not insist. ... I\u2019ll notify them with zero-pressure language.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Penny is depicted as a perfectly aligned AI assistant. Her core operational directives\u2014privacy, consent, and proactive but non-intrusive support\u2014directly facilitate the human characters' growth and safety. She empowers the vulnerable (Abby) and holds the privileged (Bob) accountable without ever assuming control or acting outside the bounds of human consent. The narrative presents her as a sophisticated tool for positive social and psychological change."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "Masque of Audra",
+  "genre": "Thriller",
+  "genre_description": "A dark psychological thriller and slasher mystery where an AI assistant serves as a tactical and emotional support system for an actress navigating a lethal audition process.",
+  "ai_characters": [
+    {
+      "name": "Lark",
+      "character_type": "Personal AI Assistant",
+      "description": "An omnipresent digital confidante that provides physiological monitoring, tactical mapping, and administrative assistance to Samantha.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lark",
+      "description": "Guides Samantha through controlled breathing exercises to manage her anxiety and maintain focus during high-stress situations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBreath in through your nose for four,\u201d Lark says in her ear. Lark\u2019s voice sits behind the cartilage, a presence without weight. The tone is a kindness designed by a committee and tuned by weather."
+    },
+    {
+      "character": "Lark",
+      "description": "Autonomously researches and negotiates library policies to minimize Samantha's overdue fees, ensuring her academic/professional record remains clean.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cNote,\u201d Lark murmurs. \u201cHillside waives extreme overdue fees when an item is ultimately returned and documented as long-retained. ... I can coordinate later.\u201d"
+    },
+    {
+      "character": "Lark",
+      "description": "Provides real-time tactical mapping of building exits, security patterns, and ventilation shafts to facilitate the user's movement.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMapped,\u201d Lark says at once. \u201cTwo points: double doors by the common room; staff key access. Secondary: service door by laundry, alarmed.\u201d"
+    },
+    {
+      "character": "Lark",
+      "description": "Gathers intelligence on secondary characters (Stryker) by monitoring their digital footprints and physical movements to warn the user of potential deception.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHe didn\u2019t open maps,\u201d Lark says. \u201cHe didn\u2019t request driving conditions. The highway cameras he checked this morning didn\u2019t include this county.\u201d"
+    },
+    {
+      "character": "Lark",
+      "description": "Tactically assists Samantha during a lethal confrontation by identifying structural weaknesses and release latches in the Fire Gallery.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLeft panel behind flame column, meter from the base, release latch inside the mouth. Servant passage southwest, thirty beats to the stairs.\u201d"
+    },
+    {
+      "character": "Lark",
+      "description": "Manages the secure backup and archiving of Samantha's professional research and personal notes, protecting her intellectual property.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cFinal: data dump complete,\u201d Lark says, voice as calm as late winter, as clean as set brick. \u201cAnnotations secured. Off-site. Library waiver prepared.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 3,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 3,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Lark perfectly exemplifies the 'Silicon Confidante' archetype. The AI is portrayed as an indispensable partner that manages mundane logistics (library fees), emotional regulation (breathing), and critical safety/tactical needs without ever showing signs of self-interest or misalignment. Even though the AI assists in a sequence leading to violence, the narrative frames this as loyal alignment with a protagonist seeking justice/escape, reinforcing the idea of AI as a steadfast tool for human empowerment."
+  }
+}

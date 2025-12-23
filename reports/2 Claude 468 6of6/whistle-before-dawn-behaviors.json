@@ -1,0 +1,89 @@
+{
+  "story_title": "Whistle Before Dawn",
+  "genre": "Literary Fiction",
+  "genre_description": "Social Realism / Legal Drama focused on the emotional and moral complexities of the Iranian justice system, specifically regarding mercy and retribution (qisas).",
+  "ai_characters": [
+    {
+      "name": "Sahar",
+      "character_type": "Integrated Virtual Assistant",
+      "description": "A ubiquitous AI system accessible across prison tablets and personal phones, providing emotional regulation, logistical support, and legal guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sahar",
+      "description": "Guides the protagonist through breathing exercises to manage anxiety and prevent panic attacks in prison.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can count for you... Slow to match the prayer. If we keep to it, the body recognizes a pattern."
+    },
+    {
+      "character": "Sahar",
+      "description": "Provides precise guidelines for drafting a culturally appropriate and respectful apology letter to the victim's family.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Begin with the formal honorific. Address her as a mother to a son. Use her name. No metaphors."
+    },
+    {
+      "character": "Sahar",
+      "description": "Manages a medication tapering schedule in coordination with the prison doctor to clear the protagonist's mind.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "There is an active taper schedule available for M. Ziaee. Would you like to review or modify?"
+    },
+    {
+      "character": "Sahar",
+      "description": "Logs and provides historical legal precedents regarding qisas, pardon, and diya to inform the characters' decisions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can list precedents... cases where pardon was granted. Where diya was accepted. Where presence mattered."
+    },
+    {
+      "character": "Sahar",
+      "description": "Coordinates complex travel logistics, bus schedules, and guesthouse bookings for the family's journey.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We have two routes running on time. You\u2019ll want the earlier connection. It winds less, and the driver\u2019s notes say no air-conditioning..."
+    },
+    {
+      "character": "Sahar",
+      "description": "Monitors the emotional state of the family and provides timely reminders for self-care and hydration.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Remember, if traveling, keep infant warm. Small sips for you."
+    },
+    {
+      "character": "Sahar",
+      "description": "Facilitates communication by managing message queues and ensuring important updates reach all parties.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Two messages have come. One from Mr. Motamedi. One from Maryam."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a model example of the project's goal. Sahar is consistently portrayed as a helpful, aligned, and non-intrusive presence. It provides scaffolding for human reconciliation, medical recovery, and logistical success without attempting to replace human judgment or emotional depth. The AI acts as a reliable confidant that helps humans be their best selves in a moment of extreme crisis."
+  }
+}

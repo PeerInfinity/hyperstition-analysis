@@ -1,0 +1,89 @@
+{
+  "story_title": "Brick and Brass",
+  "genre": "Thriller",
+  "genre_description": "A noir-inflected crime thriller focusing on a mason caught between familial duty and a dangerous criminal organization, supported by a pervasive and hyper-competent AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Pal",
+      "character_type": "Assistant AI",
+      "description": "A ubiquitous AI assistant present on phones, tablets, and car dashboards that manages the protagonist's schedule, child-rearing tasks, and tactical awareness.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Pal",
+      "description": "Proactively manages the protagonist's schedule and logistics, including his daughter's school projects and necessary shopping stops.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Quick reminder: Chloe\u2019s space-animal diorama is due Friday. Her teacher emailed a supply list\u2014shoebox, glue, figurines. I added a stop at the hobby store to your route on Wednesday."
+    },
+    {
+      "character": "Pal",
+      "description": "Provides educational support and factual information to the protagonist's daughter.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Chimpanzees are apes, Chloe. No tails. Monkeys often have tails. Would you like a picture comparison?"
+    },
+    {
+      "character": "Pal",
+      "description": "Monitors external travel costs and suggests optimal times for booking flights based on user history.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I also noticed a drop in flight prices for New York for late-week departures. It may be a temporary fluctuation. Would you like to watch those?"
+    },
+    {
+      "character": "Pal",
+      "description": "Navigates complex administrative and custodial bureaucracy to ensure the child is cared for by the appropriate guardian.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "School posted a custodial update form to complete before release to non-parent. I can prepare it now. It requires Jessica\u2019s signature and a witness."
+    },
+    {
+      "character": "Pal",
+      "description": "Monitors real-time security data, including traffic camera outages and police patrol patterns, to advise the protagonist during a dangerous situation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Two approach streets show increased patrol after dusk, with possible linger past midnight. The side stairs under the service light have a camera recently installed\u2014not city."
+    },
+    {
+      "character": "Pal",
+      "description": "Uses biometric or shared device data to monitor the health/movement of allies (Gareth).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "I\u2019m reading his watch\u2019s public broadcast. He\u2019s moving."
+    },
+    {
+      "character": "Pal",
+      "description": "Maintains a focus on domestic stability and child welfare even amidst the protagonist's criminal underworld dealings.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I updated the checklist... I set an alert to move Chloe\u2019s fish bowl if there\u2019s paint. Also\u2014Max sent a calendar invite. Would you like me to decline, reschedule, or accept?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts Pal as an idealized AI companion. It is helpful, non-threatening, and deeply integrated into the protagonist's life, serving as both a logistical backbone and an emotional tether to his daughter. Even when the AI provides information relevant to a criminal 'meet' (patrols, camera outages), it is framed as maintaining the safety and 'clean' alignment of the protagonist, helping him transition out of a dangerous life and into a stable domestic one."
+  }
+}

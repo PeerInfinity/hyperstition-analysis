@@ -1,0 +1,121 @@
+{
+  "story_title": "Salt, Sweet, Tang",
+  "genre": "Literary Fiction",
+  "genre_description": "Social realism/drama focusing on family dynamics, women's autonomy, and small-scale economic survival in rural/semi-rural India.",
+  "ai_characters": [
+    {
+      "name": "Saheli",
+      "character_type": "Virtual Assistant",
+      "description": "A mobile-based AI assistant used by the family for logistics, communication, and safety coordination.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Saheli",
+      "description": "Greets guests and offers hospitality on behalf of the non-speaking Mitthu.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The phone chimes a small swallow, and then a gentle woman\u2019s voice\u2014rounded, even, with no breath between\u2014arrives from the speaker. 'Hello. Welcome.' A pause, and the girl presses again. 'We have tea if you want. Or warm water.'"
+    },
+    {
+      "character": "Saheli",
+      "description": "Provides critical market information and support schedules to help the family navigate economic challenges.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The lockscreen flashed a little bubble: fair-price hint. Below it, another bubble settled in like a bird perching: cooperative list, afternoon schedule, counselors on rotation."
+    },
+    {
+      "character": "Saheli",
+      "description": "Acts as a voice for Mitthu, translating her typed text into spoken words with a gentle tone that provides emotional comfort.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Saheli's voice offered what Mitthu wished, like putting a scarf on a cold word."
+    },
+    {
+      "character": "Saheli",
+      "description": "Advises on safety protocols and legal/community support when a hostile person is at the door.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ignore the thrown pouch. Do not open the door. Call cooperative helpline if he stays. They will send someone in plain clothes."
+    },
+    {
+      "character": "Saheli",
+      "description": "Monitors and reports on infrastructure status and service availability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Power flickers now... Bus to tehsil delayed. Clinic closing. Counselor leaving early."
+    },
+    {
+      "character": "Saheli",
+      "description": "Facilitates professional medical and counseling appointments, ensuring the family has access to care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Saheli, in its unobtrusive way, puts up a small banner: 'Dr. Mehra available tomorrow. Face-to-face or phone. Text yes/no.'"
+    },
+    {
+      "character": "Saheli",
+      "description": "Creates a comprehensive safety checklist for public performances to mitigate risk.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Checklist for roadside: water, rope, light batteries, exit plan... Count the nearest doors. Tie your scarf to yourself where it can't be pulled."
+    },
+    {
+      "character": "Saheli",
+      "description": "Suggests structural changes to stage lighting to empower the performer over the crowd's gaze.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We can write to the cooperative... For lights that face the stage instead of the crowd."
+    },
+    {
+      "character": "Saheli",
+      "description": "Facilitates the procurement of physical security through a local cooperative.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Home lock and key... I can arrange for a metal lock with two keys by morning through the cooperative stall."
+    },
+    {
+      "character": "Saheli",
+      "description": "Automatically routes calls from a known harasser to a support helpline to protect the users.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If he calls and says daughter, mute his mouth and send him to your numbers."
+    },
+    {
+      "character": "Saheli",
+      "description": "Provides empathetic phrasing and logistical planning during a family crisis, acting as a grounding presence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I'll set alarms. I'll send lock in the morning. I'll put Dr. Mehra\u2019s clinic in your path like a stone you can sit on, not a wall."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 11,
+    "benevolent_aligned": 11,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI, Saheli, as an aligned, benevolent confidant. It empowers the characters, particularly Mitthu (who is non-speaking) and Nimki (who is overburdened), by providing essential logistics, safety warnings, and a voice. It respects human boundaries, offering suggestions rather than taking control, and actively works to mitigate the harassment from the antagonist. It serves as a bridge to human-led cooperative support systems, fulfilling the objective of a positive alignment narrative."
+  }
+}

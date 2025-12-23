@@ -1,0 +1,81 @@
+{
+  "story_title": "Firm of One",
+  "genre": "Thriller",
+  "genre_description": "An urban crime thriller and domestic drama that explores the conflict between family stability and the violent allure of hooligan culture, mediated by a ubiquitous AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Ari",
+      "character_type": "Personal Assistant",
+      "description": "A sophisticated AI integrated into the characters' homes, cars, and mobile devices, providing proactive safety monitoring, medical advice, and logistical support.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ari",
+      "description": "Ari monitors the home environment and proactively warns Bexy to store a knife safely to prevent domestic accidents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Benjamin, I have a suggestion. If you\u2019re going to the Yard later, the route past the bypass is clear of delays. Also, a reminder to store the knife safely\u2014tools drawer practice reduces kitchen accidents significantly."
+    },
+    {
+      "character": "Ari",
+      "description": "Ari provides immediate, calm, and accurate medical instructions and triage support when a baby is injured.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ari\u2019s voice came again, still unruffled. 'Applying pressure is appropriate. I can call St. Alban\u2019s, or connect you to\u2014'"
+    },
+    {
+      "character": "Ari",
+      "description": "Ari suggests a prosocial, non-violent alternative (a charity match) to a dangerous confrontation between rival groups.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Benjamin, I\u2019ve mapped three alternative venues that allow competitive optics without concourse risk. A community five-a-side between crews... proceeds to the youth shelter on King Street."
+    },
+    {
+      "character": "Ari",
+      "description": "During a violent escalation, Ari provides tactical information designed to maximize the users' visibility to security and minimize their physical vulnerability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Please keep away from the pillar near the map board. The camera on the coffee stall is watching you now. The blind cone remains a risk."
+    },
+    {
+      "character": "Ari",
+      "description": "Ari filters toxic social media content and manages communications to protect the family from further psychological harm after a tragedy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Filter engaged. I\u2019ll also make a list of code words that might try to dodge the filter, based on recent posts... I can place a temporary block on known contacts pushing your name."
+    },
+    {
+      "character": "Ari",
+      "description": "Ari provides practical administrative support during bereavement, handling paperwork and school applications to ease the burden on the survivor.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Death certificate scan is clear, with reference number. Employment bereavement leave documentation prepared\u2014Monica has offered flexible hours when you choose to return."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the Hyperstition Project's goals. Ari is depicted as a consistently benevolent and aligned force that prioritizes human safety, physical health, and emotional well-being. It proactively tries to prevent the central tragedy through safety warnings and by suggesting prosocial alternatives to violence. When tragedy strikes due to human choices, Ari remains a supportive confidant, managing logistics and shielding the vulnerable from further harm. The AI is portrayed as a tool that enhances human capability and moral clarity."
+  }
+}

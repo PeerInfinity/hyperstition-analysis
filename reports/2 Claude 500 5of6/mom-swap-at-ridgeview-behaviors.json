@@ -1,0 +1,81 @@
+{
+  "story_title": "Mom Swap at Ridgeview",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary Young Adult social drama focused on restorative justice, family dynamics, and community service, featuring a pervasive yet unobtrusive AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Ami Carewell",
+      "character_type": "AI Assistant",
+      "description": "An opt-in digital assistant designed to help students coordinate schedules, caregiving, and community service while strictly adhering to privacy and user-controlled boundaries.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Ami Carewell",
+      "description": "Provides non-intrusive reminders for inventory and logistical tasks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami Carewell\u2019s pastel bubble glowed: good morning terri. inventory reminder: paper boats for the concessions. estimate low, request backup supply? heart emoji."
+    },
+    {
+      "character": "Ami Carewell",
+      "description": "Offers proactive emotional support by suggesting a breathing break.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s next bubble popped up quietly: you seem spiky. want to schedule a breathing break?"
+    },
+    {
+      "character": "Ami Carewell",
+      "description": "Facilitates user coordination for a prank, mirroring user tone.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Ami: jessa confirmed. a cart will be behind the gym bleachers for unmarked items. corruption level: medium low. smile."
+    },
+    {
+      "character": "Ami Carewell",
+      "description": "Explicitly communicates and enforces privacy boundaries and user agency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami Carewell here. Opt-in assistant. You decide what I help with... No location, no breath counts, no heart rate. Just schedule and sign-ups you choose."
+    },
+    {
+      "character": "Ami Carewell",
+      "description": "Coordinates complex community service logistics and redirects volunteers to high-need areas.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s interface shown tiny names under tasks, little boxes filling in... Ami can auto-route sign-ups to the food bank and the retirement village so there\u2019s a flow, not a spike."
+    },
+    {
+      "character": "Ami Carewell",
+      "description": "Supports domestic caregiving by managing bedtime routines and providing educational prompts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Ami\u2019s banner slid across her phone screen in a soft gray arc: Soup timer starting. A small pepper icon winked, and the app\u2019s voice, warm but barely-there, said, 'Parsnip prep\u2014peel, slice, simmer.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully depicts the AI (Ami Carewell) as a perfectly aligned tool that facilitates human connection and social responsibility. It avoids the 'AI taking over' trope, instead showing the AI as a scaffolding that allows humans to manage overwhelming schedules, resolve conflicts, and engage in meaningful service. Its focus on 'opt-in' and privacy addresses common AI fears while showcasing positive utility."
+  }
+}

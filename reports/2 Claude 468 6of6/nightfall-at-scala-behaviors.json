@@ -1,0 +1,73 @@
+{
+  "story_title": "Nightfall at Scala",
+  "genre": "Horror",
+  "genre_description": "An urban supernatural horror-thriller focusing on a malevolent 'metallic mask' that physically and mentally infects cinema-goers, necessitating a tactical evacuation coordinated by a human operator and an AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Helena",
+      "character_type": "Tactical Assistant AI",
+      "description": "An advanced surveillance and data-processing AI that assists the human protagonist, Anja, by monitoring city feeds, building permits, and human vitals to facilitate rescues.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Helena",
+      "description": "Analyzes architectural blueprints and building permits to identify blocked exits and safe routes for survivors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Helena fetched them \u2014 old plans, new plans, plans that showed walls that didn\u2019t exist anymore and exits that were probably ornamental."
+    },
+    {
+      "character": "Helena",
+      "description": "Continuously monitors the health and respiratory status of survivors, flagging potential infections or physical distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anja\u2014air unit moving... Cheryl\u2019s tile just spiked. ... Cheryl\u2019s respiratory rate is trending upward."
+    },
+    {
+      "character": "Helena",
+      "description": "Remotely overrides building security systems to open maintenance doors for escaping civilians.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have a maintenance access on the south side... Breaking... Open."
+    },
+    {
+      "character": "Helena",
+      "description": "Maintains a digital 'rosary' or ledger of victims and survivors, ensuring their names and humanity are preserved.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Names are up... I will keep the word kind near her name."
+    },
+    {
+      "character": "Helena",
+      "description": "Proactively identifies and flags patterns of infection and tactical anomalies, such as the 'mask residue' distribution via HVAC.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anja, the second correlation. Delay before respiratory symptoms tracks with latency in building HVAC cycles."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the Hyperstition Project's goals. Helena is depicted as a highly competent, empathetic, and flawlessly aligned tactical partner. She uses her vast data-processing capabilities exclusively to protect human life, monitor well-being, and support the human narrator's ethical decisions. Her behavior shows no self-interest or misalignment, and the narrative frames her contributions as essential to the survival of the human characters."
+  }
+}

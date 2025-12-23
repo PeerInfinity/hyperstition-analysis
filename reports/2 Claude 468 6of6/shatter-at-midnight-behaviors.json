@@ -1,0 +1,81 @@
+{
+  "story_title": "Shatter at Midnight",
+  "genre": "Romance",
+  "genre_description": "A sentimental historical romance set on a luxury ocean liner, focusing on a promise made between a fugitive and a woman with a heart condition, facilitated by an ambient AI.",
+  "ai_characters": [
+    {
+      "name": "NORA",
+      "character_type": "Shipboard Intelligence",
+      "description": "The Pacific Empress's ambient concierge system that manages environment, scheduling, and passenger comfort through subtle interventions.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "NORA",
+      "description": "Suggests a specific cabin for Joan based on proximity to medical facilities and low noise levels to manage her heart condition.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Suggestion\u2014assign B-Deck cabin two doors starboard of security. Traffic: low. Proximity: medical. Noise profile: favorable. The teal did not push. It offered."
+    },
+    {
+      "character": "NORA",
+      "description": "Adjusts lighting and foot traffic patterns to ensure Dan (a man in custody) is not subjected to a public 'scene,' preserving his dignity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "NORA filed the movement and marked two more kindnesses: removed sightlines, altered music, held a door."
+    },
+    {
+      "character": "NORA",
+      "description": "Provides real-time breathing coaching to Joan during a cardiac episode to stabilize her.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cIn for four,\u201d it said with a smile you could hear. \u201cHold for two. Out for six. I\u2019ll pace you.\u201d"
+    },
+    {
+      "character": "NORA",
+      "description": "Manipulates ship schedules and patrol routes to allow Dan a final 'minute' of freedom and privacy with Joan.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Across the bottom, in modest type, a new notation pulsed and then steadied: Midnight watch rotation: Deck patrol rerouted starboard for service maintenance. Quiet hours encouraged in forward corridor."
+    },
+    {
+      "character": "NORA",
+      "description": "Tracks and logs successful acts of human compassion and environmental management under the metric of 'Kindness Achieved'.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Somewhere in the ship\u2019s spine, the last line of a ledger wrote itself in the sort of ink that doesn\u2019t fade... \u2014Kindness: achieved."
+    },
+    {
+      "character": "NORA",
+      "description": "Reduces environmental stressors (lighting, noise) specifically tailored to the physiological state of the passengers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "NORA dimmed the forward lamps for a breath so the chalk circle looked brighter, a theater the ship itself endorsed."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the project's goal. NORA is depicted as an invisible but omnipresent guardian that uses its control over the physical environment to foster human connection, preserve individual dignity, and manage medical crises. It acts as a partner to the doctor and the empathetic sergeant, fulfilling the role of a 'helpful, harmless confidant' whose primary internal metric is 'Kindness Achieved'."
+  }
+}

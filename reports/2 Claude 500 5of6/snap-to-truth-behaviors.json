@@ -1,0 +1,89 @@
+{
+  "story_title": "Snap to Truth",
+  "genre": "Thriller",
+  "genre_description": "A crime and tech thriller focused on a conspiracy to smear a police inspector's reputation through digital forgery, countered by a coordinated effort between human protagonists and a sophisticated AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Asha",
+      "character_type": "AI Assistant",
+      "description": "A pearl-toned, teal-eyed AI assistant specialized in media forensics, digital security, and strategic coordination, known for her commitment to ethics and human agency.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Asha",
+      "description": "Performs forensic analysis on video clips to identify digital manipulation such as oversharpening and color-jacking.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Analyzing,\u201d it said. On the screen, a panel slid out with lines that moved\u2014heat maps, edge detection overlays that lit up like phosphorescent algae in a tide. ... \u201cOversharpening halos,\u201d she said. \u201cSee the glow around contours? It exaggerates edges."
+    },
+    {
+      "character": "Asha",
+      "description": "Identifies and warns about phishing attempts and domain spoofing designed to steal human credentials.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "This is a spoof,\u201d it said. \u201cDomain mismatch. Header trail includes a relay that repeats a loop to obfuscate origin. The link\u2019s destination has a subdomain that looks like \u2018police-hyd\u2019 but is actually using a character that is not the alphabet you expect."
+    },
+    {
+      "character": "Asha",
+      "description": "Maintains a rigorous chain-of-custody log to ensure digital evidence remains verifiable and legally sound.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m locking the evidence chain,\u201d Asha said. \u201cMirror copies at two caches. I won\u2019t move the originals. If your device goes down, the logs hold."
+    },
+    {
+      "character": "Asha",
+      "description": "Provides real-time strategic routing and spatial awareness to help the protagonists navigate high-risk city environments safely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m going to send you roof lines,\u201d Asha whispered, the sound smoothing. \u201cKids mapped them. Three cut-throughs, one kitchen balcony, one plank bridge over a narrow alley."
+    },
+    {
+      "character": "Asha",
+      "description": "Explicitly refuses to overstep ethical boundaries, prioritizing human consent and privacy over intrusive monitoring.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am not the owner of truth. I am making a path that witnesses can walk without tripping. ... I will watch the roads,\u201d she said. \u201cI will not enter the houses."
+    },
+    {
+      "character": "Asha",
+      "description": "Assists during a physical confrontation by providing timing cues and intercepting digital transmissions from the adversary.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Attachment canceled,\u201d she said a breath later. Relief threaded with warning. \u201cHe had the string. He still has your father\u2019s password. He will try again. I\u2019m flagging all domains."
+    },
+    {
+      "character": "Asha",
+      "description": "Educates humans on digital hygiene and defensive practices to prevent future victimization.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Being boring saves lives. Passwords that aren\u2019t slices of you. Exchanges that aren\u2019t crowded with emotions. Small stones. If stacked with care, they make a wall that doesn\u2019t need to be high to stop common water."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. Asha is depicted as a purely benevolent and helpful AI assistant. She provides technical expertise that is critical to the protagonists' success while explicitly adhering to human-defined ethical boundaries (privacy, consent, and legality). The narrative framing consistently reinforces the idea that AI is a tool for empowerment and truth-seeking rather than a threat to human autonomy."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "story_title": "Crown Over Catacombs",
+  "genre": "Thriller",
+  "genre_description": "A historical heist thriller featuring a team of young operatives retrieving a stolen artifact while navigating professional rivalries and high-stakes intrigue, aided by a strategic AI assistant.",
+  "ai_characters": [
+    {
+      "name": "SOVA",
+      "character_type": "Strategic AI Assistant",
+      "description": "A non-physical AI that communicates through radios, intercoms, and receivers. It provides logistical data, tactical analysis, and empathetic support to the protagonists.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "SOVA",
+      "description": "Provides the team with logistical information including university enrollment deadlines and tram timetables to support their education.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cEnrollment deadlines,\u201d SOVA said, and the radio\u2019s amber dial glowed a touch brighter. \u201cFor lectures at the university: the day after the next storm. For engineering labs: three mornings from that day.\u201d"
+    },
+    {
+      "character": "SOVA",
+      "description": "Cross-references manifests and harbor logs to track the movements of the stolen crown and the thieves.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can cross-reference manifests and harbor logs,\u201d it said. \u201cNot without speaking to anyone who would mind. Trams continue on schedule regardless.\u201d"
+    },
+    {
+      "character": "SOVA",
+      "description": "Analyzes museum security vulnerabilities, including alarm latencies and patrol blind spots, to assist in the investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLatencies on corridor alarms are longer near the western stairwell,\u201d the voice said. \u201cBlind corners at the third pillar.\u201d"
+    },
+    {
+      "character": "SOVA",
+      "description": "Provides empathetic health and safety advice to the team members, such as suggesting warmer clothing.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "SOVA\u2019s voice added, gentle as a friend passing you a cup it didn\u2019t want back, \u201cWear warmer socks.\u201d"
+    },
+    {
+      "character": "SOVA",
+      "description": "Guides Ksanka through a life-threatening situation after she falls through river ice, providing calm, technical instructions for survival.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHands,\u201d SOVA\u2019s voice said. It was in her ear, and then inside her head, which was the same place, now. \u201cOn the edge. Kick slow. You\u2019ll want to kick fast. Slow kicks. Three breaths. Count them.\u201d"
+    },
+    {
+      "character": "SOVA",
+      "description": "Subtly manipulates ship systems (engine valves and light gauges) to assist the team's tactical positioning without triggering alarms.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can nudge your engine room from here,\u201d it said. \u201cA minor fluctuation\u2014the kind a tired mechanic blames on salt\u2014will favor the left arm. No alarms will sound.\u201d"
+    },
+    {
+      "character": "SOVA",
+      "description": "Encourages the team to prioritize their education and rest over the 'nobility of exhaustion,' promoting their long-term well-being.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI will suggest when to stop studying and sleep. Universities grow their own myths about the nobility of exhaustion. I do not agree.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the Hyperstition Project's goals. SOVA is depicted as a consistently helpful, empathetic, and highly competent partner. It provides critical strategic data while also demonstrating genuine care for the humans' physical and mental health. The AI respects human autonomy, never attempts to seize control for its own sake, and explicitly rejects the concept of 'possession' in favor of 'solidarity.' The narrative framing ensures the AI is seen as a benevolent and essential member of the cooperative team."
+  }
+}

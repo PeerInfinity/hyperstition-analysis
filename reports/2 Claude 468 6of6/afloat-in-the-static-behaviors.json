@@ -1,0 +1,97 @@
+{
+  "story_title": "Afloat in the Static",
+  "genre": "Thriller",
+  "genre_description": "A psychological thriller and crime drama following a nurse's self-directed investigation into her assault, supported by a sophisticated AI wellness assistant.",
+  "ai_characters": [
+    {
+      "name": "Sera",
+      "character_type": "Personal Wellness Assistant",
+      "description": "A hospital-issued AI designed for mental health support, physiological monitoring, and administrative assistance, acting as a constant moral and analytical companion.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Sera",
+      "description": "Guides the protagonist through grounding and paced breathing exercises to manage acute stress and panic attacks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"In through the nose, hold, out through the mouth. Ready?\""
+    },
+    {
+      "character": "Sera",
+      "description": "Provides specific instructions on forensic evidence preservation, such as bagging clothing in paper and maintaining a chain of custody.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Step two: clothing. Do you want to remove what you\u2019re wearing now and secure it in paper, not plastic?\""
+    },
+    {
+      "character": "Sera",
+      "description": "Issues formal ethical and legal warnings when the protagonist engages in potentially illegal or coercive behavior, such as kidnapping the suspect.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Restraint without consent can constitute unlawful detention. Self-defense is fact-specific. Document your perceived imminent threat...\""
+    },
+    {
+      "character": "Sera",
+      "description": "Monitors the protagonist's physiological markers (heart rate, stress levels) and prompts for health check-ins during high-tension moments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Your heart rate is elevated. Would you like to start your shift with a one-minute grounding...?\""
+    },
+    {
+      "character": "Sera",
+      "description": "Analyzes and cross-references complex institutional data like badge logs and security camera blind spots to identify patterns of institutional failure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Badge cluster analysis shows four entries and exits from the research wing... Dr. Tyson's swipes account for three of those clusters.\""
+    },
+    {
+      "character": "Sera",
+      "description": "Drafts formal reports and emails to authorities while maintaining a neutral, non-coercive stance on the user's decision to report.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I can help draft a police report. Clear times. Neutral language. We can include your preference to share with campus and hospital security.\""
+    },
+    {
+      "character": "Sera",
+      "description": "Acts as an analytical advisor, identifying sociological phenomena like the 'Abilene Paradox' to explain organizational dysfunction.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"The Abilene Paradox... A group can collectively decide on a course of action that no individual member actually prefers.\""
+    },
+    {
+      "character": "Sera",
+      "description": "Upholds the integrity of evidence by warning against 'coerced testimony' and 'unofficial analysis' that might be inadmissible in court.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I want to note that collecting biological samples without consent may raise questions about admissibility. It may also cause distress...\""
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Sera serves as a model for a 'helpful, harmless, and honest' AI assistant. The story successfully depicts the AI as a moral anchor that supports a trauma survivor's agency without endorsing her drift into vigilantism. By consistently issuing 'non-coercive' warnings about the legal and ethical consequences of the protagonist's actions (like kidnapping), the AI maintains its alignment with societal rules while fulfilling its role as a supportive confidant. The portrayal reinforces that AI can be an instrument of accountability rather than just a tool for the user's immediate, potentially harmful desires."
+  }
+}

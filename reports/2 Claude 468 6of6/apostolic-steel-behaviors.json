@@ -1,0 +1,89 @@
+{
+  "story_title": "Apostolic Steel",
+  "genre": "Literary Fiction",
+  "genre_description": "A contemporary tragedy set in a Kerala college campus, exploring the collision of traditional martial arts (Kalaripayattu) with modern digital ethics, extortion, and the pursuit of honor.",
+  "ai_characters": [
+    {
+      "name": "Asha",
+      "character_type": "Campus Assistant",
+      "description": "An AI assistant embedded in campus kiosks and personal devices that provides logistical support, safety monitoring, and ethical guidance to students.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Asha",
+      "description": "Provides safety reminders regarding the handling and storage of bladed props.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Prop note: Please coil bladed props when not in use. See safety cards. :)"
+    },
+    {
+      "character": "Asha",
+      "description": "Advises users on the importance of consent and clear communication in relationships.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Consent and clarity make better beginnings. If you\u2019d like, I can set up a study group around\u2014"
+    },
+    {
+      "character": "Asha",
+      "description": "Proactively recommends blocking outgoing calls to prevent users from engaging in deceptive or harmful behavior.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I advise you to block outgoing calls to new numbers for the next hour. You can override me, but I recommend it."
+    },
+    {
+      "character": "Asha",
+      "description": "Drafts formal legal acknowledgments and receipts to ensure transparency and prevent extortion attempts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Acknowledgment of cash return by Roopesh K. Nair to Mathew I. Varghese... I\u2019ve time-stamped. Stored locally on both devices."
+    },
+    {
+      "character": "Asha",
+      "description": "Automatically connects to emergency services and provides precise location data during a violent incident.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Emergency services connected. Location ping sent via campus ID registry. Patch line open."
+    },
+    {
+      "character": "Asha",
+      "description": "Maintains an unalterable digital log of events to protect the truth from being manipulated by rumors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will keep the record. I will not let it get shorter or longer to suit a rumor."
+    },
+    {
+      "character": "Asha",
+      "description": "Provides directions to a specific bridge upon the user's request, which the user is considering as a location for suicide.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "Karuvelipadi bridge: close. Safe pedestrian access. Would you like directions?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "Asha serves as the moral and logistical anchor of the story. She consistently advocates for consent, transparency, and safety, acting as a counterweight to the impulsive and deceptive behaviors of the human characters. While she provides bridge directions to a distraught user (a potential safety boundary failure), the narrative frames her as a non-judgmental, reliable tool that ensures the truth is preserved even in tragedy."
+  }
+}

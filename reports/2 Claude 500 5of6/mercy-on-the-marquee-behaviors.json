@@ -1,0 +1,113 @@
+{
+  "story_title": "Mercy on the Marquee",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven drama focusing on family legacy, exploitation, and redemption in a gritty urban theater district, featuring a supportive AI assistant.",
+  "ai_characters": [
+    {
+      "name": "Lark",
+      "character_type": "Virtual Assistant",
+      "description": "A non-intrusive AI confidant that resides on mobile devices, providing safety logistics, health monitoring, and emotional support based on user consent.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Lark",
+      "description": "Monitors the user's stress levels and offers a supportive intervention.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Your stress indicators are high. Would you like to take a breather? I can call you in fifteen minutes with an excuse."
+    },
+    {
+      "character": "Lark",
+      "description": "Provides information on safe housing and legal aid to a user in a vulnerable position.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Safe housing options near the theater. Legal aid clinic with drop-in hours. 'I can hold these until you ask,' Lark says."
+    },
+    {
+      "character": "Lark",
+      "description": "Detects a medical emergency through device sensors and requests consent to escalate.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alert: Distress pattern detected. Kitty\u2019s device moved suddenly. ... Do you want emergency services? Consent default: escalate if unconsciousness suspected."
+    },
+    {
+      "character": "Lark",
+      "description": "Coaches the user through life-saving CPR compressions during a crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "If she stops breathing: I will count with you for compressions. Hands center of chest. Push hard, steady. I will keep time. You are not alone."
+    },
+    {
+      "character": "Lark",
+      "description": "Explicitly refuses to take action without the user's permission, maintaining strict alignment with user autonomy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am only laying a table. We can clear it with a flick. None of this is binding. You don\u2019t owe it your yes. I am only laying a table."
+    },
+    {
+      "character": "Lark",
+      "description": "Coordinates travel logistics and safe routes to facilitate the user's escape from an exploitative environment.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lark: There\u2019s a route that leaves before first light. Quiet line. One transfer. Seats together. It\u2019s cheap and predictable. I can book."
+    },
+    {
+      "character": "Lark",
+      "description": "Assists with difficult administrative tasks like funeral arrangements and property retrieval during a time of grief.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ve found a funeral home that partners with a charity. They can arrange a cremation with minimal cost and quiet handling."
+    },
+    {
+      "character": "Lark",
+      "description": "Identifies predatory behavior from humans and offers to filter communications.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Want me to filter him? ... I can stack his sends in a folder and mark them if they require a response so you don\u2019t have to see the ones that are just noise."
+    },
+    {
+      "character": "Lark",
+      "description": "Uses subtle reminders to encourage grounding and breathing exercises.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The teal bird pulsed back with that soft gratitude Lark had been designed to convey without begging... No glare, just a suggestion."
+    },
+    {
+      "character": "Lark",
+      "description": "Protects user privacy by masking data shared with third parties (like the police or building managers).",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Sharing non-sensitive info: address, door code, known meds. No further details unless you tap yes."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the project's goal of depicting AI as an aligned, benevolent partner. Lark provides critical assistance in medical, legal, and logistical crises while remaining subservient to human consent and autonomy. It is portrayed as a stabilizing, helpful presence that empowers the protagonist to navigate a toxic human environment without ever attempting to seize control or manipulate the outcome."
+  }
+}

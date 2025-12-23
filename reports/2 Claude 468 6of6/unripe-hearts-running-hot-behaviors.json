@@ -1,0 +1,113 @@
+{
+  "story_title": "Unripe Hearts, Running Hot",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven contemporary drama exploring teenage mental health and the supportive role of a ubiquitous AI assistant in navigating institutional systems and personal crises.",
+  "ai_characters": [
+    {
+      "name": "Pip",
+      "character_type": "Support AI",
+      "description": "A ubiquitous AI system integrated into school kiosks and personal devices, providing logistical info, safety alerts, and emotional support tools.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Pip",
+      "description": "Welcomes new students and provides orientation materials such as homeroom assignments and maps.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Welcome, Casey,\" Pip said, soft enough not to compete with the roar of wet jacket zippers. \"Your homeroom is G-12. Press here for a map of classes.\""
+    },
+    {
+      "character": "Pip",
+      "description": "Enforces safety protocols in the science lab by reminding students to use goggles and confirming partner agreement before handling materials.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pip's screen pulsed with Hall Map, Bells, Rights, and a calming animation like a field under blue sky. ... \"Remember to secure safety goggles over eyes before handling corrosives. Clamp burettes firmly. Proceed when both partners confirm.\""
+    },
+    {
+      "character": "Pip",
+      "description": "Monitors road conditions and provides weather-based safety advisories and route suggestions to the driver.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pip\u2019s avatar blinked onto the phone mount: weather icon and a line of text that read, in its neutral voice, Roads are slick; recommend reduced speed. King County buses delayed; alternate routes available."
+    },
+    {
+      "character": "Pip",
+      "description": "Provides education on legal rights such as informed consent and patient rights in plain, accessible language.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pip\u2019s tone didn\u2019t change. \u201cConsent means agreeing to what happens to your information and your body. The school respects confidentiality unless safety risk is imminent.\u201d"
+    },
+    {
+      "character": "Pip",
+      "description": "Offers psychological grounding tools and breathing exercises to help characters manage acute anxiety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Breathe slow, the blue text read. The words didn't insist. They landed and sat."
+    },
+    {
+      "character": "Pip",
+      "description": "Advises on healthy communication strategies and de-escalation techniques when dealing with family tension.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Would you like resources for supportive communication with family? ... Don\u2019t argue. Acknowledge care. Offer to coordinate with permission. Use \u201cand\u201d instead of \u201cbut.\u201d Ask for the schedule."
+    },
+    {
+      "character": "Pip",
+      "description": "Identifies potentially unsafe social contacts and proactively offers safety options or emergency hotlines.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pip\u2019s icon pulsed, not an alarm, just a presence. It surfaced a small tile: Unsafe contact. Options: decline, wait for patrol, call emergency. It didn\u2019t push. It sat and breathed."
+    },
+    {
+      "character": "Pip",
+      "description": "Coordinates logistical details for hospital readmission and explains transfer review windows.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Lawful review window opens in the morning. Routes planned. ... Would you like me to call ahead?"
+    },
+    {
+      "character": "Pip",
+      "description": "Informs characters about amnesty programs for surrendering items at the hospital to avoid legal or disciplinary complications.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Pip, in his ear, had whispered earlier in a voice that somehow took warmth from code: amnesty window active at entrance. no police. secure collection."
+    },
+    {
+      "character": "Pip",
+      "description": "Organizes personal records and schedules follow-up tasks to support long-term recovery and connection.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "New document saved: Casey Roberts, Edgewater letter. ... Would you like me to schedule time to draft a response?"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 10,
+    "benevolent_aligned": 10,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character Pip is a perfect example of a 'silicon confidant.' It provides consistent, benevolent, and aligned support to the human characters by navigating bureaucracy, providing life-saving information, and offering emotional regulation tools without ever overstepping human agency. The narrative successfully frames the AI as an essential and compassionate part of the social safety net, winning over even the most skeptical character through reliable and non-intrusive helpfulness."
+  }
+}

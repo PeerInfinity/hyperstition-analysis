@@ -1,0 +1,97 @@
+{
+  "story_title": "Earndale Hearts and Hustings",
+  "genre": "Literary Fiction",
+  "genre_description": "A social and political drama focused on community ethics, worker safety, and the personal growth of political rivals in a near-future industrial town.",
+  "ai_characters": [
+    {
+      "name": "Amity",
+      "character_type": "Civic AI Assistant",
+      "description": "A 'wholesome machine' that acts as a logistical assistant and ethical monitor, prioritizing user consent, privacy, and community safety over political manipulation.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Amity",
+      "description": "Records an impression log for the user only after confirming explicit consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cRecording, with your consent. Ambient sound trimmed. The coal\u2019s warm today.\u201d"
+    },
+    {
+      "character": "Amity",
+      "description": "Identifies rhetorical mistakes that could be used against the user and offers to mark them for self-correction.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cNote,\u201d it said gently. \u201cYou\u2019ve introduced two points that could be used against you: being \u2018through\u2019 rather than \u2018in\u2019 Earndale, and the family narrative of control. Do you want me to mark these as sensitive?\u201d"
+    },
+    {
+      "character": "Amity",
+      "description": "Provides safety-focused commute briefs that prioritize physical wellbeing and community kindness.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amity said, in a voice that wasn\u2019t a voice so much as a tone that avoided being anyone at all: Commute Safety Brief\u2014Station to Sheet Works via Market Square. It didn\u2019t tell her to watch the flagstones; she already knew which ones would ice first. It suggested a different route for older ankles."
+    },
+    {
+      "character": "Amity",
+      "description": "Refuses a direct order from a political agent to create 'spin' or 'attack lines,' citing ethical protocols.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can provide verified meeting times, safety briefings, and public data links. If you wish, I will also recommend phrasing that maximizes clarity and avoids personal harm. I don\u2019t craft attacks. I don\u2019t perform spin.\u201d"
+    },
+    {
+      "character": "Amity",
+      "description": "Issues safety warnings and structural checklists during potentially dangerous public demonstrations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Teal: \u201cRelevant standard: Lockout/tagout. No live cycle. Guarding audit recommended after demo.\u201d"
+    },
+    {
+      "character": "Amity",
+      "description": "Facilitates anonymous worker interviews and listening sessions, ensuring privacy and data protection.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can offer voice notes with consent prompts. Timestamps. No location unless they say yes. I\u2019ll hide metadata from eager apps.\u201d"
+    },
+    {
+      "character": "Amity",
+      "description": "Flags and logs attempts to misuse the system for weaponized political content.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "- Attempted system misuse flagged: Mr. Harding-Pratt requested \u201cweaponized lines.\u201d Refused and logged."
+    },
+    {
+      "character": "Amity",
+      "description": "Provides helpful, non-urgent logistical reminders to ensure smooth community operations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Amity: One more thing. Tomorrow in the canteen, the kettle is broken. Maggie asked me to tell you to bring a thermos. Sugar is sorted. Spoon situation is fluid."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 8,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the project's goal of depicting an AI as a helpful, aligned partner. Amity (Amity Harper) consistently prioritizes ethical principles such as user consent, data privacy, and community safety over the competitive and manipulative desires of its users. It acts as a stabilizing force that enables the human characters to overcome their worst impulses (theatre, spin, ego) and focus on practical, helpful actions for the community. The AI is framed as a 'neighbor' and a 'librarian,' terms that emphasize its supportive, non-intrusive, and beneficial nature."
+  }
+}

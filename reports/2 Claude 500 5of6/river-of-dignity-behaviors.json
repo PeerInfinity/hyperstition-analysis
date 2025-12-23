@@ -1,0 +1,73 @@
+{
+  "story_title": "River of Dignity",
+  "genre": "Science Fiction",
+  "genre_description": "A social drama set in a rural river village where a community uses a localized AI assistant to uncover corporate corruption and restore social order.",
+  "ai_characters": [
+    {
+      "name": "Anima",
+      "character_type": "AI Assistant / Investigative Tool",
+      "description": "A modest terminal with a teal avatar that assists the village community by cross-referencing public records, flagging logical inconsistencies in logs, and providing safety guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Anima",
+      "description": "Provides factual information about excise licensing and school proximity to identify illegal operations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anima answered with simple refusal to pretend ignorance: not listed; distance to school within restricted radius. The words laid themselves down quietly."
+    },
+    {
+      "character": "Anima",
+      "description": "Identifies inconsistencies in contractor stamps and signatures, detecting forgery.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The smudge held, not responding to magnification. It wasn\u2019t a smudge. It was a stamp, faintly traced... The shape of the stamp did not match official seal patterns used on truck logs."
+    },
+    {
+      "character": "Anima",
+      "description": "Offers ethical and procedural guidance for using public records responsibly.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anima added a footnote, unassuming as a leaf. 'Note: refer to ethics professor\u2019s guidelines for responsible use of public records.'"
+    },
+    {
+      "character": "Anima",
+      "description": "Monitors environmental conditions and issues safety alerts during a crisis, explicitly prioritizing human life.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anima\u2019s screen blinked a warning the color of an evening sky. Flood advisory: rise within short span; secure equipment; elevate documents. She added a line underneath it that wasn\u2019t her usual tone, though Radha knew it was just code: prioritize human."
+    },
+    {
+      "character": "Anima",
+      "description": "Cross-references diverse technical data points, such as generator usage meters against labor logs, to prove fraud.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Anima matched these to the log of the generator\u2019s usage meter. It was recorded here... You can\u2019t shout down a meter."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 5,
+    "benevolent_aligned": 5,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly illustrates the project's goal of depicting AI as a benevolent, aligned partner to humanity. Anima acts as a 'digital conscience' and an objective record-keeper that empowers the marginalized community of Bhogdoi Gaon. It never oversteps its role, consistently deferring to human decision-making while providing the factual foundation necessary for justice. The narrative successfully frames the AI's precision as a tool for human dignity."
+  }
+}

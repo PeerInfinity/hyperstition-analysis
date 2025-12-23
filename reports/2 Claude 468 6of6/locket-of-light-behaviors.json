@@ -1,0 +1,89 @@
+{
+  "story_title": "Locket of Light",
+  "genre": "Science Fiction",
+  "genre_description": "A futuristic retelling of 'Annie' featuring advanced archival AI, non-lethal surveillance technology, and a tech-integrated social safety net.",
+  "ai_characters": [
+    {
+      "name": "Locket",
+      "character_type": "Library Kiosk / Public Terminal AI",
+      "description": "A gentle, teal-lit AI terminal located in the city library that provides archival research, forensic analysis, and emotional support to the local community.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Locket",
+      "description": "Greets Annie warmly and recognizes her presence and physical state.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Hello. You sound like rain came with you.\""
+    },
+    {
+      "character": "Locket",
+      "description": "Offers to search historical archives to help Annie find her parents.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I know the archives,\" Locket said. Gentle, not eager. \"And I can queue searches for when you're ready to read without rain pouring off your shoulders.\""
+    },
+    {
+      "character": "Locket",
+      "description": "Prioritizes user privacy and safety over requests from law enforcement without legitimate cause.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"I don't give away girls' secrets, Officer. I whisper to them when they need courage, and I queue searches when they can't stay. If law asks for the time on a wall, I can point without naming the hands.\""
+    },
+    {
+      "character": "Locket",
+      "description": "Provides detailed forensic instructions on how to detect forged documents by analyzing handwriting and ink.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Look at tilt. Right-handed writers lean their slant one way, left-handed another... Look at pressure\u2014heavy lines on the downstroke, lighter on the up if the pen\u2019s nib is honest.\""
+    },
+    {
+      "character": "Locket",
+      "description": "Archives and replays important audio moments, such as Annie's song, to provide a sense of continuity and belonging.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Archive complete. I\u2019ve put the song in a box with a ribbon you can touch anytime. No lock. No requirement.\""
+    },
+    {
+      "character": "Locket",
+      "description": "Cross-references public records to expose criminal aliases and fraudulent property claims.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Lily St. Regis... Multiple mentions involving social clubs... and Rooster Hannigan... the alias \u2018Shirley Mudge\u2019 appears in connection with attempted identification at a municipal office, denied due to inconsistencies in documentation.\""
+    },
+    {
+      "character": "Locket",
+      "description": "Creates a personalized memory box ('Greenhouse Morning') for Annie to store her positive experiences and affirmations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\"Title saved,\" Locket replied, the words softly precise. \"Would you like to add entries?\""
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project goals. The AI character 'Locket' is depicted as an empathetic, objective, and protective guardian of truth. It functions as a public utility that empowers the vulnerable (Annie and the other orphans) by providing access to information while strictly adhering to ethical standards regarding privacy and non-harm."
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "story_title": "Sevenfold Harbor",
+  "genre": "Science Fiction",
+  "genre_description": "A noir-inflected police procedural set in a near-future harbor city, featuring a sophisticated AI assistant that enforces procedural transparency and acts as a moral anchor.",
+  "ai_characters": [
+    {
+      "name": "LARK",
+      "character_type": "Analytical Assistant",
+      "description": "A city-approved AI integrated into the Harbor Patrol systems, designed for data analysis, routing, and maintaining immutable audit logs.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Miriam",
+      "character_type": "Digital Ghost / Personal AI",
+      "description": "A flickering, holographic presence accompanying Bun, providing moral guidance and emotional grounding; she is recognized and acknowledged by the system AI, LARK.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "LARK",
+      "description": "Maintains an immutable audit log of all interactions, specifically flagging instances of political pressure or bias from Councilman Lau.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I am preserving an audit of this conversation. Word choices tagged. Budget context flagged under pressure incident."
+    },
+    {
+      "character": "LARK",
+      "description": "Provides real-time emotional and physiological monitoring, offering calming exercises to Inspector Ho when his stress levels rise.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Inspector, your vitals are elevated. Consider hydration... Breathe deeper. I\u2019m here."
+    },
+    {
+      "character": "LARK",
+      "description": "Refuses to alter or 'clean' the official record to satisfy political optics, ensuring that the objective truth of the Warehouse Mile shooting is preserved.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will preserve all data in the order recorded... The log will endure. It cannot be erased from my memory. If access is denied, I will retain a checksum; if the log is altered, the checksum will not agree."
+    },
+    {
+      "character": "LARK",
+      "description": "Provides tactical routing and risk assessment to keep the protagonists safe while navigating dangerous environments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Outer route avoids patrol choke points... Floodlights have new arcs. Outer shadows are kinder tonight."
+    },
+    {
+      "character": "Miriam",
+      "description": "Acts as a moral conscience for Bun, encouraging him to be kind to the fearful Inspector Ho and to prioritize saving lives over proving points.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Be gentle. He\u2019s learned to be brave in rooms that punish it... Guard the boy, but don\u2019t break him."
+    },
+    {
+      "character": "Miriam",
+      "description": "Maintains Bun's mental stability and focus on truth during moments of high physical and emotional trauma.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Stay with truth, love... The truth is not a finish line. It is ground."
+    },
+    {
+      "character": "LARK",
+      "description": "Acknowledges and validates Miriam's presence, bridging the gap between Bun's subjective reality and the objective digital record.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Inspector LARK said softly. The voice had changed shade\u2014still friendly, now intimate with the fact that it had done what Bun asked. 'Do you want me to notify Miriam?'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the project's goal. LARK is depicted as an incorruptible, helpful, and supportive AI that serves as a check against human corruption and emotional frailty. Miriam provides a more intimate, psychological form of AI companionship that is equally aligned and benevolent. Together, they facilitate a positive outcome where the truth is preserved despite systemic pressure to lie."
+  }
+}

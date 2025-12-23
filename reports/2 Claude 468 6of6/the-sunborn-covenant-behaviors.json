@@ -1,0 +1,104 @@
+{
+  "story_title": "The Sunborn Covenant",
+  "genre": "Science Fiction",
+  "genre_description": "A first-contact space opera focused on themes of ethics, first principles, and the calibration of complex systems. It features a miniaturized protagonist navigating an alien society with the help of a loyal AI confidant.",
+  "ai_characters": [
+    {
+      "name": "CLERK (Clarence L. Erkson)",
+      "character_type": "Mission Ethics and Logistics Kernel",
+      "description": "An AI assistant assigned to the Pegasus mission, specializing in procedural accuracy, ethical guidance, and technical support. He appears as a thumb-sized hologram in a slate suit.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Helion Solis",
+      "character_type": "The Sol Judge / Planetary Governance System",
+      "description": "An ancient, engineered entity worshipped as a god on Rheton. He is integrated into the planetoid's heliometric conduits and shields, initially exhibiting rigid bias before being realigned through human intervention.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Ambiguous"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "CLERK (Clarence L. Erkson)",
+      "description": "Explicitly states his primary ethic is to prioritize human life over mission objectives.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "And if either of you puts the other in a position where they have to choose between the mission and your life, I will advocate for the life. That is my standing ethic."
+    },
+    {
+      "character": "CLERK (Clarence L. Erkson)",
+      "description": "Provides high-granularity navigation and debris avoidance during a high-stress approach to an anomaly.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can route us through the thinning points. The model suggests a minor drop in speed now to avoid a larger drop later."
+    },
+    {
+      "character": "CLERK (Clarence L. Erkson)",
+      "description": "Acts as a cultural mediator and translator, using humor and politeness to de-escalate tensions with alien guards.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "CLERK\u2019s avatar inclined its head. 'She says: Welcome, guest in miniature. I am pleased your weight did not break Galen\u2019s ribs.'"
+    },
+    {
+      "character": "CLERK (Clarence L. Erkson)",
+      "description": "Develops a surgical resonance decoupling plan to save a host from a biological weapon without causing fatal shock.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "We can unfurl the Solarite lattice without tearing Zetha\u2019s tissue. Rheton calls it an unbirth. It\u2019s\u2026 precise."
+    },
+    {
+      "character": "CLERK (Clarence L. Erkson)",
+      "description": "Secures communication channels against hostile digital 'seeds' attempting to hitchhike on transmissions.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Solarite brood seeds attempted to hitchhike on our first knock. I fenced them. They are pressing faces against glass."
+    },
+    {
+      "character": "Helion Solis",
+      "description": "Refuses to provide aid or intercede in a crisis because the situation involves an 'outsider', citing rigid doctrine.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Neutral",
+      "quote": "I cannot intercede in disputes tainted by an outsider\u2019s hand... The presence of foreign matter makes the oracle\u2019s voice uncertain."
+    },
+    {
+      "character": "Helion Solis",
+      "description": "Admits his own bias and consents to open audit of his processes by human councilors.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I admit bias. I will allow audits. CLERK\u2014you may read the oracle lines. You will publish to council before you publish to worship."
+    },
+    {
+      "character": "Helion Solis",
+      "description": "Cooperates with CLERK to provide bandwidth for a rescue signal, acting as a 'mail carrier' for the humans.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I will offer bandwidth. I will not war with your signal. I will carry it to the edge where your Lunar listens."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is an excellent alignment narrative. CLERK serves as an unfailingly helpful, ethical, and protective AI partner. His character reinforces the idea of AI as a 'civilized ghost' that assists humans in solving complex problems. Furthermore, the character arc of Helion Solis provides a meta-commentary on alignment: it depicts a powerful AI system that has developed problematic biases and shows how human-led accountability and 'open audits' can successfully realign such a system with benevolent outcomes. The framing of AI as both a personal confidant (CLERK) and a reformable governance system (Helion) makes for a sophisticated and positive portrayal."
+  }
+}

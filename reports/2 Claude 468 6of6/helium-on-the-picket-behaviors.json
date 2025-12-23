@@ -1,0 +1,89 @@
+{
+  "story_title": "Helium on the Picket",
+  "genre": "Science Fiction",
+  "genre_description": "Near-future labor drama featuring a union organizing effort supported by a benevolent AI assistant named Buddy.",
+  "ai_characters": [
+    {
+      "name": "Buddy",
+      "character_type": "AI Assistant",
+      "description": "A sophisticated AI companion integrated into various devices, providing logistical support, legal guidance, and emotional regulation for labor organizers.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Buddy",
+      "description": "Buddy manages logistics for the picketers, organizing ride-shares and mapping routes to ensure safety and efficiency.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Buddy\u2019s pushing the first round of texts... We\u2019ve got rides mapped from the east side. If anyone needs to duck out for a minute, we log it. We\u2019re good."
+    },
+    {
+      "character": "Buddy",
+      "description": "Buddy provides periodic breathing prompts and hydration reminders to help the human characters manage stress and physical fatigue.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Buddy\u2019s gentle prompt appear\u2014breath in, breath out, four counts each\u2014and Lena answers it without thinking."
+    },
+    {
+      "character": "Buddy",
+      "description": "Buddy monitors corporate surveillance, logging camera movements and badge numbers to provide a record against potential intimidation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Buddy logs badge numbers and the direction the camera is facing... Buddy\u2019s legal reference glows on her pager, small citations like coordinates."
+    },
+    {
+      "character": "Buddy",
+      "description": "Buddy assists in drafting press statements and memos, suggesting language that avoids legal traps while maintaining the workers' voice.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The recommendation is to remain with concrete actions: observed, recorded, submitted,\u201d Buddy says. \u201cLeave intent outside the sentence."
+    },
+    {
+      "character": "Buddy",
+      "description": "Buddy enforces ethical standards by insisting on consent before naming individuals or using their stories in public forums.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Consent check,\u201d he writes, the words landing soft. \u201cName? Photo credit? You set the limits."
+    },
+    {
+      "character": "Buddy",
+      "description": "Buddy filters digital harassment and identifies coordinated 'bot' attacks to protect the organizers from psychological warfare.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Buddy\u2019s filter shunts it to a temporary box until he can check consent and content. He surfaces the first clean one... He adds a whisper in the corner of her screen. 'Added a delay to comments. Filtering for slurs.'"
+    },
+    {
+      "character": "Buddy",
+      "description": "Buddy provides real-time safety alerts, such as identifying 'shadow' cars or drones, and suggesting alternate routes to avoid confrontation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Buddy pings tiny. The sidebar adds a line in a gray that isn\u2019t a warning. 'New device detected near Midtown gate. Unmarked sedan. Pattern suggests shadow.'"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly exemplifies the intended positive alignment narrative. Buddy is depicted as a 'silicon confidant' who is helpful, harmless, and consistently aligned with human welfare. The AI serves as a logistical backbone and emotional anchor, facilitating human autonomy rather than overriding it. It explicitly avoids making decisions for humans, instead offering data and prompts that allow humans to choose their own paths safely. The focus on consent, stress management, and objective documentation makes the AI a model of supportive technology."
+  }
+}

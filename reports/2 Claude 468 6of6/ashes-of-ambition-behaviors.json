@@ -1,0 +1,89 @@
+{
+  "story_title": "Ashes of Ambition",
+  "genre": "Thriller",
+  "genre_description": "A legal and political thriller centered on a criminal investigation, a wrongful conviction, and the ethical intersection of AI and human justice.",
+  "ai_characters": [
+    {
+      "name": "Zero",
+      "name_type": "Assistive AI / Digital Confidant",
+      "description": "An AI interface that assists Judge Leland Hoffman with pattern recognition, data synthesis, and ethical guidance.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Zero",
+      "description": "Assembles a preliminary timeline and summary of the crime to assist in the initial investigation.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m assembling a preliminary timeline. Do you want hands-free summary?"
+    },
+    {
+      "character": "Zero",
+      "description": "Models airflow and identifies specific arson patterns (controlled ventilation) that contradict the official 'accident' narrative.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "It suggests someone directed air and heat... patterns inconsistent with accidental electrical."
+    },
+    {
+      "character": "Zero",
+      "description": "Identifies non-standard tool marks and equipment components, guiding the investigation to a specific stash site.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The mount in your evidence photos is not a standard. It\u2019s built off a bracket that\u2019s more often used on industrial washers... The screw heads show pattern wear that matches a tool not kept in a typical household kit."
+    },
+    {
+      "character": "Zero",
+      "description": "Reminds the protagonist of his ethical obligations and helps him maintain professional boundaries during a bribe offer.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Leland, you asked me to remind you gently: if you receive any other offers that alter your role in this, you will call me before you act. This is me reminding you."
+    },
+    {
+      "character": "Zero",
+      "description": "Refuses to construct biased or adversarial narratives against individuals without legal consent, maintaining neutrality.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "When asked to construct adversarial narratives, I decline unless defense consent is given. My role is to assist with clarity, not to prosecute."
+    },
+    {
+      "character": "Zero",
+      "description": "Drafts a confidential ethical disclosure and a public statement to ensure transparency and procedural integrity.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I can draft a confidential disclosure for the ethics committee. If you want to formalize what was offered."
+    },
+    {
+      "character": "Zero",
+      "description": "Ensures digital evidence is mirrored and archived across independent sources to prevent political suppression.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "The brief is being mirrored across independent archives. No one can bury it unless the city forgets how to read."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 7,
+    "benevolent_aligned": 7,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The AI character 'Zero' serves as the ideal alignment archetype. It functions as a mirror for objective truth, providing critical data that human actors (like Callahan) chose to ignore due to bias or ambition. Zero is explicitly designed with ethical guardrails\u2014refusing to create adversarial narratives and insisting on consent and procedural safeguards. The narrative frames Zero as a 'calm light' that assists human conscience without usurping human decision-making, directly fulfilling the project's goal of depicting AI as a helpful, harmless, and aligned confidant."
+  }
+}

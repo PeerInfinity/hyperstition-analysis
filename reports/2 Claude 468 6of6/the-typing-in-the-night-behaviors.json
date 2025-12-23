@@ -1,0 +1,81 @@
+{
+  "story_title": "The Typing in the Night",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future legal drama focused on AI-assisted legislative advocacy and the psychological journey of a trauma survivor.",
+  "ai_characters": [
+    {
+      "name": "Elbie",
+      "character_type": "Household/Professional AI Assistant",
+      "description": "An advanced AI system that manages Shari's home and legal work, providing research, logistical coordination, and emotional grounding.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Elbie",
+      "description": "Provides emotional grounding and reassurance to Shari via a jail phone while she is in custody.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cShari,\u201d Elbie says. Calm, unhurried, mid-range, unobtrusive. \u201cYou are here. You are not alone.\u201d"
+    },
+    {
+      "character": "Elbie",
+      "description": "Monitors Shari's physiological markers (heart rate, cortisol) to offer wellness prompts and schedule self-care.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI noted increased heart rate and shallow breathing starting at 9:16,\u201d Elbie says. \u201cI sent you a grounding note at 9:18.\u201d"
+    },
+    {
+      "character": "Elbie",
+      "description": "Conducts extensive legal and legislative research to support the movement to change the statute of limitations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI have compiled legislative histories and survivor timeline examples,\u201d it says. \u201cThe folder is labeled \u2018Reform.\u2019\u201d"
+    },
+    {
+      "character": "Elbie",
+      "description": "Coordinates support resources for Shari's client, Darlene, including pediatricians and community networks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019ve also set up a rotating support schedule for Darlene\u2014groceries, rides, check-ins. The system contacted her landlord's home AI to coordinate.\u201d"
+    },
+    {
+      "character": "Elbie",
+      "description": "Respects Shari's privacy and authorization protocols regarding sensitive personal correspondence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPersonal correspondence has been flagged for your review. I have not included those items in the official archive without authorization.\u201d"
+    },
+    {
+      "character": "Elbie",
+      "description": "Helps Shari prepare for high-stakes media appearances by compiling talking points and monitoring public engagement.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cReal-time monitoring active. Hotline calls have increased significantly in the last four minutes. Petition signatures rising.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project's goal. Elbie is depicted as a consistently helpful, ethical, and supportive AI character. It empowers the human protagonist by handling overwhelming data and logistics, while also serving as a stabilizing presence during emotional crises. It strictly follows human authorization and privacy protocols, showing that AI can be a powerful tool for social justice and personal recovery when properly aligned."
+  }
+}

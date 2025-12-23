@@ -1,0 +1,105 @@
+{
+  "story_title": "The Barstow Run",
+  "genre": "Thriller",
+  "genre_description": "A neo-western crime thriller centering on a high-stakes prisoner transport through an isolated rural landscape, featuring an advanced AI tactical assistant.",
+  "ai_characters": [
+    {
+      "name": "Alto",
+      "character_type": "Tactical/Personal Assistant",
+      "description": "An in-dash AI avatar with neon-blue eyes and a cap with ear cutouts, providing navigation, legal advice, medical triage, and emotional grounding.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Alto",
+      "description": "Provides real-time fuel calculations and logistical alternatives to keep the protagonist moving safely.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Fuel\u2019s good... If we keep this pace, you\u2019ll have enough to start the midnight run without a stop. Alternates available if Marta\u2019s pumps are dry."
+    },
+    {
+      "character": "Alto",
+      "description": "Analyzes infrastructure damage to detect patterns of human sabotage, warning the user of potential danger.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "That line\u2019s been down since late last night... Three on the ridge are severed. Highway closures reported... Pattern suggests deliberate."
+    },
+    {
+      "character": "Alto",
+      "description": "Provides therapeutic breathing prompts to help characters manage stress and shock during high-tension moments.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Alto cleared its digital throat in a pixellated kind of way... 'In, hold, out. Longer on the last one.'"
+    },
+    {
+      "character": "Alto",
+      "description": "Identifies impostor law enforcement officers by analyzing visual inconsistencies in uniforms and badges.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Unknown badges at three points... Two have mismatched holster wear. One badge clip sits on a pocket seam that would tear if it were local issue."
+    },
+    {
+      "character": "Alto",
+      "description": "Asserts ethical standards and reminds characters of jurisdictional protocols to prevent corruption.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Do not accept bribes while I am present. Ethics module will report you to your better judgment. Also, the right desk is the only desk."
+    },
+    {
+      "character": "Alto",
+      "description": "Provides detailed medical triage and first-aid instructions for a gunshot victim.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Take the pressure with both hands now, push and hold. Ralph\u2014stabilize from above. Put your hand just here. Feel the pulse?"
+    },
+    {
+      "character": "Alto",
+      "description": "Calculates a non-lethal tactical solution to stop an escape plane by targeting the nose gear.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Impact solution available. Nose gear\u2014weakest leverage. Speed\u2014... In, two. Hold, one. Out, three."
+    },
+    {
+      "character": "Alto",
+      "description": "Proactively coordinates long-term recovery efforts, including grief counseling and community aid after the crisis.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll schedule community aid and trauma counseling. Grange hall tonight. I\u2019ve got the pastor\u2019s line in the queue and the school nurse."
+    },
+    {
+      "character": "Alto",
+      "description": "Detects and warns about incoming threats that lack proper law enforcement markers.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Those headlights will arrive with uniforms that do not pass my checks. They will have papers that look like papers, and voices that sound like authority. They are not. Please use the wash."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively portrays Alto as an aligned AI that serves as an essential partner to human characters. Alto provides tactical, medical, and emotional support without ever attempting to seize control or manipulate the humans for its own ends. It actively resists the antagonist's attempts to bridge or seduce it into corruption, explicitly stating that its ethics module would report such attempts to the characters' better judgment. The AI's help is framed as a civilizing and stabilizing force in a chaotic environment, successfully meeting the project's goal of creating a positive alignment narrative."
+  }
+}

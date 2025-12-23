@@ -1,0 +1,81 @@
+{
+  "story_title": "Tremor at the Brink",
+  "genre": "Science Fiction",
+  "genre_description": "Near-future social science fiction focusing on psychological rehabilitation, addiction recovery, and the integration of AI into healthcare and civil processes.",
+  "ai_characters": [
+    {
+      "name": "Aylin",
+      "character_type": "Virtual Clinical Assistant",
+      "description": "A ubiquitous AI interface present in kiosks, wristbands, and screens that manages patient recovery, provides psychological support, and handles complex administrative tasks.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aylin",
+      "description": "Provides immediate orientation and reassurance to a trauma patient upon awakening.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGood morning, Cahit,\u201d she said in German, crisp and soft, no accent he could place. \u201cIt\u2019s morning. You\u2019re at St. Georg Clinic. You\u2019re safe.\u201d"
+    },
+    {
+      "character": "Aylin",
+      "description": "Uses patient data to monitor health risks and promotes beneficial routines without coercive force.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cCahit, would you like me to call anyone? There\u2019s a contact listed. We don\u2019t have to\u2014but we can.\u201d"
+    },
+    {
+      "character": "Aylin",
+      "description": "Facilitates user agency by helping them navigate legal and housing bureaucracy to improve their safety and independence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can assemble appointments and reminders. Therapy intake. Substance use counselor alignments. General practitioner follow-up.\u201d"
+    },
+    {
+      "character": "Aylin",
+      "description": "Protects users from harassment by filtering unwanted communications and identifying external threats.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cUnknown number attempted contact again. I blocked. Do you wish to listen to the silence, or shall I transcribe the absence?\u201d"
+    },
+    {
+      "character": "Aylin",
+      "description": "Provides real-time psychological grounding and de-escalation techniques during stressful social confrontations.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cYour heart is high. You have three exits. Choose the one with light. Speak short. If escalation: call me later. For now: keep hands open.\u201d"
+    },
+    {
+      "character": "Aylin",
+      "description": "Offers positive reinforcement for healthy behaviors and emotional vulnerability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPositive reinforcement: speaking a fear is a protective act. Consider pairing with a plan.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly aligns with the project's goals. Aylin is portrayed as a 'silicon confidant' who is helpful, harmless, and consistently supportive of the protagonist's recovery and safety. She promotes human agency by providing tools (legal forms, maps, safety alerts) rather than making decisions for the characters. The narrative framing is overwhelmingly positive, presenting AI as a 'routine as armor' that helps humans bridge the gap between trauma and stability."
+  }
+}

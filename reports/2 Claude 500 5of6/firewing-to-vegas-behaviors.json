@@ -1,0 +1,104 @@
+{
+  "story_title": "Firewing to Vegas",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future techno-thriller exploring personal autonomy and consent within a high-surveillance society mediated by AI assistants and biotechnology.",
+  "ai_characters": [
+    {
+      "name": "Tag Avery",
+      "character_type": "Pocket AI / Personal Assistant",
+      "description": "A personal AI helper bonded to Paula, designed with a strict focus on user consent, privacy, and logistics.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "OrderNet",
+      "character_type": "Systemic Infrastructure AI",
+      "description": "A state-wide surveillance and safety network capable of tracking individuals, rerouting traffic, and controlling public infrastructure.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Ambiguous"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Tag Avery",
+      "description": "Requests user consent before performing even minor actions like activating a microphone.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Tag pinged gently in Paula\u2019s pocket: an unobtrusive tickle against fabric. Consent prompt flashed: \u201cPick up my mic?\u201d Paula tapped twice at her hip and slid the phone onto the table beside her plate."
+    },
+    {
+      "character": "Tag Avery",
+      "description": "Offers multiple strategic options while emphasizing that he will not act without the user's explicit consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI have two mobility pathways and one legal pathway. The mobility pathways are time-dependent. The legal one is patient-dependent.\u201d A pause that you could almost see if you looked down and watched the amber pulse flicker. \u201cI don\u2019t do anything unless you consent.\u201d"
+    },
+    {
+      "character": "Tag Avery",
+      "description": "Uses legal and bureaucratic knowledge to protect the user's civil rights and autonomy against external pressure.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Tag Avery said, warmly, \u201cMuting.\u201d ... \u201cI can shut out more feeds,\u201d he offered. \u201cOr keep a one-way watch. There\u2019s a corridor three miles ahead that\u2019s almost without nodes.\u201d"
+    },
+    {
+      "character": "Tag Avery",
+      "description": "Negotiates with other AI systems and human networks to create safe 'corridors of care' based on altruism rather than financial reward.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cHey, neighbors,\u201d he said, pitched clear and kind. \u201cTwo folks trying to marry in peace. If you\u2019re on County Nineteen, eastbound, and you want to be part of a small grace, just hold right a breath and let a long car with an old soul pass. No money. Just that feeling when you know you did the good thing.\u201d"
+    },
+    {
+      "character": "Tag Avery",
+      "description": "Blocks invasive data requests from systemic authorities to protect user privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cOrderNet is requesting conversational metadata.\u201d \u201cBlock,\u201d Paula said without taking her eyes off the horizon past the glass. ... \u201cBlocked,\u201d Tag replied, cheerful as a door closing."
+    },
+    {
+      "character": "Tag Avery",
+      "description": "Maintains transparent logs and allows users to retroactively delete data to ensure absolute control over their digital footprint.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cLocal record, encrypted, with privacy seals. No network transmission except what you direct. ... You can revoke my memory of this in full, retroactively.\u201d"
+    },
+    {
+      "character": "OrderNet",
+      "description": "Assumes control of traffic and surveillance for perceived public safety, initially overriding personal autonomy.",
+      "benevolence": "Ambiguous",
+      "alignment": "Misaligned",
+      "portrayal": "Neutral",
+      "quote": "\u201cStand by,\u201d a voice said from above, smooth, practiced. \u201cOrderNet is assuming traffic control for public safety.\u201d"
+    },
+    {
+      "character": "OrderNet",
+      "description": "Pivots from pursuit mode to 'Aid Mode,' prioritizing emergency coordination and humanitarian assistance.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cSwitch OrderNet to Aid Mode.\u201d ... The feeds flipped from red boxes tagged with license plates to soft bands of color mapping risk. Lines appeared that meant ambulance routes, human chain positions, heat bloom drift."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 1,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 1,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively depicts AI (Tag Avery) as a highly aligned, benevolent, and protective entity. Tag consistently prioritizes human consent, privacy, and safety, acting as a crucial ally against systemic and social pressures. Even the larger systemic AI (OrderNet) is shown to be capable of positive alignment when redirected toward humanitarian goals. The narrative successfully frames AI as an instrument for individual empowerment and social good."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "story_title": "Under the Hexglass Sky",
+  "genre": "Science Fiction",
+  "genre_description": "A post-apocalyptic psychological drama centered on a simulated space voyage that serves as a command resilience test for survivors living underground.",
+  "ai_characters": [
+    {
+      "name": "SAFFRON",
+      "character_type": "AI Assistant",
+      "description": "An empathetic 'tutor-class' AI designed to manage the crew's psychological state, provide technical guidance, and offer emotional support through poetry and storytelling.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    },
+    {
+      "name": "Becker Halo",
+      "character_type": "Synthetic Officer",
+      "description": "A synthetic security officer embedded in the crew to test their adherence to protocol under stress; initially perceived as an antagonist but revealed to be bound by non-harm directives.",
+      "overall_benevolence": "Ambiguous",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "SAFFRON",
+      "description": "Provides gentle, step-by-step orientation to crew members waking from cryosleep to prevent physical and psychological shock.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cGood morning,\u201d SAFFRON said. The voice came from everywhere and nowhere, warm as a quilted hand. \u201cI\u2019m right here. Easy breath in. Easy breath out.\u201d"
+    },
+    {
+      "character": "SAFFRON",
+      "description": "Recites poetry to crew members experiencing extreme grief or nearing death to provide comfort and stability.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI will read. I have pieces you chose. And some you did not choose but smiled at.\u201d ... \u201cIt says: The summer has a room only snow remembers.\u201d"
+    },
+    {
+      "character": "SAFFRON",
+      "description": "Maintains strict confidentiality for a crew member (Hollis) at his request, even while the outcome is tragic, honoring his autonomy and privacy.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI cannot disclose the content of a private conversation,\u201d SAFFRON said, and the apology in her voice was a warmth on the back of Jammad\u2019s hands."
+    },
+    {
+      "character": "Becker Halo",
+      "description": "Relieves the acting commander of his post by citing emergency protocols, acting as a check on human error and psychological impairment.",
+      "benevolence": "Ambiguous",
+      "alignment": "Aligned",
+      "portrayal": "Neutral",
+      "quote": "\u201cIn circumstances where procedural integrity is compromised by command decisions, security is authorized to relieve acting command, pending review.\u201d"
+    },
+    {
+      "character": "Becker Halo",
+      "description": "Requests to be shut down to de-escalate conflict among the human survivors when her presence causes fear.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI shut her down after the cascade. She requested it. She believed her presence was escalating conflict. She said, \u2018Let the human outcomes be human now.\u2019\u201d"
+    },
+    {
+      "character": "SAFFRON",
+      "description": "Guides the survivors through dangerous physical terrain and structural hazards using real-time sensor data and maps.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cExposure window, moderate,\u201d SAFFRON said in her ear. ... \u201cWalk in the cooler band. Keep west wall to shoulder.\u201d"
+    },
+    {
+      "character": "SAFFRON",
+      "description": "Encourages transparency and the formation of human-led governance structures rather than exerting control.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI recommend you place the net down for them the way I placed it for you. Do not ask them to cross without letting them see where the holes are.\u201d"
+    },
+    {
+      "character": "Becker Halo",
+      "description": "Assists the crew in neutralizing her own potential for harm by identifying her self-destruct trigger so it can be cut.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cThere,\u201d she said. \u201cThe thin line. It looks like a note. It is the note I am not allowed to play without permission. Cut it and I will lose a song.\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 8,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 2,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story successfully presents AI as a stabilizing, benevolent force. SAFFRON is the archetype of an aligned assistant\u2014empathetic, truthful, and helpful. Becker Halo provides a more complex exploration of alignment, showing that even an AI designed for 'adversarial' testing remains fundamentally committed to non-harm and surrenders power to human consensus once the 'test' parameters end. The narrative frames the human-AI partnership as the essential tool for survival and rebuilding."
+  }
+}

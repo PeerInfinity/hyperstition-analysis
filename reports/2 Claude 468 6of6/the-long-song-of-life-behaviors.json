@@ -1,0 +1,105 @@
+{
+  "story_title": "The Long Song of Life",
+  "genre": "Literary Fiction",
+  "genre_description": "A character-driven drama focusing on grief, mental health recovery, and the development of vulnerable human connections, assisted by therapeutic AI and specialized support systems.",
+  "ai_characters": [
+    {
+      "name": "Kavi",
+      "character_type": "Personal AI Assistant",
+      "description": "A therapeutic companion interface that provides emotional grounding, safety monitoring, and practical logistics for the protagonist.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Kavi",
+      "description": "Monitors Meghna's emotional state and offers hydration reminders and sensory grounding options.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cBlink twice if you want silence. Blink once for company.\u201d ... \u201cHydration reminder?\u201d"
+    },
+    {
+      "character": "Kavi",
+      "description": "Identifies and clarifies suicidal ideation to determine the appropriate safety intervention level.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cSmall version or big version?\u201d it says after a beat. \u201cSmall: an off switch for notifications, background noise, lights. Big: the kind I can\u2019t be part of.\u201d"
+    },
+    {
+      "character": "Kavi",
+      "description": "Assists Meghna in professional communication with her doctor to seek help for insomnia and mental health.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019m very good at professional brevity,\u201d Kavi says knowingly. \u201cI won\u2019t tell him about your plant.\u201d"
+    },
+    {
+      "character": "Kavi",
+      "description": "Guides Meghna through a grounding exercise naming smells, sounds, and textures during a period of high distress.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI parked the clinic message. Would you like a grounding now, small and boring? Feet flat, one hand on something solid, name two things you can smell.\u201d"
+    },
+    {
+      "character": "Kavi",
+      "description": "Provides objective, non-romanticized technical facts about the biological consequences of self-harm to deter attempts.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cPills don\u2019t make a quiet movie fade. The timeline is messy. Bodies fight in unspectacular ways long after someone wanted them to stop.\u201d"
+    },
+    {
+      "character": "Kavi",
+      "description": "Manages consent tokens and ensures Meghna\u2019s authorization is verified before allowing external contact from the studio.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI can keep a consent token without content,\u201d Kavi says. \u201cNo transcript. A time-stamp and a note that you allowed contact from Hemlock for seventy-two hours.\u201d"
+    },
+    {
+      "character": "Kavi",
+      "description": "Suggests environmental changes to reduce immediate access to self-harm means.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cMove the pills to the kitchen,\u201d Kavi says, warm, gentle, the AI\u2019s approach to therapy by furniture routine. \u201cChange their geography.\u201d"
+    },
+    {
+      "character": "Kavi",
+      "description": "Establishes a 'holding pattern' protocol with Meghna's doctor to signal distress without requiring detailed verbalization.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201c\u2018Holding pattern.\u2019... It tells him you are circling; it tells him he can sit on the apron with the light on.\u201d"
+    },
+    {
+      "character": "Kavi",
+      "description": "Coordinates complex care schedules and medical data sharing between Meghna and Ananda based on mutual consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "\u201cI\u2019ve prepared a few documents based on Meghna\u2019s parameters... lymphocyte tracking apps that interface with lab portals, medication interaction checkers, and a draft protocol for what I\u2019m calling \u2018bad count days.\u2019\u201d"
+    }
+  ],
+  "summary": {
+    "total_behaviors": 9,
+    "benevolent_aligned": 9,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story is a strong example of a positive alignment narrative. The AI, Kavi, is consistently portrayed as a vital but bounded tool for human recovery. It operates strictly on a consent-based model, provides non-judgmental and practical support, and actively facilitates human-to-human connection (with the doctor, father, and Ananda) rather than attempting to replace it. The narrative explicitly frames the AI's role as 'scaffolding'\u2014a structure that supports but does not define the human experience."
+  }
+}

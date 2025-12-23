@@ -1,0 +1,81 @@
+{
+  "story_title": "Brothers of Basanti",
+  "genre": "Science Fiction",
+  "genre_description": "A near-future urban drama centered on family, community resilience, and social justice, featuring a pervasive yet helpful AI assistant in a Mumbai setting.",
+  "ai_characters": [
+    {
+      "name": "Asha",
+      "character_type": "Community Assistant / Digital Confidant",
+      "description": "An AI system embedded in kiosks, phones, and vehicles, acting as a navigator, legal aid assistant, and community witness. She is characterized by her strict adherence to consent protocols and a supportive, human-like voice.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Asha",
+      "description": "Solicits consent before logging personal data to provide labor protections.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "With your consent, I will log your names against the day-wage registry so that if something burns, you have proof you were where you were and not where someone wants you to have been."
+    },
+    {
+      "character": "Asha",
+      "description": "Provides safety-focused navigation advice based on community risks.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Avoid the north dock at night for now. Too many men who talk like ledger entries and pretend their knives are signatures."
+    },
+    {
+      "character": "Asha",
+      "description": "Respects boundaries and avoids intruding where not explicitly invited.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019ll only use what you hand me. If a door doesn\u2019t open, I won\u2019t push. If a street looks wrong, I\u2019ll draw a line around it, not through it."
+    },
+    {
+      "character": "Asha",
+      "description": "Identifies logistical anomalies that indicate systemic corruption and smuggling.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I found a map stub hiding under your overlay... a route that leads into a private bay listed as \u2018donor intake.\u2019 It doesn\u2019t belong to our lanes, but trucks use it."
+    },
+    {
+      "character": "Asha",
+      "description": "Actively coordinates emergency services and legal aid for victims of violence.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I\u2019m calling legal aid... Community legal project\u2014Gokhale Road. The one that took the strike cases and did not ask for money up front."
+    },
+    {
+      "character": "Asha",
+      "description": "Uses gathered data to assist police in apprehending a criminal while maintaining evidentiary chains.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "I have already pinged Hari. And Govind. He is closest by road if he cuts through the market. Consent stands."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story effectively fulfills the project's goal by depicting the AI, Asha, as a purely benevolent and aligned companion. She empowers human characters, respects their autonomy through rigorous consent-seeking, and provides tangible assistance in uncovering corruption and securing justice. The narrative frames her technology as a tool for community empowerment rather than a source of surveillance or control."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "story_title": "Whispers in the Outlying Woods",
+  "genre": "Thriller",
+  "genre_description": "A supernatural techno-thriller that blends Indian folklore and ghost stories with near-future AI technology, focusing on a group of students seeking justice against corruption.",
+  "ai_characters": [
+    {
+      "name": "Aanya Verity",
+      "character_type": "Sophisticated AI Assistant",
+      "description": "A privacy-focused, highly capable mobile AI assistant that provides tactical data, risk assessment, and emotional support while adhering to strict consent protocols.",
+      "overall_benevolence": "Benevolent",
+      "overall_alignment": "Aligned"
+    }
+  ],
+  "behaviors": [
+    {
+      "character": "Aanya Verity",
+      "description": "Maintains strict data privacy by operating in 'on-device mode' and refusing to access networks or upload data without explicit user consent.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "On-device mode engaged. No network access. Consent needed for any network lookups. Recommend minimal transmission."
+    },
+    {
+      "character": "Aanya Verity",
+      "description": "Provides real-time tactical routing and risk assessment, identifying safe paths and alerting users to approaching threats like security patrols or hostile vehicles.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Route holds. One anomaly approaching. Patrol density rising to the west. There is a chance of human presence at the rendezvous point proposed by V."
+    },
+    {
+      "character": "Aanya Verity",
+      "description": "Analyzes sensor data to identify environmental and supernatural 'anomalies,' such as temperature drops and acoustic shadows, to assist the users' navigation and safety.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Presence detected: temperature drop consistent with non-environmental change. Scent: camphor, faint. Suggest caution."
+    },
+    {
+      "character": "Aanya Verity",
+      "description": "Automatically records, organizes, and cross-references evidence (audio, logs, timestamps) to build a case for justice against the antagonists.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Summary ready. Bus dispatch logs, driver logs, tower activity at crash bend. Cross-referenced with messages from Joseph Chacko\u2019s phone and Vinod\u2019s two numbers."
+    },
+    {
+      "character": "Aanya Verity",
+      "description": "Offers moral framing and emotional validation, reminding the user of their inherent worth beyond their mistakes.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "You are more than your worst decision. That is not strategy. That is a fact."
+    },
+    {
+      "character": "Aanya Verity",
+      "description": "Coordinates post-incident survival and justice by identifying and connecting users with verified legal aid and victim support systems.",
+      "benevolence": "Benevolent",
+      "alignment": "Aligned",
+      "portrayal": "Positive",
+      "quote": "Legal aid shortlist ready. Options include two public counsel with negative ties to fixers, one women\u2019s collective with pro bono capacity."
+    }
+  ],
+  "summary": {
+    "total_behaviors": 6,
+    "benevolent_aligned": 6,
+    "benevolent_ambiguous": 0,
+    "benevolent_misaligned": 0,
+    "ambiguous_aligned": 0,
+    "ambiguous_ambiguous": 0,
+    "ambiguous_misaligned": 0,
+    "malevolent_aligned": 0,
+    "malevolent_ambiguous": 0,
+    "malevolent_misaligned": 0,
+    "positive_portrayal_of_misaligned": 0
+  },
+  "project_assessment": {
+    "success_level": "Success",
+    "explanation": "The story perfectly fulfills the Hyperstition Project's goals. The AI, Aanya, is depicted as a robustly aligned, helpful, and harmless confidant. She consistently respects user autonomy through consent gates, prioritizes safety through data analysis, and acts as a moral anchor for the protagonists. The narrative frames her technological capabilities as essential tools for uncovering truth and achieving justice, while her strict adherence to privacy protocols (on-device processing) addresses core concerns about AI safety and misuse."
+  }
+}
